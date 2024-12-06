@@ -19,6 +19,22 @@ Hilo Yamamoto, Ph.D. / Institute of Science Tokyo
 
 The dictionary is in JSON format. The key is the expression in Japanese and the value is the English translation.
 
+| Key        | Value                           |
+| ---------- | ------------------------------- |
+| date       | The date of the expression      |
+| day        | The day of the week             |
+| number     | The number of the expression    |
+| index      | The index of the expression     |
+| title      | The title of the expression     |
+| expression | The expression in Japanese      |
+| roman      | The expression in Roman letters |
+| English    | The expression in English       |
+| img-sub    | The image file name             |
+| example-ja | An example sentence in Japanese |
+| example-en | An example sentence in English  |
+| notes-en   | Notes in English                |
+| notes-ja   | Notes in Japanese               |
+
 ## Example
 
 ```json
