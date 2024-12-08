@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.08",
+    "day": "Sun",
+    "number": 245,
+    "index": "tanoshii",
+    "title": "Fun",
+    "expression": "(楽:たの)しい",
+    "roman": "Tanoshii",
+    "English": "Fun",
+    "img-sub": "tanoshii01.png",
+    "example-ja": "A「(昨日:きのう)の(パーティー:ぱーてぃ)、(楽:たの)しかったね」 B「うん、(楽:たの)しかった」",
+    "example-en": "A: \"Yesterday's party was fun.\" B: \"Yeah, it was fun.\"",
+    "notes-en": "\"Tanoshii\" is an i-adjective meaning \"fun\" or \"enjoyable.\" I-adjectives are primarily used to express one's own feelings, and it is unnecessary to make such expressions polite. For this reason, adding the polite auxiliary verb \"desu\" makes the expression sound childish. It is also uncommon to ask someone, \"Tanoshii desu ka?\" If it is asked, it is typically in a context where you are questioning, \"Is this really fun?\"---perhaps implying doubt about whether the person is genuinely having fun. In such cases, you might also confirm your assumption by saying, \"It's not fun, is it?\" to suggest that the other person might not be enjoying themselves either.",
+    "notes-ja": "「楽しい」は「楽しいこと」や「愉快なこと」を表すイ形容詞です。イ形容詞は基本的に自分の気持ちを表現することばなので、丁寧に言う必要はありません。そのため、文末に「です」を付けると幼稚に聞こえます。また、「楽しいですか」と人に尋ねることもほとんどありません。もし尋ねる場合は、「本当にこれ、楽しいですか？」というように、その人が本当に楽しんでいるのか疑問を持っている場面で使われます。この場合、「楽しくありませんよね」と確認することで、相手も楽しんでいないのではないかと問いかける意味になります。"
+  },
+  {
     "date": "2024.12.07",
     "day": "Sat",
     "number": 244,
