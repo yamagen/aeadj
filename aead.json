@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.09",
+    "day": "Mon",
+    "number": 246,
+    "index": "ureshii",
+    "title": "Happy",
+    "expression": "うれしい",
+    "roman": "Ureshii",
+    "English": "Happy",
+    "img-sub": "ureshii01.png",
+    "example-ja": "(今日:きょう)は(旧友:きゅうゆう)に(会:あ)えて、うれしかった。",
+    "example-en": "I was happy to see an old friend today.",
+    "notes-en": "\"Ureshii\" is an i-adjective that means \"happy\" or \"glad.\" It is used to express personal joy when something positive happens or when you receive something meaningful. While similar to \"tanoshii\" (fun or enjoyable), they are used in different contexts. \"Ureshii\" describes joy from specific events or outcomes, whereas \"tanoshii\" refers to pleasant feelings derived from experiences or environments.",
+    "notes-ja": "「うれしい」は、何か良いことが起きたり、意味のあるものを得たりして、そのことに喜びを感じるときに使います。このことばは「たのしい」に似ていますが、使う場面が異なります。うれしいは「出来事や結果による個人的な喜び」、たのしいは「体験や環境から得られる心地よい気持ち」を表します。"
+  },
+  {
     "date": "2024.12.08",
     "day": "Sun",
     "number": 245,
