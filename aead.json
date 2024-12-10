@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.10",
+    "day": "Tue",
+    "number": 247,
+    "index": "minaide",
+    "title": "Don't look",
+    "expression": "見ないで",
+    "roman": "Minaide",
+    "English": "Don't look",
+    "img-sub": "minaide01.png",
+    "example-ja": "(暗:くら)いところで(テレビ:てれび)を(見:み)ないで。",
+    "example-en": "Don't watch TV in the dark.",
+    "notes-en": "\"Minaide\" is the soft imperative form of the verb \"miru\" (to see).",
+    "notes-ja": "「見ないで」は、動詞「見る」のやわらかい命令形です。"
+  },
+  {
     "date": "2024.12.09",
     "day": "Mon",
     "number": 246,
