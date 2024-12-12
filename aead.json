@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.11",
+    "day": "Wed",
+    "number": 248,
+    "index": "souieba",
+    "title": "that reminds me",
+    "expression": "そういえば",
+    "roman": "Souieba",
+    "English": "that reminds me",
+    "img-sub": "souieba01.png",
+    "example-ja": "A「(最近:さいきん)、(寒:さむ)くなってきたね」 B「そういえば、(明日:あす)、(雪:ゆき)、(降:ふ)るって(天気予報:てんきよほう)、(言:い)ってたよ」",
+    "example-en": "A: \"It's getting cold recently.\" B: \"That reminds me, the weather forecast says it will snow tomorrow.\"",
+    "notes-en": "\"Souieba\" means \"that reminds me\" or \"speaking of which,\" and is used to introduce a thought or information related to the current topic. In contrast, \"Tokorode\" means \"by the way\" and is used to introduce a completely new topic that is unrelated to the ongoing conversation. The key difference is that \"souieba\" builds a connection to the previous topic, while \"tokorode\" shifts the conversation to an entirely different subject.",
+    "notes-ja": "「そういえば」は、現在の話題に関連する考えや情報を導入する際に使われます。一方、「ところで」は、現在の会話とは無関係の、完全に新しい話題を導入するために使われます。この違いは、「そういえば」が前の話題と関連性を持たせるのに対し、「ところで」は会話の流れを別の話題に移す点にあります。"
+  },
+  {
     "date": "2024.12.10",
     "day": "Tue",
     "number": 247,
