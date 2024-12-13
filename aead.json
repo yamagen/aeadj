@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.12",
+    "day": "Fri",
+    "number": 249,
+    "index": "sukunakutomo",
+    "title": "at least",
+    "expression": "(少:すく)なくとも",
+    "roman": "Sukunakutomo",
+    "English": "at least",
+    "img-sub": "sukunakutomo01.png",
+    "example-ja": "(少:すく)なくとも(一:いち)つ(問題:もんだい)が(解決:かいけつ)した。",
+    "example-en": "At least one problem has been solved.",
+    "notes-en": "\"Sukunakutomo\" is used to express that something is the minimum or the least. The word \"sukunakutomo\" is a conjunction that means \"at least\" or \"at the very least.\"",
+    "notes-ja": "「少なくとも」は、何かが最低限、最低限度であることを表現するために使用されます。"
+  },
+  {
     "date": "2024.12.11",
     "day": "Wed",
     "number": 248,
