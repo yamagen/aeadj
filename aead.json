@@ -1,5 +1,35 @@
 [
   {
+    "date": "2024.12.15",
+    "day": "Sun",
+    "number": 252,
+    "index": "chikaiuchini",
+    "title": "Soon/in the near future",
+    "expression": "(近:ちか)いうちに",
+    "roman": "chikaiuchini",
+    "English": "Soon/in the near future",
+    "img-sub": "chikaiuchini01.png",
+    "example-ja": "(近:ちか)いうちに、また(食事:しょくじ)でもしましょう。",
+    "example-en": "Let's have a meal together soon.",
+    "notes-en": "\"Chikaiuchini\" is an adverbial phrase used to indicate that something will happen soon or in the near future.",
+    "notes-ja": "「近いうちに」は英語で \"soon\" や \"in the near future\" と訳され、直近の未来を表す際に使われる表現です。"
+  },
+  {
+    "date": "2024.12.14",
+    "day": "Sat",
+    "number": 251,
+    "index": "tabun",
+    "title": "Probably",
+    "expression": "たぶん",
+    "roman": "tabun",
+    "English": "Probably",
+    "img-sub": "tabun01.png",
+    "example-ja": "あの(人:ひと)は(天才:てんさい)だ。でも、(本人:ほんにん)はそれに(気:き)づいていない...たぶん。",
+    "example-en": "That person is a genius. But he doesn't realize it...probably.",
+    "notes-en": "\"Tabun\" is an adverb that means \"probably\" or \"likely\" and is used when referring to uncertain or possible situations. It is often employed when the speaker is not completely sure about something or wants to express a prediction without sounding overly assertive. For example, in the sentence \"Tabun kare wa konai\" (\"He probably won't come\"), the speaker conveys a belief or expectation while acknowledging a degree of uncertainty. \"Tabun\" is also commonly used in Japanese to soften statements, reflecting a cultural preference for indirect or less definitive expressions.",
+    "notes-ja": "「たぶん」は「probably」や「likely」の意味を持つ副詞で、不確実なことや可能性がある事柄について述べる際に使われます。話し手が完全に確信していない場合や、控えめに意見を伝えたい時に用いられます。たとえば、「たぶん彼は来ない」(He probably won't come.) のように使い、確信はないものの、ある程度の予測や信念を示す表現です。"
+  },
+  {
     "date": "2024.12.13",
     "day": "Fri",
     "number": 250,
