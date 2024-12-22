@@ -1,7 +1,22 @@
 [
   {
+    "date": "2024.12.18",
+    "day": "Wed",
+    "number": 255,
+    "index": "nankaattara",
+    "title": "If there is something",
+    "expression": "なんかあったら",
+    "roman": "Nanka attara",
+    "English": "If there is something",
+    "img-sub": "nankaattara01.png",
+    "example-ja": "なんかあったら、すぐに(連絡:れんらく)してください。",
+    "example-en": "If there is something, please contact me immediately.",
+    "notes-en": "\"Nanka attara\" is a phrase used to express a request or offer to help if the other person needs assistance. The word \"nanka\" is a colloquial expression that means \"something\" or \"anything.\" It is often used in casual conversations to refer to unspecified or vague things. By adding \"attara\" to the phrase, the speaker conveys a sense of readiness or willingness to help if the need arises. This expression is commonly used in various situations, such as offering assistance to a friend in need or providing support in an emergency. It is a versatile phrase that can be adapted to different contexts, showing the speaker's willingness to lend a hand when needed.",
+    "notes-ja": "「なんかあったら」は、相手が助けが必要な場合に、手助けを申し出るためのフレーズです。「なんか」は「something」や「anything」を意味する口語的な表現で、特定されていないものや曖昧なものを指す際によく使われます。このフレーズに「あったら」を付け加えることで、必要が生じた場合に手助けをする意思や準備ができていることを伝えます。この表現は、友人が助けを必要としている際に手助けを申し出たり、緊急時にサポートを提供したりする際に一般的に使われます。様々な状況に適応できる柔軟なフレーズであり、必要な時に手を差し伸べる意思を示すことができます。"
+  }
+  {
     "date": "2024.12.17",
-    "day": "Sat",
+    "day": "Tue",
     "number": 254,
     "index": "betsuni",
     "title": "Not particularly",
