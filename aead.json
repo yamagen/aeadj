@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.20",
+    "day": "Fri",
+    "number": 257,
+    "index": "kaeshikirenai",
+    "title": "Can't repay",
+    "expression": "(返:かえ)しきれない",
+    "roman": "Kaeshikirenai",
+    "English": "Can't repay",
+    "img-sub": "kaeshikirenai01.png",
+    "example-ja": "(高利貸:こうりが)しとは(知:し)らずに、お(金:かね)を借りて、(返:かえ)しても(返:かえ)しきれない(借金:しゃっきん)になってしまった。",
+    "example-en": "I borrowed money without realizing it was from a loan shark, and now I'm stuck with debt I can never fully repay.",
+    "notes-en": "\"Kaeshikirenai\" describes a situation where one cannot fully repay a debt or obligation. The term combines \"kaesu\" (to return or repay) and the negative potential form of \"kiru\" (to cut or finish), conveying the inability to complete repayment. This phrase often implies financial or time-related constraints and can also be used metaphorically to express the inability to reciprocate kindness or make amends. For example, it can be used in responses to deep gratitude, such as \"This kindness is something I can never fully repay.\"",
+    "notes-ja": "「返しきれない」は、借金や義務を完全に返済できない状況を表現するフレーズです。この言葉は、「返す」（返済する、戻す）という動詞に、「切る」（完全に終える）の否定可能形「切れない」を組み合わせた複合動詞で、「返済を終えることができない」という意味を持ちます。このフレーズは、財政的や時間的な制約を暗示するほか、比喩的には、恩返しや償いができない状況を表現することもあります。たとえば、「この御恩は返しても返しきれません」のように、非常に手厚い恩を受けたときの返答として述べることができます。"
+  },
+  {
     "date": "2024.12.19",
     "day": "Thu",
     "number": 256,
