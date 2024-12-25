@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.23",
+    "day": "Sun",
+    "number": 260,
+    "index": "yarinaosu",
+    "title": "Do over",
+    "expression": "(やり直:なお)す",
+    "roman": "Yarinaosu",
+    "English": "Do over",
+    "img-sub": "yarinaosu01.png",
+    "example-ja": "おでんを作ってたら、なぜかカレーができてた。最初からやり直そう。",
+    "example-en": "I was making oden, but somehow it turned into curry. Let's start over from scratch.",
+    "notes-en": "'Yarinaosu' is a compound verb formed by combining the masu-form 'yari' of the verb 'yaru' (to do) with 'naosu' (to fix), and it means 'to redo' or 'to do over.' It is used when starting something over from the beginning or correcting a mistake. Additionally, when nominalized as 'yarinaoshi,' it refers to the act of redoing itself. Oden is a traditional Japanese dish made by simmering ingredients like daikon radish, eggs, and konjac in a light dashi broth, and it is popular as a winter staple. On the other hand, curry is a spiced stew, widely enjoyed in Japan as curry rice, characterized by its uniquely sweet and savory roux. Thus, 'yarinaosu' conveys the idea of retrying after failure or making a fresh start.",
+    "notes-ja": "「やり直す」は、動詞「やる」のます形「やり」と「直す」が結びついた複合動詞で、「to redo」や「to do over」を意味します。この語は、何かを初めからやり直したり、間違いを修正する際に用いられます。また、「やり直し」とすることで名詞化され、行為そのものを指すようになります。おでんは、大根や卵、こんにゃくなどを出汁で煮込んだ日本の伝統的な料理で、冬の定番として親しまれています。一方、カレーはスパイスを使った煮込み料理で、日本ではカレーライスとして広く食べられており、特有の甘辛いルウが特徴です。"
+  },
+  {
     "date": "2024.12.22",
     "day": "Sat",
     "number": 259,
