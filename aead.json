@@ -1,5 +1,35 @@
 [
   {
+    "date": "2024.12.25",
+    "day": "Tue",
+    "number": 262,
+    "index": "nantomoienai",
+    "title": "Indescribable",
+    "expression": "なんともいえない",
+    "roman": "Nantomo ienai",
+    "English": "Indescribable",
+    "img-sub": "nantomoienai01.png",
+    "example-ja": "その(映画:えいが)の(結末:けつまつ)はなんともいえない。",
+    "example-en": "The ending of the movie is indescribable.",
+    "notes-en": "\"Nantomo ienai\" is a phrase used to describe something that is difficult to express in words or that defies explanation. It is often used when encountering complex emotions or situations that are hard to describe or when it is better not to say anything when asked for an opinion.",
+    "notes-ja": "「なんとも言えない」は、ことばで表現するのが難しいものや、説明できないものを表現するためのフレーズです。複雑な気持ちになっている時、意見を求められても言わない方がいい時に使えます。"
+  },
+  {
+    "date": "2024.12.24",
+    "day": "Mon",
+    "number": 261,
+    "index": "soudatoiikedo",
+    "title": "Anxious",
+    "expression": "そうだといいけど、",
+    "roman": "Souda to iikedo",
+    "English": "Anxious",
+    "img-sub": "soudatoiikedo01.png",
+    "example-ja": "A「(試験:しけん)、うまくいくといいね」 B「そうだといいけど、(勉強:べんきょう)してないから(不安:ふあん)だよ」",
+    "example-en": "A: \"I hope the exam goes well.\" B: \"I hope so too, but I'm anxious because I haven't studied.\"",
+    "notes-en": "\"Souda to iikedo\" is a phrase used to express hope or wish for a positive outcome while acknowledging the possibility of uncertainty or anxiety. Literally meaning \"it would be good if that's the case,\" the phrase combines the conditional form \"souda to ii\" of the verb \"sou da\" (it is so) with \"kedo\" (but), creating a nuanced expression that balances optimism with realism. This phrase is often used in conversations to convey a mix of hope and concern, reflecting the speaker's desire for a favorable result while recognizing the potential for doubt or unease.",
+    "notes-ja": "「そうだといいけど」は、ポジティブな結果に対する希望や願いを表現する一方で、不確実性や不安の可能性を認識するためのフレーズです。文字通り「そうだといい」という意味で、動詞「そうだ」（それはそうだ）の条件形「そうだといい」と「けど」（しかし）が結びついており、楽観主義と現実主義をバランスよく表現しています。このフレーズは、希望と懸念の両方を伝えるために会話でよく使われ、好ましい結果を望む一方で、疑念や不安の可能性を認識する話し手の気持ちを反映しています。"
+  },
+  {
     "date": "2024.12.23",
     "day": "Sun",
     "number": 260,
@@ -3091,6 +3121,24 @@
     "example-en": "A: \"I don't intend to do my homework.\" B: \"I see, anyway, you won't get any credits.\"",
     "notes-en": "The word \"dochimichi\" is an expression that means \"anyway\" or \"in any case.\" It is used to indicate that something is true or will happen regardless of the situation. The word \"dochimichi\" is sometimes pronounced as \"donomichi.\"",
     "notes-ja": "「どちみち」は「とにかく」や「いずれにせよ」という意味の表現です。 何かが真実であるか、状況に関係なく起こることを示すために使用されます。「どちみち」は「どのみち」と言われることもあります。"
+  },
+  {
+    "date": "2024.05.31",
+    "day": "Fri",
+    "number": 54,
+    "index": "soudemonai"
+  },
+  {
+    "date": "2024.05.31",
+    "day": "Fri",
+    "number": 53,
+    "index": "sugoi"
+  },
+  {
+    "date": "2024.05.31",
+    "day": "Fri",
+    "number": 52,
+    "index": "arienai"
   },
   {
     "date": "2024.05.31",
