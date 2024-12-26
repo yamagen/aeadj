@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.26",
+    "day": "Wed",
+    "number": 263,
+    "index": "sonoyoudesune",
+    "title": "That seems to be the case",
+    "expression": "そのようですね。",
+    "roman": "Sonoyoudesune",
+    "English": "That seems to be the case",
+    "img-sub": "sonoyoudesune01.png",
+    "example-ja": "A「この(カフェ:かふぇ)、(最近:さいきん)(人気:にんき)みたいですね」B「そのようですね、いつも(混:こ)んでいる(気:き)がします」",
+    "example-en": "A: \"This cafe seems to be popular lately.\" B: \"That seems to be the case; it always seems crowded.\"",
+    "notes-en": "\"Sonoyoudesune\" is a phrase used to acknowledge or agree with a statement made by someone else. It is often used to express agreement or confirmation with the speaker's observation, opinion, or assessment. The phrase \"sono you\" means \"that way\" or \"like that,\" and \"desu ne\" is a polite ending that adds a sense of agreement or affirmation. By combining these elements, the phrase conveys a sense of understanding or recognition of the situation described by the other person. This expression is commonly used in conversations to show attentiveness, agreement, or shared perception with the speaker.",
+    "notes-ja": "「そのようですね」は、他の人が述べた発言を認めたり同意したりするためのフレーズです。話し手の観察、意見、評価に同意や確認を表現する際によく使われます。「そのよう」は「that way」や「like that」を意味し、「ですね」は同意や肯定の意味を加える丁寧な終わり方です。これらの要素を組み合わせることで、他の人が説明した状況を理解したり認識したりする感覚を伝えます。この表現は、会話で話し手との注意深さ、同意、共有された認識を示すためによく使われます。"
+  },
+  {
     "date": "2024.12.25",
     "day": "Tue",
     "number": 262,
