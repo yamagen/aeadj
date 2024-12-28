@@ -1,7 +1,22 @@
 [
   {
+    "date": "2024.12.28",
+    "day": "Sat",
+    "number": 265,
+    "index": "zenbumottara",
+    "title": "I brought everything",
+    "expression": "ぜんぶもった。",
+    "roman": "Zenbu motta",
+    "English": "I brought everything",
+    "img-sub": "zenbumottara01.png",
+    "example-ja": "A「(忘:わす)れ(物:もの)、ない？」B「ぜんぶもった」",
+    "example-en": "A: \"Got everything?\" B: \"I brought everything.\"",
+    "notes-en": "\"Zenbu motta\" is a phrase used to indicate that one has brought or obtained everything that is needed or required. \"Zenbu\" means \"everything\" or \"all,\" and \"motta\" is the past tense of the verb \"motteru\" (to have or to bring). In Japanese, the past tense can be used to describe a current state or situation. This expression is commonly used to convey that one has all the necessary items or has completed a task by bringing everything required.",
+    "notes-ja": "「全部持った」は、必要なものや必要なものをすべて持ってきたことを示すためのフレーズです。「全部」は「everything」や「all」を意味し、「持った」は動詞「持ってる」（持つ、持っている）の過去形です。日本語では過去形を使っても現在の状況を表現することができます。"
+  },
+  {
     "date": "2024.12.27",
-    "day": "Sun",
+    "day": "Fri",
     "number": 264,
     "index": "sonnanisawagukotodesuka",
     "title": "Is it a big deal?",
@@ -16,7 +31,7 @@
   },
   {
     "date": "2024.12.26",
-    "day": "Wed",
+    "day": "Thu",
     "number": 263,
     "index": "sonoyoudesune",
     "title": "That seems to be the case",
@@ -31,7 +46,7 @@
   },
   {
     "date": "2024.12.25",
-    "day": "Tue",
+    "day": "Wed",
     "number": 262,
     "index": "nantomoienai",
     "title": "Indescribable",
@@ -46,7 +61,7 @@
   },
   {
     "date": "2024.12.24",
-    "day": "Mon",
+    "day": "Tue",
     "number": 261,
     "index": "soudatoiikedo",
     "title": "Anxious",
@@ -61,7 +76,7 @@
   },
   {
     "date": "2024.12.23",
-    "day": "Sun",
+    "day": "Mon",
     "number": 260,
     "index": "yarinaosu",
     "title": "Do over",
@@ -76,7 +91,7 @@
   },
   {
     "date": "2024.12.22",
-    "day": "Sat",
+    "day": "Sun",
     "number": 259,
     "index": "aamiete",
     "title": "may not look it, but...",
