@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.29",
+    "day": "Sun",
+    "number": 266,
+    "index": "yorokonde",
+    "title": "My pleasure",
+    "expression": "よろこんで",
+    "roman": "Yorokonde",
+    "English": "My pleasure",
+    "img-sub": "yorokonde01.png",
+    "example-ja": "A「(手伝:てつだ)ってくれませんか？」B「よろこんで」",
+    "example-en": "A: \"Can you help me?\" B: \"My pleasure.\"",
+    "notes-en": "\"Yorokonde\" is a phrase used to express willingness or joy in helping or assisting someone. It is the te-form of the verb \"yorokobu\" (to be pleased or delighted) and is used in this context to convey a sense of joy or satisfaction in helping others. However, it can also be used in situations where one may not be able to help with joy but is willing to assist. If the help can be done in a moment and is unavoidable, one might say this. If someone is asking for help while you are busy working, that is their problem.",
+    "notes-ja": "「よろこんで」は、誰かを手伝ったり助けたりすることに対する意欲や喜びを表現するためのフレーズです。「よろこんで」は動詞「よろこぶ」（喜ぶ、楽しむ）のテ形で、この文脈で使われると、他人を助けることに喜びや満足感を表現します。しかし、ちょっと忙しく手伝っていられない場合、喜んで手伝える場合ではなくてもこのように言うことがあります。一瞬手伝うことで終りにできるなら、少しぐらいの時間の貢献は止むなしと言ったところでしょうか。忙しく仕事をしているのに頼んでくる人がいるならその人の問題です。"
+  },
+  {
     "date": "2024.12.28",
     "day": "Sat",
     "number": 265,
