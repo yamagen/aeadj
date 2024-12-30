@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024.12.31",
+    "day": "Tue",
+    "number": 268,
+    "index": "atodemoii",
+    "title": "Is it okay later?",
+    "expression": "あとでもいい？",
+    "roman": "Ato demo ii?",
+    "English": "Is it okay later?",
+    "img-sub": "atodemoii01.png",
+    "example-ja": "A「(食器:しょっき)(洗:あら)ってくれた？」B「うーん、あとでもいい？(今:いま)、(犬:いぬ)と(遊:あそ)んでるところなんだ」",
+    "example-en": "A: \"Did you wash the dishes?\" B: \"Hmm, is it okay later? I'm playing with the dog right now.\"",
+    "notes-en": "\"Ato demo ii?\" is a phrase used to ask if something can be done at a different time. \"Ato\" means \"later\" or \"after,\" and \"demo\" is a particle that indicates a conditional or alternative situation. This expression is commonly used in casual conversations to check if delaying a task or changing a schedule would cause inconvenience or confusion. However, people who say this often don't do it later.",
+    "notes-ja": "「あとでもいい？」は、後でまた別の時間にできるかどうかを尋ねるためのフレーズです。「あと」は「later」や「after」を意味します。この表現は、タスクを遅らせたり予定を変更したりしても不便や混乱を引き起こさないかどうかを確認するために、カジュアルな会話でよく使われます。とはいえ、こういう人はだいたいあとになってもしないことが多いですね。"
+  },
+  {
     "date": "2024.12.30",
     "day": "Mon",
     "number": 267,
@@ -3201,19 +3216,46 @@
     "date": "2024.05.31",
     "day": "Fri",
     "number": 54,
-    "index": "soudemonai"
+    "index": "soudemonai",
+    "title": "It's not like that!",
+    "expression": "そうでもない",
+    "roman": "soudemonai",
+    "English": "not really",
+    "img": "soudemonai01.png",
+    "example-ja": "A「(大変:たいへん)だったね」 B「そうでもないよ」",
+    "example-en": "A: \"It was tough, wasn't it?\" B: \"Not really.\"",
+    "notes-en": "\"Soudemonai\" means \"not that bad\" or \"not so much.\" It is used to express that something is not as bad or difficult as it seems. It is often used when you want to downplay the situation, even though it might have been tough. It can also be used to show off that, despite how tough something was, your abilities aren't that bad. This phrase can convey a sense of bluffing or false cheerfulness, pretending things weren't as hard as they actually were.",
+    "notes-ja": "「そうでもない」は、「そんなに悪くない」や「そんなに」という意味の表現です。 何かが見かけほど悪くない、または難しくないことを示すために使われます。実際には大変だったけれども、その状況を軽く見せたかったり、周りの人に心配かけたくない時に使います。また、大変だったけれども、自分の実力を誇示するために使うこともあります。いわゆる強がりや空元気です。"
   },
   {
     "date": "2024.05.31",
     "day": "Fri",
     "number": 53,
-    "index": "sugoi"
+    "index": "yattemimasu",
+    "title": "I'll try it.",
+    "expression": "やってみます。",
+    "roman": "yattemimasu.",
+    "English": "I'll try it.",
+    "img": "yattemimasu01.png",
+    "example-ja": "A「(料理:りょうり)、(作:つく)ってみる？」 B「やってみます」",
+    "example-en": "A: \"Do you want to try cooking?\" B: \"I'll try it.\"",
+    "notes-en": "The phrase \"yattemimasu\" is used to express that you will try something. It is used to indicate that you will try something new or challenging. It is often used when you want to show your willingness to try something new or when you want to show your enthusiasm for something. It is also used when you want to show your willingness to try something new or when you want to show your enthusiasm for something.",
+    "notes-ja": "「やってみます」は、何かを試してみることを表現するために使用されます。新しいことや挑戦的なことを試してみることを示すために使用されます。新しいことに挑戦する意欲を示したいときや、何かに対する熱意を示したいときによく使われます。"
   },
   {
     "date": "2024.05.31",
     "day": "Fri",
     "number": 52,
-    "index": "arienai"
+    "index": "nanigananndaka",
+    "title": "I don't understand what's what.",
+    "expression": "(何:なに)が(何:なん)だかわからない。",
+    "roman": "naniganandaka wakaranai.",
+    "English": "I don't understand what's what.",
+    "img": "naniganandaka01.png",
+    "example-ja": "(彼:かれ)が(説明:せつめい)してくれるけど、あまりにも(速:はや)すぎて、(何:なに)が(何:なん)だかわからない。",
+    "example-en": "He explains it to me, but it's too fast, so I don't understand what's what.",
+    "notes-en": "The phrase \"naniganandaka wakaranai\" is used to express that you don't understand what's going on. It can also be used when you are not satisfied with the situation, even though you understand what is happening.",
+    "notes-ja": "「何が何だかわからない」は、何が起こっているのかわからないことを表現するために使用されます。だいたいはわかってはいるけれども、状況が気にくわないときにも表現できます。"
   },
   {
     "date": "2024.05.31",
