@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.02",
+    "day": "Thu",
+    "number": 270,
+    "index": "itsudemodouzo",
+    "title": "Anytime",
+    "expression": "いつでもどうぞ",
+    "roman": "Itsudemo douzo",
+    "English": "Anytime",
+    "img-sub": "itsudemodouzo01.png",
+    "example-ja": "(授業:じゅぎょう)について(質問:しつもん)がある(方:かた)は、いつでもどうぞ",
+    "example-en": "If you have any questions about the class, feel free to ask anytime.",
+    "notes-en": "\"Itsu demo douzo\" is a phrase used to encourage someone to take action or make a request at any time. \"Itsu demo\" means \"anytime\" or \"whenever,\" and \"douzo\" is an invitation or permission to do something. However, it doesn't mean you can do it anytime without making an appointment.",
+    "notes-ja": "「いつでもどうぞ」は、相手にいつでも行動を起こしたり、要求をしたりすることを奨励するためのフレーズです。「いつでも」は「anytime」や「whenever」を意味し、「どうぞ」は何かをするための招待や許可を表します。とはいえ、本当にアポイントメントも入れずにいつでもいいというわけではありません"
+  },
+  {
     "date": "2025.01.01",
     "day": "Wed",
     "number": 269,
@@ -10,7 +25,9 @@
     "English": "I do remember it",
     "img-sub": "wasureruwakenai01.png",
     "example-ja": "A「(明日:あす)、(会議:かいぎ)だよね？」B「わすれるわけないでしょ！っていうか、もう(準備:じゅんび)できてるし」",
-    "example-en": "A: \"We have a meeting tomorrow, right?\" B: \"There's no way I'd forget! Besides, I'm already prepared.\""
+    "example-en": "A: \"We have a meeting tomorrow, right?\" B: \"There's no way I'd forget! Besides, I'm already prepared.\"",
+    "notes-en": "\"Wasureru wake nai\" is a phrase used to express certainty or confidence that one has not forgotten something. The word \"wasureru\" means \"to forget,\" and \"wake nai\" is a phrase that indicates the absence of a reason or cause.",
+    "notes-ja": "「忘れるわけない」は、何かをしっかり覚えていて、忘れていないことを意味します。「忘れる」は「to forget」を意味し、「わけない」は理由や原因がないことを示すフレーズです。"
   },
   {
     "date": "2024.12.31",
