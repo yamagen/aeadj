@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025.01.04",
+    "day": "Sat",
+    "number": 272,
+    "index": "chottoiisugi",
+    "title": "A little too much",
+    "expression": "ちょっと(言:い)いすぎ",
+    "roman": "Chotto ii sugi",
+    "English": "A little too much",
+    "img-sub": "chottoiisugi01.png",
+    "example-ja": "A「あなたって、いつも何も考えてないよね」B「え、それはちょっと言いすぎじゃない？ちゃんと考えてるよ」",
+    "example-en": "A: \"You never think about anything, do you?\" B: \"Huh, isn't that a little too much? I do think things through.\"",
+    "notes-en": "\"Chotto ii sugi\" is an expression used to indicate that a statement or action is slightly exaggerated or overly extreme. The word \"chotto\" means \"a little\" or \"slightly,\" \"iisugi\" is the masu-form of the verb \"iu (to say)\" with the  masu-form of \"sugiru (to exceed),\" meaning \"too much to say.\" It can be used in both negative and positive contexts.",
+    "notes-ja": "「ちょっと言い過ぎ」は、発言や行動がやや誇張されているか、あるいは過度に過激であることを表現するためのフレーズです。「ちょっと」は\"a little\"や\"slightly\"を意味し、「言い過ぎ」は「言う」のマス形に「過ぎる」のマス形を付けた名詞で、\"too much to say\"という意味になります。この表現は悪い評価でも良い評価でも使えます。"
+  },
+  {
+    "date": "2025.01.03",
+    "day": "Fri",
+    "number": 271,
+    "index": "mattakukininaranai",
+    "title": "I don't mind at all",
+    "expression": "まったく(気:き)にならない",
+    "roman": "Mattaku ki ni naranai",
+    "English": "I don't mind at all",
+    "img-sub": "mattakukininaranai01.png",
+    "example-ja": "A「ちょっと(髪型:かみがた)(失敗:しっぱい)しちゃったかも」B「いやいや、(全然:ぜんぜん)(似合:にあ)ってるし、まったく(気:き)にならないよ」",
+    "example-en": "A: \"I might have messed up my hairstyle a bit.\" B: \"No way, it looks great on you, I don't mind at all.\"",
+    "notes-en": "\"Mattaku ki ni naranai\" is a phrase used to express that one doesn't mind or is not bothered by something. The word \"mattaku\" means \"completely\" or \"totally,\" \"ki ni naranai\" means \"not to mind\" or \"not to be concerned.\" It may be a complete failure, but if you don't say it, it may not be noticed. If you say, \"I might have messed up my hairstyle,\" others might notice it, In general, people don't care about others as much as they think they do.",
+    "notes-ja": "「まったく気にならない」は、何かに気になったり、気にすることがないことを表現するためのフレーズです。「まったく」は「completely」や「totally」を意味し、「気にならない」は「not to mind」や「not to be concerned」を意味します。本当は目立つほど失敗作だけれども、言わないだけかもしれません。「髪型失敗しちゃったかも」と言わなければ、気がつかなかったのに、逆に言ったので、気づいてしまうこともあります。だいたいは、他人は自分が思っているほど、他人のことを気にしていないものです。"
+  },
+  {
     "date": "2025.01.02",
     "day": "Thu",
     "number": 270,
