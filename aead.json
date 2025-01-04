@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.05",
+    "day": "Sun",
+    "number": 273,
+    "index": "souomouno",
+    "title": "Do you think so?",
+    "expression": "そう(思:おも)うの？",
+    "roman": "Sou omou no?",
+    "English": "Do you think so?",
+    "img-sub": "souomouno01.png",
+    "example-ja": "A「この(映画:えいが)、(結構:けっこう)(面白:おもしろ)かったよね」B「そう(思:おも)うの？ (私:わたし)はちょっと(退屈:たいくつ)だったな」",
+    "example-en": "A: \"This movie was pretty interesting, wasn't it?\" B: \"Do you think so? I found it a bit boring.\"",
+    "notes-en": "\"Sou omou no?\" is a phrase used to ask for confirmation with someone's opinion or statement. The word \"sou\" means \"that way.\" \"omou\" is the verb \"to think,\" and \"no\" is a sentence-ending particle that seeks confirmation or agreement. This expression is commonly used in conversations to check if the listener shares the speaker's perspective or to prompt further discussion about differing opinions.",
+    "notes-ja": "「そう思うの？」は、相手の意見や発言に確認を求めるためのフレーズです。「そう」は「that way」を、「思う」は「to think」を意味し、「の」は確認や同意を求める文末の助詞です。この表現は、異なる意見についてさらに議論を促したりするために、会話でよく使われます。"
+  },
+  {
     "date": "2025.01.04",
     "day": "Sat",
     "number": 272,
