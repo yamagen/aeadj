@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.07",
+    "day": "Tue",
+    "number": 275,
+    "index": "doushiyounomonai",
+    "title": "There's nothing I can do",
+    "expression": "どうしようもない",
+    "roman": "Doushiyou mo nai",
+    "English": "Hopeless",
+    "img-sub": "doushiyounonai01.png",
+    "example-ja": "(電車:でんしゃ)が(止:と)まっている(以上:いじょう)、どうしようもないですね。",
+    "example-en": "Since the train has stopped, there's nothing we can do.",
+    "notes-en": "\"Doushiyou mo nai\" is a phrase used to express a situation where there is no solution or remedy available. The word \"dou\" means \"how,\" \"shiyou\" is the volitional form of the verb \"suru\" (to do). The phrase can be used to describe a situation where there is no solution or treatment available, and it can also be used to describe a person as in \"ano hito wa doushiyou mo nai\" (That person is hopeless).",
+    "notes-ja": "「どうしようもない」は、解決策や治療法がない状況を表現するためのフレーズです。「どう」は「how」を、「しよう」は動詞「する」（to do）の意向形です。状況に使えるだけでなく「あの人はどうしようもない」のように人にも使えます。"
+  },
+  {
     "date": "2025.01.06",
     "day": "Mon",
     "number": 274,
