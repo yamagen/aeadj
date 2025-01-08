@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025.01.09",
+    "day": "Thu",
+    "number": 277,
+    "index": "gomeiwaku",
+    "title": "Sorry for the trouble",
+    "expression": "ご(迷惑:めいわく)",
+    "roman": "Gomeiwaku",
+    "English": "Trouble",
+    "img-sub": "gomeiwaku01.png",
+    "example-ja": "しばらく、ご(連絡:れんらく)、できなく、ごめいわくをおかけしました。",
+    "example-en": "I'm sorry for the trouble I caused by not being able to contact you for a while.",
+    "notes-en": "\"Gomeiwaku\" is a phrase used to express an apology or regret for causing inconvenience, trouble, or annoyance to someone. The word \"go\" is a prefix that adds a sense of respect or formality, and \"meiwaku\" means \"trouble\" or \"annoyance.\"",
+    "notes-ja": "「ご迷惑」は、誰かに不便やトラブル、迷惑をかけたことに対する謝罪や後悔を表現するためのフレーズです。「ご」は尊敬やフォーマルな感覚を加える接頭辞で、「迷惑」は「trouble」や「annoyance」を意味します。"
+  },
+  {
+    "date": "2025.01.08",
+    "day": "Wed",
+    "number": 276,
+    "index": "gamandekinai",
+    "title": "Gets on my nerves",
+    "expression": "がまんできない",
+    "roman": "Gamanndekinai",
+    "English": "I can't stand it",
+    "img-sub": "gamandekinai01.png",
+    "example-ja": "あの(芸能人:げいのうじん)の(話:はな)し(方:かた)はがまんできない。",
+    "example-en": "I can't stand the way that celebrity talks.",
+    "notes-en": "\"Gaman dekinai\" is a phrase used to express that one cannot tolerate or endure a particular situation, behavior, or person. The word \"gaman\" means \"patience\" or \"endurance,\" and \"dekinai\" is the negative form of the verb \"dekiru\" (to be able to do). This phrase is commonly used to convey a sense of frustration, annoyance, or exasperation when faced with something that is difficult to bear or put up with.",
+    "notes-ja": "「我慢できない」は、特定の状況、行動、または人を我慢できないことを表現するためのフレーズです。「我慢」は「patience」や「endurance」を意味し、「できない」は動詞「できる」（to be able to do）の否定形です。このフレーズは、耐えがたいものや我慢できないものに直面した際に、不快感、いらだち、あるいは憤りを表現するためによく使われます。"
+  },
+  {
     "date": "2025.01.07",
     "day": "Tue",
     "number": 275,
