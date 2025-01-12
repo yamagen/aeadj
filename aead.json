@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.11",
+    "day": "Sat",
+    "number": 279
+    "index": "niatteimasuka",
+    "title": "Does it suit me?",
+    "expression": "(似合:にあ)っていますか。",
+    "roman": "Niatteimasuka",
+    "English": "Does it suit me?",
+    "img-sub": "niaiteimasuka01.png",
+    "example-ja": "この(服:ふく)、(似合:にあ)っていますか。",
+    "example-en": "Does this outfit suit me?",
+    "notes-en": "\"Niatte imasuka\" is a phrase used to ask if something looks good or suits someone. \"Niau\" is the verb \"to suit\" or \"to look good,\" and \"imasuka\" is a question form indicating the current state. This expression is commonly used to ask for others' opinions on how one looks when trying on clothes, accessories, or hairstyles.",
+    "notes-ja": "「この服、似合っていますか」は、何かがよく見えるか、誰かに合っているかを尋ねるためのフレーズです。「似合って」は動詞「似合う」（似合う、よく見える）のテ形で、「いますか」は現在の状態を質問しています。この表現は、服、アクセサリー、髪型を試す際に、自分がどう見えるかについて他人の意見を尋ねるためによく使われます。"
+  },
+  {
     "date": "2025.01.10",
     "day": "Fri",
     "number": 278,
