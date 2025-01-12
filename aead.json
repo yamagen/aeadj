@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.10",
+    "day": "Fri",
+    "number": 278,
+    "index": "daitaiikuradesuka",
+    "title": "About how much is it?",
+    "expression": "だいたいいくらですか。",
+    "roman": "Daitai ikura desuka",
+    "English": "About how much is it?",
+    "img-sub": "daitaiikuradesuka01.png",
+    "example-ja": "(参加費:さんかひ)はだいたいいくらですか？",
+    "example-en": "About how much is the participation fee?",
+    "notes-en": "\"Daitai ikura desuka\" is a phrase used to ask for an approximate or general price or cost of something. The word \"daitai\" means \"about\" or \"approximately,\" \"ikura\" means \"how much,\" and \"desuka\" is a polite ending that forms a question.",
+    "notes-ja": "「だいたいいくらですか」は、何かのおおよその価格や費用を尋ねるためのフレーズです。「だいたい」は「about」や「approximately」を、「いくら」は「how much」を、「ですか」は丁寧な終わり方で質問を形成します。"
+  },
+  {
     "date": "2025.01.09",
     "day": "Thu",
     "number": 277,
