@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.15",
+    "day": "Wed",
+    "number": 283,
+    "index": "wazatodesuka",
+    "title": "Is that on purpose?",
+    "expression": "わざとですか。",
+    "roman": "Wazato desuka",
+    "English": "Is that on purpose?",
+    "img-sub": "wazatodesuka01.png",
+    "example-ja": "A「プリン、(間違:まちが)えて(食:た)べちゃった」B「それ、わざとですか？」",
+    "example-en": "A: \"I accidentally ate the pudding.\" B: \"Did you do that on purpose?\"",
+    "notes-en": "\"Wazato desuka\" is a phrase used to ask if someone did something intentionally or deliberately. The word \"wazato\" means \"on purpose\" or \"intentionally,\" and \"desuka\" is a polite ending that forms a question. This expression is commonly used to clarify someone's intentions or motives when their actions or words seem suspicious or unusual. In most cases, it's on purpose. Normally, you wouldn't eat someone else's pudding by mistake if you didn't buy it yourself.",
+    "notes-ja": "「わざとですか」は、誰かが意図的に何かをしたかどうかを尋ねるためのフレーズです。「わざと」は「on purpose」や「intentionally」を、「ですか」は丁寧な終わり方で質問を形成します。この表現は、行動や言葉が怪しいか異常な場合に、相手の意図や動機を明確にするためによく使われます。こういう時は、だいたいわざとですね。自分で買ってもいないのに、普通、他人のプリンを間違えて食べません。"
+  },
+  {
     "date": "2025.01.14",
     "day": "Tue",
     "number": 282,
