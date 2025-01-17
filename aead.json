@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.17",
+    "day": "Fri",
+    "number": 285,
+    "index": "kittodaijoubu",
+    "title": "It'll be all right",
+    "expression": "きっと(大丈夫:だいじょうぶ)",
+    "roman": "Kitto daijoubu",
+    "English": "It'll be all right",
+    "img-sub": "kitto-daijoubu01.png",
+    "example-ja": "A「(大丈夫:だいじょうぶ)かな？」B「きっと(大丈夫:だいじょうぶ)だよ」",
+    "example-en": "A: \"I wonder if it's okay?\" B: \"I'm sure it'll be fine.\"",
+    "notes-en": "\"Daijoubu\" is a versatile Japanese word that can be used in various situations to express that everything is okay, fine, or safe. It can be used to reassure someone, confirm that something is acceptable, or indicate that there is no problem. ",
+    "notes-ja": "「大丈夫」は、すべてが大丈夫、問題ない、安全であることを表現するためにさまざまな状況で使われる日本語の汎用語です。誰かを安心させるために使われたり、何かが受け入れられることを確認したり、問題がないことを示したりするために使われます。"
+  },
+  {
     "date": "2025.01.16",
     "day": "Thu",
     "number": 284,
