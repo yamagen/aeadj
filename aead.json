@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.19",
+    "day": "Sun",
+    "number": 287,
+    "index": "wakewakaran",
+    "title": "I don't know the reason",
+    "expression": "わけわからん",
+    "roman": "Wakewakaran",
+    "English": "I don't know the reason",
+    "img-sub": "wakewakaran01.png",
+    "example-ja": "この(数学:すうがく)の(問題:もんだい)、(公式:こうしき)がたくさん(出:で)てきてわけわからん！",
+    "example-en": "There are so many formulas in this math problem that I don't know what's going on!",
+    "notes-en": "\"Wake ga wakaranai\" is a phrase used to express that one doesn't understand the reason or cause of something. The word \"wake\" means \"reason\" or \"cause,\" \"ga\" is a particle that marks the subject of the sentence, and \"wakaranai\" is the negative form of the verb \"wakaru\" (to understand). ",
+    "notes-ja": "「わけがわからない」は、何かの理由や原因が理解できないことを表現するためのフレーズです。「わけ」は「reason」や「cause」を、「が」は文の主語を示す助詞で、「わからない」は動詞「わかる」（to understand）の否定形です。"
+  },
+  {
     "date": "2025.01.18",
     "day": "Sat",
     "number": 286,
