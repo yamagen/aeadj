@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.20",
+    "day": "Mon",
+    "number": 288,
+    "index": "もう(無理:むり)",
+    "title": "I can't anymore",
+    "expression": "もう(無理:むり)",
+    "roman": "Mou muri",
+    "English": "I can't anymore",
+    "img-sub": "moumuri01.png",
+    "example-ja": "A「もう(一杯:いっぱい)、いかがですか？」B「もう(無理:むり)、どうもありがとう。これ(以上:いじょう)(飲:の)んだら(明日:あした)が(大変:たいへん)だから」",
+    "example-en": "A: \"How about one more drink?\" B: \"I can't anymore, thank you. If I drink any more, tomorrow's going to be rough.\"",
+    "notes-en": "\"Mou muri\" is a phrase used to express that one has reached their limit or cannot continue due to exhaustion, fatigue, or difficulty. The word \"mou\" means \"already\" or \"anymore,\" and \"muri\" means \"impossible\" or \"unbearable.\"",
+    "notes-ja": "「もう無理」は、疲労、疲労、または困難により、限界に達したか、続けることができないことを表現するためのフレーズです。「もう」は「already」や「anymore」を、「無理」は「impossible」や「unbearable」を意味します。"
+  },
+  {
     "date": "2025.01.19",
     "day": "Sun",
     "number": 287,
