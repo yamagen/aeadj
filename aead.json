@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.24",
+    "day": "Fri",
+    "number": 292,
+    "index": "douomou",
+    "title": "What do you think?",
+    "expression": "どう(思:おも)いますか。",
+    "roman": "Dou omoimasuka",
+    "English": "What do you think?",
+    "img-sub": "douomou01.png",
+    "example-ja": "A「この(問題:もんだい)、どう(思:おも)いますか？」B「(難:むずか)しいですね」",
+    "example-en": "A: \"What do you think about this problem?\" B: \"It's difficult.\"",
+    "notes-en": "\"Dou omou\" is a phrase used to ask for someone's opinion, thoughts, or feelings about a particular topic or situation. The word \"dou\" means \"how\" or \"what,\" and \"omou\" means \"to think\" or \"to feel.\" This expression is commonly used to inquire about someone's perspective, viewpoint, or reaction to a specific matter or issue. You can ask someone close to you with a short \"dou omou.\"",
+    "notes-ja": "「どう思う」は、特定のトピックや状況について誰かの意見、考え、または感情を尋ねるためのフレーズです。「どう」は「how」や「what」を、「思う」は「to think」や「to feel」を意味します。この表現は、特定の問題や問題に対する誰かの視点、視点、または反応について尋ねるためによく使われます。親しい人には「どう思う」と短かく尋ねることができます。"
+  },
+  {
     "date": "2025.01.23",
     "day": "Thu",
     "number": 291,
