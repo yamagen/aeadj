@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.30",
+    "day": "Thu",
+    "number": 298,
+    "index": "mouchottoirimasuka",
+    "title": "Do you want more?",
+    "expression": "もうちょっと(要:い)りますか。",
+    "roman": "Mou chotto irimasuka",
+    "English": "Do you want more?",
+    "img-sub": "mouchottoirimasuka01.png",
+    "example-ja": "A「(コーヒー:こーひー)、もうちょっと(要:い)りますか？」B「いいえ、どうも」",
+    "example-en": "A: \"Do you want more coffee?\" B: \"No, I'm good.\"",
+    "notes-en": "\"Mou chotto irimasuka\" is a phrase used to ask if someone wants more of something, such as food, drink, or assistance. The word \"mou\" means \"more\" or \"another,\" \"chotto\" means \"a little\" or \"a bit,\" \"irimasuka\" is a polite form of the verb \"iru\" (to need or want). ",
+    "notes-ja": "「もうちょっといりますか」は、食べ物、飲み物もう一つほしいかどうかを尋ねるためのフレーズです。「もう」は「more」や「another」を、「ちょっと」は「a little」や「a bit」を、「いりますか」は動詞「いる」（to need or want）の丁寧形です。"
+  },
+  {
     "date": "2025.01.29",
     "day": "Wed",
     "number": 297,
