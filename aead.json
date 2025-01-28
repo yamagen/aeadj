@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.29",
+    "day": "Wed",
+    "number": 297,
+    "index": "norikakattafune",
+    "title": "We are on the same boat",
+    "expression": "(乗:の)りかかった(船:ふね)",
+    "roman": "Norikakatta fune",
+    "English": "We are on the same boat",
+    "img-sub": "norikakattafune01.png",
+    "example-ja": "(彼:かれ)に(頼:たの)まれて(プロジェクト:ぷろじぇくと)に(参加:さんか)したけれど、(途中:とちゅう)でやめるわけにはいかない。(乗:の)りかかった(船:ふね)だし、(最後:さいご)までやるしかない。",
+    "example-en": "I was asked by him to join the project, but I can't quit halfway. We are on the same boat, so I have to finish it.",
+    "notes-en": "The Japanese idiom \"norikakatta fune\" means being halfway into something and unable to back out, so you must see it through. \"Norikakatta\" comes from the verb \"norikakaru,\" where \"noru\" means \"to get on\" (e.g., a boat) and \"kakaru\" describes an incomplete or ongoing state. While similar to \"be on the same boat,\" \"norikakatta fune\" emphasizes personal responsibility, whereas \"be on the same boat\" highlights shared circumstances or solidarity.",
+    "notes-ja": "日本語の慣用句「乗りかかった船」は、途中で関与してしまい、もう後戻りできない状況を指します。そのため、最後までやり遂げるしかないという意味を持ちます。「乗りかかった」は動詞「乗りかかる」から来ており、「乗る」は「何かに乗る」（例：船に乗る）、「かかる」は「未完了または途中の状態」を表します。「be on the same boat」と似ていますが、「乗りかかった船」は個人の責任感を強調する一方、「be on the same boat」は状況や困難を共有する連帯感を強調します。"
+  },
+  {
     "date": "2025.01.28",
     "day": "Tue",
     "number": 296,
