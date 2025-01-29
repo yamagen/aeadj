@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.01.31",
+    "day": "Fri",
+    "number": 299,
+    "index": "sonotoori",
+    "title": "That's right",
+    "expression": "その(通:とお)り",
+    "roman": "Sono toori",
+    "English": "That's right",
+    "img-sub": "sonotoori01.png",
+    "example-ja": "A「つまり、(日本語:にほんご)では(主語:しゅご)を(省略:しょうりゃく)することが(多:おお)いんですね？」 B「その(通:とお)り！」",
+    "example-en": "A: \"So, in Japanese, it's common to omit the subject, isn't that right?\" B: \"That's right!\"",
+    "notes-en": "\"Sono toori\" is not just a simple agreement but an acknowledgment that the other person's logically derived inference is correct. It is a concise and clear way to affirm their reasoning. In this sense, it differs from a simple agreement like \"Yes, that's right.\" The word \"sono\" means \"that,\" and \"toori\" means \"way\" or \"manner,\" implying correctness or accuracy.",
+    "notes-ja": "「その通り」は、単なる同意ではなく、相手が論理的に導き出した正しい推論を認める表現であり、短く明確に答えられるのが特徴です。そのため、単なる同意の「ええ、そうですね」とは意味が異なります。「その」は「that」を、「通り」は「道」や「やり方」という意味で、そこから「正しいこと」「正確であること」を示します。"
+  },
+  {
     "date": "2025.01.30",
     "day": "Thu",
     "number": 298,
