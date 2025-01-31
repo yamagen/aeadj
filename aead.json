@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.01",
+    "day": "Sat",
+    "number": 300,
+    "index": "imaomoidashita",
+    "title": "I just remembered",
+    "expression": "(今:いま)、(思:おも)い(出:だ)した！",
+    "roman": "Ima omoidashita",
+    "English": "I just rememberedi!",
+    "img-sub": "imaomoidashita01.png",
+    "example-ja": "(今:いま)(思:おも)い(出:だ)した！(明日:あした)、(会議:かいぎ)があるんだった。",
+    "example-en": "Oh, I just remembered! I have a meeting tomorrow!",
+    "notes-en": "\"Ima omoidashita\" means \"I just remembered!\" \"Ima\" means \"now,\" and \"omoida-shita\" is the past tense of \"omoidasu\" (to remember). Although it appears to be in the past tense, it expresses a realization happening at this very moment. This usage is common when someone suddenly recalls something they had forgotten. Similarly, in \"arun-datta\", even though the meeting is in the future (tomorrow), \"datta\" (past tense) is used. This past form does not indicate a past event but rather that the speaker's realization at the present moment.",
+    "notes-ja": "「今思い出した」は、何かを思い出したことを表現するフレーズです。「今」は「now」、「思い出した」は動詞「思い出す」（to remember）の過去形ですが、この場合、単なる過去ではなく「ちょうど今、思い出した」という意味になります。このように、突然何かを思い出したり、気づいたりしたときによく使われます。同様に「会議があるんだった」の「だった」も、過去の出来事を指しているのではなく「今、気づいた」という意味を持ちます。未来の予定について過去形が使われるのは、日本語において、再認識や思い出しのニュアンスを表すための用法です。"
+  },
+  {
     "date": "2025.01.31",
     "day": "Fri",
     "number": 299,
