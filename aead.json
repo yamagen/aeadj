@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.02",
+    "day": "Sun",
+    "number": 301,
+    "index": "tappuri",
+    "title": "Full of",
+    "expression": "たっぷり",
+    "roman": "Tappuri",
+    "English": "Full of",
+    "img-sub": "tappuri01.png",
+    "example-ja": "(今日:きょう)は、(自由:じゆう)な(時間:じかん)がたっぷりあってうれしい。",
+    "example-en": "I'm happy because I have plenty of free time today.",
+    "notes-en": "\"Tappuri\" is a word used to express an abundant amount of something, such as time, space, or resources. It means \"full of\" or \"plenty of.\" This expression is commonly used to indicate that something is available in a sufficient or generous amount. The difference between \"tappuri\" and \"takusan\" is that \"tappuri\" implies not just a large quantity, but also that the amount is sufficient and can be fully utilized.",
+    "notes-ja": "「たっぷり」は、時間や空間、資源などが豊富にあることを表す言葉です。「full of」や「plenty of」の意味に相当します。何かが十分にあり、ゆとりをもって使える状態を表すときによく使われます。「たくさん」との違いは、「たっぷり」には単に量が多いだけでなく、「余裕をもって十分に使える」というニュアンスが含まれる点です。"
+  },
+  {
     "date": "2025.02.01",
     "day": "Sat",
     "number": 300,
