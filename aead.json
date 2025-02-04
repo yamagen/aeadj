@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.04",
+    "day": "Tue",
+    "number": 303,
+    "index": "sukoshihoshii?",
+    "title": "Do you want a little?",
+    "expression": "(少:すこ)しほしい？",
+    "roman": "Sukoshi hoshii?",
+    "English": "Do you want a little?",
+    "img-sub": "sukoshihoshii01.png",
+    "example-ja": "A「(コーヒー:こーひー)、(少:すこ)しほしい？」B「いいえ、(大丈夫:だいじょうぶ)です」",
+    "example-en": "A: \"Do you want a little coffee?\" B: \"No, I'm good.\"",
+    "notes-en": "\"Sukoshi hoshii?\" is a phrase used to ask if someone wants a small amount of something, such as food, drink, or assistance. The word \"sukoshi\" means \"a little\" or \"a few,\" \"hoshii\" is the adjective form of the verb \"hoshii\" (to want).",
+    "notes-ja": "「少しほしい？」は、食べ物、飲み物、または援助など、何かの少量を欲しいかどうか尋ねるためのフレーズです。「少し」は「a little」や「a few」を、「ほしい」は動詞「ほしい」（to want）の形容詞形です。"
+  },
+  {
     "date": "2025.02.03",
     "day": "Mon",
     "number": 302,
