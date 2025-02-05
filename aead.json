@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.05",
+    "day": "Wed",
+    "number": 304,
+    "index": "imanokikoeta?",
+    "title": "Did you hear that?",
+    "expression": "(今:いま)の(聞:き)こえた？",
+    "roman": "Ima no kikoeta?",
+    "English": "Did you hear that?",
+    "img-sub": "imanokikoeta01.png",
+    "example-ja": "A「(ドア:どあ)の(音:おと)、(今:いま)の(聞:き)こえた？」B「うん、(何:なに)か(人:ひと)が(入:はい)ってきたみたい」",
+    "example-en": "A: \"Did you hear the sound of the door just now?\" B: \"Yeah, it seems like someone came in.\"",
+    "notes-en": "\"Ima no kikoeta?\" is a phrase used to ask if someone heard a sound or noise that occurred just now. The word \"ima\" means \"now,\" \"kikoeta\" is the past tense of the verb \"kikoeru\" (to hear). The difference between \"kiku\" and \"kikoeru\" is that \"kiku\" refers to actively listening, while \"kikoeru\" refers to hearing something by chance. Since \"kikoeru\" is a phenomenon, it does not have a potential form. Therefore, the negative form is used as \"kikoenai.\"",
+    "notes-ja": "「今の聞こえた？」は、ちょうど今起こった音や騒音を聞いたかどうか尋ねるためのフレーズです。「今」は「now」、「聞こえた」は動詞「聞こえる」（to hear）の過去形です。「聞く」と「聞こえる」の違いは、「聞く」は意識的に聞くことを指し、「聞こえる」は偶然聞こえることを指します。「聞こえる」は現象ですから、この動詞の可能形はありません。したがって、否定形は「聞こえない」のように使います。"
+  },
+  {
     "date": "2025.02.04",
     "day": "Tue",
     "number": 303,
