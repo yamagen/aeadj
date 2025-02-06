@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.06",
+    "day": "Thu",
+    "number": 305,
+    "index": "ototatenaide",
+    "title": "Don't make a noise",
+    "expression": "(音:おと)を(立:た)てないで",
+    "roman": "Oto o tatenaide",
+    "English": "Don't make a noise",
+    "img-sub": "otootatenaide01.png",
+    "example-ja": "(今:いま)、(録画:ろくが)しているから、(音:おと)を(立:た)てないで。",
+    "example-en": "I'm recording now, so don't make a noise.",
+    "notes-en": "\"Oto o tatenaide\" is a phrase used to ask someone not to make a sound or noise. The word \"oto\" means \"sound\" or \"noise,\" \"o\" is a particle that indicates the object of the verb, \"tate\" is the verb \"tateru\" (to make) in the negative form, and \"naide\" is the te-form of the verb \"nai\" (not to be). ",
+    "notes-ja": "「音を立てないで」は、誰かに音や騒音を立てないように頼むためのフレーズです。「音」は「sound」や「noise」を、「を」は動詞の目的を示す助詞を、「立て」は動詞「立てる」（to make）の否定形で、「ないで」は動詞「ない」（not to be）のテ形です。"
+  },
+  {
     "date": "2025.02.05",
     "day": "Wed",
     "number": 304,
