@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.09",
+    "day": "Sun",
+    "number": 308,
+    "index": "sorenani",
+    "title": "What a heck!",
+    "expression": "それ(何:なに)!",
+    "roman": "Sore nani!",
+    "English": "What a heck!",
+    "img-sub": "sorenani01.png",
+    "example-ja": "A「(昨日:きのう)、(彼:かれ)、(突然:とつぜん)、(辞:や)めたんだって」B「それ(何:なに)！」",
+    "example-en": "A: \"I heard he quit yesterday.\" B: \"What a heck!\"",
+    "notes-en": "\"Sore nani!\" is a phrase used to express surprise, disbelief, or shock about something unexpected or unusual. The word \"sore\" means \"that,\" \"nani\" means \"what,\" and the exclamation mark emphasizes the speaker's strong reaction. Of course, it also means \"What is that?\" in a normal context.",
+    "notes-ja": "「それ何！」は、予期せぬことや異常なことに対する驚き、不信、またはショックを表現するためのフレーズです。「それ」は「that」を、「何」は「what」を意味し、感嘆符は話者の強い反応を強調します。もちろん、同じ表現で普通に「それは何ですか」という意味でもあります。"
+  },
+  {
     "date": "2025.02.08",
     "day": "Sat",
     "number": 307,
