@@ -1,6 +1,21 @@
 [
   {
     "date": "2025.02.09",
+    "day": "Mon",
+    "number": 309,
+    "index": "darewomatteiruno",
+    "title": "Ending particles and omitting particles",
+    "expression": "(誰:だれ)を(待:ま)っているの？",
+    "roman": "Dare o matte iru no?",
+    "English": "Who are you waiting for?",
+    "img-sub": "dareomatteiruno01.png",
+    "example-ja": "A「(誰:だれ)を(待:ま)っているの？」B「(友:とも)だち」",
+    "example-en": "A: \"Who are you waiting for?\" B: \"My friend.\"",
+    "notes-en": "\"Dare o matte iru no?\" is a phrase used to ask who someone is waiting for. The word \"dare\" means \"who,\" \"o\" is a particle that indicates the object of the verb, \"matte iru\" is the progressive form of the verb \"matsu\" (to wait), and \"no\" is not possessive but a soft ending particle used when asking gently. In casual conversation, avoid using \"ka\" in the casual form, as it can sound rude. Use \"no\" in casual conversation to form a question, and \"desu ka\" or \"masu ka\" in formal conversation. The reason for using \"wo\" as in \"dare wo\" is to distinguish this question from asking who is waiting for whom. In context, these two relationships can be understood without using particles.",
+    "notes-ja": "「誰を待っているの？」は、誰かが誰を待っているか尋ねるためのフレーズです。「誰」は「who」を、「を」は動詞の目的を示す助詞を、「待っている」は動詞「待つ」（to wait）の進行形で、「の」は所有ではなくて、柔らかく尋ねる時の終助詞です。会話でカジュアル体で「か」を使うと乱暴な問い掛けになるので使わないようにしましょう。カジュアルの会話で疑問文を作るときは「の」、フォーマルの会話で疑問文を作るときは「ですか」「ますか」が適切です。この文で「誰を」のように「を」を使う理由は、動作の主体「誰が」を尋ねる文と区別するためです。文脈からこの2つの関係がわかる場合には、助詞を使わなくても意味はわかります。"
+  },
+  {
+    "date": "2025.02.09",
     "day": "Sun",
     "number": 308,
     "index": "sorenani",
