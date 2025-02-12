@@ -1,6 +1,36 @@
 [
   {
-    "date": "2025.02.09",
+    "date": "2025.02.12",
+    "day": "Wed",
+    "number": 311,
+    "index": "choottomitemiyouyo",
+    "title": "Let's try to see it.",
+    "expression": "ちょっと(見:み)てみようよ",
+    "roman": "Chotto mite miyou yo",
+    "English": "Let's try to see it.",
+    "img-sub": "choottomitemiyouyo01.png",
+    "example-ja": "A「これ、(何:なに)？」B「ちょっと(見:み)てみようよ」",
+    "example-en": "A: \"What's this?\" B: \"Let's try to see it.\"",
+    "notes-en": "\"Chotto mite miyou yo\" is a expression used to suggest trying something or looking at something. The word \"chotto\" means \"a little\" or \"a bit,\" \"mite\" is the te-form of the verb \"miru\" (to see), and \"miyou\" is the volitional form of the verb \"miru\" (to see). The word \"yo\" is a particle that emphasizes the statement.",
+    "notes-ja": "「ちょっと見てみようよ」は、何かを試したり、何かを見たりすることを提案するためのフレーズです。「ちょっと」は「a little」や「a bit」を、「見て」は動詞「見る」（to see）のて形で、「見よう」は動詞「見る」（to see）の意向形です。助詞「よ」は文を強調する助詞です。"
+  },
+  {
+    "date": "2025.02.11",
+    "day": "Tue",
+    "number": 310,
+    "index": "moshitetsudattehoshiikotogaattaraittene",
+    "title": "If you have something you want me to help with, let me know",
+    "expression": "もし、(手伝:てつだ)ってほしいことがあったら(言:い)ってね",
+    "roman": "Moshi, tetsudatte hoshii koto ga attara itte ne",
+    "English": "If you need help, let me know",
+    "img-sub": "moshitetsudattehoshiikotogaattaraittene01.png",
+    "example-ja": "A「もし、(手伝:てつだ)ってほしいことがあったら(言:い)ってね」B「ありがとう、(今:いま)のところ、(大丈夫:だいじょうぶ)」",
+    "example-en": "A: \"If you need help, let me know.\" B: \"Thank you, I'm good for now.\"",
+    "notes-en": "\"Moshi, tetsudatte hoshii koto ga attara itte ne\" is a phrase used to offer help or assistance to someone. The word \"moshi\" means \"if,\" \"tetsudatte\" is the te-form of the verb \"tetsudau\" (to help), \"verb + te hoshii\" means \"want me to do,\"",
+    "notes-ja": "「もし、手伝ってほしいことがあったら言ってね」は、誰かに手助けや援助を申し出るためのフレーズです。「もし」は「if」、「手伝って」は動詞「手伝う」（to help）のて形、「てほしい」は「動詞＋てほしい」でyou want me to doという意味です。"
+  },
+  {
+    "date": "2025.02.10",
     "day": "Mon",
     "number": 309,
     "index": "darewomatteiruno",
