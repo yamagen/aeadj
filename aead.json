@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.13",
+    "day": "Thu",
+    "number": 312,
+    "index": "korenaoseru,
+    "title": "Can you fix this?",
+    "expression": "これ、(直:なお)せる？",
+    "roman": "Kore, naoseru?",
+    "English": "Can you fix this?",
+    "img-sub": "sorenaoseru01.png",
+    "example-ja": "A「(携帯:けいたい)、(壊:こわ)れた。これ、(直:なお)せる？」B「(直:なせ)るよ」A「(本当:ほんとう)！」B「うん、お(金:かね)を(出:だ)せば」",
+    "example-en": "A: \"My phone is broken. Is it possible to fix this?\" B: \"It can be fixed.\" A: \"Really?\" B: \"Yes, if you pay.\"",
+    "notes-en": "\"Naoru\" is a verb that means \"to repair\" or \"to fix.\" The word \"keitai\" means \"cell phone\" or \"mobile phone.\" The word \"kowareta\" is the past tense of the verb \"kowareru\" (to break). The word \"kore\" means \"this,\" and the word \"naoseru\" is the potential form of the verb \"naosu\" (to fix). The phrase \"kore, naoseru?\" is used to ask if someone can fix something that is broken or damaged. The word \"daseba\" is the conditional form of the verb \"dasu\" (to pay).",
+    "notes-ja": "「直せる」は「to repair」や「to fix」を意味する動詞です。「携帯」は「cell phone」や「mobile phone」を、「壊れた」は動詞「壊れる」（to break）の過去形です。「これ」は「this」を、「直せる」は動詞「直す」（to fix）の可能形です。「これ、直せる？」は、壊れたり損傷したものを修理できるかどうか尋ねるためのフレーズです。「出せば」は動詞「出す」（to pay）の条件形です。"
+  },
+  {
     "date": "2025.02.12",
     "day": "Wed",
     "number": 311,
