@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.15",
+    "day": "Sat",
+    "number": 314,
+    "index": "kyohajugyogaaru",
+    "title": "Today, there's a lesson",
+    "expression": "(今日:きょう)は(授業:じゅぎょう)がある",
+    "roman": "Kyou wa jugyou ga aru",
+    "English": "I have a class today",
+    "img-sub": "kyouwajugyougaaru01.png",
+    "example-ja": "A「(今日:きょう)、(授業:じゅぎょう)ある？」B「うん、(午後:ごご)から」",
+    "example-en": "A: \"Do you have a class today?\" B: \"Yes, in the afternoon.\"",
+    "notes-en": "\"Kyou wa jugyou ga aru\" is a phrase used to indicate that someone has a class or lesson on a particular day. The word \"kyou\" means \"today,\" \"wa\" is a particle that indicates the subject of the sentence, \"jugyou\" means \"class\" or \"lesson,\" \"ga\" is a particle that something is specific, and \"aru\" is a phrase that means \"to have.\"",
+    "notes-ja": "「今日は授業がある」は、特定の日に誰かが授業やレッスンがあることを示すためのフレーズです。「今日」は「today」を、「は」はそれが特定であることを意味する助詞、「授業」は「class」や「lesson」を、「がある」は「to have」を意味するフレーズです。"
+  },
+  {
     "date": "2025.02.14",
     "day": "Fri",
     "number": 313,
