@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.16",
+    "day": "Sun",
+    "number": 315,
+    "index": "chottomatte",
+    "title": "Wait a moment",
+    "expression": "ちょっと(待:ま)って",
+    "roman": "Chotto matte",
+    "English": "Hold on a second",
+    "img-sub": "chottomatte01.png",
+    "example-ja": "(すみません)、(今:いま)、(電話:でんわ)してるんで、ちょっと(待:ま)ってもらえます？",
+    "example-en": "Excuse me, I'm on the phone right now. Can you wait a moment?",
+    "notes-en": "\"Chotto matte\" is a phrase used to ask someone to wait for a moment. The word \"chotto\" means \"a little\" or \"a bit,\" and \"matte\" is the te-form of the verb \"matsu\" (to wait).",
+    "notes-ja": "「ちょっと待って」は、誰かに少し待ってもらうように頼むためのフレーズです。「ちょっと」は「a little」や「a bit」を、「待って」は動詞「待つ」（to wait）のて形です。"
+  },
+  {
     "date": "2025.02.15",
     "day": "Sat",
     "number": 314,
