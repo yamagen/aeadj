@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.17",
+    "day": "Mon",
+    "number": 316,
+    "index": "konainokatoomotta",
+    "title": "I thought you weren't coming",
+    "expression": "(来:こ)ないのかと(思:おも)った",
+    "roman": "Konai no ka to omotta",
+    "English": "I thought you weren't coming",
+    "img-sub": "konainokatoomotta01.png",
+    "example-ja": "A「(遅:おそ)いね」B「ごめん、(道:みち)が(混:こ)んでたから、(遅:おく)れちゃった」A「(ああ)、(来:こ)ないのかと(思:おも)った」",
+    "example-en": "A: \"You're late.\" B: \"Sorry, the road was congested, so I'm late.\" A: \"Oh, I thought you weren't coming.\"",
+    "notes-en": "\"Konai no ka to omotta\" is a phrase used to express that someone thought someone else might not come. The word \"konai\" is the negative form of the verb \"kuru\" (to come), \"no\" is a particle that indicates the subject of the sentence, \"ka\" is a particle that indicates a question, \"to\" is a particle that indicates the speaker's thoughts, and \"omotta\" is the past tense of the verb \"omou\" (to think).",
+    "notes-ja": "「来ないのかと思った」は、誰かが来ないかもしれないと思ったことを表現するためのフレーズです。「来ない」は動詞「来る」（to come）の否定形、「の」は文の主語を示す助詞、「か」は疑問を示す助詞、「と」は話者の思考を示す助詞、「思った」は動詞「思う」（to think）の過去形です。"
+  },
+  {
     "date": "2025.02.16",
     "day": "Sun",
     "number": 315,
