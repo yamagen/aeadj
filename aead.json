@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.20",
+    "day": "Thu",
+    "number": 319,
+    "index": "chottokangaesasetekudasai",
+    "title": "Let me think about it.",
+    "expression": "ちょっと(考:かんが)えさせてください",
+    "roman": "Chotto kangae sasete kudasai",
+    "English": "Let me think about it for a moment.",
+    "img-sub": "chottokangaesasetekudasai01.png",
+    "example-ja": "A「(今:いま)、(決:き)めるのは(早:はや)いですか？」B「ちょっと(考:かんが)えさせてください」",
+    "example-en": "A: \"Is it too early to decide now?\" B: \"Let me think about it for a moment.\"",
+    "notes-en": "\"Chotto kangaesasete kudasai\" is a phrase used to ask someone to give you a moment to think about something. The word \"chotto\" means \"a little\" or \"a bit,\" \"kangaesasete\" is the causative form of the verb \"kangaeru\" (to think), and \"kudasai\" is a polite request form of the verb \"kureru\" (to give). When asking someone to give you time to think about something, use the causative form of the verb. This is similar to many languages.",
+    "notes-ja": "「ちょっと考えさせてください」は、誰かに何かを考える時間を与えてもらうように頼むためのフレーズです。「ちょっと」は「a little」や「a bit」を、「考えさせて」は動詞「考える」（to think）の使役形で、「ください」は動詞「くれる」（to give）の丁寧な依頼形です。自分が何かしたいときにお願いするときにはこのように使役の形を使います。多くの言語で同様の表現があると思います。"
+  },
+  {
     "date": "2025.02.19",
     "day": "Wed",
     "number": 318,
