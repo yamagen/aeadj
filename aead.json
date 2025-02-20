@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.21",
+    "day": "Fri",
+    "number": 320,
+    "index": "konkaitokubetsune",
+    "title": "This time, it's special/exceptional",
+    "expression": "(今回:こんかい)、(特別:とくべつ)ね。",
+    "roman": "Konkai, tokubetsu ne.",
+    "English": "This time, it's special/exceptional",
+    "img-sub": "konkaitokubetsune01.png",
+    "example-ja": "A「ママ、もう一つ、食べてもいい？」B「(今回:こんかい)、(特別:とくべつ)ね」",
+    "example-en": "A: \"Mom, can I have one more?\" B: \"This time, it's special.\"",
+    "notes-en": "\"Konkai, tokubetsu ne\" is a phrase used to indicate that something is special or exceptional this time. The word \"konkai\" means \"this time,\" \"tokubetsu\" means \"special\" or \"exceptional,\" and \"ne\" is a sentence-ending particle that seeks agreement or confirmation. This expression acknowledges that the current situation is an exceptional measure.",
+    "notes-ja": "「今回、特別ね」は、今回のことが特別であることを示すためのフレーズです。「今回」は「this time」を、「特別」は「今回だけ」や「例外」を、「ね」は同意や確認を求める文末の助詞です。この表現は、今回限りの例外的措置であることを認める表現になります。"
+  },
+  {
     "date": "2025.02.20",
     "day": "Thu",
     "number": 319,
