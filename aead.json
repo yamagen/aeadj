@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.02.24",
+    "day": "Mon",
+    "number": 323,
+    "index": "iidesune...sugoku",
+    "title": "That's good...and so much.",
+    "expression": "いいですね、すごく。",
+    "roman": "Ii desu ne, sugoku.",
+    "English": "That's good...and so much.",
+    "img-sub": "iidesunesugoku01.png",
+    "example-ja": "A「この(絵:え)、どう」B「いいですね、すごく」",
+    "example-en": "A: \"How about this painting?\" B: \"That's good...and so much.\"",
+    "notes-en": "\"Ii desu ne, sugoku\" is a phrase used to express that something is good or impressive. The word \"ii\" means \"good\" or \"nice,\" \"desu\" is the polite form of the copula \"da\" (to be), \"ne\" is a sentence-ending particle that seeks agreement or confirmation, and \"sugoku\" is an adverb that means \"so much\" or \"very.\" You should not use this word order when writing. This phrase is suitable for emphasizing something very impressive and wonderful.",
+    "notes-ja": "「いいですね、すごく」は、何かが良いか印象的であることを表現するためのフレーズです。「いい」は「good」や「nice」を、「です」は丁寧形の判定詞「だ」（to be）、「ね」は同意や確認を求める文末の助詞、「すごく」は副詞で「so much」や「very」を意味します。このフレーズは、話しているときに、まず「いい」ということを言って、その後、それが「すごい」ことを言う形式です。書くときにはこの語順は使いません。とても印象的で素晴しいことを強調して表現するときに適しています。"
+  },
+  {
     "date": "2025.02.23",
     "day": "Sun",
     "number": 322,
