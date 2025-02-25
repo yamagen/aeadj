@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025.02.26",
+    "day": "Tue",
+    "number": 325,
+    "index": "korekara",
+    "title": "From now on",
+    "expression": "これから",
+    "roman": "Kore kara",
+    "English": "From now on",
+    "img-sub": "korekara01.png",
+    "example-ja": "A「(仕事:しごと)、(終:お)わった？」B「うん、これから、(友達:ともだち)と(食事:しょくじ)」",
+    "example-en": "A: \"Is work over?\" B: \"Yes, from now on, I'm going to have dinner with my friends.\"",
+    "notes-en": "\"Kore kara\" means \"from now on\" and you can use it to indicate that something will happen in the future. The word \"kore\" means \"this\" and \"kara\" is a particle that indicates the beginning of an action or event. Many people know that \"kore\" means \"this,\" but \"kore\" often means \"now\" in conversation. In writing, it can also be used to mean \"in the future\".",
+    "notes-ja": "「これから」は、今後何かが起こることを示すためのフレーズです。「これ」は「this」を、「から」は行動や出来事の始まりを示す助詞です。「これ」は「this」の意味を知っている人は多いと思いますが、会話では「これから」が「今から」の意味で使われることが多いのです。文章でも「将来」という意味で使われることもあります。"
+  },
+  {
+    "date": "2025.02.25",
+    "day": "Tue",
+    "number": 324,
+    "index": "kuwashikuhakono",
+    "title": "Let me explain this in detail after this song.",
+    "expression": "(詳:くわ)しくは、この(曲:きょく)のあと。",
+    "roman": "Kuwashiku ha, kono kyoku no ato.",
+    "English": "Let me explain this in detail after this song.",
+    "img-sub": "kuwashikuhakono01.png",
+    "example-ja": "A「これ、(プレゼント:ぷれぜんと)？」B「ええ、(詳:くわ)しくは、この(曲:きょく)のあと」",
+    "example-en": "A: \"Is this a present?\" B: \"Yes, let me explain this in detail after this song.\"",
+    "notes-en": "\"Kuwashiku ha, kono kyoku no ato\" is used to indicate that you will explain something in detail after something else. The word \"kuwashiku\" means \"in detail,\" \"ha\" is a particle that indicates the subject of the sentence, \"kono\" means \"this,\" \"kyoku\" means \"song,\" and \"ato\" means \"after.\" The sentence can end with a noun. In language, you can speak in any order you like without worrying about grammar.",
+    "notes-ja": "「詳しくは、この曲の後」は、何かの後に詳しく説明することを示すため使われます。「詳しく」は「in detail」を、「は」は文の主語を示す助詞、「この」は「this」を、「曲」は「song」を、「後」は「after」を意味します。文は名詞で終わってもかまいません。言語は、文法を気にせず、思った順に話してもよいのです。"
+  },
+  {
     "date": "2025.02.24",
     "day": "Mon",
     "number": 323,
