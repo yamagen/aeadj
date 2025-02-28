@@ -1,7 +1,37 @@
 [
   {
+    "date": "2025.03.01",
+    "day": "Sat",
+    "number": 328,
+    "index": "tsunagaranai",
+    "title": "I can't get through",
+    "expression": "(繋:つな)がらない",
+    "roman": "Tsunagaranai",
+    "English": "I can't get through",
+    "img-sub": "tsunagaranai01.png",
+    "example-ja": "A「(電話:でんわ)、(繋:つな)がらない」B「(携帯:けいたい)、(電池:でんち)、(切:き)れてるかも」",
+    "example-en": "A: \"I can't get through on the phone.\" B: \"Your cell phone battery may be dead.\"",
+    "notes-en": "\"Tsunagaranai\" is a phrase used to indicate that you cannot connect to someone by phone or email. The word \"denwa\" means \"phone,\" \"tsunagaranai\" is the negative form of the verb \"tsunagaru\" (to connect), \"keitai\" means \"cell phone\" or \"mobile phone,\" \"denchi\" means \"battery,\" and \"kireteru\" is the present state of the verb \"kireru\" (to be cut off). \"...te iru\" is a construction that indicates the current state of something.",
+    "notes-ja": "「つながらない」は、電話やメールで誰かと連絡が取れないことを示すためのフレーズです。「電話」は「phone」を、「つながらない」は自動詞「つながる」（to connect）の否定形、「携帯」は「cell phone」や「mobile phone」を、「電池」は「battery」を、「切れてる」は自動詞「切れる」（to be cut off）の現在の状況を示す「...ている」の構文です。"
+  },
+  {
+    "date": "2025.02.28",
+    "day": "Fri",
+    "number": 327,
+    "index": "arerugi",
+    "title": "I have allergies",
+    "expression": "(アレルギー:あれるぎー)があります",
+    "roman": "Arerugii ga arimasu",
+    "English": "I have allergies",
+    "img-sub": "arerugii01.png",
+    "example-ja": "A「(花粉:かふん)、(大丈夫:だいじょうぶ)？」B「ちょっと、(アレルギー:あれるぎー)があって、(目:め)が(痒:かゆ)くて」",
+    "example-en": "A: \"Are you okay with pollen?\" B: \"I have allergies, so my eyes are itchy.\"",
+    "notes-en": "\"Kafun\" means \"pollen\" and \"arerugii\" means \"allergy.\" The word \"daijoubu\" means \"okay\" or \"fine.\" The word \"me\" means \"eye\" and \"kayui\" means \"itchy.\" The phrase \"arerugii ga arimasu\" is used to indicate that someone has allergies. The word \"ga\" is a particle that indicates the subject of the sentence and \"arimasu\" is the polite form of the verb \"aru\" (to have). In Japan, when spring comes, cedar pollen flies around, and many people have allergy symptoms. This condition is called \"kafunshou.\"",
+    "notes-ja": "「花粉」は「pollen」を、「アレルギー」は「allergy」を意味します。「大丈夫」は「okay」や「fine」、「目」は「eye」、「かゆい」は「itchy」という意味です。「アレルギーがあります」は、アレルギーを持っていることを示すためのフレーズです。日本では春先になると杉の花粉が飛び交い、アレルギー症状が出る人が多いです。この症状のことを「花粉症」といいます。"
+  },
+  {
     "date": "2025.02.27",
-    "day": "Wed",
+    "day": "Thu",
     "number": 326,
     "index": "choudoimadekitatokoro",
     "title": "Just now, it's done",
@@ -16,7 +46,7 @@
   },
   {
     "date": "2025.02.26",
-    "day": "Tue",
+    "day": "Wed",
     "number": 325,
     "index": "korekara",
     "title": "From now on",
