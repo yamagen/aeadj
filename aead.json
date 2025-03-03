@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025.03.03",
+    "day": "Mon",
+    "number": 330,
+    "index": "doushitedamenano",
+    "title": "How come it's not good?",
+    "expression": "どうしてだめなの",
+    "roman": "Doushite dame na no",
+    "English": "How come it's not good?",
+    "img-sub": "doushitedamenano01.png",
+    "example-ja": "A「これしちゃだめ」B「どうしてだめなの？」",
+    "example-en": "A: \"Don't do this.\" B: \"Why not?\"",
+    "notes-en": "\"Doushite dame na no?\" is a phrase used to ask why something is not good or why something is not allowed. The word \"doushite\" means \"why,\" \"dame\" means \"no good\" or \"not allowed,\" \"na\" is a particle that indicates an adjective, and \"no\" is a particle that indicates the reason. This phrase is used to ask why something is not good or why something is not allowed. Of course, you can also use just \"doushite?\".",
+    "notes-ja": "「どうしてだめなの？」は、何かがよくない理由や何かが許されない理由を尋ねるためのフレーズです。「どうして」は「why」を、「だめ」は「no good」や「not allowed」を、「な」は形容詞を示す助詞、「の」は理由を示す助詞です。このフレーズは、何かがよくない理由や何かが許されない理由を尋ねるために使われます。もちろん、「どうして？」だけでも使えます。"
+  },
+  {
+    "date": "2025.03.02",
+    "day": "Sun",
+    "number": 329,
+    "index": "doukashitano",
+    "title": "What happened?",
+    "expression": "どうかしたの？",
+    "roman": "Douka shita no?",
+    "English": "What happened?",
+    "img-sub": "doukashitano01.png",
+    "example-ja": "A「(急:きゅう)に(顔色:かおいろ)が(悪:わる)くなったね。どうかしたの？」B「(うん)、(頭:あたま)が(痛:いた)いの」",
+    "example-en": "A: \"You suddenly look pale. What happened?\" B: \"Yes, I have a headache.\"",
+    "notes-en": "\"Douka shita no?\" is a phrase used to ask someone what happened when you notice a change in their appearance or behavior. The word \"doukashita\" means \"what happened\" or \"what's wrong,\" \"shita\" is the past tense of the verb \"suru\" (to do). The particle \"no\" has various meanings, but here it is explaining the reason. It can also be used at the end of a sentence to ask a question or give a reason.",
+    "notes-ja": "「どうかしたの？」は、誰かの外見や行動の変化に気づいたときに、何が起こったのか尋ねるためのフレーズです。「どうかした」は「what happened」や「what's wrong」を、「した」は動詞「する」（to do）の過去形です。「の」はいろいろな意味があるのですが、ここでは理由を述べています。他にも文末で使うと疑問や理由を尋ねる文が表現できます。"
+  },
+  {
     "date": "2025.03.01",
     "day": "Sat",
     "number": 328,
