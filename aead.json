@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.03.04",
+    "day": "Tue",
+    "number": 331,
+    "index": "otousan",
+    "title": "Father",
+    "expression": "おとうさん",
+    "roman": "Otousan",
+    "English": "Father or Sir",
+    "img-sub": "otousan01.png",
+    "example-ja": "A「ちょっと、そこの(お父:とう)さん、(節税:せつぜい)してますか？」B「ええ、してますよ」",
+    "example-en": "A: \"Excuse me, sir, are you doing tax planning?\" B: \"Yes, I am.\"",
+    "notes-en": "\"Otousan\" is a polite way to refer to someone else's father. It is also used when talking to your own father. However, in this case, it is a word used to address a middle-aged man passing by, and it is not known whether he is really someone's father.",
+    "notes-ja": "一般的に「おとうさん」は、他人の父親を丁寧に呼ぶ言葉です。自分の父親に話しかけるときにも使います。しかし、この場合は、通りがかりの中年男性に呼びかけるときのことばで、その人が本当に誰かの父親であるかどうかはわかりません。"
+  },
+  {
     "date": "2025.03.03",
     "day": "Mon",
     "number": 330,
