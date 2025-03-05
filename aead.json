@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.03.05",
+    "day": "Wed",
+    "number": 332,
+    "index": "oneesan",
+    "title": "Older sister",
+    "expression": "おねえさん",
+    "roman": "Oneesan",
+    "English": "Older sister",
+    "img-sub": "oneesan01.png",
+    "example-ja": "A「(お姉:ねえ)さん、(何:なに)、(飲:の)んでるの？」B「(コーヒー:こーひー)」",
+    "example-en": "A: \"What are you drinking, older sister?\" B: \"Coffee.\"",
+    "notes-en": "\"Oneesan\" is a polite way to refer to someone else's older sister. It is also used when talking to your own older sister. However, when you use it to address someone who is not your older sister, it becomes very rude.",
+    "notes-ja": "一般的に「お姉さん」は、他人の姉を丁寧に呼ぶ言葉です。自分の姉に話しかけるときに使います。あなたのお姉さんでもない女の人に呼びかけるときは、非常に下品なことば遣いになります。"
+  },
+  {
     "date": "2025.03.04",
     "day": "Tue",
     "number": 331,
