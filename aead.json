@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.03.06",
+    "day": "Thu",
+    "number": 333,
+    "index": "otoutosan",
+    "title": "Younger brother",
+    "expression": "おとうとさん",
+    "roman": "Otoutosan",
+    "English": "Younger brother",
+    "img-sub": "otoutosan01.png",
+    "example-ja": "A「(弟:おとうと)さん、(確:たし)かお(医者:いしゃ)さんでしたよね？」B「ええ、(弟:おとうと)は(今:いま)、NPO法人で(働:はたら)いていますよ」",
+    "example-en": "A: \"Your younger brother was a doctor, wasn't he?\" B: \"Yes, my younger brother is working for an NPO now.\"",
+    "notes-en": "\"Otoutosan\" is a polite way to refer to someone else's younger brother. When you refere your own younger brother, you should use \"otouto.\" You cannot call your own younger brother either \"otoutosan\" or \"otouto.\" You should call him by his name.",
+    "notes-ja": "一般的に「弟さん」は、他人の弟を丁寧に指示することばです。自分の弟を話題にするときは「弟」を使います。自分の弟を呼ぶときには「弟さん」や「弟」のどちらも使えません。名前で呼びましょう。"
+  },
+  {
     "date": "2025.03.05",
     "day": "Wed",
     "number": 332,
