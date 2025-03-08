@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.03.09",
+    "day": "Sun",
+    "number": 336,
+    "index": "muchuudesu",
+    "title": "I'm into it",
+    "expression": "...に(夢中:むちゅう)です",
+    "roman": "...ni muchuu desu",
+    "English": "I'm into it",
+    "img-sub": "muchuudesu01.png",
+    "example-ja": "A「(最近:さいきん)、(何:なに)に(夢中:むちゅう)？」B「(読書:どくしょ)に(夢中:むちゅう)です」",
+    "example-en": "A: \"What are you into lately?\" B: \"I'm into reading.\"",
+    "notes-en": "\"Muchuu\" is a noun that means \"absorption\" or \"obsession.\" The particle \"ni\" indicates the object of the action, and \"desu\" is the polite form of the copula \"da\" (to be). This phrase is used to express that you are absorbed in something and have a strong interest in it. Saying \"I'm into reading\" can give the impression that you are eager to learn. Manga is also one of the things you can read.",
+    "notes-ja": "「夢中になっています」は、「absorbed in」や「obsessed with」を意味する名詞「夢中」に、「に」は動作の対象を示す助詞、「です」は丁寧形の判定詞「だ」（to be）です。このフレーズは、何かに夢中であり、非常に興味を持っていることを表現するために使われます。だいたい「読書に夢中です」と言っておけば、勉強熱心な印象を与えることができます。マンガも読書の一つです。"
+  },
+  {
     "date": "2025.03.08",
     "day": "Sat",
     "number": 335,
@@ -9,7 +24,7 @@
     "roman": "O-ki no doku",
     "English": "I'm sorry to hear that",
     "img-sub": "okinodoku01.png",
-    "example-ja": "A「(昨日:きのう)、メガネ、なくした」B「それは、お(気:き)の(毒:どく)さま。で、(見:み)つかった？」",
+    "example-ja": "A「(昨日:きのう)、(メガネ:めがね)、なくした」B「それは、お(気:き)の(毒:どく)さま。で、(見:み)つかった？」",
     "example-en": "A: \"I lost my glasses yesterday.\" B: \"I'm sorry to hear that. Did you find them?\"",
     "notes-en": "\"O-ki no doku sama\" is an expression used to show sympathy when someone has experienced an unfortunate event. \"O-ki\" is a polite prefix with \"ki\" meaning \"heart\" or \"mind.\" \"No\" is a possessive particle, \"doku\" means \"poison\" or \"misfortune,\" and \"sama\" is an honorific suffix.",
     "notes-ja": "「お気の毒さま」は、誰かが不運な出来事に遭ったときに同情を示すフレーズです。「お気」は丁寧な接頭辞で、「気」は「心」や「気持ち」を意味します。「の」は所有を示す助詞、「毒」は「毒」や「不運」を意味し、「さま」は敬意を示す接尾辞です。"
