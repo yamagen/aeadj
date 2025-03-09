@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.03.10",
+    "day": "Mon",
+    "number": 337,
+    "index": "shinjirarenai",
+    "title": "I can't believe it",
+    "expression": "(信:しん)じられない",
+    "roman": "Shinjirarenai",
+    "English": "I can't believe it",
+    "img-sub": "shinjirarenai01.png",
+    "example-ja": "A「お(待:ま)たせ」B「(信:しん)じられない。1(時間:じかん)も(遅:おく)れて」",
+    "example-en": "A: \"Sorry to keep you waiting.\" B: \"I can't believe it. You're an hour late.\"",
+    "notes-en": "\"Shinjirarenai\" is a phrase used to express disbelief or surprise. The word \"shinjirarenai\" is the negative potential form of the verb \"shinjiru\" (to believe). The negative potential form is used to express that something is impossible or difficult to do. This phrase is used to express that you are surprised or shocked by something that is hard to believe.",
+    "notes-ja": "「信じられない」は、不信や驚きを表現するためのフレーズです。「信じられない」は動詞「信じる」（to believe）の否定可能形です。否定可能形は、何かができないか、難しいことを表現するために使われます。このフレーズは、信じがたいことに驚いたりショックを受けたりすることを表現するために使われます。"
+  },
+  {
     "date": "2025.03.09",
     "day": "Sun",
     "number": 336,
