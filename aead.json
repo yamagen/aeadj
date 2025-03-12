@@ -4860,9 +4860,10 @@
     "number": 10,
     "index": "sentakushi",
     "title": "Sentaku-shi/Choice",
-    "expression": "ええ、それにはいくつか(チョイス:ちょいす)があって、..",
-    "roman": "Ee, sore ni wa ikutsuka choice ga atte,..",
-    "English": "Yes, there are several choices for that,..",
+    "expression": "(チョイス:ちょいす) or (選択肢:せんたくし)",
+    "roman": "choisu or sentaku-shi",
+    "example-ja": "ええ、それにはいくつか(選択肢:せんたくし)があって、..",
+    "example-en": "Yes, there are several choices for that,..",
     "notes-en": "The word \"choice\" is used in Japanese to mean \"option\" or \"selection.\" It is a loanword from English. The Japanese word for \"choice\" is \"sentaku\" or \"sentaku-shi.\" To master Japanese, or to pretend to be a good Japanese user, you prepare some fixed phrases like this one.",
     "notes-ja": "「チョイス」は「選択肢」や「選択」を意味するために日本語で使用されます。 これは英語からの借用語です。 日本語の「選択肢」や「選択」のための日本語の言葉は「選択」や「選択」です。 日本語をマスターするため、または良い日本語のユーザーであるふりをするために、このような固定フレーズをいくつか用意しておきます。"
   },
@@ -4874,7 +4875,8 @@
     "title": "Don't do that!",
     "expression": "するな！",
     "roman": "suruna",
-    "English": "Don't do that!",
+    "example-ja": "するな！",
+    "example-en": "Don't do that!",
     "notes-en": "The word \"suruna\" is a command form of the verb \"suru\" which means \"to do.\" The word \"na\" is a negative command form of the verb \"nai\" which means \"not to do.\" The word \"suruna\" is used to tell someone not to do something. It is a strong and direct way to tell someone not to do something.",
     "notes-ja": "「するな」は、「する」という動詞の命令形です。 「な」は、「ない」という動詞の否定命令形です。 「するな」は、誰かに何かをしないように伝えるために使用されます。 それは、誰かに何かをしないように伝えるための強い、直接的な方法です。"
   },
@@ -4886,7 +4888,8 @@
     "title": "No verb but it's a sentence.",
     "expression": "お(腹:なか)、いっぱい。",
     "roman": "onaka, ippai.",
-    "English": "I'm full, I'm full, I'm full.(I cannot eat anymore.)",
+    "example-ja": "お(腹:なか)、いっぱい、いっぱい、いっぱい。",
+    "example-en": "I'm full, I'm full, I'm full.(I cannot eat anymore.)",
     "notes-en": "\"Onaka ippai\" consists of only two words: \"onaka\" (stomach, noun), \"ippai\"(full, adjective). It is still a sentence even if it does not include any verbs. There are many such sentences in Japanese.",
     "notes-ja": "「お腹、いっぱい」は2つの単語で構成されています。「お腹」（胃、名詞）、「いっぱい」（満腹、形容詞）。 動詞が含まれていなくても、それはまだ文です。 日本語にはそのような文がたくさんあります。"
   },
@@ -4913,7 +4916,7 @@
     "expression": "ご(予約:よやく)",
     "roman": "go-yoyaku",
     "example-ja": "(本日:ほんじつ)はご(予約:よやく)のお(客様:きゃくさま)のみの(営業:えいぎょう)とさせていただきます。",
-    "English": "Today, we will be open only for customers with reservations.",
+    "example-en": "Today, we will be open only for customers with reservations.",
     "img": "goyoyaku01.png",
     "notes-en": "This is a phrase that is often used in the restaurant business. But I do not know the restaurant really do not accept walk-in customers.",
     "notes-ja": "これは、レストラン業界でよく使用されるフレーズです。 しかし、本当に歩いてきた顧客を受け入れないレストランがあるかどうかはわかりません。"
