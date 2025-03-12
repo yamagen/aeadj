@@ -1,6 +1,21 @@
 [
   {
-    "date": "2025.03.11",
+    "date": "2025.03.13",
+    "day": "Thu",
+    "number": 340,
+    "index": "anone",
+    "title": "You know what?",
+    "expression": "あのね",
+    "roman": "Ano ne",
+    "English": "You know what?",
+    "img-sub": "anone01.png",
+    "example-ja": "A「あのね、ママ、ずっと(大好:きのう)きだよ」B「ありがとう」",
+    "example-en": "A: \"You know what, Mom, I've always loved you.\" B: \"Thank you.\"",
+    "notes-en": "\"Ano ne\" is a phrase used to start a conversation or to emphasize what you are about to say. The word \"ano\" means \"that\" or \"um,\" and \"ne\" is a particle that indicates a request for agreement or understanding. This phrase is used to draw attention to what you are about to say. It is often used when you want to share something important or when you want to express your feelings. It is also used when you want to talk about something that is difficult to say.",
+    "notes-ja": "「あのね」は、会話を始めるときや、言いたいことを強調するためのフレーズです。「あの」は「that」や「um」を、「ね」は同意や理解を求める助詞です。このフレーズは、言いたいことに注意を引くために使われます。大切なことを共有したいときや、自分の気持ちを表現したいときによく使われます。また、言いにくいことを話したいときにも使われます。"
+  },
+  {
+    "date": "2025.03.12",
     "day": "Wed",
     "number": 339,
     "index": "omakaseshimasu",
@@ -15,7 +30,7 @@
     "notes-ja": "「お任せします」は、決定を他の人に委ねるときに使うフレーズです。「お任せ」は「entrust」や「leave it to you」という意味があり、「します」は動詞「する」（to do）の丁寧形です。このフレーズは決まり文句として、友だちや家族との関係でも「お休みなさい」や「いただきます」と同じように丁寧な表現のまま使います。「任せる」と言うと、やや乱暴な印象や上から目線のニュアンスがあります。使うとすれば、例えばサッカーの試合でペナルティーキックを任せる場面など、緊張感のある状況で「おまえに任せる」と言うことが考えられます。また、「お任せ」には別の意味もあります。寿司屋で料理長にメニューの選択を任せることを指します。"
   },
   {
-    "date": "2025.03.10",
+    "date": "2025.03.11",
     "day": "Tue",
     "number": 338,
     "index": "omoshirosou",
