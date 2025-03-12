@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025.03.11",
+    "day": "Wed",
+    "number": 339,
+    "index": "omakaseshimasu",
+    "title": "I'll leave it to you",
+    "expression": "お(任:まか)せします",
+    "roman": "Omakase shimasu",
+    "English": "I'll leave it to you",
+    "img-sub": "omakaseshimasu01.png",
+    "example-ja": "A「どこで(晩:ばん)ご(飯:はん)、(食:た)べる？」B「お(任:まか)せします」",
+    "example-en": "A: \"Where do you want to eat dinner?\" B: \"I'll leave it to you.\"",
+    "notes-en": "\"Omakase shimasu\" is a phrase used to leave a decision or task to someone else. The word \"omakase\" means \"entrust\" or \"leave it to you,\" and \"shimasu\" is the polite form of the verb \"suru\" (to do). This phrase is a set expression and is used politely even among friends and family, similar to phrases like \"good night\" and \"itadakimasu.\" Saying \"makaseru\" sounds a bit rough or condescending. It might be used in tense situations, such as during a sports game when a player says, \"I'll leave it to you\" before a penalty kick in soccer. \"Omakase\" also has another meaning: it refers to leaving the menu selection to the chef at a sushi restaurant.",
+    "notes-ja": "「お任せします」は、決定を他の人に委ねるときに使うフレーズです。「お任せ」は「entrust」や「leave it to you」という意味があり、「します」は動詞「する」（to do）の丁寧形です。このフレーズは決まり文句として、友だちや家族との関係でも「お休みなさい」や「いただきます」と同じように丁寧な表現のまま使います。「任せる」と言うと、やや乱暴な印象や上から目線のニュアンスがあります。使うとすれば、例えばサッカーの試合でペナルティーキックを任せる場面など、緊張感のある状況で「おまえに任せる」と言うことが考えられます。また、「お任せ」には別の意味もあります。寿司屋で料理長にメニューの選択を任せることを指します。"
+  },
+  {
+    "date": "2025.03.10",
+    "day": "Tue",
+    "number": 338,
+    "index": "omoshirosou",
+    "title": "It looks interesting",
+    "expression": "おもしろそう",
+    "roman": "Omoshirosou",
+    "English": "It looks interesting",
+    "img-sub": "omoshirosou01.png",
+    "example-ja": "この(映画:えいが)、おもしろそう。",
+    "example-en": "This movie looks interesting.",
+    "notes-en": "\"Omoshirosou\" is a phrase used to express that something looks interesting or fun. The word \"omoshiroi\" means \"interesting\" or \"fun,\" and \"sou\" is a suffix that indicates that something looks a certain way. This phrase is used to express that you are interested in something based on your first impression. It is often used when you see something for the first time, such as a movie, book, or event.",
+    "notes-ja": "「おもしろそう」は、何かがおもしろそうだということを表現するためのフレーズです。「おもしろい」は「interesting」や「fun」を、「そう」は何かがあるように見えることを示す接尾辞です。このフレーズは、最初の印象に基づいて何かに興味を持っていることを表現するために使われます。映画や本、イベントなど、初めて見るものに対してよく使われます。"
+  },
+  {
     "date": "2025.03.10",
     "day": "Mon",
     "number": 337,
