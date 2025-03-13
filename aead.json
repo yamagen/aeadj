@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.03.14",
+    "day": "Fri",
+    "number": 341,
+    "index": "konainokatoomottayo",
+    "title": "I thought that you wouldn't come.",
+    "expression": "(来:こ)ないのかと(思:おも)ったよ",
+    "roman": "konai no ka to omotta yo",
+    "Enghlish": "I thought that you wouldn't come.",
+    "img-sub": "konainokatoomottayo01.png",
+    "example-ja": "A「(遅:おそ)くなって、(ごめん)」B「(来:こ)ないのかと(思:おも)ったよ」",
+    "example-en": "A: \"I'm sorry I'm late.\" B: \"I thought that you wouldn't come.\"",
+    "notes-en": "\"Konai no ka to omottayo\" is a phrase used to express that you thought something would not happen, but it did. The word \"konai\" is the negative form of the verb \"kuru\" (to come), \"no\" is a particle that indicates the subject of the sentence, \"ka\" is a question particle, \"to\" is a conjunction that means \"and,\" and \"omottayo\" is the past tense of the verb \"omou\" (to think). Expressions of time when something happened differently from what you thought may vary depending on the language, so be sure to check.",
+    "notes-ja": "「来ないのかと思ったよ」は、何かが起こらないと思っていたが、実際に起こったことを表現するためのフレーズです。「来ない」は動詞「来る」（to come）の否定形、「の」は文の主語を示す助詞、「か」は疑問を示す助詞、「と」は接続詞で「and」を意味し、「思ったよ」は動詞「思う」（to think）の過去形です。この例のように思っていたことと違う結果になったときの時間に関する表現は、言語によって異なることがあるので、確認しておきましょう。"
+  },
+  {
     "date": "2025.03.13",
     "day": "Thu",
     "number": 340,
