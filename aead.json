@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025.03.15",
+    "day": "Sat",
+    "number": 342,
+    "index": "shikataganai",
+    "title": "It can't be helped",
+    "expression": "(仕方:しかた)がない",
+    "roman": "Shikata ga nai",
+    "English": "No way for it",
+    "img-sub": "shikataganai01.png",
+    "example-ja": "A「(雨:あめ)、(降:ふ)ってきた」B「(仕方:しかた)がないね」",
+    "example-en": "A: \"It's raining.\" B: \"No way for it.\"",
+    "notes-en": "\"Shikata ga nai\" is a phrase used to express that there is no way to change a situation or that something cannot be helped. The word \"shikata\" means \"way\" or \"method,\" \"ga\" is a particle that indicates the subject of the sentence, and \"nai\" is the negative form of the verb \"aru\" (to be). This phrase is used to express that you have no choice but to accept a situation as it is. It is often used when something happens that is beyond your control, such as bad weather or a delay in public transportation.",
+    "notes-ja": "「仕方がない」は、状況を変える方法がないことや、どうしようもないことを表現するためのフレーズです。「仕方」は「way」や「method」を、「が」は文の主語を示す助詞、「ない」は動詞「ある」（to be）の否定形です。このフレーズは、状況を受け入れるしかないことを表現するために使われます。コントロールできないことが起こったとき、例えば悪天候や公共交通機関の遅延など、よく使われます。"
+  },
+  {
     "date": "2025.03.14",
     "day": "Fri",
     "number": 341,
