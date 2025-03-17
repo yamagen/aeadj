@@ -1,5 +1,50 @@
 [
   {
+    "date": "2025.03.18",
+    "day": "Tue",
+    "number": 345,
+    "index": "mitemite, kore",
+    "title": "Look at this",
+    "expression": "(見:み)て(見:み)て、これ",
+    "roman": "Mite mite, kore",
+    "English": "Look at this",
+    "img-sub": "mitemitekore01.png",
+    "example-ja": "A「(見:み)て(見:み)て、これ」B「(何:なに)？」",
+    "example-en": "A: \"Look at this.\" B: \"What?\"",
+    "notes-en": "\"Mite mite, kore\" is an expression used to draw someone's attention to something. \"Mite\" is the te-form of the verb \"miru\" (to see), and \"kore\" means \"this.\" This expression is used when you want to show someone something or share something interesting. Japanese is an SOV language, meaning that verbs are usually placed at the end in formal speech. However, in casual conversation, you can say \"Mite! Kore!\" to create a sense of immediacy or excitement. You can say the key word first, depending on what you want to emphasize.",
+    "notes-ja": "「見て見て、これ」は、誰かの注意を何かに向けさせるための表現です。「見て」は動詞「見る」（to see）のテ形で、「これ」は「this」を意味します。この表現は、誰かに何かを見せたいときや、興味深いものを共有したいときに使われます。日本語はSOV（主語-目的語-動詞）言語なので、動詞を文末に置くのが基本ですが、カジュアルな会話では「見て！これ！」のように語順を変えることで、臨場感や驚きを表現できます。言いたい語を先に言うことで、強調したい部分を目立たせることができます。"
+  },
+  {
+    "date": "2025.03.17",
+    "day": "Mon",
+    "number": 344,
+    "index": "dokoniiruno",
+    "title": "Where are you?",
+    "expression": "どこにいるの",
+    "roman": "Doko ni iru no",
+    "English": "Where are you?",
+    "img-sub": "dokoniiruno01.png",
+    "example-ja": "A「(今:いま)、どこにいるの？」B「(図書館:としょかん)にいるよ」",
+    "example-en": "A: \"Where are you now?\" B: \"I'm at the library.\"",
+    "notes-en": "\"Doko ni iru no\" is a phrase used to ask where someone is. The word \"doko\" means \"where,\" \"ni\" is a particle that indicates the location, \"iru\" is the verb \"iru\" (to be) in the present tense, and \"no\" is a particle that seeks confirmation. This phrase is used when asking someone's location over the phone or when looking for someone.",
+    "notes-ja": "「どこにいるの」は、誰かがどこにいるか尋ねるためのフレーズです。「どこ」は「where」を、「に」は場所を示す助詞を、「いる」は現在形の動詞「いる」（to be）を、「の」は確認を求める助詞を意味します。これは電話で相手の場所を尋ねるときや、誰かを探しているときに使われます。"
+  },
+  {
+    "date": "2025.03.16",
+    "day": "Sun",
+    "number": 343,
+    "index": "noni",
+    "title": "would've done",
+    "expression": "..V-taのに",
+    "roman": "Noni",
+    "English": "would have done",
+    "img-sub": "noni01.png",
+    "example-ja": "A「え、(歩:ある)いて来たの？」B「うん」A「(電話:でんわ)してくれれば、(迎:むか)えに(行:い)ったのに」",
+    "example-en": "A: \"Huh? You walked here?\" B: \"Yeah.\" A: \"If you had called me, I would've picked you up.\"",
+    "notes-en": "\"Noni\" is a conjunction used to express regret or disappointment about something that did not happen. The word \"noni\" means \"although\" or \"despite.\" The verb before \"noni\" is in the past tense, and the verb after it is in the past or conditional form. In Japanese, you can easily express a hypothetical situation with just one word, \"noni.\" On the other hand, in English, you need a complex grammar structure like \"would have done.\" Considering this point, Japanese is more intuitive and easier to use.",
+    "notes-ja": "「のに」は、起こらなかったことに対する後悔や失望を表現するための接続詞です。「のに」は「although」や「despite」を意味します。「のに」の前の動詞は過去形で、後の動詞は過去形や仮定形です。「～たのに」は日本語では たった一語「のに」 を付けるだけで、仮定のニュアンスを簡単に表現できます。一方で、英語では \"would have done\" という複雑な文法構造が必要になります。この点を考えると、日本語のほうが直感的で使いやすいとも言えますね。"
+  },
+  {
     "date": "2025.03.15",
     "day": "Sat",
     "number": 342,
@@ -277,13 +322,28 @@
     "index": "kuwashikuhakono",
     "title": "Let me explain this in detail after this song.",
     "expression": "(詳:くわ)しくは、この(曲:きょく)のあと。",
+    "tags-ja": [
+      "即時文法",
+      "省略が多い",
+      "状況依存型の表現",
+      "リアルタイム性が強い"
+    ],
+    "tags-en": [
+      "Real-time grammar",
+      "Many omissions",
+      "Context-dependent expressions",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "詳しくは、この曲が終わった後にご説明いたします。",
+    "adjusted-expression-en": "Let me explain this in detail after this song is over.",
+
     "roman": "Kuwashiku ha, kono kyoku no ato.",
     "English": "Let me explain this in detail after this song.",
     "img-sub": "kuwashikuhakono01.png",
     "example-ja": "A「これ、(プレゼント:ぷれぜんと)？」B「ええ、(詳:くわ)しくは、この(曲:きょく)のあと」",
     "example-en": "A: \"Is this a present?\" B: \"Yes, let me explain this in detail after this song.\"",
-    "notes-en": "\"Kuwashiku ha, kono kyoku no ato\" is used to indicate that you will explain something in detail after something else. The word \"kuwashiku\" means \"in detail,\" \"ha\" is a particle that indicates the subject of the sentence, \"kono\" means \"this,\" \"kyoku\" means \"song,\" and \"ato\" means \"after.\" The sentence can end with a noun. In language, you can speak in any order you like without worrying about grammar.",
-    "notes-ja": "「詳しくは、この曲の後」は、何かの後に詳しく説明することを示すため使われます。「詳しく」は「in detail」を、「は」は文の主語を示す助詞、「この」は「this」を、「曲」は「song」を、「後」は「after」を意味します。文は名詞で終わってもかまいません。言語は、文法を気にせず、思った順に話してもよいのです。"
+    "notes-en": "\"Kuwashiku ha, kono kyoku no ato\" is used to indicate that you will explain something in detail after something else. The word \"kuwashiku\" means \"in detail,\" \"ha\" is a particle that indicates the topic of the sentence, \"kono\" means \"this,\" \"kyoku\" means \"song,\" and \"ato\" means \"after.\" This expression omits the verb at the end, making it concise yet understandable in context. Japanese allows flexible word order and omission in spoken language.",
+    "notes-ja": "「詳しくは、この曲の後」は、何かの後に詳しく説明することを示すために使われる表現です。この表現では、通常の文であれば「詳しくは、この曲が終わった後にご説明いたします。」のように動詞が入るはずですが、ここでは動詞が省略されています。それでも文脈から意味が伝わるのは、即時文法の特徴です。言語は、文法を厳密に守らなくても、話し手の意図を伝えることができます。"
   },
   {
     "date": "2025.02.24",
