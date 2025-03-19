@@ -1,5 +1,36 @@
 [
   {
+    "date": "2025.03.19",
+    "day": "Wed",
+    "number": 346,
+    "index": "doredore",
+    "title": "Let me see.",
+    "expression": "どれどれ",
+    "roman": "Dore dore",
+    "English": "Let me see.",
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "くりかえし表現",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "Many omissions",
+      "Context-dependent expressions",
+      "Repetitive expressions",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "どちらでしょうか。",
+    "adjusted-expression-en": "Which one would it be?",
+    "img-sub": "doredore01.png",
+    "example-ja": "A「これ、(見:み)て」B「どれどれ」",
+    "example-en": "A: \"Look at this.\" B: \"Let me see.\"",
+    "notes-en": "\"Dore dore\" is an expression used when you want to take a look at something that someone is showing or referring to. The phrase consists of \"dore\" (which one) repeated twice, creating a more natural and immediate reaction. This phrase is often used when you approach a child looking at toys, but it can also be used in casual conversations when someone is showing you something and you want to take a closer look. It is a typical example of immediate grammar, as the verb is omitted but the meaning is clearly understood from context.",
+    "notes-ja": "「どれどれ」は、誰かが何かを見せているときに、それを確認しようとする即時的な反応を示す表現です。「どれ」は「which one」を意味し、これを繰り返すことで、より自然なリアルタイムの反応になります。この表現では動詞が省略されていますが、文脈によって「見せて」「確認しよう」という意図が明確に伝わります。例えば、子供が何かを見せようとしているときに親しみを持って使うこともできますが、大人同士の会話でも「どれどれ？」と言って何かを確認するときに使えます。"
+  },
+  {
     "date": "2025.03.18",
     "day": "Tue",
     "number": 345,
@@ -322,6 +353,8 @@
     "index": "kuwashikuhakono",
     "title": "Let me explain this in detail after this song.",
     "expression": "(詳:くわ)しくは、この(曲:きょく)のあと。",
+    "roman": "Kuwashiku ha, kono kyoku no ato.",
+    "English": "Details after this song.",
     "tags-ja": [
       "即時文法",
       "省略が多い",
@@ -337,8 +370,6 @@
     "adjusted-expression-ja": "詳しくは、この曲が終わった後にご説明いたします。",
     "adjusted-expression-en": "Let me explain this in detail after this song is over.",
 
-    "roman": "Kuwashiku ha, kono kyoku no ato.",
-    "English": "Let me explain this in detail after this song.",
     "img-sub": "kuwashikuhakono01.png",
     "example-ja": "A「これ、(プレゼント:ぷれぜんと)？」B「ええ、(詳:くわ)しくは、この(曲:きょく)のあと」",
     "example-en": "A: \"Is this a present?\" B: \"Yes, let me explain this in detail after this song.\"",
