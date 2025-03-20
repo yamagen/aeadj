@@ -1,5 +1,62 @@
 [
   {
+    "date": "2025.03.21",
+    "day": "Fri",
+    "number": 348,
+    "index": "itsumodottekuruno",
+    "title": "When are you coming back?",
+    "expression": "(何時:いつ)、(戻:もど)ってくるの",
+    "roman": "Itsu, modotte kuru no",
+    "English": "When are you coming back?",
+    "tags-ja": ["即時文法", "状況依存型", "疑問「の」", "リアルタイム性"],
+    "tags-en": [
+      "immediate grammar",
+      "Context-dependent expressions",
+      "Question particle \"no\"",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "いつ、(戻:もど)って(来:く)るのですか。",
+    "adjusted-expression-en": "When will you be returning?",
+    "img-sub": "itsumodottekuruno01.png",
+    "example-ja": "A「(何時:いつ)、(戻:もど)ってくるの？」B「(夕方:ゆうがた)には(戻:もど)るよ」",
+    "example-en": "A: \"When are you coming back?\" B: \"I'll be back in the evening.\"",
+    "notes-en": "\"Itsu, modotte kuru no\" is a casual way to ask when someone will return. \"Itsu\" means \"when,\" \"modotte\" is the te-form of the verb \"modoru\" (to return), \"kuru\" is the present form of the verb \"kuru\" (to come), and \"no\" is a question particle. The particle \"no\" adds an inquisitive tone, often used in casual speech to seek information or ask for reasons.",
+    "notes-ja": "「いつ、戻って来るの」は、いつ戻るか尋ねるためのカジュアルな表現です。「いつ」は「when」、「戻って」は動詞「戻る」（to return）のテ形、「来る」は動詞「来る」（to come）の現在形、「の」は疑問を示す助詞です。疑問を示す助詞「の」は、カジュアルな会話で情報を求めたり、理由を尋ねる際にも使われます。"
+  },
+  {
+    "date": "2025.03.20",
+    "day": "Thu",
+    "number": 347,
+    "index": "dakaraittajan",
+    "title": "I told you so",
+    "expression": "だから(言:い)ったじゃん",
+    "roman": "Dakara ittajan",
+    "English": "I told you so",
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "くりかえし表現",
+      "縮約表現",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "Many omissions",
+      "Context-dependent expressions",
+      "Repetitive expressions",
+      "Contracted expressions",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "ですから、(私:わたし)はそのように(言:い)いました。",
+    "adjusted-expression-en": "That is why I mentioned it before.",
+    "img-sub": "dakaraittajan01.png",
+    "example-ja": "A「この道は通れないね」B「だから、(言:い)ったじゃん、(行:い)き(止:ど)まりだって」A「ごめんごめん」",
+    "example-en": "A: \"We can't go through this road.\" B: \"I told you so. It's a dead end.\" A: \"Sorry, sorry.\"",
+    "notes-en": "\"Dakara ittajan\" is a phrase used to express that you were right about something you said earlier. The word \"dakara\" means \"therefore\" or \"so,\" \"itta\" is the past tense of the verb \"iu\" (to say), and \"jan\" is a colloquial contraction of \"desu\" (to be). This phrase confirms that what you said earlier was correct and is commonly used in casual conversations among friends or family. It is a typical example of immediate grammar, as the specific details of what was said earlier are omitted, but the meaning is clearly understood from context.",
+    "notes-ja": "「だから言ったじゃん」は、以前に言ったことが正しかったことを表現するフレーズです。「だから」は「therefore」や「so」を、「言った」は動詞「言う」（to say）の過去形、「じゃん」は「です」の口語的な形です。このフレーズは、友達や家族とのカジュアルな会話でよく使われます。即時文法の典型的な例であり、話し手が以前に何を言ったのかは省略されていますが、文脈から意味が明確に理解されます。"
+  },
+  {
     "date": "2025.03.19",
     "day": "Wed",
     "number": 346,
