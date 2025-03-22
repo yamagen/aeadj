@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.03.22",
+    "day": "Sat",
+    "number": 349,
+    "index": "...teru,a!",
+    "title": "Oh, it's ...ing!",
+    "expression": "あ！(車:くるま)、(来:き)てる！",
+    "roman": "A! Kuruma, kiteru!",
+    "English": "Watch out! The car is coming!",
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "警告",
+      "縮約形",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "Many omissions",
+      "Context-dependent expressions",
+      "Warning",
+      "Contracted expressions",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "あ！(車:くるま)が(来:き)ています！",
+    "adjusted-expression-en": "Oh! The car is approaching.",
+    "img-sub": "terua01.png",
+    "example-ja": "A「あ！(車:くるま)、(来:き)てる！」B「(危:あぶ)ない！」",
+    "example-en": "A: \"Watch out! The car is coming!\" B: \"Be careful!\"",
+    "notes-en": "\"A! Kuruma, kiteru!\" is an expression used to warn someone immediately of danger. \"A\" is an interjection expressing surprise or warning, \"kuruma\" means \"car,\" \"kiteru\" is the contracted form of \"kite iru\" (is coming). This phrase is used when you need to warn someone immediately, for example, when a car is approaching or someone is about to bump into something. By contracting the verb \"kite iru\" to \"kiteru,\" the expression becomes more concise and suitable for real-time communication.",
+    "notes-ja": "「あ！車、来てる！」は、危険をすぐに知らせるための表現です。「あ」は驚きや警告を表す間投詞で、「車」は「car」、「来てる」は「来ている」の縮約形です。このフレーズは、車が近づいてきたり、誰かが何かにぶつかりそうな状況など、すぐに誰かに警告する必要がある場面でよく使われます。動詞「来ている」を「来てる」に縮約することで、表現がより簡潔になり、リアルタイムのコミュニケーションに適しています。"
+  },
+  {
     "date": "2025.03.21",
     "day": "Fri",
     "number": 348,
