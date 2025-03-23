@@ -1,5 +1,64 @@
 [
   {
+    "date": "2025.03.23",
+    "day": "Sun",
+    "number": 350,
+    "index": "nakineiridesune",
+    "title": "Endure in silence",
+    "expression": "それは、(結局:けっきょく)のところ、(泣:な)き(寝入:ねい)りですね",
+    "roman": "Sore wa, kekkyoku no tokoro, naki-neiri desu ne",
+    "English": "So in the end, you just have to endure it in silence, huh?",
+    "tags-ja": ["即時文法", "状況によっては調整文法", "評価表現"],
+    "tags-en": [
+      "immediate grammar",
+      "contextually adjustive",
+      "evaluation expression"
+    ],
+    "adjusted-expression-ja": "それは、(:)結局、どこにも(:)訴えることはできません。",
+    "adjusted-expression-en": "In the end, there was no legal recourse available.",
+    "example-ja": "A「(銀行:ぎんこう)(振:ふ)り(込:こ)みで(商品:しょうひん)が(送:おく)ってこなくて、(相手:あいて)の(住所:じゅうしょ)もわからないんです」B「それは、(結局:けっきょく)のところ、(泣:な)き(寝入:ねい)りですね」",
+    "example-en": "A: \"I transferred the money to their account, but the product never came—and I don't even know where they are.\" B: \"Well... sounds like you're just going to have to suffer in silence.\"",
+    "notes-en": "\"Naki-ne-iri desu ne\" is an expression used to describe a situation where someone has no choice but to endure silently. \"Naki\" is the continuative form of the verb \"naku\" (to cry), \"ne\" is the noun form of \"neru\" (to sleep), \"iri\" comes from \"iru\" (to enter), and \"desu ne\" is a sentence-final particle that seeks agreement. The phrase implies resignation or powerlessness, often used when someone is left without recourse.",
+    "notes-ja": "「泣き寝入り」は、黙って耐えるしかない状況を表す表現です。「泣き」は動詞「泣く」のマス形（「泣きます」の「ます」を取り除いた形で、連用形とも言う）、「寝」は「sleep」、「入り」は「enter」、「ですね」は「isn't it」を意味します。その人が文句を言わず、助けを求めずに状況に耐えるしかないことを暗示しています。",
+    "variation": [
+      {
+        "label-ja": "救済措置を受けられないまま終結",
+        "label-en": "received no remedy",
+        "register": "行政・報告書",
+        "description-ja": "法的・制度的な救済手段が取られないまま事態が終了したことを中立的に表す。",
+        "description-en": "A neutral expression indicating the matter ended without any legal or institutional remedy."
+      },
+      {
+        "label-ja": "事実上の放置",
+        "label-en": "effectively left unaddressed",
+        "register": "ニュース・報道",
+        "description-ja": "問題が放置されたことをやや批判的に表す報道文体の表現。",
+        "description-en": "A journalistic expression suggesting the issue was effectively ignored or unaddressed."
+      },
+      {
+        "label-ja": "訴えを断念",
+        "label-en": "gave up pursuing the claim",
+        "register": "報道・口語中立",
+        "description-ja": "被害者が訴えを途中であきらめたことを表すやや中立な言い回し。",
+        "description-en": "Describes the victim giving up on pursuing justice or compensation."
+      },
+      {
+        "label-ja": "制度的サポートの欠如が黙認・放置の結果を招いている",
+        "label-en": "lack of institutional support results in silent endurance",
+        "register": "学術・政策提言",
+        "description-ja": "制度的な不備が被害の見過ごしを招いていることを分析的に述べる。",
+        "description-en": "An analytical phrasing used to describe how institutional shortcomings lead to unaddressed suffering."
+      },
+      {
+        "label-ja": "権利救済の制度的アクセスが不十分である",
+        "label-en": "limited access to legal recourse",
+        "register": "学術・制度論",
+        "description-ja": "権利を回復する制度的手段が十分に整備されていないことを指す。",
+        "description-en": "Indicates insufficient institutional mechanisms for restoring rights."
+      }
+    ]
+  },
+  {
     "date": "2025.03.22",
     "day": "Sat",
     "number": 349,
