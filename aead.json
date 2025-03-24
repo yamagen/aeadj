@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.03.24",
+    "day": "Mon",
+    "number": 351,
+    "index": "saikin-dou",
+    "title": "How's it going?",
+    "expression": "(最近:さいきん)、どう？",
+    "roman": "Saikin, dou?",
+    "English": "How's it going?",
+    "intent-ja": ["挨拶", "近況確認"],
+    "intent-en": ["greeting", "check-in"],
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "疑問文",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expressions",
+      "Question",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "最近、どうですか？",
+    "adjusted-expression-en": "How have you been lately?",
+    "img-sub": "saikindou01.png",
+    "example-ja": "A「(最近:さいきん)、どう？」B「(元気:げんき)だよ、ありがとう」",
+    "example-en": "A: \"How's it going?\" B: \"I'm good, thanks.\"",
+    "notes-en": "\"Saikin, dou?\" is a casual way to ask how someone is doing. \"Saikin\" means \"lately\" or \"recently,\" and \"dou\" is a question word that means \"how.\" This phrase is often used in casual conversations among friends or family. It is a typical example of immediate grammar, as the verb is omitted but the meaning is clearly understood from context.",
+    "notes-ja": "「最近、どう？」は、誰かの近況を尋ねるカジュアルな表現です。「最近」は「lately」や「recently」を、「どう」は「how」を意味します。このフレーズは友達や家族とのカジュアルな会話でよく使われます。即時文法の典型的な例であり、動詞が省略されていますが、文脈から意味が明確に理解されます。"
+  },
+  {
     "date": "2025.03.23",
     "day": "Sun",
     "number": 350,
