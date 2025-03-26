@@ -1,5 +1,40 @@
 [
   {
+    "date": "2025.03.28",
+    "day": "Fri",
+    "number": 355,
+    "index": "nagara",
+    "title": "While doing something",
+    "expression": "(音楽:おんがく)、(聞:き)きながら...",
+    "roman": "...nagara",
+    "English": "While listening to music...",
+    "intent-ja": ["同時性", "並行"],
+    "intent-en": ["simultaneity", "concurrency"],
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "同時性",
+      "並行",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expressions",
+      "Simultaneity",
+      "Concurrency",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(音楽:おんがく)を(聞:き)ながら...",
+    "adjusted-expression-en": "While listening to music...",
+    "img-sub": "ongakukinagara01.png",
+    "example-ja": "A「(音楽:おんがく)、(聞:き)ながら、(勉強:べんきょう)してる」B「いいね」",
+    "example-en": "A: \"I'm studying while listening to music.\"",
+    "notes-en": "\"V1 nagara, V2\" is a phrase used to express that two actions are happening simultaneously. The verb V1 indicates the accompanying or background action, and the verb V2 indicates the main action. This phrase is often used to express multiple actions or activities happening concurrently. To form the \"...nagara\" sentence structure, you combine the verb in the te-form with \"nagara.\" For example, you combine the te-form of the verb \"kiku\" (to listen) with \"nagara.\"",
+    "notes-ja": "「V1-しながら、V2」は、2つの行動が同時に行われていることを表すフレーズです。V1の動詞が随伴的・背景的な行動を示し、V2の動詞が主要な行動を示します。このフレーズは、複数の行動や並行して行われている活動を表現するためによく使われます。「...しながら」の文形を作るためには、たとえば、動詞「聞く」の連用形「聞き」を「...しながら」と組み合わせます。"
+  },
+  {
     "date": "2025.03.27",
     "day": "Thu",
     "number": 354,
