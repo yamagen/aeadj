@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.03.27",
+    "day": "Thu",
+    "number": 354,
+    "index": "nandemo",
+    "title": "Anything will be fine",
+    "expression": "なんでもいいよ",
+    "roman": "Nandemoiiyo",
+    "English": "Anything would be fine",
+    "intent-ja": ["選択", "柔軟"],
+    "intent-en": ["choice", "flexibility"],
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "許可",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expressions",
+      "Permission",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "どれでもかまいませんよ。",
+    "adjusted-expression-en": "Any of them will be fine.",
+    "img-sub": "nandemoiiyo01.png",
+    "example-ja": "A「(何:なに)がいい？」B「なんでもいいよ」",
+    "example-en": "A: \"What would you like?\" B: \"Anything is fine.\"",
+    "notes-en": "\"Nandemo iiyo\" is a phrase used to express that you are okay with anything. \"Nandemo\" means \"anything,\" \"ii\" is the adjective \"ii\" (good), and \"yo\" is a sentence-final particle that seeks agreement. This phrase is often used to show flexibility or give permission when someone asks for your preference. By saying \"nandemo iiyo,\" you can convey that you are open to any option. However, in reality, not all options may be acceptable, so it is important to use this phrase appropriately depending on the context. Particularly dangerous is when you say \"nandemo iiyo\" to your girlfriend or boyfriend. When you say \"nandemo iiyo,\" the other person may ask, \"Do you really mean anything?\" Or when you say \"nandemo iiyo,\" the other person may feel that you are not interested in them. This could lead to the worst-case scenario.",
+    "notes-ja": "「なんでもいいよ」は、何でも受け入れられることを表現するフレーズです。「なんでも」は「anything」を、「いい」は形容詞「いい」（good）を、「よ」は同意を求める文末の助詞です。このフレーズは、誰かが好みを尋ねたときに、柔軟性を示したり、許可を与えたりするときによく使われます。\"なんでもいいよ\"を使うことで、どの選択肢にも対応できることを伝えることができます。しかし、実際には、どの選択肢も受け入れられるわけではない場合もありますので、文脈によって使い分けることが重要です。特に危険なのは、ガールフレンドやボーイフレンドに対して「なんでもいいよ」と言った場合です。あなたが「なんでもいいよ」と言ったとき、相手は「本当になんでもいいの？」と聞いてくるかもしれません。あるいは、あなたが「なんでもいいよ」と言ったとき、相手はあなたが自分に興味がないと感じるかもしれません。これはもしかしたら、最悪の事態をひき起こすかもしれません。"
+  },
+  {
     "date": "2025.03.26",
     "day": "Wed",
     "number": 353,
