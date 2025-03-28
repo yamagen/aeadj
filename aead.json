@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.03.29",
+    "day": "Sat",
+    "number": 356,
+    "index": "taritari",
+    "title": "Doing this and that",
+    "expression": "(寝:ね)たり、(食:た)べたり",
+    "roman": "Neta ri, tabe tari",
+    "English": "Sleeping, eating, and so on",
+    "intent-ja": ["列挙", "網羅"],
+    "intent-en": ["enumeration", "comprehensive"],
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "列挙",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expressions",
+      "Enumeration",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(寝:ね)たり、(食:た)べたりします。",
+    "adjusted-expression-en": "I sleep, eat, and so on.",
+    "img-sub": "taritari01.png",
+    "example-ja": "A「(休:やす)みの(日:ひ)は、(何:なに)してるの？」B「(寝:ね)たり、(食:た)べたりしてる」",
+    "example-en": "A: \"What do you do on your days off?\" B: \"I sleep, eat, and so on.\"",
+    "notes-en": "\"Neta ri, tabe tari\" is a phrase used to list multiple actions or activities. The verb in the te-form is repeated with \"tari\" to indicate that there are other similar actions or activities. This phrase is often used to express a non-exhaustive list of actions or activities. To form the \"...tari\" sentence structure, you combine the verb in the past tense with \"tari.\" For example, you combine the past tense of the verb \"neru\" (to sleep) with \"tari.\" This expression suggests that you are doing various representative actions and implies that you are doing other similar actions as well, without listing all of them.",
+    "notes-ja": "「V1-たり、V2-たりします」は、複数の行動や活動を列挙するためのフレーズです。V1の動詞が1つの行動を示し、V2の動詞が別の行動を示します。このフレーズは、網羅的でない一連の行動や活動を表現するためによく使われます。「...たり」の文形を作るためには、たとえば、動詞「寝る」の過去形「寝た」を「...たり」と組み合わせます。この表現は、いくつかの代表的な行動をとりあげて、それらのようなことをしていることを示します。すべての行動を網羅するのではなく、例として挙げた行動から、それ以外の同種の行動も行っていることをほのめかすような用法です。"
+  },
+  {
     "date": "2025.03.28",
     "day": "Fri",
     "number": 355,
