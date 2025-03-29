@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.03.30",
+    "day": "Sun",
+    "number": 357,
+    "index": "yatto dayo",
+    "title": "Finally, it's done",
+    "expression": "やっと、だよ",
+    "roman": "Yatto dayo",
+    "English": "Finally, it's done",
+    "intent-ja": ["達成", "完了"],
+    "intent-en": ["achievement", "completion"],
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "感情表現",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expressions",
+      "Emotional expression",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "やっと、(宿題:しゅくだい)が(終:お)わりました。",
+    "adjusted-expression-en": "Finally, the homework is done.",
+    "img-sub": "yattodayo01.png",
+    "example-ja": "A「(宿題:しゅくだい)、もう(終:お)わったの？」B「もう、じゃなくて、やっと、だよ」",
+    "example-en": "A: \"You done with your homework already?\" B: \"Not already, finally!\"",
+    "notes-en": "\"Yatto da yo\" is a phrase used to express a sense of achievement or relief upon completion. \"Yatto\" means \"finally,\" \"da\" is the plain form of the verb \"to be\" (like \"is\"), and \"yo\" is a sentence-final particle that indicates the speaker is presenting new or important information to the listener. This expression is commonly used when something has taken a long time or much effort to complete. The use of \"yatto\" highlights the speaker's feeling of relief or satisfaction.",
+    "notes-ja": "「やっとだよ」は、達成感や物事が完了したことによる安堵感を伝える表現です。「やっと」は「finally」、「だ」は「〜です」「〜だ」といった断定の表現、「よ」は相手にとって新規の情報を表す終助詞です。このフレーズは、長い時間や努力を要してようやく何かを終えたときによく使われます。「やっと」によって、話し手の安心感や満足感が強調されます。"
+  },
+  {
     "date": "2025.03.29",
     "day": "Sat",
     "number": 356,
@@ -5461,5 +5494,27 @@
     "English": "It's a loss if I/you don't do it",
     "notes-en": "It means that you should do it because you will have some good profit or benefit someday.",
     "notes-ja": "いつか何か良い利益や利益が得られるので、それをやるべきだという意味です。"
+  },
+  {
+    "date": "2024.04.10",
+    "day": "Wed",
+    "number": 0,
+    "index": "aead",
+    "title": "AEAD",
+    "expression": "(AEAD:えいあど)",
+    "roman": "AEAD",
+    "English": "An expression a day",
+    "introduction-en": {
+      "original": "AEAD: An expression a day\nan expression a day – a dictionary of instant grammar expressions\n\nThis dictionary is a record of words that arise \"at the moment of speaking.\"\nIt is neither organized grammar nor polished syntax.\nWords that are instantly uttered according to the situation —\nthe \"living form of words\" that appears only at that moment is recorded.\n\nBased on instant grammar, this dictionary re-examines the sense of \"words dwelling in the moment\" by clarifying the structure of expressions, intentions, and differences from paired adjustment grammar.",
+      "brief": "AEAD is a project that records natural words that are uttered in the moment. Focusing on instant grammar, we collect the living forms of words in daily expressions.",
+      "academic": "AEAD (an expression a day) is a dictionary project that classifies and describes everyday spoken expressions based on instant grammar. It analyzes expressions that are situationally dependent and used in real time, rather than organized forms of syntax or vocabulary, and aims to theoretically clarify the immediate aspects of language use through contrast with adjustment grammar.",
+      "friendly": "AEAD is a dictionary that collects \"words of the moment\" that come out of your mouth. \"Finally!\" \"Anything is fine!\" \"Oh! The car is coming!\" — these little words of daily life are full of the mystery and fun of language."
+    },
+    "introduction-ja": {
+      "original": "aead: 瞬間のことば\nan expression a day – 即時文法の表現辞典\n\nこの辞典は、「話された瞬間」に立ち上がることばを集めた記録です。\n整理された文法でもなく、練られた構文でもない。\n状況に応じて即座に発せられることば——\nその瞬間にしか現れない「ことばの生きたかたち」を記録しています。\n\n即時文法に基づき、表現の構造、意図、対となる調整文法との違いを明らかにしながら、\n「ことばが瞬間に宿る」という感覚を見つめ直す辞典です。",
+      "brief": "aead は、瞬間に発せられる自然なことばを記録するプロジェクトです。即時文法に着目し、日々の表現の中にあることばの生きたかたちを集めています。",
+      "academic": "aead (an expression a day) は、即時文法に基づいて日常的な発話表現を分類・記述する辞書プロジェクトである。構文や語彙の整理された形ではなく、状況依存的かつリアルタイムに使用される表現を分析対象とし、調整文法との対照によって、言語使用の即時的側面を理論的に明らかにすることを目的とする。",
+      "friendly": "aead は、ふと口をついて出る『瞬間のことば』を集めた辞典です。『やっとだよ』『なんでもいいよ』『あ！車、来てる！』——そんな日々のひとことに、ことばの不思議と面白さが詰まっています。"
+    }
   }
 ]
