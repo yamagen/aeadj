@@ -1,5 +1,71 @@
 [
   {
+    "date": "2025.04.01",
+    "day": "Tue",
+    "number": 359,
+    "index": "nonbiri",
+    "title": "Take it easy",
+    "expression": "(今度:こんど)、のんびり、(コーヒー:こーひー)でもどう？",
+    "roman": "Kondo, nonbiri, koohii demo dou?",
+    "English": "How about taking it easy with a coffee next time?",
+    "intent-ja": ["提案", "誘い"],
+    "intent-en": ["suggestion", "invitation"],
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "提案",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "suggestion",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(今度:こんど)、のんびり、(コーヒー:こーひー)でも(飲:の)みませんか？",
+    "adjusted-expression-en": "Would you like to have a relaxing coffee together sometime?",
+    "img-sub": "nonbiri.png",
+    "example-ja": "A「(今度:こんど)、のんびり、(コーヒー:こーひー)でもどう？」B「いいね」",
+    "example-en": "A: \"How about taking it easy with a coffee next time?\" B: \"Sounds good!\"",
+    "notes-en": "\"Nonbiri\" is a phrase used to express a relaxed or leisurely state. It means \"take it easy\" or \"relax,\" and it is often used in casual conversations to suggest a laid-back attitude. The use of the word \"dou\" at the end of the sentence indicates that the speaker is making a suggestion or invitation. When a close friend says this, it is better not to refuse too strongly, considering the other person's feelings. For example, if someone asks, \"How about taking it easy with a coffee next time?\" saying \"I can't this time\" might be a bit rude. Instead, it would be better to say something like, \"I can't this time, but please invite me again.\" Also, just because you're invited like this doesn't mean you have to go. The other person may not really want to go together. This is what we call 'shakoujirei' in Japanese, what might be called 'an empty promise disguised as a courteous remark' in English. In such cases, instead of asking, \"So when should we do it?\" just respond with \"Sure, let's do it!\"",
+    "notes-ja": "「のんびり」は、リラックスしたり、ゆったりとした状態を表現するためのフレーズです。「のんびり」は「take it easy」や「relax」を意味し、カジュアルな会話で使われることが多いです。このフレーズは、誰かに休憩を取ったり、一緒にゆったりとした時間を楽しむことを提案するときによく使われます。文末の「どう」は、提案や招待を示す表現です。本当に親しい人から、このように言われたときには、相手の気持ちを考えて、あまり強く断らない方が良いでしょう。たとえば、「今度、のんびり、コーヒーでもどう？」と聞かれたときに、「今度は無理」とだけ言うのは少し失礼です。相手の気持ちを考えて、「また誘ってね」と添えると、やわらかく断ることができます。また、こうした誘いは社交辞令であることも多く、必ずしも実行を前提にしていない場合もあります。そんなときは、「じゃ、いつにする？」などと詰めずに、「ええ、ぜひ」と返しておくのがスマートです。"
+  },
+  {
+    "date": "2025.03.31",
+    "day": "Mon",
+    "number": 358,
+    "index": "sounano",
+    "title": "Is that so?",
+    "expression": "そうなの？",
+    "roman": "Sou nano?",
+    "English": "Is that so?",
+    "intent-ja": ["確認", "疑問"],
+    "intent-en": ["confirmation", "question"],
+    "tags-ja": [
+      "即時文法",
+      "省略がある",
+      "状況依存型",
+      "疑問文",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Question",
+      "Strong real-time nature"
+    ],
+    "adjusted-expression-ja": "そうなんですか？(知:し)りませんでした。",
+    "adjusted-expression-en": "Is that so? I didn't know.",
+    "img-sub": "sounano01.png",
+    "example-ja": "A「(明日:あす)、(試験:しけん)だよね」B「そうなの？じゃないと(思:おも)うけど」",
+    "example-en": "A: \"The exam is tomorrow, right?\" B: \"Is that so? I don't think so.\"",
+    "notes-en": "\"Sou nano?\" is a phrase used to express surprise or confirmation. \"Sou\" means \"like that\" or \"is that so,\" and \"nano\" is a colloquial form of the question particle \"no.\" This phrase is often used in casual conversations to confirm information or express disbelief. The use of the question particle \"no\" adds a sense of inquiry or curiosity. The phrase \"ja nai to omou kedo\" is a light denial expression, indicating that the speaker thinks it is not the case. This allows for a shorter expression by omitting the word before \"ja nai,\" making it sound more natural and fluent, as native speakers often do.",
+    "notes-ja": "「そうなの？」は、驚きや確認を表現するためのフレーズです。「そう」は「like that」や「is that so」を意味し、「なの」は疑問の助詞「の」の口語的な形です。このフレーズは、カジュアルな会話で情報を確認したり、信じられないことを表現するためによく使われます。疑問の助詞「の」を使うことで、問いかけや好奇心を感じさせる効果があります。「じゃないと思うけど」は、軽く否定する表現で、相手の発言を受けて「そうではない」と思うことを伝えています。このように、「じゃない」の前のことばを省略して短く表現することで、母語話者のような自然な発話になります。"
+  },
+  {
     "date": "2025.03.30",
     "day": "Sun",
     "number": 357,
@@ -20,7 +86,7 @@
     "tags-en": [
       "immediate grammar",
       "omission",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Emotional expression",
       "Strong real-time nature"
     ],
@@ -53,7 +119,7 @@
     "tags-en": [
       "immediate grammar",
       "omission",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Enumeration",
       "Strong real-time nature"
     ],
@@ -87,7 +153,7 @@
     "tags-en": [
       "immediate grammar",
       "omission",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Simultaneity",
       "Concurrency",
       "Strong real-time nature"
@@ -121,7 +187,7 @@
     "tags-en": [
       "immediate grammar",
       "omission",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Permission",
       "Strong real-time nature"
     ],
@@ -155,7 +221,7 @@
     "tags-en": [
       "immediate grammar",
       "omission",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Emotional expression",
       "Question",
       "Strong real-time nature"
@@ -194,7 +260,7 @@
     "tags-en": [
       "immediate grammar",
       "omission",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Emotional expression",
       "interjectional usage",
       "Strong real-time nature"
@@ -230,7 +296,7 @@
     "tags-en": [
       "immediate grammar",
       "omission",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Question",
       "Strong real-time nature"
     ],
@@ -321,7 +387,7 @@
     "tags-en": [
       "immediate grammar",
       "Many omissions",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Warning",
       "Contracted expressions",
       "Strong real-time nature"
@@ -346,7 +412,7 @@
     "tags-ja": ["即時文法", "状況依存型", "疑問「の」", "リアルタイム性"],
     "tags-en": [
       "immediate grammar",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Question particle \"no\"",
       "Strong real-time nature"
     ],
@@ -378,7 +444,7 @@
     "tags-en": [
       "immediate grammar",
       "Many omissions",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Repetitive expressions",
       "Contracted expressions",
       "Strong real-time nature"
@@ -410,7 +476,7 @@
     "tags-en": [
       "immediate grammar",
       "Many omissions",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Repetitive expressions",
       "Strong real-time nature"
     ],
@@ -756,7 +822,7 @@
     "tags-en": [
       "immediate grammar",
       "Many omissions",
-      "Context-dependent expressions",
+      "Context-dependent expression",
       "Strong real-time nature"
     ],
     "adjusted-expression-ja": "詳しくは、この曲が終わった後にご説明いたします。",
@@ -5515,6 +5581,69 @@
       "brief": "aead は、瞬間に発せられる自然なことばを記録するプロジェクトです。即時文法に着目し、日々の表現の中にあることばの生きたかたちを集めています。",
       "academic": "aead (an expression a day) は、即時文法に基づいて日常的な発話表現を分類・記述する辞書プロジェクトである。構文や語彙の整理された形ではなく、状況依存的かつリアルタイムに使用される表現を分析対象とし、調整文法との対照によって、言語使用の即時的側面を理論的に明らかにすることを目的とする。",
       "friendly": "aead は、ふと口をついて出る『瞬間のことば』を集めた辞典です。『やっとだよ』『なんでもいいよ』『あ！車、来てる！』——そんな日々のひとことに、ことばの不思議と面白さが詰まっています。"
+    }
+  },
+  {
+    "project": "aead",
+    "title-ja": "aead: 瞬間のことば",
+    "title-en": "aead: Words of the Moment",
+    "description-ja": "aead (An expression a day) は、即時文法に注目して、話されたその瞬間に立ち上がる自然な表現を1日1つ記録していく辞典プロジェクトです。感情、状況、リアルタイム性などに支えられた、構文に還元できない『ことばの生きたかたち』を捉え、対照的に調整文法との関係も記述しています。",
+    "description-en": "aead (An expression a day) is a dictionary project focused on immediate grammar. It records one expression a day that arises in the moment of speech, capturing forms of language shaped by emotion, context, and real-time interaction—beyond structured syntax. Expressions are also contrasted with their adjusted (non-immediate) grammatical forms.",
+    "structure": {
+      "fields": [
+        "date",
+        "expression (ja/en)",
+        "translation (strict & natural)",
+        "example (ja/en)",
+        "tags (immediate grammar features)",
+        "adjusted-expression (ja/en)",
+        "notes (explanation)",
+        "intent (semantic/functional categories)"
+      ]
+    },
+    "progress": {
+      "start-date": "2024-04-10",
+      "current-date": "2025-03-30",
+      "total-entries": 357,
+      "continuity": "毎日継続中（365日で終わらず、無限に継続予定）"
+    },
+    "tags-ja-sample": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "感情表現",
+      "リアルタイム性"
+    ],
+    "tags-en-sample": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "emotional expression",
+      "real-time nature"
+    ],
+    "examples": [
+      {
+        "expression-ja": "やっと、だよ",
+        "expression-en": "Finally, it's done",
+        "adjusted-ja": "やっと、宿題が終わりました。",
+        "adjusted-en": "Finally, the homework is done."
+      },
+      {
+        "expression-ja": "なんでもいいよ",
+        "expression-en": "Anything would be fine",
+        "adjusted-ja": "どれでもかまいませんよ。",
+        "adjusted-en": "Any option is acceptable."
+      },
+      {
+        "expression-ja": "あ！車、来てる！",
+        "expression-en": "Watch out! The car is coming!",
+        "adjusted-ja": "車が来ていますので、気をつけてください。",
+        "adjusted-en": "The car is coming, so please be careful."
+      }
+    ],
+    "message": {
+      "ja": "このスレッドは、aead プロジェクトの文脈を引き継ぐ新たな記録の場です。",
+      "en": "This thread continues the context of the aead project as a new place for ongoing documentation."
     }
   }
 ]
