@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025.04.03",
+    "day": "Thu",
+    "number": 361,
+    "index": "yorimichishite",
+    "title": "Take a detour",
+    "expression-ja": "(寄:よ)り(道:みち)して",
+    "roman-ja": "Yorimichi shite",
+    "expression-en": "Take a detour",
+    "intent-ja": ["提案", "誘い"],
+    "intent-en": ["suggestion", "invitation"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "提案", "リアルタイム性"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "suggestion",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(寄:よ)り(道:みち)して、(帰:かえ)りましょう。",
+    "adjusted-expression-en": "Let's take a detour and go home.",
+    "img-sub": "yorimichishite01.png",
+    "example-ja": "A「(寄:よ)り(道:みち)して、(帰:かえ)ろ」B「いいね」",
+    "example-en": "A: \"Let's take a detour and go home.\" B: \"Sounds good!\"",
+    "notes-en": "\"Yorimichi shite kaero\" is a casual phrase used to suggest taking a detour on the way home. \"Yorimichi\" means \"detour,\" \"shite\" is the te-form of the verb \"suru\" (\"to do\"), and \"kaerou\" is the volitional form of \"kaeru\" (\"to go home\"). This expression is commonly used in everyday conversation to propose a spontaneous change of plans or to make the journey more enjoyable. The volitional form adds a nuance of suggestion or gentle invitation. It's a familiar phrase even in pop culture, for example, in the lyrics of Kazuyoshi Saito's song \"Aruite Kaerou.\"",
+    "notes-ja": "「寄り道して帰ろう」は、帰る途中で寄り道をすることを提案する表現です。「寄り道」は「detour」を、「して」は動詞「する」（to do）の連用形、「帰ろ」は動詞「帰る」の意向形です。このフレーズは、カジュアルな会話で使われることが多く、計画の変更や旅を楽しむための提案として使われます。意向形を使うことで、提案や誘いのニュアンスが強まります。斎藤和義の「歩いて帰ろう」などの歌詞にも使われている表現です。"
+  },
+  {
     "date": "2025.04.02",
     "day": "Wed",
     "number": 360,
