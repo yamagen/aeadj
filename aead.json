@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025.04.05",
+    "day": "Sat",
+    "number": 363,
+    "index": "kurete",
+    "title": "Thank you for doing ...",
+    "expression-ja": "(来:き)てくれてありがとう",
+    "roman-ja": "Kite kurete arigatou",
+    "expression-en": "Thank you for coming",
+    "intent-ja": ["感謝", "招待"],
+    "intent-en": ["gratitude", "invitation"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "感謝", "リアルタイム性"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "gratitude",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(来:き)てくださり、ありがとうございます。",
+    "adjusted-expression-en": "Thank you for coming.",
+    "img-sub": "kurete01.png",
+    "example-ja": "A「(来:き)てくれてありがとう」B「いえいえ、呼んでくれてありがとう」",
+    "example-en": "A: \"Thank you for coming.\" B: \"No, thank you for inviting me.\"",
+    "notes-en": "\"Kite kurete arigatou\" is a casual expression used to express gratitude for someone's presence or participation. It combines the verb \"kuru\" (to come) in the te-form \"kite\" with \"kurete,\" which indicates that the action was done for the speaker's benefit. This phrase is often used in informal settings, such as among friends or family, to acknowledge someone's effort in coming to an event or gathering. The use of \"arigatou\" (thank you) adds a polite touch to the expression.",
+    "notes-ja": "「来てくれてありがとう」は、誰かの存在や参加に感謝するためのカジュアルな表現です。「来る」の連用形「来て」と「くれて」を組み合わせたもので、話し手の利益のために行われた行動を示します。このフレーズは、友人や家族などのカジュアルな場面で、イベントや集まりに来てくれたことへの感謝を表すためによく使われます。「～てくれてありがとう」あるいはその丁寧「～てくださり、ありがとうございます」は、相手の行動が話し手にとって嬉しいことを伝える文型です。友達、家族以外には「～てくださり、ありがとうございます」と言うのが一般的です。"
+  },
+  {
     "date": "2025.04.04",
     "day": "Fri",
     "number": 362,
