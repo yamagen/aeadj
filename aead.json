@@ -1,6 +1,35 @@
 [
   {
     "date": "2025.04.05",
+    "day": "Sun",
+    "number": 364,
+    "index": "yameteyo",
+    "title": "Cut it out",
+    "expression-ja": "ちょっと、やめてよ",
+    "roman-ja": "Chotto, yamete yo",
+    "expression-en": "Oh, no, cut it out.",
+    "variants-ja": ["やめてよ", "やめて", "やめてください"],
+    "variants-en": ["Cut it out", "Stop it", "Please stop"],
+    "intent-ja": ["拒否", "感情", "照れ", "冗談"],
+    "intent-en": ["refusal", "emotion", "embarrassment", "joking"],
+    "tags-ja": ["即時文法", "感情表現", "状況依存型", "リアルタイム性", "呼応"],
+    "tags-en": [
+      "immediate grammar",
+      "emotional expression",
+      "context-dependent",
+      "real-time nature",
+      "responsive"
+    ],
+    "adjusted-expression-ja": "そういうことはやめてください。",
+    "adjusted-expression-en": "Please don't say such things.",
+    "img-sub": "yameteyo01.png",
+    "example-ja": "A「(今日:きょう)は(髪型:かみがた)、すてきだね」B「ちょっと、やめてよ」",
+    "example-en": "A: \"Your hairstyle looks great today.\" B: \"Oh, no, cut it out.\"",
+    "notes-en": "\"Yamete yo\" is a casual expression used to ask someone to stop doing something. It combines the verb \"yameru\" (to stop) in the te-form \"yamete\" with the informal particle \"yo,\" which adds emphasis or emotion to the request. This phrase is often used in informal settings, such as among friends or family, and can convey a sense of embarrassment or playfulness. The phrase can also be used in a joking manner, depending on the context. In more formal situations, one might use \"yamete kudasai\" instead, which is a more polite way to make a sincere request for someone to stop.",
+    "notes-ja": "「やめてよ」は、誰かに何かをやめてほしいと頼むカジュアルな表現です。「やめる」の連用形「やめて」と、感情を強調するための口語的な助詞「よ」を組み合わせたものです。このフレーズは、友人や家族などのカジュアルな場面でよく使われ、照れくささや遊び心を伝えることができます。文脈によっては冗談として使われることもあります。よりフォーマルな場面では「やめてください」と言うことが一般的で、本当に止めてほしいときに使います。"
+  },
+  {
+    "date": "2025.04.05",
     "day": "Sat",
     "number": 363,
     "index": "kurete",
@@ -23,7 +52,7 @@
     "img-sub": "kurete01.png",
     "example-ja": "A「(来:き)てくれてありがとう」B「いえいえ、呼んでくれてありがとう」",
     "example-en": "A: \"Thank you for coming.\" B: \"No, thank you for inviting me.\"",
-    "notes-en": "\"Kite kurete arigatou\" is a casual expression used to express gratitude for someone's presence or participation. It combines the verb \"kuru\" (to come) in the te-form \"kite\" with \"kurete,\" which indicates that the action was done for the speaker's benefit. This phrase is often used in informal settings, such as among friends or family, to acknowledge someone's effort in coming to an event or gathering. The use of \"arigatou\" (thank you) adds a polite touch to the expression.",
+    "notes-en": "\"Kite kurete arigatou\" is a casual expression used to express gratitude for someone's presence or participation. It combines the verb \"kuru\" (to come) in the te-form \"kite\" with \"kurete,\" which indicates that the action was done for the speaker's benefit. This phrase is commonly used in casual settings, such as among friends or family, to express appreciation for someone's attendance at an event or gathering. The phrase \"~te kurete arigatou\" or its more polite form \"~te kudasari, arigatou gozaimasu\" conveys that the speaker is pleased with the action taken by the other person. It is generally used in formal situations with people other than friends or family.",
     "notes-ja": "「来てくれてありがとう」は、誰かの存在や参加に感謝するためのカジュアルな表現です。「来る」の連用形「来て」と「くれて」を組み合わせたもので、話し手の利益のために行われた行動を示します。このフレーズは、友人や家族などのカジュアルな場面で、イベントや集まりに来てくれたことへの感謝を表すためによく使われます。「～てくれてありがとう」あるいはその丁寧「～てくださり、ありがとうございます」は、相手の行動が話し手にとって嬉しいことを伝える文型です。友達、家族以外には「～てくださり、ありがとうございます」と言うのが一般的です。"
   },
   {
