@@ -1,5 +1,34 @@
 [
   {
+    "date": "2025.04.11",
+    "day": "Fri",
+    "number": 366,
+    "index": "motomokomonai",
+    "title": "ruine everything",
+    "expression-ja": "(元:もと)も(子:こ)もない",
+    "roman-ja": "Motomokomonai",
+    "expression-en": "ruin everything",
+    "variants-ja": ["(台:だい)なし", "すべてが(水:みず)の(泡:あわ)"],
+    "variants-en": ["ruin everything", "nothing left", "everything is gone"],
+    "intent-ja": ["否定"],
+    "intent-en": ["negation"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "否定", "リアルタイム性"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "negation",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(台:だい)なしにしないで",
+    "adjusted-expression-en": "Don't ruin everything.",
+    "img-sub": "motomokomonai01.png",
+    "example-ja": "A「(無理:むり)しちゃいけない。(体:からだ)、(壊:こわ)したら(元:もと)も(子:こ)もない」",
+    "example-en": "A: \"Don't overdo it. If you break your body, there will be nothing left.\"",
+    "notes-en": "\"Motomokomonai\" is a phrase used to express the idea that if something goes wrong, there will be nothing left or everything will be ruined. \"Moto\" means \"origin\" or \"source,\" and \"ko\" means \"child\" or \"offspring.\" This phrase is often used in casual conversations to warn someone not to overdo it or to take care of themselves. It can also be used in a joking manner, depending on the context. ",
+    "notes-ja": "「元も子もない」は、何かがうまくいかないときに、元の状態や大切なものが失われてしまうことを表現するフレーズです。「元」は「origin」や「source」を、「子」は「child」や「offspring」を意味します。このフレーズは、カジュアルな会話で誰かに無理をしないように警告したり、自分自身を大切にするように促すためによく使われます。文脈によっては冗談として使われることもあります。"
+  },
+  {
     "date": "2025.04.10",
     "day": "Thu",
     "number": 365,
