@@ -1,5 +1,44 @@
 [
   {
+    "date": "2025.04.12",
+    "day": "Sat",
+    "number": 367,
+    "index": "nawakenaidesho",
+    "title": "Don't be silly",
+    "expression-ja": "な(訳:わけ)ないでしょ",
+    "roman-ja": "Na wake nai desho",
+    "expression-en": "Don't be silly",
+    "variants-ja": [
+      "まさか",
+      "ちょっと待ってよ",
+      "ありえない",
+      "どうして、そうなる？"
+    ],
+    "variants-en": [
+      "Come on",
+      "No way",
+      "That's impossible",
+      "How could that happen?"
+    ],
+    "intent-ja": ["否定", "驚き"],
+    "intent-en": ["negation", "surprise"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "否定", "リアルタイム性"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "negation",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "そんなことはないと思います。",
+    "adjusted-expression-en": "I don't think that's the case.",
+    "img-sub": "nawakenaidesho01.png",
+    "example-ja": "A「あの(人:ひと)、(実:じつ)は(宇宙人:うちゅうじん)なんじゃない？」B「な(訳:わけ)ないでしょ！(漫画:まんが)の(読:よ)みすぎ！」",
+    "example-en": "A: \"That person is actually an alien, right?\" B: \"Don't be silly! You're reading too many comics!\"",
+    "notes-en": "\"Nawakenaidesho\" is a casual expression used to deny something or express disbelief. It combines the word \"nawa\" (meaning \"that kind of thing\") with the negative form \"kenai\" (meaning \"not possible\") and the particle \"desho,\" which adds emphasis or emotion to the statement. This phrase is often used in informal settings, such as among friends or family, to express surprise or disbelief at a situation. The phrase can also be used in a joking manner, depending on the context. In more formal situations, one might use \"sonna koto wa nai deshou\" instead, which is a more polite way to express disbelief.",
+    "notes-ja": "「な訳ないでしょ」は、何かを否定したり、信じられないことを表現するカジュアルな表現です。「な訳」は「that kind of thing」を意味し、「ない」は否定形、「でしょ」は強調や感情を加える助詞です。このフレーズは、友人や家族などのカジュアルな場面で使われることが多く、状況に対する驚きや疑念を表現します。文脈によっては冗談として使われることもあります。よりフォーマルな場面では「そんなことはないでしょう」と言うことが一般的です。"
+  },
+  {
     "date": "2025.04.11",
     "day": "Fri",
     "number": 366,
