@@ -1,5 +1,34 @@
 [
   {
+    "date": "2025.04.13",
+    "day": "Sun",
+    "number": 368,
+    "index": "kitto",
+    "title": "Surely",
+    "expression-ja": "きっと、(正解:せいかい)",
+    "roman-ja": "Kitto, seikai",
+    "expression-en": "Surely, it's the answer.",
+    "variants-ja": ["きっと", "たぶん", "おそらく", "確かに"],
+    "variants-en": ["Surely", "Probably", "Perhaps", "Certainly"],
+    "intent-ja": ["確信", "予測"],
+    "intent-en": ["certainty", "prediction"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "確信", "リアルタイム性"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "certainty",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "きっと、正解だと思います。",
+    "adjusted-expression-en": "I think it's surely the answer.",
+    "img-sub": "kitto01.png",
+    "example-ja": "A「(正解:せいかい)は、きっと、これだ」B「きっと、そうだね」",
+    "example-en": "A: \"Surely, the answer is this.\" B: \"Surely, that's right.\"",
+    "notes-en": "\"Kitto\" is a casual expression used to convey certainty or strong belief about something. It can be translated as \"surely\" or \"probably,\" and it is often used in informal conversations to express confidence in a prediction or assumption. The phrase is commonly used in everyday situations, such as when discussing plans or making guesses. \"Seikai\" means \"answer,\" but it can also be used to express the feeling of having made the right choice after being uncertain.",
+    "notes-ja": "「きっと」は、何かに対する確信や強い信念を表現するカジュアルな表現です。「きっと」は「surely」や「probably」と訳され、カジュアルな会話で予測や仮定に自信を持っていることを表すためによく使われます。このフレーズは、計画を話し合ったり、推測したりする日常的な状況でよく使われます。「正解」は「answer」を意味しますが、問題の答という意味以外にも、「迷っていたけれどもそれを選んでよかった」と思うときに使えます。"
+  },
+  {
     "date": "2025.04.12",
     "day": "Sat",
     "number": 367,
