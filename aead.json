@@ -1,5 +1,34 @@
 [
   {
+    "date": "2025.04.14",
+    "day": "Mon",
+    "number": 369,
+    "index": "teiuka",
+    "title": "I mean ...",
+    "expression-ja": "て(言:い)うか、(チャンス:ちゃんす)がないっていうか、...",
+    "roman-ja": "Te iu ka, chansu ga nai tte iu ka, ...",
+    "expression-en": "I mean, ...",
+    "variants-ja": ["むしろ、...", "じゃなくて、...", "というよりも、..."],
+    "variants-en": ["Rather, ...", "Not that, ...", "More than that, ..."],
+    "intent-ja": ["説明", "強調", "言い換え"],
+    "intent-en": ["explanation", "emphasis", "rephrasing"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "説明", "リアルタイム性"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "explanation",
+      "strong real-time quality"
+    ],
+    "adjusted-expression-ja": "と言いますか、チャンスがないと申しますか、...",
+    "adjusted-expression-en": "Or rather, I should say, there just aren't many opportunities...",
+    "img-sub": "teiuka01.png",
+    "example-ja": "A「いい(仕事:しごと)がないの？」B「て(言:い)うか、そもそも(チャンス:ちゃんす)(自体:じたい)がないっていうか、...」",
+    "example-en": "A: \"Is there no good job?\" B: \"I mean, there are no chances at all, ...\"",
+    "notes-en": "\"Te iu ka\" is a casual expression to guide the conversation or to correct the previous statement. It can be translated as \"I mean\" or \"rather,\" and it is often used in informal conversations to clarify or emphasize a point. The phrase is commonly used in everyday situations, such as when discussing plans or making guesses. In more formal situations, one might use \"to iimasu ka\" instead, which is a more polite way to express the same idea.",
+    "notes-ja": "「て言うか」は、相手の表現が核心から外れていて、それを修正し、自分の言いたいことを表現するフレーズです。「言う」は「to say」を意味し、「か」は疑問や説明のニュアンスを加える助詞です。このフレーズは、友人や家族などのカジュアルな場面で使われることが多く、追加の文脈を提供したり、ポイントを強調したりするために使われます。よりフォーマルな場面では「と言いますか、...」と言うことが一般的です。"
+  },
+  {
     "date": "2025.04.13",
     "day": "Sun",
     "number": 368,
