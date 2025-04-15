@@ -1,5 +1,90 @@
 [
   {
+    "date": "2025.04.16",
+    "day": "Wed",
+    "number": 371,
+    "index": "attoiumani",
+    "title": "In the blink of an eye",
+    "expression-ja": "(あっ:あっ)という(間:ま)に",
+    "roman-ja": "A tto iu mani",
+    "expression-en": "In the blink of an eye",
+    "variants-ja": [
+      "たちまち",
+      "(一瞬:いっしゅん)のうちに",
+      "(瞬:またた)く(間:ま)に",
+      "(即座:そくざ)に"
+    ],
+    "variants-en": [
+      "In an instant",
+      "In a moment",
+      "In a flash",
+      "Immediately"
+    ],
+    "intent-ja": ["時間", "即時性"],
+    "intent-en": ["time", "immediacy"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "時間", "即時性"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "time",
+      "immediacy"
+    ],
+    "adjusted-expression-ja": "あっという(間:ま)に、(終:お)わってしまいました。",
+    "adjusted-expression-en": "It ended in the blink of an eye.",
+    "img-sub": "attoiumani01.png",
+    "example-ja": "A「おいしかった？」B「(あっ:あっ)という(間:ま)に、(食:た)べちゃった」",
+    "example-en": "A: \"Was it delicious?\" B: \"In the blink of an eye, I ate it.\"",
+    "notes-en": "\"Atto iu mani\" is a casual expression used to describe something that happens very quickly or unexpectedly. The word \"atto\" means the sound of a person saying something, which implies a very short time, and \"iu mani\" means \"a moment to say ...\" This phrase is often used in everyday situations to talk about events or experiences that occurred suddenly. Depending on the context, it can also be used jokingly.",
+    "notes-ja": "「あっという間に」は、非常に早く、または予期せぬ出来事を表現するカジュアルな表現です。「あっ」は人が言語を1つ発する音、すなわち、とても短い時間を意味し、「いう間」は「a moment to say ...」を意味します。このフレーズは、日常的な状況で、突然起こった出来事や経験について話すときに使われます。文脈によって冗談として使われることもあります。"
+  },
+  {
+    "date": "2025.04.15",
+    "day": "Tue",
+    "number": 370,
+    "index": "jibunshidai",
+    "title": "It's up to you",
+    "expression-ja": "(自分:じぶん)(次第:しだい)",
+    "roman-ja": "Jibun shidai",
+    "expression-en": "It's up to you",
+    "variants-ja": [
+      "(自分:じぶん)(次第:しだい)",
+      "あなた(次第:しだい)",
+      "君(次第:しだい)"
+    ],
+    "variants-en": [
+      "It's up to you",
+      "It's your choice",
+      "It's your decision",
+      "You decide"
+    ],
+    "intent-ja": ["選択", "決定", "責任"],
+    "intent-en": ["choice", "decision", "responsibility"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "選択",
+      "責任",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "choice",
+      "responsibility",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "それは、(本人:ほんにん)の(気持:きも)ち(次第:しだい)ですね。",
+    "adjusted-expression-en": "It's up to the person involved.",
+    "img-sub": "jibunshidai01.png",
+    "example-ja": "それをやるかどうかは、(自分:じぶん)(次第:しだい)。",
+    "example-en": "Whether to do it or not is up to you.",
+    "notes-en": "\"Jibun shidai\" is a casual expression used to indicate that the decision or choice is up to the individual. It combines the word \"jibun\" (meaning \"oneself\") with \"shidai\" (meaning \"depending on\" or \"based on\"). This phrase is often used in informal conversations to express that the speaker is leaving the decision to someone else. It can also imply a sense of responsibility or ownership over the choice being made. It is sometimes used to imply that the outcome or success also depends on one's own efforts or motivation.",
+    "notes-ja": "「自分次第」は、決定や選択が個人に委ねられていることを示すカジュアルな表現です。「自分」は「oneself」を、「次第」は「depending on」や「based on」を意味します。このフレーズは、カジュアルな会話で、話し手が他の人に決定を委ねていることを表現するためによく使われます。また、選択に対する責任感や所有感を暗示することもあります。また、結果や成功が自分自身の努力や意欲にかかっていることを暗に示す使い方もされます。"
+  },
+  {
     "date": "2025.04.14",
     "day": "Mon",
     "number": 369,
