@@ -1,5 +1,46 @@
 [
   {
+    "date": "2025.04.17",
+    "day": "Thu",
+    "number": 372,
+    "index": "kigakiteru",
+    "title": "That was thoughtful!",
+    "expression-ja": "(気:き)が(利:き)いてる！",
+    "roman-ja": "Ki ga kiiteru!",
+    "expression-en": "That was thoughtful!",
+    "variants-ja": [
+      "よく(気:き)がつく",
+      "よく(気:き)が(利:き)く",
+      "(気:き)がまわる",
+      "(気配:くば)りがある"
+    ],
+    "variants-en": [
+      "How thoughtful!",
+      "So considerate!",
+      "You're so attentive.",
+      "That was really nice of you."
+    ],
+    "intent-ja": ["称賛", "感謝", "評価"],
+    "intent-en": ["praise", "appreciation", "evaluation"],
+    "tags-ja": ["即時文法", "評価", "会話", "省略", "文末"],
+    "tags-en": [
+      "immediate grammar",
+      "evaluation",
+      "conversation",
+      "ellipsis",
+      "sentence-final"
+    ],
+    "adjusted-expression-ja": "(気:き)が(利:き)いていますね。",
+    "adjusted-expression-en": "That's very thoughtful of you.",
+    "img-sub": "kigakiteru01.png",
+    "example-ja": "A「あ、(コーヒー:こーひー)に(チョコレート:ちょこれーと)がついてる！」B「ちょっと、(気:き)が(利:き)いてるね」",
+    "example-en": "A: \"A piece of chocolate is on the side of the coffee!\" B: \"Oh, that was thoughtful!\"",
+    "notes-en": "\"Kigakiteru\" is a casual expression used to praise someone for their thoughtfulness or consideration. It combines the word \"ki\" (meaning \"spirit\" or \"mind\") with \"kiteru\" (meaning \"to be attentive\" or \"to be considerate\"). This phrase is often used in informal settings to express appreciation for someone's actions or behavior that show care and attention to others. It can also be used when someone does something small but thoughtful. But it's more effective to say this expression in a way that the person can hear it rather than directly to her. After all, isn't that how human relationships work?",
+    "notes-ja": "「気が利いてる」は、誰かの思いやりや配慮を称賛するためのカジュアルな表現です。「気」は「spirit」や「mind」を意味し、「利いてる」は「to be attentive」や「to be considerate」を意味します。このフレーズは、他人を思いやる行動や振る舞いだけでなく、ちょっとした小さなサービスに感心したときに、思わず発する表現です。でも、この表現は「気が利いている」人に直接言わず、聞こえるように言った方が効果的ですよ。人間関係ってそんなもんじゃないですか？",
+    "column-ja": "ベルギーを旅行したとき、コーヒーを頼むと必ずといっていいほど小さなチョコレートが添えられてきました。ちょっとした心遣いなのですが、それが嬉しくて『気が利いてるなあ』と毎回思ったものです。この表現を聞くと、あの香ばしいコーヒーとチョコの香りを思い出します。",
+    "column-en": "When I traveled in Belgium, every cup of coffee came with a little chocolate. It was a small gesture, but I found it so charming—truly thoughtful. Whenever I hear the phrase 'kigakiteru', I remember the aroma of coffee mingling with sweet chocolate in cozy cafés across the country."
+  },
+  {
     "date": "2025.04.16",
     "day": "Wed",
     "number": 371,
