@@ -1,5 +1,64 @@
 [
   {
+    "date": "2025.04.19",
+    "day": "Sat",
+    "number": 374,
+    "index": "ieiemadamada,..",
+    "title": "Not yet ...",
+    "expression-ja": "いえいえ、まだまだ、...",
+    "roman-ja": "Ie ie, mada mada, ...",
+    "expression-en": "Not yet ...",
+    "variants-ja": [
+      "いえいえ、そんな、...",
+      "とんでもないです、...",
+      "まだまだですよ、...",
+      "いやいや、全然です、...",
+      "いえ、私なんてまだまだ、...",
+      "恐縮です、...",
+      "とてもそんな、...",
+      "まだまだ未熟で、...",
+      "とても及びません、..."
+    ],
+    "variants-en": [
+      "Oh no, not at all...",
+      "I'm still learning, really...",
+      "Not even close...",
+      "I’m flattered, but no...",
+      "Far from it...",
+      "I’m not there yet...",
+      "I have a long way to go...",
+      "You're too kind...",
+      "I'm still just a beginner..."
+    ],
+    "intent-ja": ["謙遜", "否定"],
+    "intent-en": ["humility", "negation"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "謙遜",
+      "否定",
+      "繰り返し",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "humility",
+      "negation",
+      "repetition",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "いえいえ、そんなことはないですよ。",
+    "adjusted-expression-en": "Oh no, that's not true at all.",
+    "img-sub": "ieiemadamada01.png",
+    "example-ja": "A「(ピアノ:ぴあの)、お(上手:じょうず)ですね」B「いえいえ、まだまだ...」",
+    "example-en": "A: \"You're good at piano.\" B: \"Oh no, not at all...\"",
+    "notes-en": "\"Ie ie, mada mada\" is a casual expression used to express humility or modesty in response to a compliment. It combines the word \"ie\" (meaning \"no\") with \"mada\" (meaning \"not yet\" or \"still\"). This phrase is often used in informal conversations to downplay one's abilities or achievements. The phrase can also be used in a joking manner, depending on the context. In more formal situations, one might use \"ie, sonna koto wa nai desu\" instead, which is a more polite way to express the same idea. In Japan, it is considered a virtue to be humble, and even if someone is truly skilled, they might say \"ie ie, mada mada\" to express modesty. However, there are always some people who, while saying \"ie ie, mada mada,\" immediately show off their amazing skills.",
+    "notes-ja": "「いえいえ、まだまだ」は、褒められたときに謙遜や控えめな気持ちを表現するカジュアルな表現です。「いえ」は「no」を意味し、「まだ」は「not yet」や「still」を意味します。このフレーズは、カジュアルな会話で自分の能力や業績を控えめに表現するためによく使われます。文脈によって冗談として使われることもあります。よりフォーマルな場面では「いえ、そんなことはないです」と言うことが一般的です。だいたい、本当に上手であったとしても「いえいえ、まだまだ」と謙遜するのが日本人の美徳です。しかし、図々しい人はどこにでもいるもので、「いえいえ、まだまだ」と言いながら、そのあとすぐ、すごいテクニックを見せ付ける人がいます。"
+  },
+  {
     "date": "2025.04.18",
     "day": "Fri",
     "number": 373,
