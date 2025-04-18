@@ -1,5 +1,43 @@
 [
   {
+    "date": "2025.04.18",
+    "day": "Fri",
+    "number": 373,
+    "index": "sate,..",
+    "title": "Well, ...",
+    "expression-ja": "さて、...",
+    "roman-ja": "Sate, ...",
+    "expression-en": "Well, ...",
+    "variants-ja": ["さて、...", "それでは、...", "じゃあ、...", "では、..."],
+    "variants-en": ["Well, ...", "Then, ...", "So, ...", "Now, ..."],
+    "intent-ja": ["提案", "疑問", "談話標識"],
+    "intent-en": ["suggestion", "question", "discourse marker"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "新規発話",
+      "リアルタイム性",
+      "話題転換"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "new utterance",
+      "strong real-time nature",
+      "topic change",
+      "transition"
+    ],
+    "adjusted-expression-ja": "それでは、つぎです。",
+    "adjusted-expression-en": "Well, let's move on to the next one.",
+    "img-sub": "sate01.png",
+    "example-ja": "A「さて、まずはじめに、(問題:もんだい)です」",
+    "example-en": "A: \"Well, first of all, here's a question.\"",
+    "notes-en": "\"Sate\" is a casual expression used to transition to a new topic or to introduce something. It can be translated as \"well\" or \"now,\" and it is often used in informal conversations to signal a change in focus or to prepare the listener for what is coming next. The phrase is commonly used in everyday situations, such as when starting a presentation or introducing a new subject. In more formal situations, one might use \"soredewa\" instead, which is a more polite way to express the same idea.",
+    "notes-ja": "「さて」は、新しい話題に移るときや、何かを紹介するときに使われるカジュアルな表現です。「well」や「now」と訳され、カジュアルな会話で焦点を変えたり、次に来ることに備えてリスナーを準備させたりするためによく使われます。このフレーズは、プレゼンテーションを始めたり、新しいテーマを紹介したりする日常的な状況でよく使われます。フォーマルな場面では「それでは」と言うことが多いかもしれません。"
+  },
+  {
     "date": "2025.04.17",
     "day": "Thu",
     "number": 372,
