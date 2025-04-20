@@ -1,5 +1,49 @@
 [
   {
+    "date": "2025.04.21",
+    "day": "Mon",
+    "number": 376,
+    "index": "ikeru, ikeru",
+    "title": "I can do it",
+    "expression-ja": "(行:い)ける、(行:い)ける",
+    "roman-ja": "Ikeru, ikeru",
+    "expression-en": "I can do it",
+    "variants-ja": ["できる", "いける", "やれる", "可能だ"],
+    "variants-en": [
+      "Go for it",
+      "I'm good",
+      "I can do it",
+      "I can go",
+      "I can make it",
+      "It's possible"
+    ],
+    "intent-ja": ["可能", "行動"],
+    "intent-en": ["possibility", "action"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "可能性",
+      "行動",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "possibility",
+      "action",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(行:い)けると(思:おも)います。",
+    "adjusted-expression-en": "I think I can do it.",
+    "img-sub": "ikeru01.png",
+    "example-ja": "A「(行:い)ける？」B「(行:い)ける、(行:い)ける」",
+    "example-en": "A: \"Can you do it?\" B: \"I can do it, I can do it.\"",
+    "notes-en": "\"Ikeru, ikeru\" is a casual expression used to convey the idea of being able to do something or to express encouragement. It can be translated as \"I can do it\" or \"Go for it,\" and is often used in informal conversations to show confidence in someone's ability. This phrase is common in everyday situations, such as when encouraging a friend or colleague to take on a challenge. In more formal situations, one might use \"dekimasu\" instead, which is a more polite way to express the same idea—typically with a clearer subject or object. Additionally, depending on context, \"ikeru\" can also mean \"It's okay\" or even \"It's so good I could eat a lot of it.\"",
+    "notes-ja": "「行ける、行ける」は、何かをすることができるという考えを伝えたり、励ましの気持ちを表現したりするカジュアルな表現です。「行ける」は「I can do it」や「Go for it」と訳され、カジュアルな会話で他人の能力に自信を持っていることを表すためによく使われます。このフレーズは、友人や同僚に挑戦するように励ます日常的な状況でよく使われます。よりフォーマルな場面では「できます」と言うことが一般的ですが、そういうときには、具体的に何ができるかを述べた方がいいですね。他にも、「行ける」と言うときは、「大丈夫」とか「おいしくていくつでも食べられる」などの意味でも使われます。"
+  },
+  {
     "date": "2025.04.20",
     "day": "Sun",
     "number": 375,
