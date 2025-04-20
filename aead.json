@@ -1,5 +1,67 @@
 [
   {
+    "date": "2025.04.20",
+    "day": "Sun",
+    "number": 375,
+    "index": "omowazu,..",
+    "title": "Without thinking ...",
+    "expression-ja": "(思:おも)わず、...",
+    "roman-ja": "Omowazu, ...",
+    "expression-en": "Without thinking ...",
+    "variants-ja": [
+      "無意識に",
+      "つい",
+      "はからずも",
+      "反射的に",
+      "直感的に",
+      "無意識のうちに",
+      "反射的に",
+      "意に反して",
+      "考えずに",
+      "咄嗟に"
+    ],
+    "variants-en": [
+      "instinctively",
+      "unconsciously",
+      "reflexively",
+      "involuntarily"
+    ],
+    "intent-ja": ["行動", "反応", "意識", "心理", "感情"],
+    "intent-en": [
+      "action",
+      "reaction",
+      "awareness",
+      "consciousness",
+      "emotion",
+      "psychology"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "行動",
+      "反応",
+      "意識",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "action",
+      "reaction",
+      "awareness",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(配慮:はいりょ)も(十分:じゅうぶん)にせずに、(発言:はつげん)してしまいました。",
+    "adjusted-expression-en": "I spoke without thinking about the consideration.",
+    "img-sub": "omowazu01.png",
+    "example-ja": "A「(思:おも)わず、(本当:ほんとう)のこと、(言:い)っちゃった」",
+    "example-en": "A: \"I said the truth without thinking.\"",
+    "notes-ja": "「思わず」は、意図せずに、咄嗟に反応してしまうことを表す表現です。「考えるより先に行動が出る」ような瞬間に使われ、英語では「without thinking」や「instinctively」と訳されます。\n\nたとえば、「思わず本当のことを言ってしまった」という場合、本人にとっては後から「言わなければよかった」と思うような場面かもしれません。周囲の人が口にしない本音を代弁する形になったのでしょう。皆も内心では同じことを思っていたかもしれません。\n\nですが、「思わず言ってしまった」ことは、気にしても仕方ありません。こうした即時的な反応は、誰にでもあることです。",
+    "notes-en": "\"Omowazu\" refers to an action or reaction that occurs instinctively or unintentionally, often before any conscious thought. It conveys a sense of doing something before realizing it, and is typically translated as \"without thinking\" or \"instinctively.\"\n\nFor example, in the phrase \"I said the truth without thinking,\" the speaker might later regret having spoken. Perhaps they voiced what others were thinking but dared not say aloud. In that case, while it might have been better to stay silent, it’s already done.\n\nSince such instinctive reactions are common and natural, there's no point in worrying too much. It happens to everyone."
+  },
+  {
     "date": "2025.04.19",
     "day": "Sat",
     "number": 374,
