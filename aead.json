@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025.04.22",
+    "day": "Tue",
+    "number": 377,
+    "index": "demo,...",
+    "title": "But,...",
+    "expression-ja": "でも、...",
+    "roman-ja": "Demo, ...",
+    "expression-en": "But ...",
+    "variants-ja": [
+      "でも、...",
+      "しかし、...",
+      "だけど、...",
+      "けど、...",
+      "とはいえ、...",
+      "それでも、..."
+    ],
+    "variants-en": [
+      "But ...",
+      "However ...",
+      "Though ...",
+      "Still ...",
+      "Nevertheless ..."
+    ],
+    "intent-ja": ["否定", "反論", "対照", "対比", "逆接"],
+    "intent-en": [
+      "negation",
+      "refutation",
+      "contrast",
+      "comparison",
+      "adversative"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "否定",
+      "反論",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "negation",
+      "refutation",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "しかしながら、...",
+    "adjusted-expression-en": "However,...",
+    "img-sub": "demo01.png",
+    "example-ja": "A「おいしいね」B「でも、あまり、(見:み)た(目:め)がきれいじゃない」",
+    "example-en": "A: \"It's delicious.\" B: \"But it doesn't look very good.\"",
+    "notes-en": "\"Demo\" is a casual expression used to introduce a contrasting idea or to express disagreement. It can be translated as \"but\" or \"however,\" and it is often used in informal conversations to indicate a change in direction or to present an opposing viewpoint. The phrase is commonly used in everyday situations, such as when discussing opinions or making suggestions. In more formal situations, one might use \"shikashi\" instead, which is a more polite way to express the same idea. Additionally, \"demo\" is often used in a light-hearted or humorous context, making it a versatile expression in casual conversations. It is typically two syllables long, making it easier to say than the more formal alternatives.",
+    "notes-ja": "「でも」は、対照的な考えを導入したり、反論を表現したりするためのカジュアルな表現です。「but」や「however」と訳され、カジュアルな会話で方向転換や反対意見を示すためによく使われます。このフレーズは、意見を述べたり提案をしたりする日常的な状況でよく使われます。よりフォーマルな場面では「しかし」と言うことが一般的です。2音節ですから、「でも」の方が言いやすいですね。"
+  },
+  {
     "date": "2025.04.21",
     "day": "Mon",
     "number": 376,
