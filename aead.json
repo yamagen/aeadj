@@ -1,5 +1,52 @@
 [
   {
+    "date": "2025.04.23",
+    "day": "Wed",
+    "number": 378,
+    "index": "kekka, o-rai",
+    "title": "All right, even if we got some troubles",
+    "expression-ja": "(結果:けっか)、(オーライ:おーらい)",
+    "roman-ja": "Kekka, o-rai",
+    "expression-en": "All right, even if we got some troubles",
+    "variants-ja": ["まあ、なんとかなった", "うまくいった"],
+    "variants-en": [
+      "All good",
+      "We're good",
+      "It worked out",
+      "All's well that ends well",
+      "No problem in the end",
+      "Made it"
+    ],
+    "intent-ja": ["結果", "解決", "安堵"],
+    "intent-en": ["result", "solution", "relief"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "結果",
+      "安堵",
+      "解決",
+      "終結"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "result",
+      "solution",
+      "light tone",
+      "relief",
+      "closure"
+    ],
+    "adjusted-expression-ja": "(終:お)わりよければすべてよし",
+    "adjusted-expression-en": "All's well that ends well.",
+    "img-sub": "kekkaorai01.png",
+    "example-ja": "A「いろいろ(大変:たいへん)だったね」B「(結果:けっか)、(オーライ:おーらい)ですよ」",
+    "example-en": "A: \"It was tough, wasn't it?\" B: \"All right, even if we got some troubles.\"",
+    "notes-en": "\"Kekka, o-rai\" is a casual expression used to indicate that despite difficulties or challenges, everything turned out well in the end. It combines the word \"kekka\" (meaning \"result\" or \"outcome\") with \"o-rai\" (meaning \"all right\" or \"okay\"). This phrase is often used in informal conversations to express relief or satisfaction after overcoming obstacles. It can also imply a sense of acceptance or resignation to the situation. Sometimes, I saw people using this phrase even when they didn't face any difficulties, but those people are called optimists.",
+    "notes-ja": "「結果、オーライ」は、困難や課題があったにもかかわらず、最終的にすべてがうまくいったことを示すカジュアルな表現です。「結果」は「result」や「outcome」を意味し、「オーライ」は「all right」や「okay」を意味します。このフレーズは、障害を克服した後の安堵感や満足感を表現するためによく使われます。途中での困難も何もない人が時に使っているのを見ますが、こういう人のことを楽天家というんですよ。"
+  },
+  {
     "date": "2025.04.22",
     "day": "Tue",
     "number": 377,
