@@ -1,5 +1,86 @@
 [
   {
+    "date": "2025.04.25",
+    "day": "Fri",
+    "number": 380,
+    "index": "tsugi ga aru",
+    "title": "You'll still have another chance",
+    "expression-ja": "(次:つぎ)がある",
+    "roman-ja": "Tsugi ga aru",
+    "expression-en": "You'll still have another chance",
+    "variants-ja": [
+      "次があるさ",
+      "またチャンスあるよ",
+      "また今度がある",
+      "今度こそ"
+    ],
+    "variants-en": [
+      "There's always next time",
+      "You can try again",
+      "You'll get another chance",
+      "Better luck next time",
+      "Next time for sure"
+    ],
+    "intent-ja": ["励まし", "慰め", "再挑戦"],
+    "intent-en": ["encouragement", "comfort", "retry"],
+    "tags-ja": ["即時文法", "省略", "励まし", "慰め", "口語"],
+    "tags-en": [
+      "Immediate Grammar",
+      "ellipsis",
+      "encouragement",
+      "comfort",
+      "spoken"
+    ],
+    "adjusted-expression-ja": "今回は残念でしたが、またの機会があります",
+    "adjusted-expression-en": "Although this time was unfortunate, there will be another opportunity.",
+    "img-sub": "tsugigaaru01.png",
+    "example-ja": "A「(失敗:しっぱい)しちゃった」B「(次:つぎ)があるよ」",
+    "example-en": "A: \"I failed.\" B: \"You'll still have another chance.\"",
+    "notes-en": "\"Tsugi ga aru\" is a casual expression used to convey the idea that there will be another opportunity or chance in the future. It can be translated as \"there's always next time\" or \"you can try again,\" and is often used in informal conversations to provide encouragement or comfort after a setback or disappointment. ",
+    "notes-ja": "「次がある」は、将来に別の機会やチャンスがあることを伝えるカジュアルな表現です。「次があるさ」や「またチャンスあるよ」と訳され、カジュアルな会話で失敗や落胆の後に励ましや慰めを提供するためによく使われます。"
+  },
+  {
+    "date": "2025.04.24",
+    "day": "Thu",
+    "number": 379,
+    "index": "misete",
+    "title": "Show me ...",
+    "expression-ja": "(見:み)せて、...",
+    "roman-ja": "Misete, ...",
+    "expression-en": "Show me ...",
+    "variants-ja": [
+      "見せて",
+      "ちょっと見せて",
+      "見せてくれる？",
+      "見せてよ",
+      "見せなさい"
+    ],
+    "variants-en": [
+      "Show me",
+      "Let me see",
+      "Can I see?",
+      "Let me have a look",
+      "Give me a peek"
+    ],
+    "intent-ja": ["要求", "確認", "関心"],
+    "intent-en": ["request", "confirmation", "interest"],
+    "tags-ja": ["即時文法", "省略", "命令", "依頼", "口語"],
+    "tags-en": [
+      "Immediate Grammar",
+      "ellipsis",
+      "imperative",
+      "request",
+      "spoken"
+    ],
+    "adjusted-expression-ja": "それを(見:み)せてください。",
+    "adjusted-expression-en": "Please show me that.",
+    "img-sub": "misete01.png",
+    "example-ja": "A「これ、(新:あたら)しい(本:ほん)？ちょっと(見:み)せて？」",
+    "example-en": "A: \"Is this a new book? Let me see it?\"",
+    "notes-en": "\"Misete\" is a casual expression used to request someone to show or display something. It can be translated as \"show me\" or \"let me see,\" and is often used in informal conversations to express curiosity or interest in something. ",
+    "notes-ja": "「見せて」は、誰かに何かを見せたり、表示したりするように頼むカジュアルな表現です。「show me」や「let me see」と訳され、カジュアルな会話で何かに対する好奇心や関心を表すためによく使われます。"
+  },
+  {
     "date": "2025.04.23",
     "day": "Wed",
     "number": 378,
