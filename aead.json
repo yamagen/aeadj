@@ -1,5 +1,65 @@
 [
   {
+    "date": "2025.04.26",
+    "day": "Fri",
+    "number": 381,
+    "index": "kiminobandayo",
+    "title": "(君:きみ)の(番:ばん)だよ",
+    "expression-ja": "(君:きみ)の(番:ばん)だよ",
+    "roman-ja": "Kimi no ban da yo",
+    "expression-en": "(It's) your turn",
+    "variants-ja": [
+      "次は君だよ",
+      "君の出番だよ",
+      "あなたの番ですよ",
+      "次はあなたですよ"
+    ],
+    "variants-en": [
+      "It's your turn.",
+      "You're up.",
+      "Now it's your turn.",
+      "Your move.",
+      "You're next."
+    ],
+    "intent-ja": [
+      "順番を伝える",
+      "行動を促す",
+      "交代を知らせる",
+      "親しみを込めて呼びかける",
+      "タイミングを示す"
+    ],
+    "intent-en": [
+      "indicating the turn",
+      "encouraging action",
+      "notifying a handover",
+      "calling warmly",
+      "indicating timing"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "促し",
+      "交代",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "encouragement",
+      "handover",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(次:つぎ)の(方:かた)？",
+    "adjusted-expression-en": "Next, please?",
+    "img-sub": "kiminobandayo01.png",
+    "example-ja": "A「(君:きみ)の(番:ばん)だよ」B「(分:わ)かってるよ」",
+    "example-en": "A: \"It's your turn.\" B: \"I know.\"",
+    "notes-en": "\"Kimi no ban da yo\" is a casual expression used to indicate that it is someone's turn to do something. It combines the word \"kimi\" (meaning \"you\") with \"ban\" (meaning \"turn\" or \"order\"). ",
+    "notes-ja": "「君の番だよ」は、誰かが何かをする番であることを示すカジュアルな表現です。「君」は「you」を意味し、「番」は「turn」や「order」を意味します。"
+  },
+  {
     "date": "2025.04.25",
     "day": "Fri",
     "number": 380,
