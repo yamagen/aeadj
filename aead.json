@@ -1,7 +1,119 @@
 [
   {
+    "date": "2025.04.28",
+    "day": "Mon",
+    "number": 383,
+    "index": "tsumoridatta",
+    "title": "そのつもりだった",
+    "expression-ja": "そのつもりだった",
+    "roman-ja": "Tsumoridatta",
+    "expression-en": "I was going to",
+    "variants-ja": [
+      "そのつもりだった",
+      "そうするつもりだった",
+      "やるつもりだった",
+      "行くつもりだった"
+    ],
+    "variants-en": [
+      "I meant to",
+      "I was going to",
+      "I intended to",
+      "I was about to (but...)"
+    ],
+    "intent-ja": ["過去の意図", "過去の約束", "確認", "同意", "承諾"],
+    "intent-en": [
+      "past intention",
+      "past promise",
+      "confirmation",
+      "agreement",
+      "acceptance"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "感情表現",
+      "状況依存型",
+      "省略",
+      "意図表明",
+      "過去の意図"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "emotional expression",
+      "context-dependent",
+      "ellipsis",
+      "expression of intention",
+      "past intention"
+    ],
+    "adjusted-expression-ja": [
+      "〜する予定でした",
+      "〜する意向でした",
+      "〜しようと考えていました"
+    ],
+    "adjusted-expression-en": [
+      "I had planned to do ～.",
+      "I intended to do ～.",
+      "I had the intention to do ～."
+    ],
+    "img-sub": "tsumoridatta01.png",
+    "example-ja": "A「(行:い)くつもりだったの？」B「(行:い)くつもりだったけど、(行:い)けなかった」",
+    "example-en": "A: \"Were you going to go?\" B: \"I meant to go, but I couldn't.\"",
+    "notes-en": "\"Tsumoridatta\" is a casual expression used to indicate a past intention or plan that was not fulfilled. It combines the word \"tsumori\" (meaning \"intention\" or \"plan\") with the past tense form \"datta.\" This phrase is often used in informal conversations to express regret or disappointment about being unable to carry out a previous intention. The most important thing to note is that this \"tsumori\" can only express the first-person intention. For example, if you say \"iku tsumori datta,\" the other person can ask back, \"iku tsumori datta no?\" This is a question to confirm the other person's intention.",
+    "notes-ja": "「つもりだった」は、実行されなかった過去の意図や計画を示すカジュアルな表現です。「つもり」は「intention」や「plan」を意味し、「だった」は過去形を表します。このフレーズは、以前の意図を果たせなかったことに対する後悔や失望を表現するためによく使われます。重要なことは、この「つもり」は第1人称の意図しか表せないことです。たとえば、「行くつもりだった」と言った場合、相手は「行くつもりだったの？」と聞き返すことができます。これは、相手の意図を確認するための質問です。"
+  },
+  {
+    "date": "2025.04.27",
+    "day": "Sun",
+    "number": 382,
+    "index": "tsumori",
+    "title": "そのつもり",
+    "expression-ja": "そのつもり",
+    "roman-ja": "Sono tsumori",
+    "expression-en": "That's the intention",
+    "variants-ja": [
+      "そのつもり",
+      "ええ、そのつもり",
+      "もちろん、そのつもり",
+      "うん、そのつもり",
+      "ちゃんとそのつもり",
+      "ばっちりそのつもり",
+      "はい、そのつもりです"
+    ],
+    "variants-en": [
+      "I will",
+      "Yeah, I will",
+      "Of course I will",
+      "Sure, I will",
+      "Absolutely, I will",
+      "Definitely, I will",
+      "Yes, I will"
+    ],
+    "intent-ja": ["意図", "約束", "確認", "同意", "承諾"],
+    "intent-en": [
+      "intention",
+      "promise",
+      "confirmation",
+      "agreement",
+      "consent"
+    ],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "意図表現", "確認応答"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "expression of intention",
+      "confirmation response"
+    ],
+    "adjusted-expression-ja": "そうするつもりでいます。",
+    "adjusted-expression-en": "I intend to do so.",
+    "img-sub": "sonotsumori01.png",
+    "example-ja": "A「(明日:あす)も(練習:れんしゅう)する？」 B「ええ、そのつもり。」",
+    "example-en": "A: \"Will you practice tomorrow too?\" B: \"Yeah, I will.\"",
+    "notes-en": "\"Sono tsumori\" is a casual, real-time expression to affirm one's intent to act. \"Sono\" means \"that,\" and \"tsumori\" means \"intention\" or \"plan.\"",
+    "notes-ja": "「そのつもり」は、行動の意図を即時的に肯定するカジュアルな表現です。「その」は「that」を、「つもり」は「意図」や「計画」を意味します。"
+  },
+  {
     "date": "2025.04.26",
-    "day": "Fri",
+    "day": "Sat",
     "number": 381,
     "index": "kiminobandayo",
     "title": "(君:きみ)の(番:ばん)だよ",
@@ -6466,7 +6578,7 @@
       "fields": [
         "date",
         "expression (ja/en)",
-        "translation (strict & natural)",
+        "translation (as an immediate expression)",
         "example (ja/en)",
         "tags (immediate grammar features)",
         "adjusted-expression (ja/en)",
@@ -6476,8 +6588,8 @@
     },
     "progress": {
       "start-date": "2024-04-10",
-      "current-date": "2025-03-30",
-      "total-entries": 357,
+      "current-date": "2025-04-27",
+      "total-entries": 382,
       "continuity": "毎日継続中（365日で終わらず、無限に継続予定）"
     },
     "tags-ja-sample": [
