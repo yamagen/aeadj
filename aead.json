@@ -1,5 +1,42 @@
 [
   {
+    "date": "2025.04.30",
+    "day": "Wed",
+    "number": 385,
+    "index": "daitai",
+    "title": "Almost all",
+    "expression-ja": "だいたい",
+    "roman-ja": "Daitai",
+    "expression-en": "Almost all",
+    "variants-ja": ["だいたい", "ほとんど", "おおよそ", "大体", "ほぼ"],
+    "variants-en": ["Almost all", "Mostly", "Roughly", "About", "Nearly"],
+    "intent-ja": ["概算", "おおよそ", "大体", "ほぼ"],
+    "intent-en": ["approximation", "roughly", "about", "almost"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "概算",
+      "おおよそ",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "approximation",
+      "roughly",
+      "strong immediacy"
+    ],
+    "adjusted-expression-ja": "ほぼすべて、(完了:かんりょう)しました。",
+    "adjusted-expression-en": "Almost all of it is done.",
+    "img-sub": "daitai01.png",
+    "example-ja": "A「(宿題:しゅくだい)は、(終:お)わった？」B「うん、だいたい」",
+    "example-en": "A: \"Did you finish your homework?\" B: \"Yeah, almost all of it.\"",
+    "notes-en": "\"Daitai\" is a casual expression used to indicate an approximation or a rough estimate of something. It can be translated as \"almost all,\" \"mostly,\" or \"roughly,\" and is often used in informal conversations to convey a general idea without being too specific. This phrase is common in everyday situations, such as when discussing time, quantity, or degree. In another way, saying \"daitai\" can also imply that something is \"not finished yet.",
+    "notes-ja": "「だいたい」は、何かの概算やおおよその見積もりを示すカジュアルな表現です。「almost all」や「mostly」、「roughly」と訳され、カジュアルな会話であまり具体的に言わずに一般的な考えを伝えるためによく使われます。このフレーズは、時間、数量、程度について話す日常的な状況でよく使われます。「だいたい」ということは別の見方をすれば、「まだ終わっていない」ということですね。"
+  },
+  {
     "date": "2025.04.29",
     "day": "Tue",
     "number": 384,
