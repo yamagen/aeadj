@@ -1,5 +1,60 @@
 [
   {
+    "date": "2025.04.29",
+    "day": "Tue",
+    "number": 384,
+    "index": "douiukoto",
+    "title": "どういうこと？",
+    "expression-ja": "どういうこと？",
+    "roman-ja": "Dou iu koto?",
+    "expression-en": "What do you mean?",
+    "variants-ja": [
+      "どういうこと？",
+      "どういう意味？",
+      "どういうことなの？",
+      "どういうことだろう？",
+      "どういうことなんだろう？"
+    ],
+    "variants-en": [
+      "What do you mean?",
+      "What does that mean?",
+      "What does it mean?",
+      "What is that supposed to mean?",
+      "What are you talking about?"
+    ],
+    "intent-ja": ["確認", "疑問", "説明要求", "理解", "興味"],
+    "intent-en": [
+      "confirmation",
+      "question",
+      "request for explanation",
+      "understanding",
+      "interest"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "疑問",
+      "説明要求",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "question",
+      "request for explanation",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "どういうことですか？",
+    "adjusted-expression-en": "What do you mean?",
+    "img-sub": "douiu01.png",
+    "example-ja": "A「(予定:よてい)は、中止」B「え、どういうこと？」",
+    "example-en": "A: \"The plan is canceled.\" B: \"Huh? What do you mean?\"",
+    "notes-en": "\"Dou iu koto?\" is a casual expression used to ask for clarification or explanation about something. It can be translated as \"What do you mean?\" or \"What does that mean?\" This phrase is often used in informal conversations when someone is confused or needs more information about a statement or situation. In more formal situations, one might use \"dou iu imi desu ka?\" instead, which is a more polite way to ask the same question.",
+    "notes-ja": "「どういうこと？」は、何かについての説明や明確化を求めるカジュアルな表現です。「What do you mean?」や「What does that mean?」と訳され、発言や状況についての詳細を知りたいときによく使われます。よりフォーマルな場面では「どういう意味ですか？」と言います。"
+  },
+  {
     "date": "2025.04.28",
     "day": "Mon",
     "number": 383,
@@ -6588,7 +6643,7 @@
     },
     "progress": {
       "start-date": "2024-04-10",
-      "current-date": "2025-04-27",
+      "current-date": "2025-04-29",
       "total-entries": 382,
       "continuity": "毎日継続中（365日で終わらず、無限に継続予定）"
     },
@@ -6629,6 +6684,58 @@
     "message": {
       "ja": "このスレッドは、aead プロジェクトの文脈を引き継ぐ新たな記録の場です。",
       "en": "This thread continues the context of the aead project as a new place for ongoing documentation."
-    }
+    },
+    "candidates": [
+      {
+        "expression-ja": "うそでしょ？",
+        "expression-en": "No way! / You’re kidding, right?",
+        "notes": "驚き・疑いの即時表現"
+      },
+      {
+        "expression-ja": "まじで？",
+        "expression-en": "Seriously? / Are you serious?",
+        "notes": "驚き・強調・カジュアル"
+      },
+      {
+        "expression-ja": "どうしよう",
+        "expression-en": "What should I do?",
+        "notes": "困惑・対処を迷う即時性"
+      },
+      {
+        "expression-ja": "え、やばい",
+        "expression-en": "Oh no! / This is bad!",
+        "notes": "危機感・焦り・カジュアル"
+      },
+      {
+        "expression-ja": "だいじょうぶ？",
+        "expression-en": "Are you okay? / Is everything alright?",
+        "notes": "安否確認・心配"
+      },
+      {
+        "expression-ja": "ちょっと待って",
+        "expression-en": "Wait a second.",
+        "notes": "一時停止要求・即時指示"
+      },
+      {
+        "expression-ja": "もういいよ",
+        "expression-en": "I’m done with this. / It’s fine.",
+        "notes": "諦め・完了宣言"
+      },
+      {
+        "expression-ja": "なんで？",
+        "expression-en": "Why?",
+        "notes": "疑問・即時反応"
+      },
+      {
+        "expression-ja": "ほんとに？",
+        "expression-en": "Really?",
+        "notes": "確認・信じられない気持ち"
+      },
+      {
+        "expression-ja": "ま、いっか",
+        "expression-en": "Oh well. / Never mind.",
+        "notes": "妥協・あきらめ・自己納得の即時表現"
+      }
+    ]
   }
 ]
