@@ -1,5 +1,50 @@
 [
   {
+    "date": "2025.05.01",
+    "day": "Thu",
+    "number": 386,
+    "index": "maikka",
+    "title": "Oh well",
+    "expression-ja": "ま、いっか",
+    "roman-ja": "Ma, ikka",
+    "expression-en": "Oh well. / Never mind.",
+    "variants-ja": ["ま、いっか", "ま、いっか", "ま、いいか"],
+    "variants-en": [
+      "Oh well.",
+      "Never mind.",
+      "It's okay.",
+      "It's all right.",
+      "It's fine."
+    ],
+    "intent-ja": ["妥協", "あきらめ", "自己納得"],
+    "intent-en": ["compromise", "resignation", "self-acceptance"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "妥協",
+      "あきらめ",
+      "自己納得",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "compromise",
+      "resignation",
+      "self-acceptance",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "とりあえず、そうしましょう。",
+    "adjusted-expression-en": "For now, let's do it that way.",
+    "img-sub": "maikka01.png",
+    "example-ja": "A「(今日:きょう)は(カレー:かれー)よ」B「え、(今日:きょう)も？ま、いっか」",
+    "example-en": "A: \"It's curry today.\" B: \"Oh, again? Oh well.\"",
+    "notes-en": "\"Maikka\" is a casual expression used to convey a sense of resignation or acceptance of a situation, often in a light-hearted or humorous way. It can be translated as \"Oh well\" or \"Never mind.\" This phrase is commonly used in informal conversations when someone is faced with an unexpected or undesirable situation but chooses to accept it anyway. It can also imply a sense of compromise or self-acceptance, indicating that the speaker is willing to let go of their initial expectations. In more formal situations, one might use phrases like \"sore de ii desu\" or \"sore de kamawanai\" instead, which are more polite ways to express a similar sentiment.",
+    "notes-ja": "「ま、いっか」は、状況を軽く受け入れることを伝えるカジュアルな表現です。「Oh well」や「Never mind」と訳されます。意にそぐわないことを妥協して受け入れる状況でよく使えます。このフレーズは、予期しない状況や望ましくない状況に直面したときに使われますが、あえて受け入れることを選ぶときによく使われます。妥協や自己納得の感覚を示すこともあります。よりフォーマルな場面では「それでいいです」や「それで構わない」と言うことが一般的です。"
+  },
+  {
     "date": "2025.04.30",
     "day": "Wed",
     "number": 385,
@@ -6764,14 +6809,14 @@
         "notes": "疑問・即時反応"
       },
       {
+        "expression-ja": "みたいな...",
+        "expression-en": "Like...",
+        "notes": "例示・あいまいな表現"
+      },
+      {
         "expression-ja": "ほんとに？",
         "expression-en": "Really?",
         "notes": "確認・信じられない気持ち"
-      },
-      {
-        "expression-ja": "ま、いっか",
-        "expression-en": "Oh well. / Never mind.",
-        "notes": "妥協・あきらめ・自己納得の即時表現"
       }
     ]
   }
