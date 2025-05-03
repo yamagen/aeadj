@@ -1,5 +1,99 @@
 [
   {
+    "date": "2025.05.03",
+    "day": "Sat",
+    "number": 388,
+    "index": "maji",
+    "title": "Seriously",
+    "expression-ja": "(マジ:まじ)",
+    "roman-ja": "Maji",
+    "expression-en": "Seriously",
+    "variants-ja": ["まじ", "マジ", "マジで", "本気で", "本当に"],
+    "variants-en": [
+      "Seriously",
+      "For real",
+      "Really",
+      "Honestly",
+      "No kidding"
+    ],
+    "intent-ja": ["驚き", "確認", "興味", "親密"],
+    "intent-en": ["surprise", "confirmation", "interest", "intimacy"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "驚き",
+      "確認",
+      "親密",
+      "若者語",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "surprise",
+      "confirmation",
+      "intimacy",
+      "youth language",
+      "strong real-time nature"
+    ],
+    "adjusted-expression-ja": "(本気:ほんき)ですか。",
+    "adjusted-expression-en": "Are you serious?",
+    "img-sub": "maji01.png",
+    "example-ja": "A「(明日:あした)、(試験:しけん)、あるよ」B「(マジ:まじ)？」",
+    "example-en": "A: \"There's an exam tomorrow.\" B: \"Seriously?\"",
+    "notes-en": "\"Maji\" is a casual expression used to convey surprise or seriousness about something. It can be translated as \"seriously\" or \"for real,\" and is often used in informal conversations to express disbelief or to emphasize the truth of a statement. This phrase is commonly used among friends or peers, and can also imply a sense of intimacy or closeness in the conversation. In more formal situations, one might use phrases like \"hontou ni\" or \"hontou desu ka\" instead, which are more polite ways to express a similar sentiment.",
+    "notes-ja": "「マジ」は、何かに対する驚きや真剣さを伝えるカジュアルな表現です。「seriously」や「for real」と訳され、カジュアルな会話で信じられないことを表現したり、発言の真実性を強調したりするためによく使われます。このフレーズは友人や仲間の間でよく使われ、会話の中で親密さや近さを示すこともあります。よりフォーマルな場面では「本当に」や「本当ですか」と言うことが一般的です。"
+  },
+  {
+    "date": "2025.05.02",
+    "day": "Fri",
+    "number": 387,
+    "index": "kashite",
+    "title": "Lend me ...",
+    "expression-ja": "(貸:か)して、...",
+    "roman-ja": "Kashite, ...",
+    "expression-en": "Lend me ...",
+    "variants-ja": [
+      "貸して",
+      "ちょっと貸して",
+      "貸してくれる？",
+      "貸してよ",
+      "貸してください"
+    ],
+    "variants-en": [
+      "Lend me",
+      "Let me borrow",
+      "Can I borrow?",
+      "Let me have it",
+      "Please lend me"
+    ],
+    "intent-ja": ["要求", "確認", "関心", "親密", "ラフさ（casualness）"],
+    "intent-en": [
+      "request",
+      "confirmation",
+      "interest",
+      "intimacy",
+      "casualness"
+    ],
+    "tags-ja": ["即時文法", "省略", "命令", "依頼", "口語"],
+    "tags-en": [
+      "Immediate Grammar",
+      "ellipsis",
+      "imperative",
+      "request",
+      "spoken"
+    ],
+    "adjusted-expression-ja": "それを(貸:か)していただけませんか。",
+    "adjusted-expression-en": "Please lend me that.",
+    "img-sub": "kashite01.png",
+    "example-ja": "A「これ、(貸:か)して」B「(貸:か)してあげるよ」",
+    "example-en": "A: \"Can you lend me this?\" B: \"Sure, I'll lend it to you.\"",
+    "notes-en": "\"Kashite\" is a casual expression used to request someone to lend or borrow something. It can be translated as \"lend me\" or \"let me borrow,\" and is often used in informal conversations to express a desire to use something temporarily. This phrase is commonly used in everyday situations, such as when asking for a favor or borrowing an item from a friend.",
+    "notes-ja": "「貸して」は、誰かに何かを貸したり借りたりするように頼むカジュアルな表現です。「lend me」や「let me borrow」と訳され、カジュアルな会話で一時的に何かを使いたいという気持ちを表すためによく使われます。このフレーズは、友人からアイテムを借りるときなど、日常的な状況でよく使われます。"
+  },
+  {
     "date": "2025.05.01",
     "day": "Thu",
     "number": 386,
