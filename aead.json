@@ -1,5 +1,89 @@
 [
   {
+    "date": "2025.05.05",
+    "day": "Mon",
+    "number": 390,
+    "index": "anotokine",
+    "title": "So, about that time...",
+    "expression-ja": "あのときね",
+    "roman-ja": "Ano toki ne",
+    "expression-en": "So back then, you know...",
+    "variants-ja": ["あのときね", "あのときさ", "あのときはね"],
+    "variants-en": [
+      "So back then, you know...",
+      "At that time, remember?",
+      "Back in that moment..."
+    ],
+    "intent-ja": ["回想", "導入", "共有", "親密"],
+    "intent-en": ["recollection", "introduction", "sharing", "intimacy"],
+    "tags-ja": ["即時文法", "話題導入", "状況依存型", "親密", "回想"],
+    "tags-en": [
+      "immediate grammar",
+      "topic-introduction",
+      "context-dependent",
+      "intimacy",
+      "recollection"
+    ],
+    "adjusted-expression-ja": "あのときのことを思い出しました。",
+    "adjusted-expression-en": "I remembered what happened back then.",
+    "example-ja": "A「けがしたの？」B「うん、(駅:えき)で」A「ああ、あのときね」",
+    "example-en": "A: \"Did you get hurt?\" B: \"Yeah, at the station.\" A: \"Oh, that time, right?\"",
+    "notes-ja": "「あのときね」は、過去の出来事を思い出して話し始めるときに使う表現です。この表現は、会話の中で相手に対して親密さや共感を示す役割も果たします。",
+    "notes-en": "\"Ano toki ne\" is used to begin recalling a past event in conversation. It also serves to express a sense of closeness or shared memory with the listener."
+  },
+  {
+    "date": "2025.05.04",
+    "day": "Sun",
+    "number": 389,
+    "index": "ikuranandemo",
+    "title": "いくらなんでも...",
+    "expression-ja": "いくらなんでも...",
+    "roman-ja": "Ikura nan demo...",
+    "expression-en": "No matter how you look at it... / Come on, seriously...",
+    "variants-ja": [
+      "いくらなんでも",
+      "いくらなんでもさ",
+      "いくらなんでもそれは",
+      "いくらなんでもひどい"
+    ],
+    "variants-en": [
+      "No matter how you look at it",
+      "Come on, seriously",
+      "That’s just too much",
+      "This is going too far"
+    ],
+    "intent-ja": ["驚き", "非難", "拒否", "感情の爆発", "同意の拒絶"],
+    "intent-en": [
+      "surprise",
+      "criticism",
+      "rejection",
+      "emotional outburst",
+      "refusal to agree"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "感情表現",
+      "状況依存型",
+      "非難",
+      "確認",
+      "曖昧な終止"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "emotional expression",
+      "context-dependent",
+      "criticism",
+      "confirmation",
+      "unfinished ending"
+    ],
+    "adjusted-expression-ja": "いくらなんでも、それはひどすぎます。",
+    "adjusted-expression-en": "No matter how you look at it, that's just too much.",
+    "example-ja": "いくらなんでも、それはないんじゃない？",
+    "example-en": "Come on, that’s just too much, don’t you think?",
+    "notes-ja": "「いくらなんでも」は、文法的には副詞的に前置されるが、即時文法では後続の文を曖昧に省略したり、語尾をぼかしたりして、感情の高ぶりや言いにくさを表現する。しばしば相手に対する批判・非難の前置きとなり、共感や同意を求める機能もある。",
+    "notes-en": "Although 'ikura nan demo' functions as a concessive adverb, in immediate grammar it often appears at the beginning or middle of an utterance, trailing off to imply criticism or disbelief. It softens or signals an emotional explosion while inviting empathy or support from the listener."
+  },
+  {
     "date": "2025.05.03",
     "day": "Sat",
     "number": 388,
@@ -6819,8 +6903,8 @@
     },
     "progress": {
       "start-date": "2024-04-10",
-      "current-date": "2025-04-29",
-      "total-entries": 382,
+      "current-date": "2025-05-04",
+      "total-entries": 388,
       "continuity": "毎日継続中（365日で終わらず、無限に継続予定）"
     },
     "tags-ja-sample": [
