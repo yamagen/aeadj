@@ -1,5 +1,40 @@
 [
   {
+    "date": "2025.05.06",
+    "day": "Tue",
+    "number": 391,
+    "index": "korekara",
+    "title": "From now on",
+    "expression-ja": "これから",
+    "roman-ja": "kore kara",
+    "expression-en": "From now on",
+    "variants-ja": ["これから", "今から", "ここから"],
+    "variants-en": ["from now on", "starting now", "from here"],
+    "intent-ja": ["開始", "意志", "未来", "区切り"],
+    "intent-en": ["beginning", "intention", "future", "transition"],
+    "tags-ja": [
+      "即時文法",
+      "時の区切り",
+      "意志表明",
+      "状況転換",
+      "モーダル表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "temporal boundary",
+      "statement of intent",
+      "context shift",
+      "modal expression"
+    ],
+    "adjusted-expression-ja": "これから始めます。",
+    "adjusted-expression-en": "I will start from now.",
+    "img-sub": "korekara01.png",
+    "example-ja": "A「ねえ、いつやるの？」B「これから」",
+    "example-en": "A: \"Hey, when are you doing it?\" B: \"From now on.\"",
+    "notes-ja": "「これから」は、これからの行動や出来事を示す表現です。未来の意志や計画を伝える際に使われます。カジュアルな会話でよく使われ、相手に対して行動の開始を伝える役割があります。「すぐに」や「今から」といった意味合いも含まれますが、あきらかに「今、すぐに」という意味ではありませんね。",
+    "notes-en": "\"Kore kara\" is an expression that indicates actions or events that will happen from now on. It is used to convey future intentions or plans. This phrase is commonly used in casual conversations to inform the listener about the start of an action. It can also imply meanings like \"immediately\" or \"from now,\" but it does not necessarily mean \"right now.\""
+  },
+  {
     "date": "2025.05.05",
     "day": "Mon",
     "number": 390,
