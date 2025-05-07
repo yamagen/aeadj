@@ -1,5 +1,34 @@
 [
   {
+    "date": "2025.05.07",
+    "day": "Wed",
+    "number": 392,
+    "index": "arekara",
+    "title": "After that",
+    "expression-ja": "あれから",
+    "roman-ja": "Are kara",
+    "expression-en": "After that",
+    "variants-ja": ["あれから", "それから", "その後"],
+    "variants-en": ["after that", "since then", "afterwards"],
+    "intent-ja": ["回想", "導入", "共有", "親密"],
+    "intent-en": ["recollection", "introduction", "sharing", "intimacy"],
+    "tags-ja": ["即時文法", "話題導入", "状況依存型", "親密", "回想"],
+    "tags-en": [
+      "immediate grammar",
+      "topic-introduction",
+      "context-dependent",
+      "intimacy",
+      "recollection"
+    ],
+    "adjusted-expression-ja": "あれから、みんなで食事をして帰りました。",
+    "adjusted-expression-en": "After that, we all had a meal and went home.",
+    "img-sub": "arekara01.png",
+    "example-ja": "A「きのう、あれから、どうした？」B「うん、(財布:さいふ)も、(カード:かーど)も、(現金:げんきん)も、(全部:ぜんぶ)、いっしょに(見:み)つかったよ」",
+    "example-en": "A: \"So, what happened after that yesterday?\" B: \"Yeah, I found my wallet, card, and cash all together.\"",
+    "notes-ja": "「あれから」は、過去の出来事を思い出して話し始めるときに使う表現です。この表現は、会話の中で相手に対して親密さや共感を示す役割も果たします。「あれ」というのは会話をしている両者が共通して知っていることを指します。たとえば、AさんとBさんが「昨日、あれからどうした？」と話している場合、「あれ」は「昨日の出来事」を指しています。つまり、AさんとBさんは「昨日の出来事」を共通の認識として持っているということです。",
+    "notes-en": "\"Are kara\" is used to begin recalling a past event in conversation. It also serves to express a sense of closeness or shared memory with the listener. The term \"are\" refers to something that both speakers are aware of, such as a shared experience or event. For example, if A and B are talking about \"what happened after that yesterday,\" \"are\" refers to \"yesterday's event.\" This means that A and B share a common understanding of \"yesterday's event.\""
+  },
+  {
     "date": "2025.05.06",
     "day": "Tue",
     "number": 391,
