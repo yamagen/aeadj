@@ -1,5 +1,52 @@
 [
   {
+    "date": "2025.05.08",
+    "day": "Thu",
+    "number": 393,
+    "index": "doudemoii",
+    "title": "I don't care",
+    "expression-ja": "もう、どうでもいい",
+    "roman-ja": "Mou, dou demo ii",
+    "expression-en": "I don't care anymore",
+    "variants-ja": [
+      "もう、どうでもいい",
+      "もう、どうでもよくなった",
+      "もう、どうでもいいや",
+      "もう、どうでもいいよ"
+    ],
+    "variants-en": [
+      "I don't care anymore",
+      "I don't care about it anymore",
+      "I don't care at all",
+      "I don't care anymore, you know?"
+    ],
+    "intent-ja": ["あきらめ", "自己納得", "妥協"],
+    "intent-en": ["resignation", "self-acceptance", "compromise"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "あきらめ",
+      "自己納得",
+      "妥協"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "resignation",
+      "self-acceptance",
+      "compromise"
+    ],
+    "adjusted-expression-ja": "もう、どうでもいいと思います。",
+    "adjusted-expression-en": "I think I don't care anymore.",
+    "img-sub": "doudemoii01.png",
+    "example-ja": "A「お(好:す)きなものを(買:か)ってきましょうね」B「もう、どうでもいい」",
+    "example-en": "A: \"Let's buy what you like.\" B: \"I don't care anymore.\"",
+    "notes-ja": "「もう、どうでもいい」は、状況を軽く受け入れることを伝えるカジュアルな表現です。「I don't care anymore」や「I don't care about it anymore」と訳されます。意にそぐわないことを妥協して受け入れる状況でよく使えます。",
+    "notes-en": "\"Mou, dou demo ii\" is a casual expression used to convey a sense of resignation or acceptance of a situation, often in a light-hearted or humorous way. It can be translated as \"I don't care anymore\" or \"I don't care about it anymore.\" This phrase is commonly used in informal conversations when someone is faced with an unexpected or undesirable situation but chooses to accept it anyway. "
+  },
+  {
     "date": "2025.05.07",
     "day": "Wed",
     "number": 392,
