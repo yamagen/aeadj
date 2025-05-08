@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.05.09",
+    "day": "Fri",
+    "number": 394,
+    "index": "ketsuronkaraieba",
+    "title": "To put it simply",
+    "expression-ja": "(結論:けつろん)から(言:い)えば",
+    "roman-ja": "Ketsuron kara ieba",
+    "expression-en": "To put it simply",
+    "variants-ja": [
+      "結論から言えば",
+      "結論から言うと",
+      "結論だけ言えば",
+      "一言で言えば"
+    ],
+    "variants-en": [
+      "To put it simply",
+      "To sum it up",
+      "If I had to say just the conclusion",
+      "To make a long story short"
+    ],
+    "intent-ja": ["要点提示", "話の切り出し", "前置き省略"],
+    "intent-en": ["main point first", "discourse entry", "omit preface"],
+    "tags-ja": ["即時文法", "視点提示", "談話標識", "要点優先", "省略", "口語"],
+    "tags-en": [
+      "immediate grammar",
+      "viewpoint marking",
+      "discourse marker",
+      "point-first",
+      "ellipsis",
+      "spoken"
+    ],
+    "adjusted-expression-ja": "結論から言うと、そういうことです。",
+    "adjusted-expression-en": "To put it simply, that's how it is.",
+    "img-sub": "ketsuronkaraieba01.png",
+    "example-ja": "A「(結論:けつろん)から(言:い)えば、それはできないということ」B「じゃ、これまでは何だったの？」",
+    "example-en": "A: \"To put it simply, that means it can't be done.\" B: \"Then what was all this about?\"",
+    "notes-ja": "「結論から言えば」は、話の要点を先に伝えるための表現です。カジュアルな会話でよく使われ、相手に対して要点を明確に伝える役割があります。「結論から言うと」や「一言で言えば」といった意味合いも含まれますが、あきらかに「今、すぐに」という意味ではありません。だいたい、「結論から言えば、...」と聞けば、すべてがすべてではありませんが、あまり良いことが待っているようには思えませんね。",
+    "notes-en": "\"Ketsuron kara ieba\" is an expression used to convey the main point of a conversation or discussion first. It is commonly used in casual conversations to clarify the main point for the listener. This phrase can also imply meanings like \"to sum it up\" or \"to make a long story short,\" but it does not necessarily mean \"right now.\" Generally, when you hear \"ketsuron kara ieba, ...\", it doesn't always mean something good is coming."
+  },
+  {
     "date": "2025.05.08",
     "day": "Thu",
     "number": 393,
