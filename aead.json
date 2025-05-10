@@ -1,5 +1,40 @@
 [
   {
+    "date": "2025.05.10",
+    "day": "Sat",
+    "number": 395,
+    "index": "shoujiki",
+    "title": "To be honest",
+    "expression-ja": "(正直:しょうじき)、",
+    "roman-ja": "Shoujiki",
+    "expression-en": "To be honest",
+    "variants-ja": ["正直に言うと", "正直に言えば", "正直なところ", "正直な話"],
+    "variants-en": [
+      "To be honest",
+      "Honestly speaking",
+      "To be frank",
+      "In all honesty"
+    ],
+    "intent-ja": ["率直", "自己開示", "親密"],
+    "intent-en": ["frankness", "self-disclosure", "intimacy"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "率直", "自己開示", "親密"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "frankness",
+      "self-disclosure",
+      "intimacy"
+    ],
+    "adjusted-expression-ja": "正直に言いますと、そう思います。",
+    "adjusted-expression-en": "frankly speaking, I think so.",
+    "img-sub": "shoujiki01.png",
+    "example-ja": "A「(正直:しょうじき)、あまり(好:す)きじゃない」B「え、そうなの？」",
+    "example-en": "A: \"To be honest, I don't really like it.\" B: \"Oh, really?\"",
+    "notes-ja": "「正直」は、率直に自分の気持ちや意見を伝えるための表現です。「To be honest」や「Honestly speaking」と訳されます。カジュアルな会話でよく使われ、相手に対して自分の気持ちを率直に伝える役割があります。",
+    "notes-en": "\"Shoujiki\" is an expression used to convey one's feelings or opinions frankly. It can be translated as \"to be honest\" or \"honestly speaking.\" This phrase is commonly used in casual conversations to express one's feelings openly to the listener. "
+  },
+  {
     "date": "2025.05.09",
     "day": "Fri",
     "number": 394,
