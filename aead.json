@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.05.11",
+    "day": "Sun",
+    "number": 396,
+    "index": "aeteiunara",
+    "title": "If I had to say",
+    "expression-ja": "あえて(言:い)うなら",
+    "roman-ja": "Aete iu nara",
+    "expression-en": "If I had to say",
+    "variants-ja": [
+      "あえて言うなら",
+      "あえて言えば",
+      "あえて言うと",
+      "あえて言うならば"
+    ],
+    "variants-en": [
+      "If I had to say",
+      "If I had to put it that way",
+      "If I had to say it",
+      "If I had to express it"
+    ],
+    "intent-ja": ["自己開示", "率直", "親密"],
+    "intent-en": ["self-disclosure", "frankness", "intimacy"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "自己開示", "率直", "親密"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "self-disclosure",
+      "frankness",
+      "intimacy"
+    ],
+    "adjusted-expression-ja": "あえて申し上げれるのなら、",
+    "adjusted-expression-en": "If I were to express it more formally, ...",
+    "img-sub": "aeteiunara01.png",
+    "example-ja": "A「どっちが(好:す)き？」B「(あえて言:い)うなら、どちらも(好:す)きじゃない」",
+    "example-en": "A: \"Which do you like?\" B: \"If I had to say, I don't like either.\"",
+    "notes-ja": "「あえて言うなら」は、あえて自分の意見や気持ちを伝えるための表現です。「If I had to say」や「If I had to put it that way」と訳されます。カジュアルな会話でよく使われ、相手に対して自分の気持ちを率直に伝える役割があります。この表現は言いにくいこと、否定的なことをどうしても言わなければならないときに使えばよいでしょう。一方で、どちらも良くて選びにくいときに、無理に一方を選ぶ場合には、「どちらかと言えば、」と言うとやわらかい印象になります。",
+    "notes-en": "\"Aete iu nara\" is an expression used to convey one's opinion or feelings in a frank manner. It can be translated as \"If I had to say\" or \"If I had to put it that way.\" This phrase is commonly used in casual conversations to express one's feelings openly to the listener. It is particularly useful when you need to say something difficult or negative. Conversely, if you are in a situation where both options are good and you find it hard to choose, you can use \"dochira ka to ieba\" to soften the impression."
+  },
+  {
     "date": "2025.05.10",
     "day": "Sat",
     "number": 395,
@@ -1417,7 +1457,6 @@
     "expression-ja": "(基本的:きほんてき)には",
     "roman-ja": "Kihonteki ni wa",
     "expression-en": "Basically",
-    "expression-ja": "(基本的:きほんてき)には",
     "intent-ja": ["基本", "基礎", "評価", "枠づけ"],
     "intent-en": ["basic", "foundation", "evaluation", "framing"],
     "tags-ja": [
@@ -1442,36 +1481,40 @@
     "example-ja": "A「(基本的:きほんてき)には、(賛成:さんせい)です」B「ということは、何か問題でも？」",
     "example-en": "A: \"Basically, I agree.\" B: \"So, is there a problem?\"",
     "notes-en": "\"Kihonteki ni wa\" is a phrase used to express a basic or foundational perspective. \"Kihonteki\" means \"basic\" or \"fundamental,\" and \"ni wa\" is a grammatical structure that indicates the speaker's stance or viewpoint. This phrase is often used to frame an evaluation or opinion, providing context for the following statement. It serves as an extrasyntactic premodifier, setting the stage for the main clause. By saying \"kihonteki ni wa,\" the speaker suggests that there may be some issues or nuances to consider. It can imply a nuance of not being entirely opposed to something, but rather providing a framework for discussion. The term \"extrasyntactic premodifier\" is not widely established in linguistic terminology, but it effectively describes the function of this phrase in immediate grammar.",
-    "notes-ja": "「基本的には」は、基本的な視点や立場を表現するためのフレーズです。「基本的」は「basic」や「fundamental」を意味し、「には」は話し手の立場や視点を示す文法構造です。このフレーズは、評価や意見を枠付けるためによく使われ、後続の文に対する前提を提供します。構造外前置き句として機能し、主文の枠組みを整える役割を果たします。「基本的には」と発話することから、何か問題があることを示唆しています。もしかしたら、反対していないというニュアンスを持つかもしれません。このような表現は、即時文法において非常に重要な役割を果たします。「構造外前置き句」という名称は広く定着した専門用語ではありませんが、即時文法の特徴を記述するうえで極めて有効な概念です。",
-    "notes-ja": {
-      "title": "構造外前置き句について",
-      "description": "「構造外前置き句」とは、文の冒頭に置かれ、話し手の立場や話の枠組みを示すものの、後続の構文には影響を与えない句や語句を指す記述的な名称です。これらは談話の流れを整えたり、話し手の態度を示したりする役割を持ちますが、文の主構造（主語・述語・修飾関係）には含まれません。",
-      "features": [
-        "文の冒頭に置かれる",
-        "構文には組み込まれない（構造外）",
-        "意味的にも主文とは独立して発話される",
-        "談話の枠組み、話し手の立場、心構えを示す"
-      ],
-      "examples": [
-        {
-          "expression": "一般的には、そういう傾向がある。",
-          "comment": "『一般的には』が構造外前置き句として機能し、全体の前提を緩やかに提示している。"
-        },
-        {
-          "expression": "正直に言うと、それはちょっと違うと思う。",
-          "comment": "『正直に言うと』が話し手の態度を表す挿入句。後続の文の構文には影響していない。"
-        },
-        {
-          "expression": "まあ、それはそれとして、次の話題に移ろう。",
-          "comment": "『まあ、それはそれとして』は話題転換のマーカーであり、即時的な談話のコントロールを行っている。"
-        },
-        {
-          "expression": "基本的には、賛成です。",
-          "comment": "『基本的には』が主文の判断に対する枠付けを行っている。"
-        }
-      ],
-      "note": "『構造外前置き句』という名称は広く定着した専門用語ではありませんが、即時文法の特徴を記述するうえで極めて有効な概念であり、言語横断的にも観察される現象です。"
-    }
+    "notes-ja": [
+      {
+        "title": "「基本的には」",
+        "note": "「基本的には」は、基本的な視点や立場を表現するためのフレーズです。「基本的」は「basic」や「fundamental」を意味し、「には」は話し手の立場や視点を示す文法構造です。このフレーズは、評価や意見を枠付けるためによく使われ、後続の文に対する前提を提供します。構造外前置き句として機能し、主文の枠組みを整える役割を果たします。「基本的には」と発話することから、何か問題があることを示唆しています。もしかしたら、反対していないというニュアンスを持つかもしれません。このような表現は、即時文法において非常に重要な役割を果たします。「構造外前置き句」という名称は広く定着した専門用語ではありませんが、即時文法の特徴を記述するうえで極めて有効な概念です。"
+      },
+      {
+        "title": "構造外前置き句について",
+        "note": "「構造外前置き句」とは、文の冒頭に置かれ、話し手の立場や話の枠組みを示すものの、後続の構文には影響を与えない句や語句を指す記述的な名称です。これらは談話の流れを整えたり、話し手の態度を示したりする役割を持ちますが、文の主構造（主語・述語・修飾関係）には含まれません。"
+      },
+      {
+        "title": "features",
+        "note": "文の冒頭に置かれる; 構文には組み込まれない（構造外）; 意味的にも主文とは独立して発話される; 談話の枠組み、話し手の立場、心構えを示す"
+      },
+      {
+        "title": "examples",
+        "note": "一般的には、そういう傾向がある。『一般的には』が構造外前置き句として機能し、全体の前提を緩やかに提示している。"
+      },
+      {
+        "title": "正直に言うと、それはちょっと違うと思う。",
+        "note": "『正直に言うと』が話し手の態度を表す挿入句。後続の文の構文には影響していない。"
+      },
+      {
+        "title": "まあ、それはそれとして、次の話題に移ろう。",
+        "note": "『まあ、それはそれとして』は話題転換のマーカーであり、即時的な談話のコントロールを行っている。"
+      },
+      {
+        "title": "基本的には、賛成です。",
+        "note": "『基本的には』が主文の判断に対する枠付けを行っている。"
+      },
+      {
+        "title": "『構造外前置き句』",
+        "note": "『構造外前置き句』という名称は広く定着した専門用語ではありませんが、即時文法の特徴を記述するうえで極めて有効な概念であり、言語横断的にも観察される現象です。"
+      }
+    ]
   },
   {
     "date": "2025.04.06",
@@ -6195,7 +6238,6 @@
     "img": "hontoudesukaa01.png",
     "example-ja": "A「(明日:あした)、(雨:あめ)が(降:ふ)るって(言:い)ってたよ」 B「(本当:ほんとう)ですかぁ？こんなに(晴:は)れているのに」",
     "example-en": "A: \"It's said that it will rain tomorrow.\" B: \"Really? It's so sunny today.\"",
-    "notes-en": "The phrase \"hontoudesukaa\" is used to express surprise or doubt. It is used to confirm whether something is true or not. When you use this phrase, raise the end of the word and pronounce it a little longer.",
     "notes-en": "The phrase \"hontoudesukaa\" is used to express surprise or doubt. It is used to confirm whether something is true or not. When you use this phrase, raise the end of the word and pronounce it a little longer.",
     "notes-ja": "「本当ですかぁ？」は、驚きや疑いを表現するために使用される間投詞です。 何かが本当かどうかを確認するときに使用されます。語尾をあげて少々伸ばして発音してください。"
   },
