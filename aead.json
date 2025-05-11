@@ -1,5 +1,54 @@
 [
   {
+    "date": "2025.05.12",
+    "day": "Sun",
+    "number": 397,
+    "index": "はいはい",
+    "title": "Yeah, yeah",
+    "expression-ja": "はいはい",
+    "roman-ja": "Hai hai",
+    "expression-en": "Yeah, yeah",
+    "variants-ja": [
+      "はいはい",
+      "はいはい、わかりました",
+      "はいはい、わかりましたよ",
+      "はいはい、わかりましたよ、もう"
+    ],
+    "variants-en": [
+      "Yeah, yeah",
+      "Okay, okay, I got it",
+      "Yeah, yeah, I understand",
+      "Yeah, yeah, I got it already"
+    ],
+    "intent-ja": ["同意", "あきらめ", "妥協"],
+    "intent-en": ["agreement", "resignation", "compromise"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "同意",
+      "あきらめ",
+      "妥協",
+      "繰り返し"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "agreement",
+      "resignation",
+      "compromise",
+      "repetition"
+    ],
+    "adjusted-expression-ja": "はい、わかりました。",
+    "adjusted-expression-en": "Yes, I understand.",
+    "img-sub": "haihai01.png",
+    "example-ja": "A「(明日:あした)こそ、やってよ」B「はいはい、わかりました」",
+    "example-en": "A: \"Tomorrow, you have to do it.\" B: \"Yeah, yeah, I got it.\"",
+    "notes-ja": "「はいはい」は、相手の言葉に対して軽く同意するカジュアルな表現です。「Yeah, yeah」や「Okay, okay」と訳されます。カジュアルな会話でよく使われ、相手に対して軽い同意を示す役割があります。この表現は、あまり本気ではないが、相手の言葉を受け入れるときに使われます。",
+    "notes-en": "\"Hai hai\" is a casual expression used to lightly agree with someone. It can be translated as \"Yeah, yeah\" or \"Okay, okay.\" This phrase is commonly used in informal conversations to show a light agreement with the speaker. It is often used when you don't take the statement too seriously but still want to acknowledge it."
+  },
+  {
     "date": "2025.05.11",
     "day": "Sun",
     "number": 396,
