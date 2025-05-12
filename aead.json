@@ -1,7 +1,40 @@
 [
   {
-    "date": "2025.05.12",
-    "day": "Sun",
+    "day": "Tue",
+    "number": 398,
+    "index": "でね、",
+    "title": "So, you know...",
+    "expression-ja": "でね、",
+    "roman-ja": "De ne",
+    "expression-en": "So, you know...",
+    "variants-ja": ["でね、", "でさ、", "でさあ、", "でねえ、"],
+    "variants-en": [
+      "So, you know...",
+      "So, like...",
+      "So, you see...",
+      "So, you know what?"
+    ],
+    "intent-ja": ["話の導入", "親密", "共有"],
+    "intent-en": ["introduction", "intimacy", "sharing"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "話の導入", "親密", "共有"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "introduction",
+      "intimacy",
+      "sharing"
+    ],
+    "adjusted-expression-ja": "そこで、お(話:はなし)というのは、...",
+    "adjusted-expression-en": "So, the story is ...",
+    "img-sub": "denene01.png",
+    "example-ja": "A「きのう、(買:か)い(物:もの)に(行:い)ったの、でね、そこで、(誰:だれ)に(会:あ)ったと(思:おも)う？」",
+    "example-en": "A: \"Yesterday, I went shopping, and you know what? I met someone there.\"",
+    "notes-ja": "「でね」は、話の導入や親密さを示すカジュアルな表現です。「So, you know...」や「So, like...」と訳されます。カジュアルな会話でよく使われ、相手に対して話の導入を示す役割があります。",
+    "notes-en": "\"De ne\" is a casual expression used to introduce a story or to show intimacy. It can be translated as \"So, you know...\" or \"So, like...\" This phrase is commonly used in informal conversations to indicate the beginning of a story or to create a sense of closeness with the listener."
+  },
+  {
+    "day": "Mon",
     "number": 397,
     "index": "はいはい",
     "title": "Yeah, yeah",
