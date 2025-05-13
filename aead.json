@@ -1,8 +1,42 @@
 [
   {
+    "day": "Wed",
+    "number": 399,
+    "index": "soregasa",
+    "title": "So, you know...",
+    "expression-ja": "それがさ、",
+    "roman-ja": "Sore ga sa",
+    "expression-en": "So, you know...",
+    "variants-ja": ["それがさ、", "それがさあ、", "それがね、", "それがねえ、"],
+    "variants-en": [
+      "So, you know...",
+      "So, like...",
+      "So, you see...",
+      "So, you know what?"
+    ],
+    "intent-ja": ["話の導入", "親密", "共有"],
+    "intent-en": ["introduction", "intimacy", "sharing"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "話の導入", "親密", "共有"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "introduction",
+      "intimacy",
+      "sharing"
+    ],
+    "adjusted-expression-ja": "それで、お(話:はなし)というのは、...",
+    "adjusted-expression-en": "So, the story is ...",
+    "img-sub": "soregasa01.png",
+    "example-ja": "A「(無理:むり)だって(思:おも)ってたんだけど、それがさ、やってみた(案外:あんがい)らうまくいったんだよね」B「え、ほんとに？」",
+    "example-en": "A: \"I thought it was impossible, but you know what? When I tried it, it actually went surprisingly well.\" B: \"Oh, really?\"",
+    "notes-ja": "「それがさ、」は、直前に語られた内容とは異なる展開や、予想外の事実を切り出すときに使われるカジュアルな話し言葉です。前提となる内容（たとえば「無理だよと言われた」など）に対して、それを覆すような展開や、意外性を含んだ事実を語る導入句として機能します。英語では \"So, you know what?\" や \"“But then...\" のような語り出しに近く、相手の注意を引きつける語用効果があります。単なる話題転換ではなく、「聞いて！意外なことが起きたの」という語り手の感情や態度が表現されるのが特徴です。",
+    "notes-en": "\"Sore ga sa\" is a casual expression used to introduce an unexpected or contrasting development following the previous statement. It typically functions as a narrative pivot, drawing the listener's attention to a surprising or emotionally significant event that contradicts or complicates what came before. In English, it is similar to phrases like \"So, you know what?\" or \"But then...\" Unlike neutral topic shifts, this expression carries the speaker's emotional engagement and signals a moment worth listening to."
+  },
+  {
     "day": "Tue",
     "number": 398,
-    "index": "でね、",
+    "index": "dene",
     "title": "So, you know...",
     "expression-ja": "でね、",
     "roman-ja": "De ne",
@@ -36,7 +70,7 @@
   {
     "day": "Mon",
     "number": 397,
-    "index": "はいはい",
+    "index": "haihai",
     "title": "Yeah, yeah",
     "expression-ja": "はいはい",
     "roman-ja": "Hai hai",
