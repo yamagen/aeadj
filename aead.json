@@ -1,5 +1,73 @@
 [
   {
+    "date": "2025.05.16",
+    "day": "Thu",
+    "number": 401,
+    "index": "machigainai",
+    "title": "No doubt about it",
+    "expression-ja": "(間違:まちが)いない",
+    "roman-ja": "Machigai nai",
+    "expression-en": "No doubt about it",
+    "variants-ja": [
+      "間違いない",
+      "間違いないって",
+      "間違いないよ",
+      "間違いないから"
+    ],
+    "variants-en": [
+      "No doubt about it",
+      "I'm telling you",
+      "I'm sure of it",
+      "Definitely"
+    ],
+    "intent-ja": ["確信", "強調", "同意の要求"],
+    "intent-en": ["certainty", "emphasis", "seeking agreement"],
+    "tags-ja": ["即時文法", "確信", "強調", "断言", "親密"],
+    "tags-en": [
+      "immediate grammar",
+      "certainty",
+      "emphasis",
+      "assertion",
+      "intimacy"
+    ],
+    "adjusted-expression-ja": "それは確実です／間違いありません",
+    "adjusted-expression-en": "That is certain / There is no mistake about it",
+    "img-sub": "machigainai01.png",
+    "example-ja": "A「(明日:あした)は(晴:は)れるかな？」B「(間違:まちが)いないよ」",
+    "example-en": "A: \"Will it be sunny tomorrow?\" B: \"No doubt about it.\"",
+    "notes-ja": "「間違いない」は、直感的な確信や経験に基づく判断を即時に表現する形式で、友人同士の親密な会話で多用される。末尾に「って」「よ」「から」などを加えることで、柔らかさや共感の度合いを調整する。",
+    "notes-en": "'Machigai nai' expresses immediate certainty based on intuition or past experience. Common in casual or intimate conversations, it often ends with particles like 'tte', 'yo', or 'kara' to adjust tone and seek agreement."
+  },
+  {
+    "day": "Thu",
+    "number": 400,
+    "index": "sorehamataatode,",
+    "title": "So, about that...",
+    "expression-ja": "それはまたあとで、",
+    "roman-ja": "Sore wa mata ato de",
+    "expression-en": "So, about that later...",
+    "variants-ja": ["それはまたあとで", "それはまた後でね"],
+    "variants-en": ["So, about that later", "We'll talk about that later"],
+    "intent-ja": ["話の導入", "親密", "共有"],
+    "intent-en": ["introduction", "intimacy", "sharing"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "話の導入", "親密", "共有"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "introduction",
+      "intimacy",
+      "sharing"
+    ],
+    "adjusted-expression-ja": "それはまたのちほどお話しします。",
+    "adjusted-expression-en": "I'll talk about that later.",
+    "img-sub": "sorehamataatode01.png",
+    "example-ja": "A「どんな(問題:もんだい)が(試験:しけん)に出るんですか」B「それはまたあとで」",
+    "example-en": "A: \"What kind of questions will be on the exam?\" B: \"We'll talk about that later.\"",
+    "notes-ja": "「それはまたあとで」は、話の導入や親密さを示すカジュアルな表現です。「So, about that later...」や「We'll talk about that later」と訳されます。カジュアルな会話でよく使われ、相手に対して話の導入を示す役割があります。",
+    "notes-en": "\"Sore wa mata ato de\" is a casual expression used to introduce a topic or to show intimacy. It can be translated as \"So, about that later...\" or \"We'll talk about that later.\" This phrase is commonly used in informal conversations to indicate the beginning of a story or to create a sense of closeness with the listener."
+  },
+  {
     "day": "Wed",
     "number": 399,
     "index": "soregasa",
