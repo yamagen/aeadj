@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.05.17",
+    "day": "Sat",
+    "number": 402,
+    "index": "tabenakucha",
+    "title": "I have to eat",
+    "expression-ja": "(食:た)べなくちゃ",
+    "roman-ja": "Tabenakucha",
+    "expression-en": "I have to eat",
+    "variants-ja": [
+      "食べなくちゃ",
+      "食べなきゃ",
+      "食べなきゃいけない",
+      "食べなきゃならない"
+    ],
+    "variants-en": [
+      "I have to eat",
+      "I must eat",
+      "I need to eat",
+      "I gotta eat"
+    ],
+    "intent-ja": ["義務", "必要", "意志"],
+    "intent-en": ["obligation", "necessity", "intention"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "義務", "必要", "意志"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "obligation",
+      "necessity",
+      "intention"
+    ],
+    "adjusted-expression-ja": "食べなければなりません。",
+    "adjusted-expression-en": "I have to eat.",
+    "img-sub": "tabenakucha01.png",
+    "example-ja": "A「(食:た)べなくちゃ」B「(食:た)べなきゃいけないよ」",
+    "example-en": "A: \"I have to eat.\" B: \"You need to eat.\"",
+    "notes-ja": "「...なくちゃ」は、義務や必要性を表すカジュアルな表現です。「...なきゃ」や「...なければならない」と訳されます。カジュアルな会話でよく使われ、相手に対して義務や必要性を伝える役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
+    "notes-en": "\"...nakucha\" is a casual expression used to convey obligation or necessity. It can be translated as \"I have to...\" or \"I need to...\" This phrase is commonly used in informal conversations to express the speaker's obligation or necessity. It is not too formal and is often used among close friends."
+  },
+  {
     "date": "2025.05.16",
     "day": "Fri",
     "number": 401,
