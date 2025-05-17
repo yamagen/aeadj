@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.05.18",
+    "day": "Sun",
+    "number": 403,
+    "index": "yappari",
+    "title": "As expected",
+    "expression-ja": "やっぱり",
+    "roman-ja": "Yappari",
+    "expression-en": "As expected",
+    "variants-ja": ["やっぱり", "やっぱ", "やっぱね", "やっぱさ"],
+    "variants-en": ["As expected", "Just as I thought"],
+    "intent-ja": ["確信", "同意", "親密"],
+    "intent-en": ["certainty", "agreement", "intimacy"],
+    "tags-ja": ["即時文法", "確信", "同意", "親密"],
+    "tags-en": ["immediate grammar", "certainty", "agreement", "intimacy"],
+    "adjusted-expression-ja": "やっぱりそうだと思います。",
+    "adjusted-expression-en": "I think that's true.",
+    "img-sub": "yappari01.png",
+    "example-ja": "A「(明日:あした)は(晴:は)れるかな？」B「やっぱり(晴:は)れないよ」",
+    "example-en": "A: \"Will it be sunny tomorrow?\" B: \"As expected, it won't be.\"",
+    "notes-ja": "「やっぱり」は、相手の言葉に対して軽く同意するカジュアルな表現です。「As expected」や「Just as I thought」と訳されます。カジュアルな会話でよく使われ、相手に対して軽い同意を示す役割があります。この表現は、あまり本気ではないが、相手の言葉を受け入れるときに使われます。",
+    "notes-en": "\"Yappari\" is a casual expression used to lightly agree with someone. It can be translated as \"As expected\" or \"Just as I thought.\" This phrase is commonly used in informal conversations to show a light agreement with the speaker. It is often used when you don't take the statement too seriously but still want to acknowledge it."
+  },
+  {
     "date": "2025.05.17",
     "day": "Sat",
     "number": 402,
