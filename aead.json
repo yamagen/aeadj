@@ -1,5 +1,87 @@
 [
   {
+    "date": "2025.05.20",
+    "day": "Tue",
+    "number": 405,
+    "index": "oishiinoni",
+    "title": "It's delicious, but...",
+    "expression-ja": "おいしいのに...",
+    "roman-ja": "Oishii noni...",
+    "expression-en": "It's delicious, but...",
+    "variants-ja": [
+      "おいしいのに",
+      "おいしいのになあ",
+      "おいしいのにね",
+      "おいしかったのに"
+    ],
+    "variants-en": [
+      "It's delicious, but...",
+      "It was so good, but...",
+      "Even though it's tasty...",
+      "Even though I liked it..."
+    ],
+    "intent-ja": ["感情の矛盾", "切なさ", "共有", "同情"],
+    "intent-en": [
+      "emotional conflict",
+      "bittersweet",
+      "shared feeling",
+      "sympathy"
+    ],
+    "tags-ja": ["即時文法", "省略", "感情表出", "状況依存型"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "emotion",
+      "context-dependent"
+    ],
+    "adjusted-expression-ja": "おいしいのに、誰も食べてくれません。",
+    "adjusted-expression-en": "Although it's delicious, nobody eats it.",
+    "example-ja": "A「(納豆:なっとう)、きらい」B「え、おいしいのに...」",
+    "example-en": "A: \"Natto(fermented soybeans) is gross.\" B: \"Huh, but it's delicious...\"",
+    "img-sub": "oishiinoni01.png",
+    "notes-ja": "「おいしいのに」は、感情の矛盾や切なさを表現するカジュアルな表現です。「It's delicious, but...」や「It was so good, but...」と訳されます。カジュアルな会話でよく使われ、相手に対して感情を共有する役割があります。「けれども」と違うのは、状況的に相手の意見に対して「そうではない」と否定的な意味合いを持つことです。",
+    "notes-en": "\"Oishii noni\" is a casual expression used to convey emotional conflict or bittersweet feelings. It can be translated as \"It's delicious, but...\" or \"It was so good, but...\" This phrase is commonly used in informal conversations to share emotions with the listener. Unlike the word \"keredomo,\" it carries a more negative connotation, suggesting that the speaker disagrees with the listener's opinion."
+  },
+  {
+    "date": "2025.05.19",
+    "day": "Mon",
+    "number": 404,
+    "index": "dekirukamo",
+    "title": "I might be able to",
+    "expression-ja": "できるかも",
+    "roman-ja": "Dekiru kamo",
+    "expression-en": "I might be able to",
+    "variants-ja": [
+      "できるかも",
+      "できるかもしれない",
+      "できるかもね",
+      "できるかもよ"
+    ],
+    "variants-en": [
+      "I might be able to",
+      "Maybe I can",
+      "I guess I could",
+      "I might manage"
+    ],
+    "intent-ja": ["可能性", "控えめ", "柔らかさ"],
+    "intent-en": ["possibility", "tentativeness", "softening"],
+    "tags-ja": ["即時文法", "推量", "婉曲", "控えめ", "柔らかさ"],
+    "tags-en": [
+      "immediate grammar",
+      "guessing",
+      "euphemism",
+      "tentativeness",
+      "softening"
+    ],
+    "adjusted-expression-ja": "もしかしたら、できるかもしれません。",
+    "adjusted-expression-en": "Perhaps I might be able to do it.",
+    "img-sub": "dekirukamo01.png",
+    "example-ja": "A「この課題、終わりそう？」 B「うん、できるかも。」",
+    "example-en": "A: “Do you think you can finish the assignment?” B: “Yeah, I might be able to.”",
+    "notes-ja": "「できるかも」は、即時的な思いつきや予測に基づいて、自信はないが可能性はあるという態度を示す表現。丁寧に言うと「できるかもしれません」になるが、即時文法では判断の途中で止まっている状態をそのまま発話する。",
+    "notes-en": "'Dekiru kamo' expresses a tentative possibility without strong confidence. It reflects the speaker’s real-time hesitation or ongoing evaluation, unlike the more formal ‘dekiru kamo shiremasen,’ which is often used in adjusted speech."
+  },
+  {
     "date": "2025.05.18",
     "day": "Sun",
     "number": 403,
