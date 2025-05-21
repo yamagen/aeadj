@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.05.21",
+    "day": "Wed",
+    "number": 406,
+    "index": "dousuru?",
+    "title": "What should I do?",
+    "expression-ja": "どうする？",
+    "roman-ja": "Dousuru?",
+    "expression-en": "What should I do?",
+    "variants-ja": [
+      "どうする？",
+      "どうしよう？",
+      "どうするの？",
+      "どうしようかな？"
+    ],
+    "variants-en": [
+      "What should I do?",
+      "What will I do?",
+      "What should I do about it?",
+      "What should I think?"
+    ],
+    "intent-ja": ["選択", "不安", "迷い"],
+    "intent-en": ["choice", "anxiety", "hesitation"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "選択", "不安", "迷い"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "choice",
+      "anxiety",
+      "hesitation"
+    ],
+    "adjusted-expression-ja": "どうしようか考えています。",
+    "adjusted-expression-en": "I'm thinking about what to do.",
+    "img-sub": "dousuru01.png",
+    "example-ja": "A「(明日:あした)、(雨:あめ)だって。どうする？」B「(雨:あめ)でも、行かなくちゃ」",
+    "example-en": "A: \"Tomorrow, they say it's going to rain. What should we do?\" B: \"Even if it rains, we have to go.\"",
+    "notes-ja": "「どうする？」は、選択や決断を求めるカジュアルな表現です。「What should I do?」や「What will I do?」と訳されます。カジュアルな会話でよく使われ、相手に対して選択肢を提示する役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
+    "notes-en": "\"Dousuru?\" is a casual expression used to ask for choices or decisions. It can be translated as \"What should I do?\" or \"What will I do?\" This phrase is commonly used in informal conversations to present options to the listener. It is not too formal and is often used among close friends."
+  },
+  {
     "date": "2025.05.20",
     "day": "Tue",
     "number": 405,
