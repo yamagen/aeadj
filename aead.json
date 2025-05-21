@@ -1,5 +1,47 @@
 [
   {
+    "date": "2025.05.22",
+    "day": "Thu",
+    "number": 407,
+    "index": "ukkari",
+    "title": "Oops",
+    "expression-ja": "うっかり",
+    "roman-ja": "Ukkari",
+    "expression-en": "Oops",
+    "variants-ja": [
+      "うっかり",
+      "うっかりして",
+      "うっかりしてた",
+      "うっかりしちゃった"
+    ],
+    "variants-en": ["Oops", "I accidentally", "I carelessly", "I forgot"],
+    "intent-ja": ["失敗", "軽い後悔", "注意不足"],
+    "intent-en": ["mistake", "light regret", "lack of attention"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "失敗",
+      "軽い後悔",
+      "注意不足"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "mistake",
+      "light regret",
+      "lack of attention"
+    ],
+    "adjusted-expression-ja": "注意を怠ってしまいました。",
+    "adjusted-expression-en": "I neglected to pay attention.",
+    "img-sub": "ukkari01.png",
+    "example-ja": "A「(うっかり)して、(傘:かさ)、(忘:わす)れちゃった」B「それ、(安物:やすもの)でしょ？」",
+    "example-en": "A: \"I accidentally forgot my umbrella.\" B: \"That was a cheap one, right?\"",
+    "notes-ja": "「うっかり」は、注意不足や軽い後悔を表すカジュアルな表現です。「Oops」や「I accidentally」と訳されます。カジュアルな会話でよく使われ、相手に対して失敗を伝える役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
+    "notes-en": "\"Ukkari\" is a casual expression used to convey a lack of attention or light regret. It can be translated as \"Oops\" or \"I accidentally.\" This phrase is commonly used in informal conversations to inform the listener about a mistake. It is not too formal and is often used among close friends."
+  },
+  {
     "date": "2025.05.21",
     "day": "Wed",
     "number": 406,
