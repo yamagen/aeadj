@@ -1,5 +1,52 @@
 [
   {
+    "date": "2025.05.23",
+    "day": "Fri",
+    "number": 408,
+    "index": "tsui.teshimatta",
+    "title": "accidentally",
+    "expression-ja": "つい、...してしまった",
+    "roman-ja": "Tsui ... shite shimatta",
+    "expression-en": "accidentally ...",
+    "variants-ja": [
+      "つい、...してしまった",
+      "つい、...しちゃった",
+      "つい、...しちゃいました",
+      "つい、...してしまいました"
+    ],
+    "variants-en": [
+      "accidentally ...",
+      "I accidentally ...",
+      "I ended up ...",
+      "I happened to ..."
+    ],
+    "intent-ja": ["失敗", "軽い後悔", "注意不足"],
+    "intent-en": ["mistake", "light regret", "lack of attention"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "失敗",
+      "軽い後悔",
+      "注意不足"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "mistake",
+      "light regret",
+      "lack of attention"
+    ],
+    "adjusted-expression-ja": "意図せずに、...してしまいました。",
+    "adjusted-expression-en": "I have done ... unintentionally.",
+    "img-sub": "tsuiteshimatta01.png",
+    "example-ja": "A「おいしいんで、つい、いっぱい(食:た)べちゃった」",
+    "example-en": "A: \"It was so delicious, I ended up eating a lot.\"",
+    "notes-ja": "「つい、...してしまった」は、注意不足や軽い後悔を表すカジュアルな表現です。「accidentally ...」や「I accidentally ...」と訳されます。カジュアルな会話でよく使われ、相手に対して失敗を伝える役割があります。",
+    "notes-en": "\"Tsui ... shite shimatta\" is a casual expression used to convey a lack of attention or light regret. It can be translated as \"accidentally ...\" or \"I ended up ...\""
+  },
+  {
     "date": "2025.05.22",
     "day": "Thu",
     "number": 407,
