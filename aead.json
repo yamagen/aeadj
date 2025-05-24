@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.05.25",
+    "day": "Sun",
+    "number": 410,
+    "index": "naniyattenno",
+    "title": "What are you doing?",
+    "expression-ja": "(何:なに)やってんの？",
+    "roman-ja": "Nani yatten no?",
+    "expression-en": "What are you doing?",
+    "variants-ja": [
+      "何やってんの？",
+      "何やってるの？",
+      "何してんの？",
+      "何してるの？"
+    ],
+    "variants-en": [
+      "What are you doing?",
+      "What are you up to?",
+      "What are you working on?",
+      "What are you engaged in?"
+    ],
+    "intent-ja": ["疑問", "関心", "親密さ"],
+    "intent-en": ["question", "interest", "intimacy"],
+    "tags-ja": ["即時文法", "省略", "状況依存型", "疑問", "関心", "親密さ"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "question",
+      "interest",
+      "intimacy"
+    ],
+    "adjusted-expression-ja": "今、何をしているのですか？",
+    "adjusted-expression-en": "What are you doing right now?",
+    "img-sub": "naniyattenno01.png",
+    "example-ja": "A「(何:なに)やってんの？」B「(勉強:べんきょう)してるよ」",
+    "example-en": "A: \"What are you doing?\" B: \"I'm studying.\"",
+    "notes-ja": "「何やってんの？」は、相手の行動や状況に対する疑問をカジュアルに尋ねる表現です。「What are you doing?」や「What are you up to?」と訳されます。カジュアルな会話でよく使われ、相手に対して関心を示す役割があります。",
+    "notes-en": "\"Nani yatten no?\" is a casual expression used to ask about someone's actions or situation. It can be translated as \"What are you doing?\" or \"What are you up to?\" This phrase is commonly used in informal conversations to show interest in the listener's activities."
+  },
+  {
     "date": "2025.05.24",
     "day": "Sat",
     "number": 409,
