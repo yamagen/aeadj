@@ -1,9 +1,44 @@
 [
   {
+    "date": "2025.05.24",
+    "day": "Sat",
+    "number": 409,
+    "index": "uma",
+    "title": "Delicious",
+    "expression-ja": "うま！",
+    "roman-ja": "Uma!",
+    "expression-en": "Delicious",
+    "variants-ja": [
+      "うま！",
+      "うまい！",
+      "うっま！",
+      "うまいよ！",
+      "めっちゃうま！"
+    ],
+    "variants-en": ["Delicious!", "Tasty!", "Yummy!", "So good!"],
+    "intent-ja": ["感情の表出", "喜び", "驚き", "強調", "若者言葉"],
+    "intent-en": [
+      "expression of emotion",
+      "joy",
+      "surprise",
+      "emphasis",
+      "youth slang"
+    ],
+    "tags-ja": ["即時文法", "感情表出", "状況依存型"],
+    "tags-en": ["immediate grammar", "emotion expression", "context-dependent"],
+    "adjusted-expression-ja": "おいしい！",
+    "adjusted-expression-en": "It's delicious!",
+    "img-sub": "uma01.png",
+    "example-ja": "A「(食:た)べてみて」B「うま！」",
+    "example-en": "A: \"Try it!\" B: \"Delicious!\"",
+    "notes-ja": "「うま！」は、食べ物が美味しいときに使うカジュアルな表現です。「Delicious!」や「Tasty!」と訳されます。カジュアルな会話でよく使われ、相手に対して感情を表現する役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。反射的に感情が口に出てしまう場面には、イ形容詞の「うまい」の「い」を発音せずに「うま！」と短縮して使うことが多いです。",
+    "notes-en": "\"Uma!\" is a casual expression used to indicate that food is delicious. It can be translated as \"Delicious!\" or \"Tasty!\" This phrase is commonly used in informal conversations to express emotions to the listener. It is not too formal and is often used among close friends. In spontaneous emotional reactions, the adjective 'umai' is often shortened to 'uma!' without pronouncing the 'i'."
+  },
+  {
     "date": "2025.05.23",
     "day": "Fri",
     "number": 408,
-    "index": "tsui.teshimatta",
+    "index": "tsui.*teshimatta",
     "title": "accidentally",
     "expression-ja": "つい、...してしまった",
     "roman-ja": "Tsui ... shite shimatta",
