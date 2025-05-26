@@ -1,5 +1,52 @@
 [
   {
+    "date": "2025.05.26",
+    "day": "Mon",
+    "number": 411,
+    "index": "kazehiita",
+    "title": "I caught a cold",
+    "expression-ja": "(風邪:かぜ)ひいた",
+    "roman-ja": "Kaze hiita",
+    "expression-en": "I caught a cold",
+    "variants-ja": [
+      "風邪ひいた",
+      "風邪ひいちゃった",
+      "風邪ひいちゃいました",
+      "風邪ひいてしまった"
+    ],
+    "variants-en": [
+      "I caught a cold",
+      "I got a cold",
+      "I ended up catching a cold",
+      "I happened to catch a cold"
+    ],
+    "intent-ja": ["病気", "軽い後悔", "注意不足"],
+    "intent-en": ["illness", "light regret", "lack of attention"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "病気",
+      "軽い後悔",
+      "注意不足"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "illness",
+      "light regret",
+      "lack of attention"
+    ],
+    "adjusted-expression-ja": "風邪を引いてしまいました。",
+    "adjusted-expression-en": "I have caught a cold.",
+    "img-sub": "kazehiita01.png",
+    "example-ja": "A「(風邪:かぜ)ひいた」B「大丈夫？(薬:くすり)飲んだ？」",
+    "example-en": "A: \"I caught a cold.\" B: \"Are you okay? Did you take medicine?\"",
+    "notes-ja": "「風邪ひいた」は、病気や体調不良をカジュアルに伝える表現です。「I caught a cold」や「I got a cold」と訳されます。カジュアルな会話でよく使われ、相手に対して体調の悪さを伝える役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
+    "notes-en": "\"Kaze hiita\" is a casual expression used to convey illness or poor health. It can be translated as \"I caught a cold\" or \"I got a cold.\" This phrase is commonly used in informal conversations to inform the listener about feeling unwell. It is not too formal and is often used among close friends."
+  },
+  {
     "date": "2025.05.25",
     "day": "Sun",
     "number": 410,
