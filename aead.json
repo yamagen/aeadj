@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.05.27",
+    "day": "Tue",
+    "number": 412,
+    "index": "demotte",
+    "title": "And then / So then",
+    "expression-ja": "でもって",
+    "roman-ja": "Demotte",
+    "expression-en": "And then / So then",
+    "variants-ja": ["でもって"],
+    "variants-en": ["And then", "So then", "Plus", "Also"],
+    "intent-ja": ["接続", "話のつなぎ", "順接", "補足"],
+    "intent-en": ["connection", "linking", "addition", "sequence"],
+    "tags-ja": ["即時文法", "接続", "話し言葉", "カジュアル"],
+    "tags-en": ["immediate grammar", "connection", "spoken language", "casual"],
+    "adjusted-expression-ja": "それで、さらに、",
+    "adjusted-expression-en": "Moreover, additionally, furthermore",
+    "example-ja": "(昨日:きのう)は(雨:あめ)だった、でもって(風:かぜ)も(強:つよ)かった。",
+    "example-en": "Yesterday it rained, and then the wind was strong too.",
+    "img-sub": "demotte01.png",
+    "notes-ja": "「でもって」は、話の流れをつなぐために使われるカジュアルな表現です。「And then」や「So then」と訳されます。カジュアルな会話でよく使われ、相手に対して話の流れを示す役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
+    "notes-en": "\"Demotte\" is a casual expression used to connect the flow of conversation. It can be translated as \"And then\" or \"So then.\" This phrase is commonly used in informal conversations to indicate the continuation of a story or topic. It is not too formal and is often used among close friends."
+  },
+  {
     "date": "2025.05.26",
     "day": "Mon",
     "number": 411,
