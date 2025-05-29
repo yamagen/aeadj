@@ -1,5 +1,71 @@
 [
   {
+    "date": "2025.05.29",
+    "day": "Thu",
+    "number": 414,
+    "index": "dounokouno",
+    "title": "this and that / such and such",
+    "expression-ja": "どうのこうの",
+    "roman-ja": "Dō no kō no",
+    "expression-en": "this and that / such and such",
+    "variants-ja": ["どうのこうの", "どうこう", "ああだこうだ", "あれこれ"],
+    "variants-en": [
+      "this and that",
+      "such and such",
+      "blah blah",
+      "this or that"
+    ],
+    "intent-ja": ["文句", "細かいこと", "批判", "不明な事情の濁し"],
+    "intent-en": [
+      "complaint",
+      "nitpicking",
+      "criticism",
+      "glossing over unclear details"
+    ],
+    "tags-ja": ["即時文法", "状況依存", "繰り返し", "軽い文句", "事情の省略"],
+    "tags-en": [
+      "immediate grammar",
+      "context-dependent",
+      "repetition",
+      "light complaint",
+      "skipping details"
+    ],
+    "adjusted-expression-ja": "詳細は存じませんが、税金に関する何らかの話題だったかと記憶しております。",
+    "adjusted-expression-en": "I'm not certain of the details, but I believe it was some matter regarding taxes.",
+    "img-sub": "dounokouno01.png",
+    "example-ja": "よくわからないが、(税金:ぜいきん)がどうのこうのという(話:はなし)だったかな？",
+    "example-en": "I don't really know, but I think it was something about taxes and such.",
+    "notes-ja": "「どうのこうの」は、話の細部や事情がはっきりわからないとき、または細かい説明を省略したいときに用いる表現である。例えば「税金がどうのこうのという話だった」という場合、具体的な内容は把握していないが、何かそういう話題があったことを伝えるニュアンスになる。",
+    "notes-en": "\"Dou no kou no\" is used when the speaker does not know the details or prefers to skip over detailed explanations. For example, saying \"It was something about taxes and such\" conveys that the speaker is aware there was some discussion but does not provide or know the specifics."
+  },
+  {
+    "date": "2025.05.28",
+    "day": "Tue",
+    "number": 413,
+    "index": "nandakanda de",
+    "title": "After all / In the end",
+    "expression-ja": "なんだかんだで",
+    "roman-ja": "Nandakanda de",
+    "expression-en": "After all / In the end",
+    "variants-ja": [
+      "なんだかんだで",
+      "なんだかんだ言って",
+      "なんだかんだの末に"
+    ],
+    "variants-en": ["After all", "In the end", "When all is said and done"],
+    "intent-ja": ["結論", "まとめ", "軽いニュアンス"],
+    "intent-en": ["conclusion", "summary", "light nuance"],
+    "tags-ja": ["即時文法", "話し言葉", "カジュアル", "結論"],
+    "tags-en": ["immediate grammar", "spoken language", "casual", "conclusion"],
+    "adjusted-expression-ja": "結局のところ、最終的には",
+    "adjusted-expression-en": "Ultimately, in the end",
+    "example-ja": "なんだかんだで(彼:かれ)が(勝:か)つんだよね。",
+    "example-en": "After all, he ends up winning, you know.",
+    "img-sub": "nandakanda01.png",
+    "notes-ja": "「なんだかんだで」は軽い口語表現で、細かいことがあったけれど結局〜だという結論やまとめを表すときに使われる。友人同士の会話などカジュアルな場面でよく耳にする。",
+    "notes-en": "\"Nandakanda de\" is a casual spoken expression meaning \"after all\" or \"in the end,\" used to summarize that despite various details, something ultimately happens. It’s often heard in casual conversations among friends."
+  },
+  {
     "date": "2025.05.27",
     "day": "Tue",
     "number": 412,
