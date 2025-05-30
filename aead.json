@@ -1,5 +1,37 @@
 [
   {
+    "date": "2025.05.30",
+    "day": "Fri",
+    "number": 415,
+    "index": "sappari",
+    "title": "Not at all / Not in the least",
+    "expression-ja": "さっぱり",
+    "roman-ja": "Sappari",
+    "expression-en": "Not at all / Not in the least",
+    "variants-ja": ["さっぱり", "さっぱりわからない", "さっぱりしない"],
+    "variants-en": [
+      "Not at all",
+      "Not in the least",
+      "I don't understand at all"
+    ],
+    "intent-ja": ["否定", "不満", "軽い驚き"],
+    "intent-en": ["negation", "dissatisfaction", "mild surprise"],
+    "tags-ja": ["即時文法", "否定", "状況依存型", "軽い驚き"],
+    "tags-en": [
+      "immediate grammar",
+      "negation",
+      "context-dependent",
+      "mild surprise"
+    ],
+    "adjusted-expression-ja": "まったくうまくいきません。",
+    "adjusted-expression-en": "It doesn't go well at all.",
+    "img-sub": "sappari01.png",
+    "example-ja": "A「(今日:きょう)の(成果:せいか)は？」B「さっぱり」",
+    "example-en": "A: \"How was today's result?\" B: \"Not at all.\"",
+    "notes-ja": "「さっぱり」は、何かが全くうまくいかない、または理解できないことを表すカジュアルな表現です。「Not at all」や「Not in the least」と訳されます。カジュアルな会話でよく使われ、相手に対して否定的な感情を伝える役割があります。",
+    "notes-en": "\"Sappari\" is a casual expression used to indicate that something is not going well at all or that one does not understand something. It can be translated as \"Not at all\" or \"Not in the least.\" ."
+  },
+  {
     "date": "2025.05.29",
     "day": "Thu",
     "number": 414,
