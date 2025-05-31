@@ -1,5 +1,36 @@
 [
   {
+    "date": "2025.05.31",
+    "day": "Sat",
+    "number": 416,
+    "index": "sorehasorede",
+    "title": "That's fine as it is, isn't it?",
+    "expression-ja": "それはそれで…いいんじゃない？",
+    "roman-ja": "Sore wa sore de... iin janai?",
+    "expression-en": "That's fine as it is, isn't it?",
+    "variants-ja": [
+      "それはそれでいいんじゃない？",
+      "それはそれでアリじゃない？",
+      "まあ、それはそれでいいか"
+    ],
+    "variants-en": [
+      "That's fine as it is, isn't it?",
+      "That's acceptable, right?",
+      "Well, that’s okay, I guess"
+    ],
+    "intent-ja": ["受容", "妥協", "緩和"],
+    "intent-en": ["acceptance", "compromise", "softening"],
+    "tags-ja": ["即時文法", "受容", "妥協", "ゆるし"],
+    "tags-en": ["immediate grammar", "acceptance", "compromise", "forgiveness"],
+    "adjusted-expression-ja": "それはそれで、まあいいんじゃないでしょうか。",
+    "adjusted-expression-en": "That's fine as it is, I suppose.",
+    "img-sub": "sorehasoredeiinjyanai01.png",
+    "example-ja": "A「(失敗作:しっぱいさく)の(ケーキ:けーき)、(見:み)た(目:め)はぐちゃぐちゃだよ」 B「でも、それはそれで、(手作:てづく)り(感:かん)あっていいんじゃない？」",
+    "example-en": "A: 'This failed cake looks like a total mess...' B: 'But, you know, that’s fine as it is — it has a homemade charm!'",
+    "notes-ja": "「それはそれで...いいんじゃない？」は、相手の意見や状況を受け入れつつ、少しの妥協や緩和を示すカジュアルな表現です。「That's fine as it is, isn't it?」と訳されます。カジュアルな会話でよく使われ、相手に対して受容的な態度を示す役割があります。通常の基準ではマイナス評価される要素も、視点を変えることで肯定される場面で使われます。",
+    "notes-en": "\"Sore wa sore de... iin janai?\" is a casual expression used to accept the other person's opinion or situation while showing a bit of compromise or softening. It can be translated as \"That's fine as it is, isn't it?\" This phrase is commonly used in informal conversations to indicate an accepting attitude towards the listener. It often appears in situations where something normally seen as negative is reframed in a positive light."
+  },
+  {
     "date": "2025.05.30",
     "day": "Fri",
     "number": 415,
