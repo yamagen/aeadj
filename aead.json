@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.06.01",
+    "day": "Sun",
+    "number": 417,
+    "index": "hikkirinashini",
+    "title": "nonstop / without pause",
+    "expression-ja": "ひっきりなしに",
+    "roman-ja": "Hikkiri nashi ni",
+    "expression-en": "nonstop / without pause",
+    "variants-ja": ["ひっきりなしに", "ひっきりなしで", "ひっきりなしだ"],
+    "variants-en": ["nonstop", "without pause", "constantly", "incessantly"],
+    "intent-ja": ["連続", "途切れない", "多忙"],
+    "intent-en": ["continuity", "uninterrupted", "busyness"],
+    "tags-ja": ["即時文法", "状況描写", "頻度"],
+    "tags-en": ["immediate grammar", "situation description", "frequency"],
+    "adjusted-expression-ja": "休む間もなく次の仕事が始まった。",
+    "adjusted-expression-en": "Without pause, the next task began.",
+    "img-sub": "hikkirinashini01.png",
+    "example-ja": "ひっきりなしに(来客:らいきゃく)があって(休:やす)む(暇:ひま)がない。",
+    "example-en": "Visitors keep coming nonstop, leaving no time to rest.",
+    "notes-ja": "「ひっきりなしに」は、何かが途切れることなく続く様子を表すカジュアルな表現です。「nonstop」や「without pause」と訳されます。カジュアルな会話でよく使われ、相手に対して連続的な状況を伝える役割があります。「ひっきり」ということばは「引き切る」から来たことばといわれていますが、「ひっきり」だけで使われることはありません。もちろん、「ひっきりありに」ということばもありませんよ。",
+    "notes-en": "\"Hikkiri nashi ni\" is a casual expression used to describe something that continues without interruption. It can be translated as \"nonstop\" or \"without pause.\" This phrase is commonly used in informal conversations to convey a continuous situation to the listener. The term \"hikkiri\" is believed to originate from \"hiki kiru,\" but it is not used on its own, and there is no phrase like \"hikkiri ari ni.\""
+  },
+  {
     "date": "2025.05.31",
     "day": "Sat",
     "number": 416,
