@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.06.02",
+    "day": "Mon",
+    "number": 418,
+    "index": "kurikaeshikurikaeshi",
+    "title": "repeatedly / over and over",
+    "expression-ja": "(繰:く)り(返:かえ)し(繰:く)り(返:かえ)し",
+    "roman-ja": "Kurikaeshi kurikaeshi",
+    "expression-en": "repeatedly / over and over",
+    "variants-ja": ["繰り返し繰り返し", "繰り返し", "何度も何度も", "何度も"],
+    "variants-en": [
+      "repeatedly",
+      "over and over",
+      "time and again",
+      "again and again"
+    ],
+    "intent-ja": ["反復", "持続", "強調"],
+    "intent-en": ["repetition", "continuity", "emphasis"],
+    "tags-ja": ["即時文法", "反復", "状況描写", "強調"],
+    "tags-en": [
+      "immediate grammar",
+      "repetition",
+      "situation description",
+      "emphasis"
+    ],
+    "adjusted-expression-ja": "何度も繰り返して、やっと理解できた。",
+    "adjusted-expression-en": "After repeating it over and over, I finally understood.",
+    "img-sub": "kurikaeshikurikaeshi01.png",
+    "example-ja": "A「(同:おな)じことを(繰:く)り(返:かえ)し(言:い)ってるね」B「うん、(何度:なんど)も(繰:く)り(返:かえ)し(言:い)うのが(大事:だいじ)なんだよ」",
+    "example-en": "A: \"You keep saying the same thing.\" B: \"Yeah, it's important to repeat it over and over.\"",
+    "notes-ja": "「繰り返し繰り返し」は、何かを何度も行うことを強調するカジュアルな表現です。「repeatedly」や「over and over」と訳されます。カジュアルな会話でよく使われ、相手に対して反復的な行動や状況を伝える役割があります。",
+    "notes-en": "\"Kurikaeshi kurikaeshi\" is a casual expression used to emphasize doing something repeatedly. It can be translated as \"repeatedly\" or \"over and over.\" This phrase is commonly used in informal conversations to convey repetitive actions or situations to the listener. "
+  },
+  {
     "date": "2025.06.01",
     "day": "Sun",
     "number": 417,
