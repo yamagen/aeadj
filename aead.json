@@ -1,5 +1,111 @@
 [
   {
+    "date": "2025.06.05",
+    "day": "Thu",
+    "number": 421,
+    "index": "nan.de.ari",
+    "title": "whatever ... is / no matter what ... is",
+    "expression-ja": "…は何であれ",
+    "roman-ja": "... wa nan de are",
+    "expression-en": "whatever ... is / no matter what ... is",
+    "variants-ja": [
+      "何であれ",
+      "どんなものであれ",
+      "何であっても",
+      "いずれにせよ"
+    ],
+    "variants-en": [
+      "whatever it is",
+      "no matter what",
+      "in any case",
+      "regardless of what it is"
+    ],
+    "intent-ja": ["条件不問", "一般化", "包括", "話題転換"],
+    "intent-en": [
+      "regardless of condition",
+      "generalization",
+      "inclusiveness",
+      "topic shift"
+    ],
+    "tags-ja": ["即時文法", "条件", "一般化", "文脈転換"],
+    "tags-en": [
+      "immediate grammar",
+      "condition",
+      "generalization",
+      "context shift"
+    ],
+    "adjusted-expression-ja": "理由は何であれ、やるしかない。",
+    "adjusted-expression-en": "Whatever the reason is, we have to do it.",
+    "img-sub": "nandeare.png",
+    "example-ja": "A「なぜ来なかったの？」B「理由は何であれ、もう終わったことだ。」",
+    "example-en": "A: \"Why didn’t you come?\" B: \"Whatever the reason, it’s over now.\""
+  },
+  {
+    "date": "2025.06.04",
+    "day": "Wed",
+    "number": 420,
+    "index": "hotto.suru",
+    "title": "feel relieved",
+    "expression-ja": "ほっとする",
+    "roman-ja": "Hotto suru",
+    "expression-en": "feel relieved",
+    "variants-ja": ["ほっとした", "ほっとする", "ほっとして", "ほっとしている"],
+    "variants-en": [
+      "felt relieved",
+      "feel relieved",
+      "what a relief",
+      "that's a relief"
+    ],
+    "intent-ja": ["安堵", "緊張の解放", "安心", "気持ちの変化"],
+    "intent-en": [
+      "relief",
+      "release of tension",
+      "reassurance",
+      "change of feeling"
+    ],
+    "tags-ja": ["即時文法", "感情", "心情", "状況描写"],
+    "tags-en": [
+      "immediate grammar",
+      "emotion",
+      "feeling",
+      "situation description"
+    ],
+    "adjusted-expression-ja": "やっと安心できました。",
+    "adjusted-expression-en": "I can finally relax.",
+    "img-sub": "hotto.suru01.png",
+    "example-ja": "A「(試験:しけん)が(終:お)わった。ほっとした」B「うん、(結果:けっか)が(良:よ)かったらいいね」",
+    "example-en": "A: \"The exam is over. I feel relieved.\" B: \"Yeah, I hope the results are good.\"",
+    "notes-ja": "「ほっとする」は、緊張や不安が解消されて安心することを表すカジュアルな表現です。「feel relieved」や「what a relief」と訳されます。カジュアルな会話でよく使われ、相手に対して安心感を伝える役割があります。",
+    "notes-en": "\"Hotto suru\" is a casual expression used to convey the feeling of relief when tension or anxiety is released. It can be translated as \"feel relieved\" or \"what a relief.\" "
+  },
+  {
+    "date": "2025.06.03",
+    "day": "Tue",
+    "number": 419,
+    "index": "hajimeyou",
+    "title": "Let's get started",
+    "expression-ja": "さあ、(始:はじ)めよう",
+    "roman-ja": "Saa, hajimeyou",
+    "expression-en": "Alright, let’s get started",
+    "variants-ja": ["さあ、始めよう", "さあ、始めましょう", "さあ、いこう"],
+    "variants-en": [
+      "Alright, let's begin",
+      "Okay, let's get started",
+      "Let's go"
+    ],
+    "intent-ja": ["開始", "決意", "勢い"],
+    "intent-en": ["start", "determination", "momentum"],
+    "tags-ja": ["即時文法", "行動", "開始"],
+    "tags-en": ["immediate grammar", "action", "start"],
+    "adjusted-expression-ja": "さて、始めましょうか。",
+    "adjusted-expression-en": "Well then, shall we begin?",
+    "example-ja": "A「さあ、(始:はじ)めよう」B「うん、でも、(何:なに)を？」",
+    "example-en": "A: \"Alright, let's get started.\" B: \"Sure, but what should we do?\"",
+    "img-sub": "hajimeyou01.png",
+    "notes-ja": "「さあ、始めよう」は、何かを始めるときの決意や勢いを表すカジュアルな表現です。「Alright, let's get started」や「Okay, let's begin」と訳されます。カジュアルな会話でよく使われ、相手に対して行動を促す役割があります。",
+    "notes-en": "\"Saa, hajimeyou\" is a casual expression used to convey determination or momentum when starting something. It can be translated as \"Alright, let's get started\" or \"Okay, let's begin.\""
+  },
+  {
     "date": "2025.06.02",
     "day": "Mon",
     "number": 418,
