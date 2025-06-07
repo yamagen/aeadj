@@ -1,11 +1,82 @@
 [
   {
+    "date": "2025.06.07",
+    "day": "Sat",
+    "number": 423,
+    "index": "zenbugazenbu",
+    "title": "Not everything / Not all of it",
+    "expression-ja": "ぜんぶがぜんぶ",
+    "roman-ja": "Zenbu ga zenbu",
+    "expression-en": "Not everything / Not all of it",
+    "variants-ja": [
+      "ぜんぶがぜんぶ",
+      "すべてがすべて",
+      "みんながみんな",
+      "何もかもがそうってわけじゃない"
+    ],
+    "variants-en": [
+      "Not everything",
+      "Not all of it",
+      "It's not always the case",
+      "Not everyone is like that"
+    ],
+    "intent-ja": ["部分否定", "慎重", "バランス", "説明の前置き"],
+    "intent-en": ["partial negation", "caution", "balance", "hedging"],
+    "tags-ja": ["即時文法", "スタンス", "慎重さ"],
+    "tags-en": ["immediate grammar", "stance", "cautiousness"],
+    "adjusted-expression-ja": "すべてが必ずしも悪いとは言い切れません。",
+    "adjusted-expression-en": "Not everything can necessarily be said to be bad.",
+    "img-sub": "zenbugazenbu01.png",
+    "example-ja": "A「(人:ひと)は(みんな:みんな)そうだよね？」B「いや、ぜんぶがぜんぶそうってわけじゃないよ」",
+    "example-en": "A: \"People are all like that, right?\" B: \"No, not everyone is like that.\"",
+    "notes-ja": "「ぜんぶがぜんぶ」は、すべての事例や人が同じではないことを強調するカジュアルな表現です。「Not everything」や「Not all of it」と訳されます。カジュアルな会話でよく使われ、相手に対して慎重な態度を示す役割があります。特に、一般化や偏見を避けるために使われることが多いです。",
+    "notes-en": "\"Zenbu ga zenbu\" is a casual expression used to emphasize that not all cases or people are the same. It can be translated as \"Not everything\" or \"Not all of it.\" This phrase is commonly used in informal conversations to indicate a cautious attitude towards generalizations or stereotypes, often serving to avoid bias."
+  },
+  {
+    "date": "2025.06.06",
+    "day": "Fri",
+    "number": 422,
+    "index": "dounika.naru",
+    "title": "It’ll work out somehow / It'll be fine",
+    "expression-ja": "どうにかなる",
+    "roman-ja": "Dounika naru",
+    "expression-en": "It'll work out somehow / It'll be fine",
+    "variants-ja": [
+      "どうにかなる",
+      "なんとかなる",
+      "まあ何とかなるさ",
+      "きっと大丈夫"
+    ],
+    "variants-en": [
+      "It’ll work out somehow",
+      "It’ll be fine",
+      "Things will turn out okay",
+      "It’ll be all right"
+    ],
+    "intent-ja": ["楽観", "安心", "慰め", "励まし"],
+    "intent-en": ["optimism", "reassurance", "comfort", "encouragement"],
+    "tags-ja": ["即時文法", "感情", "状況描写", "慰め"],
+    "tags-en": [
+      "immediate grammar",
+      "emotion",
+      "situation description",
+      "comfort"
+    ],
+    "adjusted-expression-ja": "状況は厳しいかもしれませんが、最終的には何とか解決できると思います。",
+    "adjusted-expression-en": "Although the situation may be difficult, I believe that things will eventually be resolved.",
+    "img-sub": "dounikanaru.png",
+    "example-ja": "A「(締切:しめきり)に(間:ま)に(合:あ)うかな…」B「(大丈夫:だいじょうぶ)、どうにかなるよ。」",
+    "example-en": "A: \"Do you think we'll make the deadline...?\" B: \"Don't worry, it'll be fine.\"",
+    "notes-ja": "「どうにかなる」は、状況が厳しいときでも、最終的には何とかなるという楽観的な気持ちを表すカジュアルな表現です。「It'll work out somehow」や「It'll be fine」と訳されます。カジュアルな会話でよく使われ、相手に対して安心感を与える役割があるかもしれませんが、根拠もないのに、「どうにかなる」というと無責任に思われるかもしれません。私の友人に口癖でこういう人がいますが、だいたい「どうにもならない」ことのようです。",
+    "notes-en": "\"Dounika naru\" is a casual expression that conveys an optimistic feeling that things will work out in the end, even in difficult situations. It can be translated as \"It'll work out somehow\" or \"It'll be fine.\" This phrase is commonly used in informal conversations to provide reassurance to the listener. However, saying \"Dounika naru\" without any basis may come across as irresponsible. I have a friend who often uses this phrase, but it usually turns out that things do not work out as expected."
+  },
+  {
     "date": "2025.06.05",
     "day": "Thu",
     "number": 421,
     "index": "nan.de.ari",
     "title": "whatever ... is / no matter what ... is",
-    "expression-ja": "…は何であれ",
+    "expression-ja": "...は(何:なん)であれ",
     "roman-ja": "... wa nan de are",
     "expression-en": "whatever ... is / no matter what ... is",
     "variants-ja": [
@@ -34,11 +105,13 @@
       "generalization",
       "context shift"
     ],
-    "adjusted-expression-ja": "理由は何であれ、やるしかない。",
-    "adjusted-expression-en": "Whatever the reason is, we have to do it.",
+    "adjusted-expression-ja": "いかなる(理由:りゆう)があったとして、...。",
+    "adjusted-expression-en": "Regardless of the reason, ...",
     "img-sub": "nandeare.png",
-    "example-ja": "A「なぜ来なかったの？」B「理由は何であれ、もう終わったことだ。」",
-    "example-en": "A: \"Why didn’t you come?\" B: \"Whatever the reason, it’s over now.\""
+    "example-ja": "A「(結果:けっか)が(何:なん)であれ、もう(終:お)わったことだ」",
+    "example-en": "A: \"Whatever the result is, it's already over.\"",
+    "notes-ja": "「...は何であれ」は、条件や状況に関係なく、何かを包括的に述べる表現です。「whatever ... is」や「no matter what ... is」と訳されます。「あれ」は、めずらしい形で、こういう定型表現のときに使われますが、単独ではあまり使われません。",
+    "notes-en": "\"... wa nan de are\" is an expression that describes something inclusively, regardless of conditions or situations. It can be translated as \"whatever ... is\" or \"no matter what ... is.\" The term \"are\" is used in this fixed expression but is not commonly used on its own."
   },
   {
     "date": "2025.06.04",
