@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.06.08",
+    "day": "Sun",
+    "number": 424,
+    "index": "sorehasoretoshite",
+    "title": "That being said / Putting that aside",
+    "expression-ja": "それはそれとして",
+    "roman-ja": "Sore wa sore to shite",
+    "expression-en": "That being said / Putting that aside",
+    "variants-ja": [
+      "それはそれとして",
+      "ともかくとして",
+      "それはそれで",
+      "それは置いといて"
+    ],
+    "variants-en": [
+      "That being said",
+      "Be that as it may",
+      "Anyway",
+      "Putting that aside"
+    ],
+    "intent-ja": ["話題転換", "譲歩", "切り分け"],
+    "intent-en": ["topic shift", "concession", "separation"],
+    "tags-ja": ["即時文法", "構文省略", "スタンス"],
+    "tags-en": ["immediate grammar", "ellipsis", "stance"],
+    "adjusted-expression-ja": "その(件:けん)はさておき、(次:つぎ)の(問題:もんだい)に(入:はい)りましょう。",
+    "adjusted-expression-en": "Setting that matter aside, let us move on to the next issue.",
+    "example-ja": "「まあ、それはそれとして、(今日:きょう)の(予定:よてい)どうする？」",
+    "example-en": "\"Anyway, putting that aside, what's the plan for today?\"",
+    "img-sub": "sorehasoretoshite01.png",
+    "notes-ja": "「それはそれとして」は、ある話題を一旦脇に置いて別の話題に移るときに使われるカジュアルな表現です。「That being said」や「Putting that aside」と訳されます。カジュアルな会話でよく使われ、相手に対して話題を切り替える役割があります。しかし、自分の都合が悪くなるとこの表現を使いたがる人もいますので、注意が必要です。特に、自分の不都合な話題を摩り替えたいのでしょう。",
+    "notes-en": "\"Sore wa sore to shite\" is a casual expression used to set aside a topic and shift to another one. It can be translated as \"That being said\" or \"Putting that aside.\" This phrase is commonly used in informal conversations to indicate a change of topic. However, some people tend to use this expression when they want to avoid discussing something inconvenient for them, so caution is advised. It is particularly used when they want to divert attention from an unfavorable topic."
+  },
+  {
     "date": "2025.06.07",
     "day": "Sat",
     "number": 423,
@@ -240,7 +273,7 @@
     "number": 416,
     "index": "sorehasorede",
     "title": "That's fine as it is, isn't it?",
-    "expression-ja": "それはそれで…いいんじゃない？",
+    "expression-ja": "それはそれで...いいんじゃない？",
     "roman-ja": "Sore wa sore de... iin janai?",
     "expression-en": "That's fine as it is, isn't it?",
     "variants-ja": [
