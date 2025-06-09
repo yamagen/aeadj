@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.06.09",
+    "day": "Mon",
+    "number": 426,
+    "index": "sonnahi",
+    "title": "Some days are just like that",
+    "expression-ja": "そんな(日:ひ)もある",
+    "roman-ja": "Sonna hi mo aru",
+    "expression-en": "Some days are just like that",
+    "variants-ja": [
+      "そんな日もある",
+      "そういうこともある",
+      "まあ、あるよね、そういう日",
+      "たまにはそういう日もあるさ"
+    ],
+    "variants-en": [
+      "Some days are like that",
+      "These things happen",
+      "It happens",
+      "Well, that’s just how it goes"
+    ],
+    "intent-ja": ["受容", "慰め", "共感", "ゆるし"],
+    "intent-en": ["acceptance", "comfort", "empathy", "forgiveness"],
+    "tags-ja": ["即時文法", "感情", "日常"],
+    "tags-en": ["immediate grammar", "emotion", "daily life"],
+    "adjusted-expression-ja": "今日はうまくいかないことが多かったけれど、そういう日もあるものです。",
+    "adjusted-expression-en": "Today didn't go well in many ways, but there are days like that.",
+    "example-ja": "「あー、なんか(全然:ぜんぜん)だめだった...」「うん、そんな(日:ひ)もあるよ」",
+    "example-en": "\"Ugh, nothing went right today...\" \"Yeah, some days are like that.\"",
+    "img-sub": "sonnahi01.png",
+    "notes-ja": "「そんな日もある」は、思いどおりにならない状況を受け入れる姿勢を表すカジュアルな表現である。「そんな日ってどんな日？」と聞かれると実際には困る。言語を使うと何でも具体的に言えるわけではない。具体的に言えない場合には、「そんな」「こんな」「こういう」という実際に見ている、体験していることを差してコミュニケーションをすすめることも必要である。",
+    "notes-en": "\"Sonna hi mo aru\" is a casual expression that conveys an attitude of acceptance towards situations that do not go as planned. When asked, \"What kind of day is that?\" it can be difficult to provide a specific answer. Language does not always allow for concrete descriptions, and in cases where specifics cannot be provided, using terms like \"sonna\" (that kind of) or \"konna\" (this kind of) based on what one has seen or experienced can be necessary for effective communication."
+  },
+  {
     "date": "2025.06.08",
     "day": "Sun",
     "number": 424,
