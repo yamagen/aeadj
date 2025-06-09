@@ -1,5 +1,43 @@
 [
   {
+    "date": "2025.06.10",
+    "day": "Tue",
+    "number": 427,
+    "index": "tatoeba",
+    "title": "For example",
+    "expression-ja": "たとえば",
+    "roman-ja": "Tatoeba",
+    "expression-en": "For example",
+    "variants-ja": [
+      "たとえば",
+      "たとえば、そうだなあ",
+      "たとえば...って言われても",
+      "たとえば、ね？"
+    ],
+    "variants-en": [
+      "For example",
+      "Well, for instance...",
+      "Say, for example...",
+      "I mean, like..."
+    ],
+    "intent-ja": ["導入", "例示", "あいまい", "話題転換"],
+    "intent-en": ["introduction", "example", "ambiguity", "topic shift"],
+    "tags-ja": ["即時文法", "あいまい", "会話", "展開"],
+    "tags-en": [
+      "immediate grammar",
+      "ambiguity",
+      "conversation",
+      "development"
+    ],
+    "adjusted-expression-ja": "たとえばの話ですが、こういうふうにも考えられるかもしれません。",
+    "adjusted-expression-en": "For example, one might consider it this way.",
+    "img-sub": "tatoeba01.png",
+    "example-ja": "A「(何:なに)か(例:れい)をあげてみて」B「うーん、たとえば、(映画:えいが)とか？」",
+    "example-en": "A: \"Can you give me an example?\" B: \"Hmm, for example, movies?\"",
+    "notes-ja": "「たとえば」は、何かを説明するときに具体的な例を挙げるためのカジュアルな表現です。「For example」と訳されます。カジュアルな会話でよく使われ、相手に対して具体的なイメージを提供する役割があります。しかし、厳密な表現が頭に思い浮かばないときに使われることもあります。たとえば、何かを説明しようとしているが、具体的な例が思い浮かばないのだから、抽象的な話になっているわけで、そこでなんでもかんでも「たとえば...」と繰り返し質問すると、あなたは嫌われるかもしれませんね。",
+    "notes-en": "\"Tatoeba\" is a casual expression used to provide specific examples when explaining something. It can be translated as \"For example.\" This phrase is commonly used in informal conversations to give the listener a concrete image of what is being discussed. However, it is also used when a precise expression does not come to mind. For instance, when trying to explain something but struggling to think of a specific example, the conversation may become abstract. Repeatedly asking \"For example...\" in such situations might lead to you being disliked."
+  },
+  {
     "date": "2025.06.09",
     "day": "Mon",
     "number": 426,
