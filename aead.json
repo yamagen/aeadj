@@ -1,5 +1,76 @@
 [
   {
+    "date": "2025.06.12",
+    "day": "Thu",
+    "number": 429,
+    "index": "tsuideni",
+    "title": "While I'm at it / Incidentally",
+    "expression-ja": "ついでに",
+    "roman-ja": "Tsuideni",
+    "expression-en": "While I'm at it / Incidentally",
+    "variants-ja": [
+      "ついでに",
+      "そのついでに",
+      "ついでと言ってはなんだけど",
+      "話のついでに"
+    ],
+    "variants-en": [
+      "While I'm at it",
+      "Along the way",
+      "As an aside",
+      "By the way"
+    ],
+    "intent-ja": ["追加", "軽さ", "策略", "含み"],
+    "intent-en": ["addition", "casualness", "tact", "implication"],
+    "tags-ja": ["即時文法", "会話", "接続", "行動"],
+    "tags-en": ["immediate grammar", "conversation", "connection", "action"],
+    "adjusted-expression-ja": "この(機会:きかい)を(利用:りよう)して、もうひとつご(提案:ていあん)するのはいかがでしょうか。",
+    "adjusted-expression-en": "May I take this opportunity to make one additional suggestion?",
+    "img-sub": "tsuideni01.png",
+    "example-ja": "A「(コンビニ:こんびに)、(行:い)くの？」B「うん、(ついで:)に(何:なに)か(買:か)って(来:こ)ようか」",
+    "example-en": "A: \"You're going to the convenience store?\" B: \"Yeah, do you want me to pick something up while I'm at it?\"",
+    "notes-ja": "「ついでに」は本来の目的に付け足す行動や発言に使われます。この例のように、何かをするついでに誰かのために、別の仕事をしてあげようと提案するときに使いますよ。",
+    "notes-en": "\"Tsuideni\" is used to indicate an action or statement that is added to the main purpose. In this example, it is used to suggest doing an additional task for someone while going somewhere or doing something else."
+  },
+  {
+    "date": "2025.06.11",
+    "day": "Wed",
+    "number": 428,
+    "index": "baai.ni.yorikeri",
+    "title": "It depends",
+    "expression-ja": "(場合:ばあい)によりけり",
+    "roman-ja": "Baai ni yorikeri",
+    "expression-en": "It depends on the case",
+    "variants-ja": [
+      "場合によりけり",
+      "場合によっては",
+      "状況しだい",
+      "ケースバイケース"
+    ],
+    "variants-en": [
+      "It depends on the case",
+      "Depending on the situation",
+      "Depends on the circumstances",
+      "Case by case"
+    ],
+    "intent-ja": ["柔軟", "保留", "思慮", "配慮"],
+    "intent-en": [
+      "flexibility",
+      "non-commitment",
+      "consideration",
+      "carefulness"
+    ],
+    "tags-ja": ["即時文法", "判断", "返答", "含み"],
+    "tags-en": ["immediate grammar", "judgment", "response", "implication"],
+    "adjusted-expression-ja": "この(件:けん)は、(場合:ばあい)によりけりだと(思:おも)います。",
+    "adjusted-expression-en": "I think it depends on the case.",
+    "img-sub": "baai.niyorikeri01.png",
+    "example-ja": "A「(この:この)問題、(どう:どう)する？」B「(場合:ばあい)によりけりだね」",
+    "example-en": "A: \"What should we do about this issue?\" B: \"It depends on the case.\"",
+    "notes-ja": "「場合によりけり」は、状況や条件によって異なることを示すカジュアルな表現です。「It depends on the case」や「Depending on the situation」と訳されます。即時的に簡単に判断できないことは多いと思います。とりあえず「場合によりけり」と言っておけば、その場をしのげ、その時間稼ぎで、慎重に自分の考えを調整することができるかもしれませんね。",
+    "notes-en": "\"Baai ni yorikeri\" is a casual expression that indicates that something varies depending on the situation or conditions. It can be translated as \"It depends on the case\" or \"Depending on the situation.\" It is often used when an immediate judgment cannot be made easily. By saying \"baai ni yorikeri,\" one can buy time to carefully adjust their thoughts and responses."
+  },
+  {
     "date": "2025.06.10",
     "day": "Tue",
     "number": 427,
