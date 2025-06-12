@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025.06.13",
+    "day": "Fri",
+    "number": 430,
+    "index": "ichiou",
+    "title": "For now / Just in case / Tentatively",
+    "expression-ja": "(一応:いちおう)",
+    "roman-ja": "Ichiou",
+    "expression-en": "For now / Just in case / Tentatively",
+    "variants-ja": [
+      "一応",
+      "一応、確認だけしとくね",
+      "一応、終わったことにしておこう",
+      "一応はね"
+    ],
+    "variants-en": ["For now", "Just in case", "Tentatively", "Kind of"],
+    "intent-ja": ["保留", "控えめ", "不確か", "前置き"],
+    "intent-en": ["tentative", "hedging", "uncertainty", "preliminary"],
+    "tags-ja": ["即時文法", "あいまい", "会話", "態度"],
+    "tags-en": ["immediate grammar", "ambiguity", "conversation", "stance"],
+    "adjusted-expression-ja": "概ね、計画し、準備したものは完了したのですが、まだ調整が若干必要となる見込みです。",
+    "adjusted-expression-en": "The planning and preparations are largely complete, but some minor adjustments may still be necessary.",
+    "img-sub": "ichiou01.png",
+    "example-ja": "A「(準備:じゅんび)できた？」B「うん、(一応:いちおう)ね」",
+    "example-en": "A: \"Are you ready?\" B: \"Yeah, for now.\"",
+    "notes-ja": "「一応」は、何かが形式上、または暫定的に済んでいることを伝えるときによく使われます。自信がなかったり、完全ではないと感じているときにも使われ、「たぶん大丈夫だけど、まだ不安」な気持ちが込められています。つまり、「一応」の裏の意味としては、「まだ不十分」だということですね。「一応」と言われたら、「もう一度、確認だけしとくね」と言って、ダブルチェックしたほうがよいかもしれません。",
+    "notes-en": "The expression \"ichiou\" implies that something is done in a formal or tentative manner. It is often used when the speaker is not entirely confident or feels that something is not yet complete. The underlying meaning of \"ichiou\" suggests that there may still be some uncertainty or incompleteness. When someone says \"ichiou,\" it might be wise to respond with, \"Let me double-check just in case.\""
+  },
+  {
     "date": "2025.06.12",
     "day": "Thu",
     "number": 429,
