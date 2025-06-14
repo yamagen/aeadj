@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>AEAD Search System</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding-top: 5em;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    .message {
+      font-size: 1.2em;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Welcome to the AEAD Search System</h1>
+  <p class="message">
+    The system is currently waking up from sleep.<br />
+    It usually takes about 10–30 seconds to start.
+  </p>
+  <p class="message">
+    Please wait a moment,<br />
+    or <a href="/index.php">click here</a> if the system is ready.
+  </p>
+
+  <script>
+    setTimeout(() => {
+      window.location.href = "/index.php";
+    }, 15000); // Redirect automatically after 15 seconds
+  </script>
+</body>
+
+</html>
