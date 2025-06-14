@@ -99,7 +99,11 @@ if ($query !== '') {
       </form>
       <span class="themecolor">
         Reference for colloquial Japanese expressions in AEAD
+        <br>
       </span>
+      <a href="https://github.com/yamagen/aeadj" class="themecolor">
+        Github: An Expression A Day
+      </a>
     </div>
   </div>
 
