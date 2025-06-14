@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.06.14",
+    "day": "Sat",
+    "number": 431,
+    "index": "itsudemo",
+    "title": "Anytime / Whenever",
+    "expression-ja": "いつでも",
+    "roman-ja": "Itsudemo",
+    "expression-en": "Anytime / Whenever",
+    "variants-ja": [
+      "いつでも",
+      "いつでもいいよ",
+      "いつでもどうぞ",
+      "いつでも言ってね"
+    ],
+    "variants-en": [
+      "Anytime",
+      "Whenever's fine",
+      "Feel free anytime",
+      "Just let me know whenever"
+    ],
+    "intent-ja": ["柔軟", "受容", "歓迎", "許可"],
+    "intent-en": ["flexibility", "openness", "invitation", "permission"],
+    "tags-ja": ["即時文法", "応答", "寛容", "会話"],
+    "tags-en": ["immediate grammar", "response", "tolerance", "conversation"],
+    "adjusted-expression-ja": "ご都合の良いときに、いつでもご連絡ください。",
+    "adjusted-expression-en": "Please feel free to contact me at your convenience.",
+    "img-sub": "itsudemo01.png",
+    "example-ja": "A「じゃ、こんどいい？」B「うん、いつでも」",
+    "example-en": "A: \"So, how about next time?\" B: \"Yeah, anytime.\"",
+    "notes-ja": "「いつでも」は、相手に選択の自由を与えることで、柔らかな応答を実現する表現です。具体的な時間を明示しなくても会話が成立する点で、即時文法の特徴が見られます。時間を指定しないまま、会話のテンポや関係性に委ねる姿勢が込められています。",
+    "notes-en": "\"Itsudemo\" is a flexible and accepting expression that allows the other person to choose the time. It exemplifies immediate grammar in that it permits smooth conversation without specifying details like time. It conveys a stance of openness and willingness."
+  },
+  {
     "date": "2025.06.13",
     "day": "Fri",
     "number": 430,
