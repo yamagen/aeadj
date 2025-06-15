@@ -1,6 +1,5 @@
 <?php
 
-
 function highlightKeyword($text, $keyword) {
     if ($keyword === '') return htmlspecialchars($text);
     $escapedKeyword = preg_quote($keyword, '/');
@@ -8,7 +7,6 @@ function highlightKeyword($text, $keyword) {
         return '<span class="blue">' . htmlspecialchars($m[1]) . '</span>';
     }, htmlspecialchars($text));
 }
-
 
 function convertRuby($text) {
     return preg_replace_callback(
@@ -20,7 +18,6 @@ function convertRuby($text) {
     );
 }
 
-
 //$jsonPath = realpath('/var/www/aeadj/aead.json');
 $jsonPath = realpath(__DIR__ . '/../aeadj/aead.json');
 
@@ -29,6 +26,9 @@ if (!file_exists($jsonPath)) {
     exit;
 }
 
+$data = json_decode(file_get_contents($jsonPath), true);
+// ユーザからの入力は htmlspecialchars()
+$query = htmlspecialchars($_GET['q'] ?? '', ENT_QUOTES, 'UTF-8');
 
 $entryId = $_GET['entry'] ?? null;
 
@@ -47,9 +47,6 @@ if ($entryId !== null) {
 }
 
 
-$data = json_decode(file_get_contents($jsonPath), true);
-// ユーザからの入力は htmlspecialchars()
-$query = htmlspecialchars($_GET['q'] ?? '', ENT_QUOTES, 'UTF-8');
 
 // JSONからのデータは信頼済みなので htmlspecialchars() 不要
 $output = convertRuby($item['expression-ja']);
