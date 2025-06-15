@@ -1,5 +1,36 @@
 [
   {
+    "date": "2025.06.15",
+    "day": "Sun",
+    "number": 432,
+    "index": "zutto.issho",
+    "title": "Together, always",
+    "expression-ja": "ずっと、いっしょ",
+    "roman-ja": "Zutto, issho",
+    "expression-en": "Together, always",
+    "variants-ja": [
+      "ずっと、いっしょ",
+      "いつまでも、いっしょ",
+      "これからも、ずっといっしょ"
+    ],
+    "variants-en": [
+      "Together, always",
+      "Forever together",
+      "We’ll always be together"
+    ],
+    "intent-ja": ["愛情", "約束", "安心"],
+    "intent-en": ["affection", "commitment", "reassurance"],
+    "tags-ja": ["即時文法", "感情", "親密さ"],
+    "tags-en": ["immediate grammar", "emotion", "closeness"],
+    "example-ja": "A「これからも？」B「うん、ずっと、いっしょ。」",
+    "example-en": "A: \"From now on too?\" B: \"Yeah, together, always.\"",
+    "adjusted-expression-ja": "これから先も、あなたと一緒にいたいと思っています。",
+    "adjusted-expression-en": "I want to stay with you from now on, always.",
+    "img-sub": "zutto.issho01.png",
+    "notes-ja": "「ずっと、いっしょ」は、愛情や約束を強調する表現で、相手との永続的な関係を示します。カジュアルな会話でよく使われ、親密さや安心感を伝える役割があります。「いっしょ」には「一緒」という意味があり、相手と共にいるという意味もありますが、「同じ」という意味もあり、「シャツの色、いっしょ」のように使えます。",
+    "notes-en": "\"Zutto, issho\" is an expression that emphasizes affection and commitment, indicating a lasting relationship with the other person. It is commonly used in casual conversations to convey closeness and reassurance. The term \"issho\" means \"together,\" but it can also mean \"the same,\" as in \"Shatsu no iro, issho./the color of the shirt is the same.\""
+  },
+  {
     "date": "2025.06.14",
     "day": "Sat",
     "number": 431,
