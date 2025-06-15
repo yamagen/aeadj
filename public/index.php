@@ -128,12 +128,12 @@ if ($query !== '') {
 
     <li>
       <strong>
-        <?= highlightKeyword(convertRuby($item['expression-ja'] ?? ''), $query) ?>
+        <?= convertRuby(highlightKeyword($item['expression-ja'] ?? ''), $query) ?>
       </strong>
       /
       <?= highlightKeyword($item['expression-en'] ?? '', $query) ?><br>
       <em>
-        <?= highlightKeyword(convertRuby($item['adjusted-expression-ja'] ?? ''), $query) ?>
+        <?= convertRuby(highlightKeyword($item['adjusted-expression-ja'] ?? ''), $query) ?>
       </em>
     </li>
 
