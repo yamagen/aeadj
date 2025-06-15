@@ -73,6 +73,7 @@ if ($query !== '') {
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AEAD Search</title>
   <link rel="stylesheet" href="style.css?v=<?= $css_mtime ?>">
 </head>
