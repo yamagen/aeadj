@@ -31,16 +31,6 @@ input[type="text"] {
   width: 200px;
 }
 
-button {
-  padding: 0.5em;
-  background-color: #004c48;
-  border: none;
-  border-radius: 5px;
-  margin-left: 0.5em;
-  color: white;
-  cursor: pointer;
-}
-
 h1 {
   text-decoration: none;
   color: #006d67;
@@ -94,6 +84,16 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+button {
+  padding: 0.5em;
+  background-color: #004c48;
+  border: none;
+  border-radius: 5px;
+  margin-left: 0.5em;
+  color: white;
+  cursor: pointer;
 }
 
 @media (max-width: 600px) {
