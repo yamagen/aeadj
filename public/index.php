@@ -1,6 +1,24 @@
 <?php
 
 
+$entryId = $_GET['entry'] ?? null;
+
+if ($entryId !== null) {
+    foreach ($data as $entry) {
+        if ((string)$entry['number'] === $entryId) {
+            $selectedEntry = $entry;
+            break;
+        }
+    }
+
+    if (!isset($selectedEntry)) {
+        echo "<p>Entry not found.</p>";
+        exit;
+    }
+}
+
+
+
 function highlightKeyword($text, $keyword) {
     if ($keyword === '') return htmlspecialchars($text);
     $escapedKeyword = preg_quote($keyword, '/');
@@ -109,6 +127,32 @@ if ($query !== '') {
 
 <body>
 
+
+  <?php if (isset($selectedEntry)): ?>
+  <a href="?">← Back to Search</a>
+  <h2>
+    <?= htmlspecialchars($selectedEntry['expression-ja']) ?> /
+    <?= htmlspecialchars($selectedEntry['expression-en']) ?>
+  </h2>
+  <p><strong>Adjusted:</strong>
+    <?= htmlspecialchars($selectedEntry['adjusted-expression-ja']) ?>
+  </p>
+  <p><strong>Example (JA):</strong>
+    <?= htmlspecialchars($selectedEntry['example-ja']) ?>
+  </p>
+  <p><strong>Example (EN):</strong>
+    <?= htmlspecialchars($selectedEntry['example-en']) ?>
+  </p>
+  <p><strong>Notes (JA):</strong>
+    <?= nl2br(htmlspecialchars($selectedEntry['notes-ja'])) ?>
+  </p>
+  <p><strong>Notes (EN):</strong>
+    <?= nl2br(htmlspecialchars($selectedEntry['notes-en'])) ?>
+  </p>
+  <?php else: ?>
+  <!-- ここに検索フォームと検索結果表示を入れる -->
+
+
   <div class="header">
     <a href="https://cuckoo.js.ila.titech.ac.jp/~yamagen/picture/">
       <img class="logo" src="images/colloqjseal01.png" alt="Logo">
@@ -143,8 +187,26 @@ if ($query !== '') {
       </em>
     </li>
 
+
+    <li>
+      <a href="?entry=<?= htmlspecialchars($item['number']) ?>">
+        <strong>
+          <?= convertRuby(highlightKeyword($item['expression-ja'] ?? '', $query)) ?>
+        </strong>
+      </a>
+      /
+      <?= highlightKeyword($item['expression-en'] ?? '', $query) ?><br>
+      <em>
+        <?= convertRuby(highlightKeyword($item['adjusted-expression-ja'] ?? '', $query)) ?>
+      </em>
+    </li>
+
+
     <?php endforeach; ?>
   </ol>
+
+
+  <?php endif; ?>
 
 </body>
 
