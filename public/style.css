@@ -34,7 +34,6 @@ input[type="text"] {
 button {
   padding: 0.5em;
   background-color: #004c48;
-  color: white;
   border: none;
   border-radius: 5px;
   margin-left: 0.5em;
@@ -67,7 +66,7 @@ h1 {
 .header h1,
 .header input[type="text"],
 .header button {
-  color: #006d67;
+  color: #e0f7fa;
 }
 
 .title-form {
