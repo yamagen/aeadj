@@ -65,6 +65,12 @@ h1 {
   max-width: 160px;
 }
 
+.header h1,
+.header input[type="text"],
+.header button {
+  color: #006d67;
+}
+
 .title-form {
   display: flex;
   flex-direction: column;
@@ -126,10 +132,4 @@ a:hover {
   h1 {
     font-size: 1.2em;
   }
-}
-
-.header h1,
-.header input[type="text"],
-.header button {
-  color: white;
 }
