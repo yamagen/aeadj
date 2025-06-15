@@ -122,11 +122,19 @@ if ($query !== '') {
       padding: 0 2px;
       border-radius: 3px;
     }
+
+    a {
+      text-decoration: none;
+      color: #007BFF;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 
 <body>
-
 
   <?php if (isset($selectedEntry)): ?>
   <a href="?">← Back to Search</a>
