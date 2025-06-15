@@ -1,24 +1,30 @@
 <?php
 
+// 🔧 検索キーワードにマッチする部分をハイライト
 function highlightKeyword($text, $keyword) {
-    if ($keyword === '') return htmlspecialchars($text);
+    if ($keyword === '') return htmlspecialchars($text ?? '');
     $escapedKeyword = preg_quote($keyword, '/');
-    return preg_replace_callback("/($escapedKeyword)/iu", function($m) {
-        return '<span class="blue">' . htmlspecialchars($m[1]) . '</span>';
-    }, htmlspecialchars($text));
-}
-
-function convertRuby($text) {
     return preg_replace_callback(
-        '/\(([^:()]+):([^\)]+)\)/',
-        function($matches) {
-            return "<ruby>{$matches[1]}<rt>{$matches[2]}</rt></ruby>";
+        "/($escapedKeyword)/iu",
+        function($m) {
+            return '<span class="blue">' . htmlspecialchars($m[1]) . '</span>';
         },
-        $text
+        htmlspecialchars($text ?? '')
     );
 }
 
-//$jsonPath = realpath('/var/www/aeadj/aead.json');
+// 🔧 ルビ記法 "(漢字:よみ)" を <ruby> 漢字 <rt>よみ</rt> </ruby> に変換
+function convertRuby($text) {
+    return preg_replace_callback(
+        '/\(([^:()]+):([^)]+)\)/',
+        function($matches) {
+            return "<ruby>{$matches[1]}<rt>{$matches[2]}</rt></ruby>";
+        },
+        $text ?? ''
+    );
+}
+
+// 📁 JSONファイルの読み込み
 $jsonPath = realpath(__DIR__ . '/../aeadj/aead.json');
 
 if (!file_exists($jsonPath)) {
@@ -27,11 +33,12 @@ if (!file_exists($jsonPath)) {
 }
 
 $data = json_decode(file_get_contents($jsonPath), true);
-// ユーザからの入力は htmlspecialchars()
-$query = htmlspecialchars($_GET['q'] ?? '', ENT_QUOTES, 'UTF-8');
 
+// 🔎 クエリとエントリ番号を取得（GETパラメータ）
+$query = htmlspecialchars($_GET['q'] ?? '', ENT_QUOTES, 'UTF-8');
 $entryId = $_GET['entry'] ?? null;
 
+// 🔍 個別エントリが指定されている場合はそれを探す
 if ($entryId !== null) {
     foreach ($data as $entry) {
         if ((string)$entry['number'] === $entryId) {
@@ -46,9 +53,7 @@ if ($entryId !== null) {
     }
 }
 
-// JSONからのデータは信頼済みなので htmlspecialchars() 不要
-$output = convertRuby($item['expression-ja']);
-
+// 🔍 通常の検索処理
 $results = [];
 if ($query !== '') {
     foreach ($data as $entry) {
@@ -70,39 +75,30 @@ if ($query !== '') {
   <style>
     h1 {
       text-decoration: none;
-      /* リンクの下線を消す */
       color: #006D67;
-      /* リンクの色を親要素に合わせる */
     }
 
     .themecolor {
       color: #006D67;
-      /* テーマカラーを設定 */
     }
 
     .header {
       display: flex;
       align-items: center;
-      /* ロゴとテキストブロックの縦位置を中央揃え */
       gap: 20px;
-      /* ロゴと右側の間の余白 */
       margin-bottom: 20px;
     }
 
     .logo {
       width: 160px;
-      /* ロゴの幅を制限 */
       max-height: 160px;
       max-width: 160px;
-      /* ロゴのサイズを制限 */
     }
 
     .title-form {
       display: flex;
       flex-direction: column;
-      /* 縦に並べる */
       justify-content: center;
-      /* 高さをロゴ中央に合わせる */
     }
 
     .search-form {
@@ -132,28 +128,26 @@ if ($query !== '') {
   <?php if (isset($selectedEntry)): ?>
   <a href="?">← Back to Search</a>
   <h2>
-    <?= htmlspecialchars($selectedEntry['expression-ja']) ?> /
-    <?= htmlspecialchars($selectedEntry['expression-en']) ?>
+    <?= convertRuby(highlightKeyword($selectedEntry['expression-ja'] ?? '', $query)) ?> /
+    <?= highlightKeyword($selectedEntry['expression-en'] ?? '', $query) ?>
   </h2>
   <p><strong>Adjusted:</strong>
-    <?= htmlspecialchars($selectedEntry['adjusted-expression-ja']) ?>
+    <?= convertRuby(highlightKeyword($selectedEntry['adjusted-expression-ja'] ?? '', $query)) ?>
   </p>
   <p><strong>Example (JA):</strong>
-    <?= htmlspecialchars($selectedEntry['example-ja']) ?>
+    <?= convertRuby(highlightKeyword($selectedEntry['example-ja'] ?? '', $query)) ?>
   </p>
   <p><strong>Example (EN):</strong>
-    <?= htmlspecialchars($selectedEntry['example-en']) ?>
+    <?= highlightKeyword($selectedEntry['example-en'] ?? '', $query) ?>
   </p>
   <p><strong>Notes (JA):</strong>
-    <?= nl2br(htmlspecialchars($selectedEntry['notes-ja'])) ?>
+    <?= nl2br(convertRuby(highlightKeyword($selectedEntry['notes-ja'] ?? '', $query))) ?>
   </p>
   <p><strong>Notes (EN):</strong>
-    <?= nl2br(htmlspecialchars($selectedEntry['notes-en'])) ?>
+    <?= nl2br(highlightKeyword($selectedEntry['notes-en'] ?? '', $query)) ?>
   </p>
+
   <?php else: ?>
-  <!-- ここに検索フォームと検索結果表示を入れる -->
-
-
   <div class="header">
     <a href="https://cuckoo.js.ila.titech.ac.jp/~yamagen/picture/">
       <img class="logo" src="images/colloqjseal01.png" alt="Logo">
@@ -175,15 +169,13 @@ if ($query !== '') {
   </div>
 
   <ol>
-
     <?php foreach ($results as $item): ?>
     <li>
       <a href="?entry=<?= htmlspecialchars($item['number']) ?>">
         <strong>
           <?= convertRuby(highlightKeyword($item['expression-ja'] ?? '', $query)) ?>
         </strong>
-      </a>
-      /
+      </a> /
       <?= highlightKeyword($item['expression-en'] ?? '', $query) ?><br>
       <em>
         <?= convertRuby(highlightKeyword($item['adjusted-expression-ja'] ?? '', $query)) ?>
@@ -191,7 +183,6 @@ if ($query !== '') {
     </li>
     <?php endforeach; ?>
   </ol>
-
   <?php endif; ?>
 
 </body>
