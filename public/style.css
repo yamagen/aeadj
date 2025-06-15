@@ -125,3 +125,9 @@ a:hover {
     font-size: 1.2em;
   }
 }
+
+.header h1,
+.header input[type="text"],
+.header button {
+  color: white;
+}
