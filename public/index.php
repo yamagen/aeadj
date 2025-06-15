@@ -107,7 +107,7 @@ if ($query !== '') {
       <img class="logo" src="images/colloqjseal01.png" alt="Logo">
     </a>
     <div class="title-form">
-      <h1>AEAD Search</h1>
+      <h1 class="themecolor">AEAD Search</h1>
       <form method="get" class="search-form">
         <input type="text" name="q" value="<?= htmlspecialchars($query) ?>" placeholder="Search expressions...">
         <button type="submit">Search</button>
