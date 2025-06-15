@@ -1,24 +1,6 @@
 <?php
 
 
-$entryId = $_GET['entry'] ?? null;
-
-if ($entryId !== null) {
-    foreach ($data as $entry) {
-        if ((string)$entry['number'] === $entryId) {
-            $selectedEntry = $entry;
-            break;
-        }
-    }
-
-    if (!isset($selectedEntry)) {
-        echo "<p>Entry not found.</p>";
-        exit;
-    }
-}
-
-
-
 function highlightKeyword($text, $keyword) {
     if ($keyword === '') return htmlspecialchars($text);
     $escapedKeyword = preg_quote($keyword, '/');
@@ -46,6 +28,24 @@ if (!file_exists($jsonPath)) {
     echo "Error: aead.json not found.";
     exit;
 }
+
+
+$entryId = $_GET['entry'] ?? null;
+
+if ($entryId !== null) {
+    foreach ($data as $entry) {
+        if ((string)$entry['number'] === $entryId) {
+            $selectedEntry = $entry;
+            break;
+        }
+    }
+
+    if (!isset($selectedEntry)) {
+        echo "<p>Entry not found.</p>";
+        exit;
+    }
+}
+
 
 $data = json_decode(file_get_contents($jsonPath), true);
 // ユーザからの入力は htmlspecialchars()
