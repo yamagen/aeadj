@@ -46,12 +46,8 @@ if ($entryId !== null) {
     }
 }
 
-
-
 // JSONからのデータは信頼済みなので htmlspecialchars() 不要
 $output = convertRuby($item['expression-ja']);
-
-
 
 $results = [];
 if ($query !== '') {
@@ -179,20 +175,8 @@ if ($query !== '') {
   </div>
 
   <ol>
+
     <?php foreach ($results as $item): ?>
-
-    <li>
-      <strong>
-        <?= convertRuby(highlightKeyword($item['expression-ja'] ?? '', $query)) ?>
-      </strong>
-      /
-      <?= highlightKeyword($item['expression-en'] ?? '', $query) ?><br>
-      <em>
-        <?= convertRuby(highlightKeyword($item['adjusted-expression-ja'] ?? '', $query)) ?>
-      </em>
-    </li>
-
-
     <li>
       <a href="?entry=<?= htmlspecialchars($item['number']) ?>">
         <strong>
@@ -205,11 +189,8 @@ if ($query !== '') {
         <?= convertRuby(highlightKeyword($item['adjusted-expression-ja'] ?? '', $query)) ?>
       </em>
     </li>
-
-
     <?php endforeach; ?>
   </ol>
-
 
   <?php endif; ?>
 
