@@ -1,5 +1,15 @@
 <?php
 
+
+function highlightKeyword($text, $keyword) {
+    if ($keyword === '') return htmlspecialchars($text);
+    $escapedKeyword = preg_quote($keyword, '/');
+    return preg_replace_callback("/($escapedKeyword)/iu", function($m) {
+        return '<span class="blue">' . htmlspecialchars($m[1]) . '</span>';
+    }, htmlspecialchars($text));
+}
+
+
 function convertRuby($text) {
     return preg_replace_callback(
         '/\(([^:()]+):([^\)]+)\)/',
@@ -28,7 +38,7 @@ if ($query !== '') {
         $exprJa = $entry['expression-ja'] ?? '';
         $exprEn = $entry['expression-en'] ?? '';
 
-        if (strpos($exprJa, $query) !== false || strpos($exprEn, $query) !== false) {
+        if (stripos($exprJa, $query) !== false || stripos($exprEn, $query) !== false) {
             $results[] = $entry;
         }
     }
@@ -82,6 +92,12 @@ if ($query !== '') {
       display: flex;
       gap: 8px;
     }
+
+    .blue {
+      background-color: #cce5ff;
+      padding: 0 2px;
+      border-radius: 3px;
+    }
   </style>
 </head>
 
@@ -108,18 +124,19 @@ if ($query !== '') {
   </div>
 
   <ol>
-
     <?php foreach ($results as $item): ?>
+
     <li>
       <strong>
-        <?= convertRuby(htmlspecialchars($item['expression-ja'] ?? '')) ?>
+        <?= highlightKeyword(convertRuby($item['expression-ja'] ?? ''), $query) ?>
       </strong>
       /
-      <?= htmlspecialchars($item['expression-en'] ?? '') ?><br>
+      <?= highlightKeyword($item['expression-en'] ?? '', $query) ?><br>
       <em>
-        <?= convertRuby(htmlspecialchars($item['adjusted-expression-ja'] ?? '')) ?>
+        <?= highlightKeyword(convertRuby($item['adjusted-expression-ja'] ?? ''), $query) ?>
       </em>
     </li>
+
     <?php endforeach; ?>
   </ol>
 
