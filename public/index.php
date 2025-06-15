@@ -30,7 +30,13 @@ if (!file_exists($jsonPath)) {
 }
 
 $data = json_decode(file_get_contents($jsonPath), true);
-$query = $_GET['q'] ?? '';
+// ユーザからの入力は htmlspecialchars()
+$query = htmlspecialchars($_GET['q'] ?? '', ENT_QUOTES, 'UTF-8');
+
+// JSONからのデータは信頼済みなので htmlspecialchars() 不要
+$output = convertRuby($item['expression-ja']);
+
+
 
 $results = [];
 if ($query !== '') {
