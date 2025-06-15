@@ -1,5 +1,6 @@
 <?php
 
+
 // 🔧 検索キーワードにマッチする部分をハイライト
 function highlightKeyword($text, $keyword) {
     if ($keyword === '') return htmlspecialchars($text ?? '');
@@ -23,6 +24,8 @@ function convertRuby($text) {
         $text ?? ''
     );
 }
+
+$css_mtime = filemtime("style.css");
 
 // 📁 JSONファイルの読み込み
 $jsonPath = realpath(__DIR__ . '/../aeadj/aead.json');
@@ -67,62 +70,12 @@ if ($query !== '') {
 }
 ?>
 <!DOCTYPE html>
-<html>
-
+<html lang="ja">
 <head>
   <meta charset="UTF-8">
   <title>AEAD Search</title>
-  <style>
-    h1 {
-      text-decoration: none;
-      color: #006D67;
-    }
-
-    .themecolor {
-      color: #006D67;
-    }
-
-    .header {
-      display: flex;
-      align-items: center;
-      gap: 20px;
-      margin-bottom: 20px;
-    }
-
-    .logo {
-      width: 160px;
-      max-height: 160px;
-      max-width: 160px;
-    }
-
-    .title-form {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-    }
-
-    .search-form {
-      display: flex;
-      gap: 8px;
-    }
-
-    .blue {
-      background-color: #cce5ff;
-      padding: 0 2px;
-      border-radius: 3px;
-    }
-
-    a {
-      text-decoration: none;
-      color: #007BFF;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css?v=<?= $css_mtime ?>">
 </head>
-
 <body>
 
   <?php if (isset($selectedEntry)): ?>
