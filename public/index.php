@@ -155,7 +155,7 @@ if ($query !== '') {
     <div class="title-form">
       <h1>AEAD Search</h1>
       <form method="get" class="search-form">
-        <input type="text" name="q" value="<?= htmlspecialchars($query) ?>" placeholder="検索語を入力">
+        <input type="text" name="q" value="<?= htmlspecialchars($query) ?>" placeholder="Search expressions...">
         <button type="submit">Search</button>
       </form>
       <span class="themecolor">
