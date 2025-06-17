@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.06.18",
+    "day": "Tue",
+    "number": 434,
+    "index": "mousukoshi.matte",
+    "title": "Just a little longer / Please wait a bit",
+    "expression-ja": "もう(少:すこ)し、(待:ま)って",
+    "roman-ja": "Mō sukoshi, matte",
+    "expression-en": "Just a little longer / Please wait a bit",
+    "variants-ja": [
+      "もう少し、待って",
+      "あとちょっと、待って",
+      "ちょっとだけ、待って",
+      "少しだけ、待ってて"
+    ],
+    "variants-en": [
+      "Just a little longer",
+      "Wait a bit more",
+      "Please wait a little longer",
+      "Hold on a second"
+    ],
+    "intent-ja": ["依頼", "猶予", "調整"],
+    "intent-en": ["request", "delay", "adjustment"],
+    "tags-ja": ["即時文法", "会話", "時間"],
+    "tags-en": ["immediate grammar", "conversation", "time"],
+    "adjusted-expression-ja": "もう少し時間をいただければ、対応できます。",
+    "adjusted-expression-en": "If I could have a little more time, I’ll be able to take care of it.",
+    "img-sub": "mousukoshi.matte01.png",
+    "example-ja": "A「もうすぐ(終:お)わるから、もう(少:すこ)し、(待:ま)って」B「うん、(大丈夫:だいじょうぶ)だよ」",
+    "example-en": "A: \"It'll be done soon, so please wait a bit.\" B: \"Okay, no problem.\"",
+    "notes-ja": "「もう少し、待って」は、相手に時間をかけてもらうように頼むカジュアルな表現です。特に、何かを終わらせるためにもう少し時間が必要なときに使われます。",
+    "notes-en": "\"Mou sukoshi, matte\" is a casual expression used to ask someone to give you a little more time. It is particularly used when you need a bit more time to finish something."
+  },
+  {
     "date": "2025.06.16",
     "day": "Mon",
     "number": 433,
