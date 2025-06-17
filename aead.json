@@ -1,5 +1,39 @@
 [
   {
+    "date": "2025.06.16",
+    "day": "Mon",
+    "number": 433,
+    "index": "sakki",
+    "title": "Just now / A moment ago",
+    "expression-ja": "さっき",
+    "roman-ja": "Sakki",
+    "expression-en": "Just now / A moment ago",
+    "variants-ja": ["さっき", "ついさっき", "さっきまで", "さっき言ってたやつ"],
+    "variants-en": [
+      "Just now",
+      "A moment ago",
+      "Until a moment ago",
+      "What I mentioned earlier"
+    ],
+    "intent-ja": ["直前", "切り出し", "再開", "回想", "時間感覚"],
+    "intent-en": [
+      "just before",
+      "starting point",
+      "resumption",
+      "recall",
+      "sense of time"
+    ],
+    "tags-ja": ["即時文法", "時間", "会話の流れ"],
+    "tags-en": ["immediate grammar", "time", "conversational flow"],
+    "example-ja": "さっきまでは雨だったのに、今は晴れてる。",
+    "example-en": "It was raining just a moment ago, but now it's sunny.",
+    "adjusted-expression-ja": "さっき駅で見かけた人、どこかで見たことある気がする。",
+    "adjusted-expression-en": "The person I saw at the station just now looked familiar somehow.",
+    "img-sub": "sakki01.png",
+    "notes-ja": "「さっき」は、直前の出来事や時間を指すカジュアルな表現で、会話の流れをスムーズにする役割があります。特に、何かを思い出したり、再開したりするときに使われます。",
+    "notes-en": "\"Sakki\" is a casual expression that refers to a recent event or time, serving to smooth the flow of conversation. It is particularly useful when recalling something or resuming a discussion."
+  },
+  {
     "date": "2025.06.15",
     "day": "Sun",
     "number": 432,
@@ -5450,7 +5484,7 @@
     "roman-ja": "Doudemoii",
     "expression-en": "It doesn't matter",
     "img-sub": "doudemoii01.png",
-    "example-ja": "ゾウの体重が何キロかなんてどうでもいい。",
+    "example-ja": "(ゾウ:ぞう)の(体重:たいじゅう)が(何:なん)(キロ:きろ)かなんてどうでもいい。",
     "example-en": "Who cares how much an elephant weighs?",
     "notes-en": "\"Doudemo ii\" is used to express that something doesn't matter or that you don't care about it. The word \"doudemo\" is an adverb that means \"anyway\" or \"in any case.\" The word \"ii\" is an adjective that means \"good.\"",
     "notes-ja": "\"どうでもいい\"は、何かが重要でないことや、気にしないことを表現するために使用されます。"
