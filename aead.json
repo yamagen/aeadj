@@ -1,5 +1,49 @@
 [
   {
+    "date": "2025.06.18",
+    "day": "Wed",
+    "number": 435,
+    "index": "chottoshita.koto",
+    "title": "Just a little thing / Nothing big",
+    "expression-ja": "ちょっとしたこと",
+    "roman-ja": "Chotto shita koto",
+    "expression-en": "Just a little thing / Nothing big",
+    "variants-ja": [
+      "ちょっとしたこと",
+      "ちょっとしたことで",
+      "そんなちょっとしたことで",
+      "ちょっとしたことで気が滅入る"
+    ],
+    "variants-en": [
+      "Just a little thing",
+      "Something minor",
+      "Over something trivial",
+      "A small thing can really get to you"
+    ],
+    "intent-ja": ["軽視", "謙遜", "共感", "心の揺れ", "感情のきっかけ"],
+    "intent-en": [
+      "downplaying",
+      "humility",
+      "empathy",
+      "emotional trigger",
+      "small cause"
+    ],
+    "tags-ja": ["即時文法", "感情", "評価", "状況描写"],
+    "tags-en": [
+      "immediate grammar",
+      "emotion",
+      "evaluation",
+      "situation description"
+    ],
+    "example-ja": "ちょっとしたことだが、(簡単:かんたん)じゃない。",
+    "example-en": "Because of a trivial matter, it's not easy.",
+    "adjusted-expression-ja": "ほんの些細なことが、心に残ってしまいました。",
+    "adjusted-expression-en": "Something trivial ended up lingering in my mind.",
+    "img-sub": "chottoshita.koto01.png",
+    "notes-ja": "「ちょっとしたこと」は、何かが小さくて重要でないことを示すカジュアルな表現です。「Just a little thing」や「Nothing big」と訳されます。カジュアルな会話でよく使われ、相手に対して軽い気持ちで話しかける役割があります。しかし、時には小さなことが大きな影響を与えることもあるので、注意が必要だという意味にもなります。",
+    "notes-en": "\"Chotto shita koto\" is a casual expression that indicates something is small and not significant. It can be translated as \"Just a little thing\" or \"Nothing big.\" This phrase is commonly used in informal conversations to approach the listener with a light-hearted tone. However, it can also imply that even small matters can have a significant impact, so caution is advised."
+  },
+  {
     "date": "2025.06.17",
     "day": "Tue",
     "number": 434,
