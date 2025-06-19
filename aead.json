@@ -1,5 +1,43 @@
 [
   {
+    "date": "2025.06.19",
+    "day": "Thu",
+    "number": 436,
+    "index": "sorewakaru",
+    "title": "That, I Understand / I Know That",
+    "expression-ja": "それ、わかる",
+    "roman-ja": "Sore, wakaru",
+    "expression-en": "That, I know / I understand that",
+    "variants-ja": [
+      "それ、わかる",
+      "本当にそれ、わかる",
+      "まさにそれだよね",
+      "分かる分かる"
+    ],
+    "variants-en": [
+      "I know that",
+      "That really resonates",
+      "Exactly, I understand",
+      "I totally get it"
+    ],
+    "intent-ja": ["共感", "理解", "同調", "安心感の提供"],
+    "intent-en": [
+      "empathy",
+      "understanding",
+      "agreement",
+      "providing reassurance"
+    ],
+    "tags-ja": ["即時文法", "共感", "会話", "リアクション"],
+    "tags-en": ["immediate grammar", "empathy", "conversation", "reaction"],
+    "example-ja": "A「この(状況:じょうきょう)、ちょっと(難:むずか)しいね」B「うん、でも、それ、わかる」",
+    "example-en": "A: \"This situation is a bit tough.\" B: \"Yeah, I totally get that.\"",
+    "adjusted-expression-ja": "本当にその通りで、私も同じ気持ちです。",
+    "adjusted-expression-en": "Exactly—I feel the same way.",
+    "img-sub": "sorewakaru01.png",
+    "notes-ja": "「それ、わかる」は、相手の意見や感情に共感するカジュアルな表現です。「I know that」や「I understand that」と訳されます。カジュアルな会話でよく使われ、相手に対して理解を示す役割があります。特に、相手の気持ちを受け入れることで、安心感を提供することができます。",
+    "notes-en": "\"Sore, wakaru\" is a casual expression used to empathize with the other person's opinion or feelings. It can be translated as \"I know that\" or \"I understand that.\" This phrase is commonly used in informal conversations to show understanding towards the other person. By accepting the other person's feelings, it can provide a sense of reassurance."
+  },
+  {
     "date": "2025.06.18",
     "day": "Wed",
     "number": 435,
