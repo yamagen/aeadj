@@ -1,5 +1,38 @@
 [
   {
+    "date": "2025.06.20",
+    "day": "Fri",
+    "number": 437,
+    "index": "ikinari",
+    "title": "All of a sudden / Out of nowhere",
+    "expression-ja": "いきなり",
+    "roman-ja": "Ikinari",
+    "expression-en": "All of a sudden / Out of nowhere",
+    "variants-ja": [
+      "いきなり",
+      "いきなり話しかけられた",
+      "いきなり走り出した",
+      "いきなり泣き出した"
+    ],
+    "variants-en": [
+      "All of a sudden",
+      "Suddenly, someone talked to me",
+      "Suddenly started running",
+      "Suddenly burst into tears"
+    ],
+    "intent-ja": ["驚き", "即時反応", "状況変化"],
+    "intent-en": ["surprise", "immediate reaction", "sudden change"],
+    "tags-ja": ["即時文法", "副詞", "感情"],
+    "tags-en": ["immediate grammar", "adverb", "emotion"],
+    "adjusted-expression-ja": "(:)突然の(:)出来事に(:)驚きましたが、すぐに(:)対応しました。",
+    "adjusted-expression-en": "I was surprised by the sudden event, but I responded immediately.",
+    "img-sub": "ikinari01.png",
+    "example-ja": "いきなり(質問:しつもん)されてもね。(何:なん)て(言:い)えばいいかね？」",
+    "example-en": "Even if you ask me a question all of a sudden, I don't know what to say.",
+    "notes-ja": "「いきなり」は、予期せぬ出来事や行動を表すカジュアルな表現です。「All of a sudden」や「Out of nowhere」と訳されます。カジュアルな会話でよく使われ、相手に対して驚きを伝える役割があります。特に、何かが突然起こったときに使われることが多いです。",
+    "notes-en": "\"Ikinari\" is a casual expression that indicates an unexpected event or action. It can be translated as \"All of a sudden\" or \"Out of nowhere.\" This phrase is commonly used in informal conversations to convey surprise to the listener. It is often used when something happens suddenly."
+  },
+  {
     "date": "2025.06.19",
     "day": "Thu",
     "number": 436,
