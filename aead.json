@@ -1,5 +1,102 @@
 [
   {
+    "date": "2025.06.22",
+    "day": "Sun",
+    "number": 439,
+    "index": "kimazui",
+    "title": "awkward / uncomfortable",
+    "expression-ja": "(気:き)まずい",
+    "roman-ja": "Kimazui",
+    "expression-en": "awkward / uncomfortable",
+    "variants-ja": [
+      "きまずい",
+      "ちょっときまずいね",
+      "なんか空気が重い",
+      "気まずい",
+      "気まずくなった",
+      "ちょっと気まずい雰囲気になった"
+    ],
+    "variants-en": [
+      "awkward",
+      "awkward silence",
+      "felt uncomfortable",
+      "a bit uncomfortable",
+      "kind of tense"
+    ],
+    "intent-ja": [
+      "感情",
+      "対人関係",
+      "気まずさ",
+      "遠慮",
+      "場の空気",
+      "沈黙",
+      "誤解",
+      "不快感"
+    ],
+    "intent-en": [
+      "emotion",
+      "interpersonal",
+      "awkwardness",
+      "reserve",
+      "social tension",
+      "silence",
+      "misunderstanding",
+      "discomfort"
+    ],
+    "tags-ja": ["即時文法", "対人", "感情", "状況描写"],
+    "tags-en": [
+      "immediate grammar",
+      "interpersonal",
+      "emotion",
+      "situation description"
+    ],
+    "adjusted-expression-ja": "いたたまれない(雰囲気:ふんいき)になってしまった",
+    "adjusted-expression-en": "It became an unbearable atmosphere.",
+    "img-sub": "kimazui01.png",
+    "example-ja": "A「(昨日:きのう)の(話:はなし)、(気:き)まずいね」B「うん、ちょっとね」",
+    "example-en": "A: \"Yesterday's conversation was awkward, wasn't it?\" B: \"Yeah, a bit.\"",
+    "notes-ja": "「きまずい」は、対人関係において気まずさや不快感を表すカジュアルな表現です。「awkward」や「uncomfortable」と訳されます。特に、会話が途切れたり、誤解が生じたりしたときに使われることが多いです。相手との関係がぎくしゃくしているときに使うことが一般的です。",
+    "notes-en": "\"Kimazui\" is a casual expression that indicates awkwardness or discomfort in interpersonal relationships. It can be translated as \"awkward\" or \"uncomfortable.\" This phrase is often used when conversations break down or misunderstandings occur. It is commonly used when the relationship with the other person feels strained."
+  },
+  {
+    "date": "2025.06.21",
+    "day": "Sat",
+    "number": 438,
+    "index": "iranai",
+    "title": "No thanks / I don't need it",
+    "expression-ja": "いらない",
+    "roman-ja": "Iranai",
+    "expression-en": "No thanks / I don't need it",
+    "variants-ja": [
+      "いらない",
+      "もういらない",
+      "ううん、いらない",
+      "それは、いらないかな"
+    ],
+    "variants-en": [
+      "No thanks",
+      "I don't need it",
+      "I'm good",
+      "Not necessary"
+    ],
+    "intent-ja": ["拒否", "遠慮", "完了", "冷却"],
+    "intent-en": ["refusal", "restraint", "completion", "detachment"],
+    "tags-ja": ["即時文法", "会話", "反応", "対人関係"],
+    "tags-en": [
+      "immediate grammar",
+      "conversation",
+      "reaction",
+      "interpersonal"
+    ],
+    "adjusted-expression-ja": "お気持ちだけいただいておきます。今は大丈夫です。",
+    "adjusted-expression-en": "I appreciate the gesture, but I'm fine for now.",
+    "img-sub": "iranai01.png",
+    "example-ja": "A「(これ:これ)いる？」B「ううん、いらない」",
+    "example-en": "A: \"Do you need this?\" B: \"No thanks, I don't need it.\"",
+    "notes-ja": "「いらない」は、何かを必要としないことを表すカジュアルな表現です。「No thanks」や「I don't need it」と訳されます。特に、相手からの提案や贈り物に対して使われることが多いです。相手に対して遠慮や拒否の意志を示す役割があります。",
+    "notes-en": "\"Iranai\" is a casual expression that indicates that something is not needed. It can be translated as \"No thanks\" or \"I don't need it.\" This phrase is often used in response to offers or gifts from others. It serves to show restraint or refusal towards the other person."
+  },
+  {
     "date": "2025.06.20",
     "day": "Fri",
     "number": 437,
