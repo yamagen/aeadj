@@ -24,7 +24,7 @@
     "intent-en": ["surprise", "immediate reaction", "sudden change"],
     "tags-ja": ["即時文法", "副詞", "感情"],
     "tags-en": ["immediate grammar", "adverb", "emotion"],
-    "adjusted-expression-ja": "(:)突然の(:)出来事に(:)驚きましたが、すぐに(:)対応しました。",
+    "adjusted-expression-ja": "(突然:とつぜん)の(出来事:できごと)に(驚:おどろ)きましたが、すぐに(対応:たいおう)しました。",
     "adjusted-expression-en": "I was surprised by the sudden event, but I responded immediately.",
     "img-sub": "ikinari01.png",
     "example-ja": "いきなり(質問:しつもん)されてもね。(何:なん)て(言:い)えばいいかね？」",
