@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.06.24",
+    "day": "Tue",
+    "number": 441,
+    "index": "sukkari",
+    "title": "completely / entirely",
+    "expression-ja": "すっかり",
+    "roman-ja": "Sukkari",
+    "expression-en": "completely / entirely",
+    "variants-ja": ["すっかり", "完全に", "まるっきり", "すっかりと"],
+    "variants-en": ["completely", "entirely", "fully", "totally"],
+    "intent-ja": ["完了", "変化", "驚き"],
+    "intent-en": ["completion", "change", "surprise"],
+    "tags-ja": ["即時文法", "副詞", "状態変化"],
+    "tags-en": ["immediate grammar", "adverb", "change of state"],
+    "adjusted-expression-ja": "完全に日が沈み、あたりは薄闇に包まれていた。",
+    "adjusted-expression-en": "The sun had completely set, and everything was shrouded in dusk.",
+    "img-sub": "sukkari01.png",
+    "example-ja": "A「(宿題:しゅくだい)、(終:お)わった？」B「ああ、(宿題:しゅくだい)ね、すっかり、(忘:わす)れてた」",
+    "example-en": "A: \"Did you finish your homework?\" B: \"Oh, the homework? I completely forgot about it.\"",
+    "notes-ja": "「すっかり」は、何かが完全に終わったり、変わったりしたことを表すカジュアルな表現です。「completely」や「entirely」と訳されます。特に、何かが完全に変化したり、忘れ去られたりしたときに使われます。",
+    "notes-en": "\"Sukkari\" is a casual expression that indicates something has completely ended or changed. It can be translated as \"completely\" or \"entirely.\" This phrase is often used when something has undergone a complete transformation or has been forgotten."
+  },
+  {
     "date": "2025.06.23",
     "day": "Mon",
     "number": 440,
