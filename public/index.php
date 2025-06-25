@@ -63,7 +63,10 @@ if ($query !== '') {
         $exprJa = $entry['expression-ja'] ?? '';
         $exprEn = $entry['expression-en'] ?? '';
 
-        if (stripos($exprJa, $query) !== false || stripos($exprEn, $query) !== false) {
+        // ルビ表記 (漢字:かな) を かな に置き換える
+        $kanaJa = preg_replace('/\(([^:]+):([^)]+)\)/u', '$2', $exprJa);
+
+        if (stripos($kanaJa, $query) !== false || stripos($exprEn, $query) !== false) {
             $results[] = $entry;
         }
     }
