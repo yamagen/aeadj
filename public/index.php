@@ -88,9 +88,7 @@ if ($query !== '') {
     <?= convertRuby(highlightKeyword($selectedEntry['expression-ja'] ?? '', $query)) ?> /
     <?= highlightKeyword($selectedEntry['expression-en'] ?? '', $query) ?>
   </h2>
-  <p><strong>Adjusted:</strong>
-    <?= convertRuby(highlightKeyword($selectedEntry['adjusted-expression-ja'] ?? '', $query)) ?>
-  </p>
+
   <p><strong>Example (JA):</strong>
     <?= convertRuby(highlightKeyword($selectedEntry['example-ja'] ?? '', $query)) ?>
   </p>
@@ -103,6 +101,10 @@ if ($query !== '') {
   <p><strong>Notes (EN):</strong>
     <?= nl2br(highlightKeyword($selectedEntry['notes-en'] ?? '', $query)) ?>
   </p>
+  <p><strong>Adjusted:</strong>
+    <?= convertRuby(highlightKeyword($selectedEntry['adjusted-expression-ja'] ?? '', $query)) ?>
+  </p>
+
 
   <?php else: ?>
   <div class="header">
