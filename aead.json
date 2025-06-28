@@ -37,7 +37,7 @@
     "intent-en": ["anticipation", "excitement", "elevation"],
     "tags-ja": ["即時文法", "感情", "身体感覚"],
     "tags-en": ["immediate grammar", "emotion", "physical sensation"],
-    "adjusted-expression-ja": "気持ちが盛り上がっている。",
+    "adjusted-expression-ja": "(気持:きも)ちが(盛:も)り(上:あ)がっている。",
     "adjusted-expression-en": "I am feeling uplifted.",
     "img-sub": "wakuwaku01.png",
     "example-ja": "A「(息子:むすこ)は、(明日:あす)、(球場:きゅうじょう)に(行:い)けるので、わくわくしているよ」",
