@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.06.30",
+    "day": "Mon",
+    "number": 447,
+    "index": "dekireba",
+    "title": "If possible / If you can",
+    "expression-ja": "できれば",
+    "roman-ja": "Dekireba",
+    "expression-en": "If possible",
+    "variants-ja": ["できれば", "もしできれば", "できたら"],
+    "variants-en": ["If possible", "If you can", "If it's okay"],
+    "intent-ja": ["希望", "依頼", "遠慮"],
+    "intent-en": ["hope", "request", "politeness"],
+    "tags-ja": ["即時文法", "依頼", "丁寧"],
+    "tags-en": ["immediate grammar", "request", "politeness"],
+    "adjusted-expression-ja": "もし可能であればお願いします。",
+    "adjusted-expression-en": "If it's possible, please.",
+    "img-sub": "dekireba01.png",
+    "example-ja": "A「できれば、(今日中:きょうじゅう)」",
+    "example-en": "A: \"If possible, by today.\"",
+    "notes-ja": "「できれば」は相手に配慮しつつ自分の希望を伝える表現です。言い切りを避けることで、柔らかい印象になります。",
+    "notes-en": "\"Dekireba\" expresses a polite hope or request, softening the tone by avoiding a direct command."
+  },
+  {
     "date": "2025.06.29",
     "day": "Sun",
     "number": 446,
