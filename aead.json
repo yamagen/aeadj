@@ -865,7 +865,7 @@
     "intent-en": ["mistake", "light regret", "lack of attention"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "失敗", "軽い後悔", "注意不足"],
     "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "mistake", "light regret", "lack of attention"],
-    "adjusted-expression-ja": "意図せずに、...してしまいました。",
+    "adjusted-expression-ja": "(意図:いと)せずに、...してしまいました。",
     "adjusted-expression-en": "I have done ... unintentionally.",
     "img-sub": "tsuiteshimatta01.png",
     "example-ja": "A「おいしいんで、つい、いっぱい(食:た)べちゃった」",
