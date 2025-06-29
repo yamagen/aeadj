@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.06.29",
+    "day": "Sun",
+    "number": 446,
+    "index": "shimatta",
+    "title": "Oops / Damn / Oh no",
+    "expression-ja": "しまった",
+    "roman-ja": "Shimatta",
+    "expression-en": "Oops",
+    "variants-ja": ["しまった", "あ、しまった", "うわ、しまった"],
+    "variants-en": ["Oops", "Oh no", "Damn"],
+    "intent-ja": ["後悔", "気づき", "失敗"],
+    "intent-en": ["regret", "realization", "mistake"],
+    "tags-ja": ["即時文法", "感情", "反応"],
+    "tags-en": ["immediate grammar", "emotion", "reaction"],
+    "adjusted-expression-ja": "(失敗:しっぱい)してしまった。",
+    "adjusted-expression-en": "I made a mistake.",
+    "img-sub": "shimatta01.png",
+    "example-ja": "A「あ、しまった」 B「どうしたの」A「(携帯:けいたい)、(忘:わす)れた」",
+    "example-en": "A: \"Oops.\" B: \"What happened?\" A: \"I forgot my phone.\"",
+    "notes-ja": "「しまった」は、その瞬間に失敗や後悔に気づいたときに出る短い感情表現です。状況を説明するより先に感情が口をついて出ます。",
+    "notes-en": "\"Shimatta\" is a short exclamation expressing sudden realization of a mistake or regret. It's used immediately upon noticing an error, often before explaining the situation."
+  },
+  {
     "date": "2025.06.28",
     "day": "Sat",
     "number": 445,
