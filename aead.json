@@ -1,5 +1,28 @@
 [
   {
+    "date": "2024.07.04",
+    "day": "Fri",
+    "number": 451,
+    "index": "dattaraiikedo",
+    "title": "I wish that were true...",
+    "expression-ja": "だったらいいけど...",
+    "roman-ja": "Dattara ii kedo...",
+    "expression-en": "I wish that were true...",
+    "variants-ja": ["そうだったらいいけど", "そうならいいけど", "そうだといいけど"],
+    "variants-en": ["I hope so...", "That would be nice...", "It'd be great if that were true..."],
+    "intent-ja": ["期待", "不安", "ためらい"],
+    "intent-en": ["hope", "uncertainty", "hesitation"],
+    "tags-ja": ["即時文法", "感情", "控えめ"],
+    "tags-en": ["immediate grammar", "emotion", "tentative"],
+    "adjusted-expression-ja": "そうであれば(嬉:うれ)しいのですが、どうでしょうか。",
+    "adjusted-expression-en": "It would make me happy if that were the case, but I’m not sure.",
+    "img-sub": "dattaraiikedo01.png",
+    "example-ja": "A「(明日:あした)は(晴:は)れるかな。」 B「だったらいいけど…」",
+    "example-en": "A: \"Do you think it’ll be sunny tomorrow?\" B: \"I wish that were true...\"",
+    "notes-ja": "「だったらいいけど…」は、希望を述べながらも不安や現実への慎重さを含む表現です。言い切らないことで控えめな気持ちを伝えます。",
+    "notes-en": "\"Dattara ii kedo...\" expresses a wish mixed with uncertainty. The lack of certainty softens the statement."
+  },
+  {
     "date": "2024.07.03",
     "day": "Thu",
     "number": 450,
