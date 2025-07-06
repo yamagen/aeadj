@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.07",
+    "day": "Mon",
+    "number": 454,
+    "index": "kitanjanai",
+    "title": "Didn't they come?",
+    "expression-ja": "(来:き)たんじゃない？",
+    "roman-ja": "Kita n ja nai?",
+    "expression-en": "Didn't they come?",
+    "variants-ja": ["来たんじゃないかな？", "来たと思うよ", "来たんじゃん？"],
+    "variants-en": ["I think they came.", "Did they come?", "Maybe they came."],
+    "intent-ja": ["推量", "確認", "共有"],
+    "intent-en": ["supposition", "confirmation", "shared knowledge"],
+    "tags-ja": ["即時文法", "推量", "問いかけ"],
+    "tags-en": ["immediate grammar", "supposition", "question"],
+    "adjusted-expression-ja": "(来:き)たのではないでしょうか。",
+    "adjusted-expression-en": "Perhaps they came.",
+    "img-sub": "kitanjanai01.png",
+    "example-ja": "A「もうみんな(集:あつ)まった？」 B「(来:き)たんじゃない？」",
+    "example-en": "A: \"Is everyone here already?\" B: \"Didn't they come?\"",
+    "notes-ja": "「来たんじゃない？」は推量と確認を軽い調子で示す表現です。相手に同意や反応を促す柔らかい問いかけです。",
+    "notes-en": "\"Kita n janai?\" is a casual way to suggest or confirm that something has happened, inviting agreement or response from the listener."
+  },
+  {
     "date": "2025.07.06",
     "day": "Sun",
     "number": 453,
