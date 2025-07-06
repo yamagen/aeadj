@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.06",
+    "day": "Sun",
+    "number": 453,
+    "index": "wakannai",
+    "title": "I don't know",
+    "expression-ja": "わかんない",
+    "roman-ja": "Wakannai",
+    "expression-en": "I don't know",
+    "variants-ja": ["わからない", "うーん、わかんない", "さあ、わかんない"],
+    "variants-en": ["I’m not sure", "I have no idea", "I don’t really know"],
+    "intent-ja": ["否定", "ためらい", "即時応答"],
+    "intent-en": ["negation", "hesitation", "immediate response"],
+    "tags-ja": ["即時文法", "否定", "軽い"],
+    "tags-en": ["immediate grammar", "negation", "casual"],
+    "adjusted-expression-ja": "よく(分:わ)かりません。",
+    "adjusted-expression-en": "I'm not sure.",
+    "img-sub": "wakannai01.png",
+    "example-ja": "A「これどうやって(使:つか)うの？)」 B「わかんない。」",
+    "example-en": "A: \"How do you use this?\" B: \"I don't know.\"",
+    "notes-ja": "「わかんない」は「分からない」の口語的・縮約形で、カジュアルで即座に答える否定表現です。場面によってはややそっけない印象を与えることもあります。",
+    "notes-en": "\"Wakannai\" is the casual contracted form of \"wakaranai\" (I don't know). It's used in quick, informal replies and can sound a bit blunt depending on tone."
+  },
+  {
     "date": "2025.07.05",
     "day": "Sat",
     "number": 452,
