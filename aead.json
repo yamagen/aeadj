@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.05",
+    "day": "Sat",
+    "number": 452,
+    "index": "gomengomen",
+    "title": "Sorry, sorry",
+    "expression-ja": "ごめんごめん",
+    "roman-ja": "Gomen gomen",
+    "expression-en": "Sorry, sorry",
+    "variants-ja": ["ごめんね", "あ、ごめんごめん", "ごめんごめんね"],
+    "variants-en": ["Oh, sorry", "Sorry about that", "Oops, sorry"],
+    "intent-ja": ["謝罪", "軽い気まずさ", "親しみ"],
+    "intent-en": ["apology", "slight awkwardness", "friendly"],
+    "tags-ja": ["即時文法", "謝罪", "軽い"],
+    "tags-en": ["immediate grammar", "apology", "light"],
+    "adjusted-expression-ja": "(:)申し(:)訳ない、(:)気づかなかったよ。",
+    "adjusted-expression-en": "I’m sorry, I didn’t notice.",
+    "img-sub": "gomengomen01.png",
+    "example-ja": "A「(あれ？(ドア:どあ)(閉:し)めた？)」 B「ごめんごめん、(閉:し)めてくるね。」",
+    "example-en": "A: \"Did you close the door?\" B: \"Sorry, sorry, I’ll go close it.\"",
+    "notes-ja": "「ごめんごめん」はカジュアルで軽い謝罪を表す言い方です。繰り返すことで「気にしないでね」という柔らかい気持ちを添えます。",
+    "notes-en": "\"Gomen gomen\" is a casual, friendly way to apologize. Repeating it softens the tone and shows you don't want the other person to feel bad."
+  },
+  {
     "date": "2024.07.04",
     "day": "Fri",
     "number": 451,
