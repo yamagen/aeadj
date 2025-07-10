@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.11",
+    "day": "Fri",
+    "number": 458,
+    "index": "tonaruto",
+    "title": "In that case",
+    "expression-ja": "となると",
+    "roman-ja": "To naru to",
+    "expression-en": "In that case",
+    "variants-ja": ["そうなると", "じゃあ、となると", "それとなると"],
+    "variants-en": ["If that’s the case", "Then", "That means"],
+    "intent-ja": ["推論", "整理", "条件"],
+    "intent-en": ["inference", "reasoning", "conditional"],
+    "tags-ja": ["即時文法", "推論", "状況整理"],
+    "tags-en": ["immediate grammar", "inference", "situation"],
+    "adjusted-expression-ja": "そういうことになりますと、",
+    "adjusted-expression-en": "If that is the situation,",
+    "img-sub": "tonaruto01.png",
+    "example-ja": "A「(田中:たなか)さん、(明日:あす)(来:こ)ないって。」 B「となると、(会議:かいぎ)は(延期:えんき)かな。」",
+    "example-en": "A: \"Tanaka-san says he won’t come tomorrow.\" B: \"In that case, the meeting might be postponed.\"",
+    "notes-ja": "「となると」は前の情報を受けて、次の推測や判断を示す表現です。話の切り替えや整理に使われます。",
+    "notes-en": "\"To naru to\" is used to indicate reasoning or inference based on what was just said. It connects the previous statement to a new conclusion or consideration."
+  },
+  {
     "date": "2025.07.10",
     "day": "Thu",
     "number": 457,
