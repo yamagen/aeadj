@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.12",
+    "day": "Sat",
+    "number": 459,
+    "index": "aruaru",
+    "title": "Yeah, I've had that experience",
+    "expression-ja": "あるある",
+    "roman-ja": "Aru aru",
+    "expression-en": "Yeah, I've had that experience",
+    "variants-ja": ["あるよ", "うん、あるある"],
+    "variants-en": ["Yeah, I have", "I’ve had that"],
+    "intent-ja": ["経験確認", "共感", "即答"],
+    "intent-en": ["confirmation of experience", "empathy", "immediate response"],
+    "tags-ja": ["即時文法", "共感", "経験"],
+    "tags-en": ["immediate grammar", "empathy", "experience"],
+    "adjusted-expression-ja": "そういう(経験:けいけん)はあります。",
+    "adjusted-expression-en": "I’ve had that kind of experience.",
+    "img-sub": "aruaru04.png",
+    "example-ja": "A「そういう(経験:けいけん)、ある？」 B「あるある。」",
+    "example-en": "A: \"Have you had that kind of experience?\" B: \"Yeah, I have.\"",
+    "notes-ja": "「あるある」は経験を明示的に尋ねられたときに共感を込めて即答する言い方です。「そんなことある？」のように疑念を含む質問には使いません。",
+    "notes-en": "\"Aru aru\" here is used as a quick, empathetic response when someone asks if you’ve had a similar experience. It’s not typically used when the question expresses disbelief, like \"Does that really happen?\""
+  },
+  {
     "date": "2025.07.11",
     "day": "Fri",
     "number": 458,
