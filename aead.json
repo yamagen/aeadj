@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.13",
+    "day": "Sun",
+    "number": 460,
+    "index": "asameshimae",
+    "title": "Piece of cake",
+    "expression-ja": "(朝飯前:あさめしまえ)",
+    "roman-ja": "Asameshimae",
+    "expression-en": "Piece of cake",
+    "variants-ja": ["朝飯前だよ", "そんなの朝飯前", "朝飯前です"],
+    "variants-en": ["It’s easy", "No sweat", "It’s nothing"],
+    "intent-ja": ["容易さ", "余裕", "即答"],
+    "intent-en": ["ease", "confidence", "immediate response"],
+    "tags-ja": ["即時文法", "評価", "カジュアル"],
+    "tags-en": ["immediate grammar", "assessment", "casual"],
+    "adjusted-expression-ja": "(簡単:かんたん)にできます。",
+    "adjusted-expression-en": "I can do it easily.",
+    "img-sub": "asameshimae01.png",
+    "example-ja": "A「この(問題:もんだい)できる？」 B「(朝飯前:あさめしまえ)だよ。」",
+    "example-en": "A: \"Can you solve this problem?\" B: \"Piece of cake.\"",
+    "notes-ja": "「朝飯前」は「とても簡単」という意味のカジュアルな表現です。即答で余裕を伝えるときに使います。「飯」は「ごはん」の意味ですが、「めし、おねがいします」というと乱暴な言い方になります。しかし、「飯」が乱暴な表現だからと言って「朝飯前」の表現を「朝ごはん前」と言ってはいけません。「飯」はカジュアルで男性的な響きを持つため、丁寧な場ではあまり使いませんが、「朝飯前」は慣用句なので失礼にはなりません。",
+    "notes-en": "\"Asameshimae\" literally means \"before breakfast\" and is a casual way to say something is very easy, like \"a piece of cake.\" It conveys confidence and ease in response. The word \"meshi\" (飯) is casual and can sound rough if used in other contexts, but in this phrase, it's perfectly acceptable. Avoid saying \"asagohan mae\" as it doesn't carry the same meaning. \"meshi\" has a casual, masculine tone, so it's not typically used in formal situations, but as a set phrase, \"asameshimae\" is not considered rude."
+  },
+  {
     "date": "2025.07.12",
     "day": "Sat",
     "number": 459,
