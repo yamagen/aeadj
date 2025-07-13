@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.14",
+    "day": "Mon",
+    "number": 461,
+    "index": "desune",
+    "title": "Right.",
+    "expression-ja": "ですね",
+    "roman-ja": "Desu ne.",
+    "expression-en": "Right.",
+    "variants-ja": ["そうですね", "ですねー", "ええ、ですね"],
+    "variants-en": ["Yeah.", "It is.", "Sure is."],
+    "intent-ja": ["同意", "確認", "共感"],
+    "intent-en": ["agreement", "acknowledgment", "empathy"],
+    "tags-ja": ["即時文法", "あいづち", "共感"],
+    "tags-en": ["immediate grammar", "backchannel", "empathy"],
+    "adjusted-expression-ja": "そうですね。",
+    "adjusted-expression-en": "That’s true.",
+    "img-sub": "desune01.png",
+    "example-ja": "A「(暑:あつ)いですね」 B「ですね」",
+    "example-en": "A: \"It’s hot.\" B: \"Right.\"",
+    "notes-ja": "「ですね。」は相手の発言に軽く同意や共感を示す短い応答です。自分の意見を付け加えず、会話を穏やかにつなぎます。この発話は相手の発話に続けてすぐに言わなければなりません。",
+    "notes-en": "\"Desu ne.\" is a short, soft way to show agreement or empathy without adding further opinion. It keeps the conversation smooth and polite. This phrase should be used immediately after the other person's statement."
+  },
+  {
     "date": "2025.07.13",
     "day": "Sun",
     "number": 460,
