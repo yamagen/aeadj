@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.15",
+    "day": "Tue",
+    "number": 462,
+    "index": "dattara",
+    "title": "So what?",
+    "expression-ja": "だったら？",
+    "roman-ja": "Dattara?",
+    "expression-en": "So what?",
+    "variants-ja": ["それで？", "だから？", "もしそうなら？"],
+    "variants-en": ["And?", "Then what?", "If so, then what?"],
+    "intent-ja": ["反論", "問い返し", "挑発"],
+    "intent-en": ["rebuttal", "questioning", "provocation"],
+    "tags-ja": ["即時文法", "対抗", "短答"],
+    "tags-en": ["immediate grammar", "challenge", "short reply"],
+    "adjusted-expression-ja": "もしそうなら、どうするつもりですか？",
+    "adjusted-expression-en": "If that’s the case, what are you going to do?",
+    "img-sub": "dattara01.png",
+    "example-ja": "A「それ、(絶対:ぜったい)、(間違:まちが)ってるよ」 B「だったら？」",
+    "example-en": "A: \"That's definitely wrong.\" B: \"So what?\"",
+    "notes-ja": "「だったら？」は相手の主張を受けたうえで、次の説明や行動を問い返す表現です。やや挑戦的・突き放す印象があります。でも、短かいので、相手の発言に対してすぐに反応することができます。",
+    "notes-en": "\"Dattara?\" is used to question or challenge the other person’s statement, implying \"If that’s the case, so what?\" It can sound provocative or dismissive. It's a short response that allows for immediate reaction to the other person's claim."
+  },
+  {
     "date": "2025.07.14",
     "day": "Mon",
     "number": 461,
