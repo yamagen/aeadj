@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.16",
+    "day": "Wed",
+    "number": 463,
+    "index": "sorebakkari",
+    "title": "That again.",
+    "expression-ja": "それ、ばっかり。",
+    "roman-ja": "Sore, bakkari.",
+    "expression-en": "That again.",
+    "variants-ja": ["そればっかりじゃん", "またそれ", "そればかり"],
+    "variants-en": ["Always that.", "Just that.", "You’re always doing that."],
+    "intent-ja": ["批判", "呆れ", "指摘"],
+    "intent-en": ["criticism", "exasperation", "pointing out"],
+    "tags-ja": ["即時文法", "指摘", "カジュアル"],
+    "tags-en": ["immediate grammar", "remark", "casual"],
+    "adjusted-expression-ja": "そればかりですね。",
+    "adjusted-expression-en": "You only do that.",
+    "img-sub": "sorebakkari01.png",
+    "example-ja": "A「ねぇ、ラーメン、(食:た)ベ(行:い)こ？」 B「それ、ばっかり」",
+    "example-en": "A: \"Hey, let's go eat ramen?\" B: \"That again.\"",
+    "notes-ja": "「それ、ばっかり。」は相手の行動や話題が偏っていることを軽く批判・指摘する表現です。やや呆れを込めたニュアンスがありますが、口調によって強さは変わります。",
+    "notes-en": "\"Sore, bakkari.\" is used to point out that someone is always doing or talking about the same thing. It conveys a light criticism or exasperation, but tone can soften or strengthen it."
+  },
+  {
     "date": "2025.07.15",
     "day": "Tue",
     "number": 462,
