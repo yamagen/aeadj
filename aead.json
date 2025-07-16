@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.17",
+    "day": "Thu",
+    "number": 464,
+    "index": "doushitemo",
+    "title": "No matter what",
+    "expression-ja": "どうしても",
+    "roman-ja": "Doushitemo.",
+    "expression-en": "No matter what.",
+    "variants-ja": ["どうしても無理", "どうしても必要", "どうしてもやりたい"],
+    "variants-en": ["I just can’t.", "I really have to.", "I absolutely must."],
+    "intent-ja": ["強調", "決意", "不可避"],
+    "intent-en": ["emphasis", "determination", "inevitability"],
+    "tags-ja": ["即時文法", "強調", "断固"],
+    "tags-en": ["immediate grammar", "emphasis", "firmness"],
+    "adjusted-expression-ja": "どうしても必要です。",
+    "adjusted-expression-en": "I really need to.",
+    "img-sub": "doushitemo01.png",
+    "example-ja": "A「(来:こ)れないの？」 B「うん、どうしても」",
+    "example-en": "A: \"Can't you come?\" B: \"No, I just can’t.\"",
+    "notes-ja": "「どうしても。」は強い意思や避けられない事情を表す短い応答です。肯定でも否定でも使われ、文脈で意味が変わります。単独で使うと「譲れない」「無理だ」という強い気持ちが含まれます。",
+    "notes-en": "\"Doushitemo.\" shows strong will or inevitability. It can be used in affirmative or negative contexts. Alone, it often conveys that something is non-negotiable or impossible."
+  },
+  {
     "date": "2025.07.16",
     "day": "Wed",
     "number": 463,
