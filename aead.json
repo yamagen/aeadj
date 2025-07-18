@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.18",
+    "day": "Fri",
+    "number": 465,
+    "index": "temoii",
+    "title": "Can I...?",
+    "expression-ja": "〜てもいい？",
+    "roman-ja": "…temo ii?",
+    "expression-en": "Can I...?",
+    "variants-ja": ["見てもいい？", "食べてもいい？", "入ってもいい？"],
+    "variants-en": ["Can I look?", "Can I eat it?", "Can I come in?"],
+    "intent-ja": ["許可", "確認", "丁寧な依頼"],
+    "intent-en": ["permission", "checking", "polite request"],
+    "tags-ja": ["即時文法", "依頼", "丁寧", "疑問"],
+    "tags-en": ["immediate grammar", "request", "politeness", "question"],
+    "adjusted-expression-ja": "〜てもよろしいですか？",
+    "adjusted-expression-en": "Would it be all right if I...?",
+    "img-sub": "temoii01.png",
+    "example-ja": "A「それ、(見:み)てもいい？」 B「うん、いいよ。」",
+    "example-en": "A: \"Can I look at that?\" B: \"Sure.\"",
+    "notes-ja": "「〜てもいい？」は、相手に何かをしてよいかを尋ねるカジュアルな表現です。親しい間柄ではよく使われますが、丁寧に言う場合は「〜てもよろしいですか？」に言い換えます。子どもが親に何かを頼むときにもよく使われる、即時的で自然な聞き方です。",
+    "notes-en": "The phrase \"...temo ii?\" is a casual way to ask for permission, often used among friends or family. It literally means \"Is it okay if I...?\" In more formal contexts, it’s replaced with \"...temo yoroshii desu ka?\" This expression is commonly used in everyday conversation, especially by children when asking adults for permission."
+  },
+  {
     "date": "2025.07.17",
     "day": "Thu",
     "number": 464,
