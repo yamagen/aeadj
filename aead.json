@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.17",
+    "day": "Sat",
+    "number": 466,
+    "index": "iikamo",
+    "title": "Might be nice",
+    "expression-ja": "いいかも",
+    "roman-ja": "Ii kamo",
+    "expression-en": "Might be nice",
+    "variants-ja": ["それ、いいかも", "いいかもしれない", "けっこういいかも"],
+    "variants-en": ["That might be good", "Could be nice", "Sounds like a good idea"],
+    "intent-ja": ["判断", "柔らかい肯定", "共感"],
+    "intent-en": ["judgment", "soft agreement", "shared feeling"],
+    "tags-ja": ["即時文法", "評価", "控えめ"],
+    "tags-en": ["immediate grammar", "assessment", "tentative"],
+    "adjusted-expression-ja": "それは(良:よ)いかもしれませんね。",
+    "adjusted-expression-en": "That might be a good idea.",
+    "img-sub": "iikamo01.png",
+    "example-ja": "A「ちょっと(遠出:とおで)してみる？」 B「それ、いいかも」",
+    "example-en": "A: \"Wanna go for a little trip?\" B: \"That might be nice.\"",
+    "notes-ja": "「いいかも」は、「かもしれない」の略式で、提案や考えに対して肯定的な可能性を示します。即時に判断を返しながらも、柔らかく控えめな印象を与えるため、日常会話でよく使われます。",
+    "notes-en": "\"Ii kamo\" is a casual form of \"ii kamo shirenai\" (might be good), used to express a soft, tentative agreement. It offers immediate feedback while remaining non-assertive, making it common in everyday speech."
+  },
+  {
     "date": "2025.07.18",
     "day": "Fri",
     "number": 465,
