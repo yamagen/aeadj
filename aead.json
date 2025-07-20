@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.22",
+    "day": "Mon",
+    "number": 468,
+    "index": "madewane",
+    "title": "Not *that* far...",
+    "expression-ja": "...まではね",
+    "roman-ja": "...made wa ne",
+    "expression-en": "Not that far...",
+    "variants-ja": ["そこまではね", "やるけど...そこまではね", "行くけど...泊まりまではね"],
+    "variants-en": ["I can do it, but not that far", "I'm okay up to a point", "That's too much for me"],
+    "intent-ja": ["ためらい", "限定", "控えめ"],
+    "intent-en": ["hesitation", "limitation", "modesty"],
+    "tags-ja": ["即時文法", "ためらい", "条件づけ"],
+    "tags-en": ["immediate grammar", "hesitation", "conditional"],
+    "adjusted-expression-ja": "それ以上はちょっと難しいです。",
+    "adjusted-expression-en": "Going beyond that might be difficult.",
+    "img-sub": "madewane01.png",
+    "example-ja": "A「じゃ、いっしょに(泊:と)まって(行:い)こうよ」 B「うーん、泊まりまではね...」",
+    "example-en": "A: \"Then let's stay over together.\" B: \"Hmm... not that far.\"",
+    "notes-ja": "「...まではね」は、ある行動を完全には否定しないが、そこまでには踏み込めないという気持ちを表す即時表現です。相手に配慮しつつ、自分の限界をさりげなく示すために使われます。",
+    "notes-en": "“...made wa ne” implies hesitation or reluctance to go beyond a certain point. It's a way to set a soft boundary without outright refusal, often used in casual, emotionally aware speech."
+  },
+  {
     "date": "2025.07.20",
     "day": "Sun",
     "number": 467,
