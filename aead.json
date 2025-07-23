@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.23",
+    "day": "Wed",
+    "number": 470,
+    "index": "tekuretane",
+    "title": "Thanks for doing that.",
+    "expression-ja": "...てくれたね",
+    "roman-ja": "...te kureta ne",
+    "expression-en": "You did that for me, didn't you?",
+    "variants-ja": ["手伝ってくれたね", "待っててくれたね", "覚えててくれたね"],
+    "variants-en": ["You helped me, right?", "You waited for me, didn’t you?", "You remembered, didn’t you?"],
+    "intent-ja": ["感謝", "共有", "親密さ"],
+    "intent-en": ["gratitude", "shared moment", "closeness"],
+    "tags-ja": ["即時文法", "感情", "親しみ"],
+    "tags-en": ["immediate grammar", "emotion", "affection"],
+    "adjusted-expression-ja": "〜してくれて、ありがとう。",
+    "adjusted-expression-en": "Thank you for doing that.",
+    "img-sub": "tekureta01.png",
+    "example-ja": "A「いつも、(一緒:いっしょ)にいてくれたね」 B「ぼくが(一緒:いっしょ)にいたかっただけだよ」",
+    "example-en": "A: \"Thanks so much for always being with me.\" B: \"I just wanted to be with you.\"",
+    "notes-ja": "「...てくれたね」は、相手の行動に対する感謝やあたたかい気持ちを表す表現です。文末の「ね」によって、相手との共有感や親しさが自然に生まれます。感謝を直接言うよりも、思い出をふりかえるような、やさしいトーンになります。",
+    "notes-en": "\"...te kureta ne\" conveys warm gratitude for something someone did for you. The sentence-final particle \"ne\" adds a sense of shared memory or closeness. It's softer than directly saying thank you—it reflects appreciation through emotional connection."
+  },
+  {
     "date": "2025.07.22",
     "day": "Tue",
     "number": 469,
