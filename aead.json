@@ -14,7 +14,7 @@
     "intent-en": ["guess", "observation", "affection"],
     "tags-ja": ["即時文法", "判断", "自然な会話"],
     "tags-en": ["immediate grammar", "judgment", "natural speech"],
-    "adjusted-expression-ja": "…のようです",
+    "adjusted-expression-ja": "...のようです",
     "adjusted-expression-en": "It appears that...",
     "img-sub": "mitai01.png",
     "example-ja": "A「(人:ひと)、(集:あつ)まってるね」 B「なんか、(事故:じこ)みたい」",
