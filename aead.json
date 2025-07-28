@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.28",
+    "day": "Mon",
+    "number": 475,
+    "index": "mitai",
+    "title": "It looks like...",
+    "expression-ja": "...みたい",
+    "roman-ja": "...mitai",
+    "expression-en": "It looks like...",
+    "variants-ja": ["(雨:あめ)みたい", "(大丈夫:だいじょうぶ)みたい", "もう(終:お)わったみたい"],
+    "variants-en": ["Looks like rain", "Seems okay", "Looks like it's already over"],
+    "intent-ja": ["推測", "観察", "親しみ"],
+    "intent-en": ["guess", "observation", "affection"],
+    "tags-ja": ["即時文法", "判断", "自然な会話"],
+    "tags-en": ["immediate grammar", "judgment", "natural speech"],
+    "adjusted-expression-ja": "…のようです",
+    "adjusted-expression-en": "It appears that...",
+    "img-sub": "mitai01.png",
+    "example-ja": "A「(人:ひと)、(集:あつ)まってるね」 B「なんか、(事故:じこ)みたい」",
+    "example-en": "A: \"People are gathering there.\" B: \"Looks like there was an accident or something.\"",
+    "notes-ja": "「...みたい」は、確実ではないけれど、目にしたこと・感じたことから判断して話すときに使われます。話し手の主観や直感をそのまま言葉にしたような形で、即時文法の代表例といえます。「...みたいなんだけど」「...みたいね」など、語尾との組み合わせでもニュアンスが変わります。",
+    "notes-en": "\"...mitai\" is used when expressing something based on appearance or intuition, without certainty. It reflects the speaker’s immediate impression, making it a hallmark of immediate grammar. Variants like \"...mitai na n da kedo\" or \"...mitai ne\" further soften the tone and add emotional nuance."
+  },
+  {
     "date": "2025.07.27",
     "day": "Sun",
     "number": 474,
