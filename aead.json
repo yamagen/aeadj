@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.29",
+    "day": "Tue",
+    "number": 476,
+    "index": "rashii",
+    "title": "They say / It seems...",
+    "expression-ja": "...らしい",
+    "roman-ja": "...rashii",
+    "expression-en": "They say / It seems...",
+    "variants-ja": ["(雨:あめ)らしい", "テストは(明日:あした)らしい", "もう(終:お)わったらしいよ"],
+    "variants-en": ["Seems like rain", "Apparently the test is tomorrow", "Looks like it's already over"],
+    "intent-ja": ["伝聞", "推測", "控えめ"],
+    "intent-en": ["hearsay", "inference", "tentative"],
+    "tags-ja": ["即時文法", "判断", "情報共有"],
+    "tags-en": ["immediate grammar", "judgment", "shared info"],
+    "adjusted-expression-ja": "...とのことです",
+    "adjusted-expression-en": "According to what I heard...",
+    "img-sub": "rashii01.png",
+    "example-ja": "A「(駅:えき)、すごく(混:こ)んでたよ」 B「なんか、(事故:じこ)があったらしい」",
+    "example-en": "A: \"The station was super crowded.\" B: \"Seems like there was an accident or something.\"",
+    "notes-ja": "「...らしい」は、自分が直接経験していないことを話すときに使います。文末に置かれることで、断定を避けたやわらかい伝え方になります。ニュース、噂、気配など、さまざまな情報源が背景にあるときに便利な表現です。「...らしいよ」「...らしかった」などでも使われます。",
+    "notes-en": "\"...rashii\" expresses information the speaker didn't directly experience. It softens the tone, making the statement feel less assertive and more like a shared observation or rumor. It's often used with a sense of uncertainty or indirect knowledge, such as in \"rashii yo\" or \"rashikatta\"."
+  },
+  {
     "date": "2025.07.28",
     "day": "Mon",
     "number": 475,
