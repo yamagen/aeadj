@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.30",
+    "day": "Wed",
+    "number": 477,
+    "index": "kanari",
+    "title": "Quite / Pretty much / Fairly",
+    "expression-ja": "かなり",
+    "roman-ja": "Kanari",
+    "expression-en": "quite / pretty much / fairly",
+    "variants-ja": ["かなりいい", "かなり(疲:つか)れた", "かなり(難:むずか)しかった"],
+    "variants-en": ["pretty good", "got quite tired", "was fairly difficult"],
+    "intent-ja": ["程度", "感覚", "強調"],
+    "intent-en": ["degree", "perception", "emphasis"],
+    "tags-ja": ["即時文法", "副詞", "評価"],
+    "tags-en": ["immediate grammar", "adverb", "evaluation"],
+    "adjusted-expression-ja": "相当〜",
+    "adjusted-expression-en": "considerably / substantially",
+    "img-sub": "kanari01.png",
+    "example-ja": "A「この(テスト:てすと)、どうだった？」 B「うん、かなり(難:むずか)しかったよ」",
+    "example-en": "A: \"How was the test?\" B: \"Yeah, it was quite difficult.\"",
+    "notes-ja": "「かなり」は数量や程度を強調する副詞ですが、話し手がその場で感じた強さや印象を、あいまいさを保ったまま伝える特徴があります。「すごく」と違って客観的なトーンもあり、評価や感想を即時的に伝える際によく使われます。",
+    "notes-en": "\"Kanari\" is an adverb used to emphasize degree or intensity. Unlike more subjective terms like \"sugoku\" (super), it has a slightly more objective tone and is often used to express one's impression or judgment on the spot, maintaining a flexible, nuanced sense of scale."
+  },
+  {
     "date": "2025.07.29",
     "day": "Tue",
     "number": 476,
