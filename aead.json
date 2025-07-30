@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.07.31",
+    "day": "Thu",
+    "number": 478,
+    "index": "nakuha nai",
+    "title": "Not impossible / It's not that I wouldn't...",
+    "expression-ja": "なくはない",
+    "roman-ja": "naku wa nai",
+    "expression-en": "not impossible / not that I wouldn’t",
+    "variants-ja": ["やってみなくはない", "行かなくはない", "食べなくはない"],
+    "variants-en": ["I might try it", "I could go", "I don't exactly dislike it"],
+    "intent-ja": ["あいまい", "可能性", "含み"],
+    "intent-en": ["ambiguity", "possibility", "implication"],
+    "tags-ja": ["即時文法", "二重否定", "感情のぼかし"],
+    "tags-en": ["immediate grammar", "double negative", "emotional nuance"],
+    "adjusted-expression-ja": "〜することも考えられる",
+    "adjusted-expression-en": "It’s possible that I might...",
+    "img-sub": "nakuha01.png",
+    "example-ja": "A「いっしょに(行:い)く？」 B「うーん、(行:い)かなくはないけど...」",
+    "example-en": "A: \"Wanna come with me?\" B: \"Hmm... I could go, I guess...\"",
+    "notes-ja": "「なくはない」は否定の中に肯定を含む二重否定表現で、あいまいな肯定や控えめな同意を示します。はっきりとは言えないが、完全には否定しない、というニュアンスがあり、感情や状況に揺れがあるときによく使われます。",
+    "notes-en": "\"Naku wa nai\" is a double negative that implies a mild or hesitant affirmation. It doesn’t strongly agree, but it avoids complete denial. Often used when the speaker feels uncertain or is softening their response, conveying emotional hesitation or consideration."
+  },
+  {
     "date": "2025.07.30",
     "day": "Wed",
     "number": 477,
