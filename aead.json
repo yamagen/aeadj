@@ -14,7 +14,7 @@
     "intent-en": ["ambiguity", "possibility", "implication"],
     "tags-ja": ["即時文法", "二重否定", "感情のぼかし"],
     "tags-en": ["immediate grammar", "double negative", "emotional nuance"],
-    "adjusted-expression-ja": "〜することも考えられる",
+    "adjusted-expression-ja": "〜することも(考:かんが)えられる",
     "adjusted-expression-en": "It’s possible that I might...",
     "img-sub": "nakuha01.png",
     "example-ja": "A「いっしょに(行:い)く？」 B「うーん、(行:い)かなくはないけど...」",
