@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.01",
+    "day": "Fri",
+    "number": 479,
+    "index": "doushiyou kana",
+    "title": "Hmm... What should I do?",
+    "expression-ja": "どうしようかな",
+    "roman-ja": "Dou shiyou kana",
+    "expression-en": "Hmm... What should I do?",
+    "variants-ja": ["どうしよっかな", "どうしたもんかな", "どうしようか"],
+    "variants-en": ["What to do...", "I wonder what I should do", "Shall I...?"],
+    "intent-ja": ["迷い", "独り言", "思考の始まり"],
+    "intent-en": ["indecision", "murmuring", "thought initiation"],
+    "tags-ja": ["即時文法", "感情", "思考"],
+    "tags-en": ["immediate grammar", "emotion", "thinking"],
+    "adjusted-expression-ja": "どうすればよいか(考:かんが)えています。",
+    "adjusted-expression-en": "I'm considering what to do.",
+    "img-sub": "doushiyou01.png",
+    "example-ja": "A「(映画:えいが)、(見:み)に(行:い)く？」 B「うーん、どうしようかな...」",
+    "example-en": "A: \"Wanna go see a movie?\" B: \"Hmm... What should I do?\"",
+    "notes-ja": "「どうしようかな」は、思考や迷いの瞬間に自然に出てくる表現です。「かな」によって、独り言のようなやわらかさが生まれ、相手との共有よりも、自分の内面との対話を表します。小声でつぶやくように使われることも多く、非常に人間らしい発話です。このようななくてもよいような発話が実は人間関係にはとても重要な役割を果たします。",
+    "notes-en": "\"Dou shiyou kana\" is often used when someone is thinking aloud or feeling indecisive. The \"kana\" softens the tone, making it feel like a private murmur rather than a request for advice. It reflects a moment of internal dialogue—a hallmark of natural, human speech. Such seemingly unnecessary utterances play a crucial role in human relationships, fostering connection and understanding."
+  },
+  {
     "date": "2025.07.31",
     "day": "Thu",
     "number": 478,
