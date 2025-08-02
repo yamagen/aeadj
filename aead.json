@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.02",
+    "day": "Sat",
+    "number": 480,
+    "index": "mayouna",
+    "title": "Hmm, I can't decide.",
+    "expression-ja": "うーん、(迷:まよ)うなぁ",
+    "roman-ja": "Uun, mayou naa",
+    "expression-en": "Hmm, I can't decide.",
+    "variants-ja": ["迷うなあ", "どうしようかな", "どっちにしようかな"],
+    "variants-en": ["I’m torn...", "What should I do?", "Which one should I pick..."],
+    "intent-ja": ["迷い", "独り言", "感情の共有"],
+    "intent-en": ["indecision", "self-talk", "emotional sharing"],
+    "tags-ja": ["即時文法", "感情", "思考"],
+    "tags-en": ["immediate grammar", "emotion", "thinking"],
+    "adjusted-expression-ja": "どちらにするか(決:き)めかねています。",
+    "adjusted-expression-en": "I'm having trouble deciding between the two.",
+    "img-sub": "mayou01.png",
+    "example-ja": "A「どれにする？」 B「うーん、(迷:まよ)うなぁ。どっちも(良:よ)さそうだし...」",
+    "example-en": "A: \"Which one will you pick?\" B: \"Hmm, I can't decide. They both seem nice...\"",
+    "notes-ja": "「うーん、迷うなぁ」は、日常会話でよく聞かれる独り言風の表現で、決断がつかない気持ちを素直に表します。「うーん」で悩んでいる様子を、「なぁ」で感情をにじませます。相手に判断を委ねたり、共感を求めたりする場面でも使われます。",
+    "notes-en": "\"Uun, mayou naa\" is a common spoken phrase used to express indecision. The drawn-out \"Uun\" signals deep thinking, and \"naa\" adds a soft emotional tone. It's often used aloud even when speaking to oneself, and it invites empathy or shared decision-making in conversation."
+  },
+  {
     "date": "2025.08.01",
     "day": "Fri",
     "number": 479,
