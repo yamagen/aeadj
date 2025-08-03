@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.03",
+    "day": "Sun",
+    "number": 481,
+    "index": "koredeiinokana",
+    "title": "I wonder if this is okay...",
+    "expression-ja": "これでいいのかな",
+    "roman-ja": "Kore de ii no kana",
+    "expression-en": "I wonder if this is okay",
+    "variants-ja": ["これでよかったかな", "こうしてよかったのかな", "これで大丈夫かな"],
+    "variants-en": ["Was this the right choice?", "Was it okay to do it this way?", "Is this alright, I wonder?"],
+    "intent-ja": ["不安", "確認", "つぶやき"],
+    "intent-en": ["uncertainty", "seeking reassurance", "murmur"],
+    "tags-ja": ["即時文法", "感情", "内語"],
+    "tags-en": ["immediate grammar", "emotion", "inner speech"],
+    "adjusted-expression-ja": "これで(問題:もんだい)ないかどうか、(確認:かくにん)しています。",
+    "adjusted-expression-en": "I'm checking to see if this is okay.",
+    "img-sub": "koredeii01.png",
+    "example-ja": "A「(クレジット:くれじっと)で(払:はら)っておいたけど、これでいいのかな」",
+    "example-en": "A: \"I've paid with a credit card, but I wonder if this is okay.\"",
+    "notes-ja": "「これでいいのかな」は、自分の選択や判断に対する一時的な不安や確認をやわらかく表現することばです。「のかな」という言い回しによって、疑問をやさしく伝えたり、自分に問いかけたりする響きを持ちます。相手に聞いているようでもあり、自分に向けてのつぶやきでもあります。",
+    "notes-en": "\"Kore de ii no kana\" gently expresses uncertainty or self-doubt about a decision. The phrase softens the question with \"no kana,\" which adds a touch of hesitation or introspection. It can be directed to others for reassurance, or used as a form of self-talk to confirm one's own action or choice."
+  },
+  {
     "date": "2025.08.02",
     "day": "Sat",
     "number": 480,
