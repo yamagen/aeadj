@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.04",
+    "day": "Mon",
+    "number": 482,
+    "index": "ippoippo",
+    "title": "Step by step",
+    "expression-ja": "(一歩:いっぽ)(一歩:いっぽ)",
+    "roman-ja": "Ippo ippo",
+    "expression-en": "Step by step",
+    "variants-ja": ["一歩ずつ", "少しずつ", "ゆっくりと"],
+    "variants-en": ["One step at a time", "Bit by bit", "Slowly but surely"],
+    "intent-ja": ["進行", "努力", "忍耐"],
+    "intent-en": ["progress", "effort", "perseverance"],
+    "tags-ja": ["即時文法", "反復", "感情"],
+    "tags-en": ["immediate grammar", "repetition", "emotion"],
+    "adjusted-expression-ja": "(段階:だんかい)を(追:お)って(着実:ちゃくじつ)に(進:すす)んでいます。",
+    "adjusted-expression-en": "I'm making steady progress, step by step.",
+    "img-sub": "ippoippo01.png",
+    "example-ja": "A「すぐにはうまくならないけど...」 B「うん、(一歩:いっぽ)(一歩:いっぽ)、やっていこう」",
+    "example-en": "A: \"I won't get good at it right away...\" B: \"Yeah, let's take it step by step.\"",
+    "notes-ja": "「一歩一歩」は、あせらずに着実に進もうとする気持ちを表します。繰り返しの表現によって、励ましや自分への言い聞かせのニュアンスが生まれます。声に出して言うことで、今この瞬間の決意や落ち着きを伝える即時的な表現となります。",
+    "notes-en": "\"Ippo ippo\" conveys the idea of making calm and steady progress. The repetition emphasizes patience and encouragement—often spoken aloud as a way of reinforcing determination or calming oneself. It's an immediate expression of commitment to keep going, little by little."
+  },
+  {
     "date": "2025.08.03",
     "day": "Sun",
     "number": 481,
