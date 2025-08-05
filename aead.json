@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.05",
+    "day": "Tue",
+    "number": 483,
+    "index": "zuttomashi",
+    "title": "At least that's better",
+    "expression-ja": "ずっとまし",
+    "roman-ja": "Zutto mashi",
+    "expression-en": "Way better / Much better (comparatively)",
+    "variants-ja": ["まだまし", "こっちの方がまし", "〜よりずっとまし"],
+    "variants-en": ["still better", "this one’s better at least", "much better than ~"],
+    "intent-ja": ["比較", "妥協", "否定の中の肯定"],
+    "intent-en": ["comparison", "consolation", "reluctant approval"],
+    "tags-ja": ["即時文法", "話しことば", "感情"],
+    "tags-en": ["immediate grammar", "spoken language", "emotion"],
+    "adjusted-expression-ja": "こちらの(方:ほう)がはるかに(良:よ)いです。",
+    "adjusted-expression-en": "This one is far better.",
+    "img-sub": "zuttomashi01.png",
+    "example-ja": "A「こっちも(失敗:しっぱい)したけど」 B「でも、(前:まえ)よりはずっとましじゃん」",
+    "example-en": "A: \"This one failed too, though...\" B: \"But still, it's way better than before.\"",
+    "notes-ja": "「ずっとまし」は、完全な満足ではないが、比較の中で相対的に「良い」と言いたいときに使われる表現です。否定的な状況の中に小さな肯定を見出す、話しことばらしいやわらかい響きを持ちます。丁寧な文体ではあまり使われず、自然な会話で親しみや共感を込めるために用いられます。",
+    "notes-en": "\"Zutto mashi\" is a casual way to express that something is 'way better' in comparison—especially in less-than-ideal situations. It reflects a soft tone of consolation or reluctant approval. It's rarely used in formal writing but very common in spontaneous, empathetic speech."
+  },
+  {
     "date": "2025.08.04",
     "day": "Mon",
     "number": 482,
