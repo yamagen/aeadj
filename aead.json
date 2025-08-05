@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.06",
+    "day": "Wed",
+    "number": 484,
+    "index": "kigaomoi",
+    "title": "Feeling reluctant / Heavy-hearted",
+    "expression-ja": "(気:き)が(重:おも)い",
+    "roman-ja": "Ki ga omoi",
+    "expression-en": "Feeling reluctant / Heavy-hearted",
+    "variants-ja": ["なんか気が重い", "明日が気が重い", "正直、気が重い"],
+    "variants-en": ["I feel reluctant", "I'm dreading tomorrow", "Honestly, I'm not looking forward to it"],
+    "intent-ja": ["憂鬱", "負担感", "ためらい"],
+    "intent-en": ["gloominess", "sense of burden", "reluctance"],
+    "tags-ja": ["即時文法", "感情", "比喩"],
+    "tags-en": ["immediate grammar", "emotion", "metaphor"],
+    "adjusted-expression-ja": "(気持:きも)ちが(沈:しず)んでいます。",
+    "adjusted-expression-en": "I’m feeling down.",
+    "img-sub": "kigaomoi01.png",
+    "example-ja": "A「(明日:あす)、(会議:かいぎ)だよね」 B「そうねぇ、(正直:)、(気:)が(重:)い」",
+    "example-en": "A: \"We have a meeting tomorrow, right?\" B: \"Yeah... honestly, I'm not looking forward to it.\"",
+    "notes-ja": "「気が重い」は、やらなければならないことに対して気分が沈んでいる様子を表します。身体的な重さではなく、心理的な負担を比喩的に「重い」と言い換えた表現で、日常会話ではため息や間を伴って使われることが多いです。即時文法としては、状況に即して感情をそのまま口に出す形です。",
+    "notes-en": "\"Ki ga omoi\" literally means \"the spirit feels heavy\" and figuratively expresses reluctance or emotional burden toward an upcoming task or situation. It's a metaphorical phrase often paired with sighs or pauses, and in immediate grammar, it conveys an unfiltered emotional state tied to the moment."
+  },
+  {
     "date": "2025.08.05",
     "day": "Tue",
     "number": 483,
@@ -20,7 +43,7 @@
     "example-ja": "A「こっちも(失敗:しっぱい)したけど」 B「でも、(前:まえ)よりはずっとましじゃん」",
     "example-en": "A: \"This one failed too, though...\" B: \"But still, it's way better than before.\"",
     "notes-ja": "「ずっとまし」は、完全な満足ではないが、比較の中で相対的に「良い」と言いたいときに使われる表現です。否定的な状況の中に小さな肯定を見出す、話しことばらしいやわらかい響きを持ちます。丁寧な文体ではあまり使われず、自然な会話で親しみや共感を込めるために用いられます。",
-    "notes-en": "\"Zutto mashi\" is a casual way to express that something is 'way better' in comparison—especially in less-than-ideal situations. It reflects a soft tone of consolation or reluctant approval. It's rarely used in formal writing but very common in spontaneous, empathetic speech."
+    "notes-en": "\"Zutto mashi\" is a casual way to express that something is 'way better' in comparison, especially in less-than-ideal situations. It reflects a soft tone of consolation or reluctant approval. It's rarely used in formal writing but very common in spontaneous, empathetic speech."
   },
   {
     "date": "2025.08.04",
@@ -43,7 +66,7 @@
     "example-ja": "A「すぐにはうまくならないけど...」 B「うん、(一歩:いっぽ)(一歩:いっぽ)、やっていこう」",
     "example-en": "A: \"I won't get good at it right away...\" B: \"Yeah, let's take it step by step.\"",
     "notes-ja": "「一歩一歩」は、あせらずに着実に進もうとする気持ちを表します。繰り返しの表現によって、励ましや自分への言い聞かせのニュアンスが生まれます。声に出して言うことで、今この瞬間の決意や落ち着きを伝える即時的な表現となります。",
-    "notes-en": "\"Ippo ippo\" conveys the idea of making calm and steady progress. The repetition emphasizes patience and encouragement—often spoken aloud as a way of reinforcing determination or calming oneself. It's an immediate expression of commitment to keep going, little by little."
+    "notes-en": "\"Ippo ippo\" conveys the idea of making calm and steady progress. The repetition emphasizes patience and encouragement, often spoken aloud as a way of reinforcing determination or calming oneself. It's an immediate expression of commitment to keep going, little by little."
   },
   {
     "date": "2025.08.03",
@@ -112,7 +135,7 @@
     "example-ja": "A「(映画:えいが)、(見:み)に(行:い)く？」 B「うーん、どうしようかな...」",
     "example-en": "A: \"Wanna go see a movie?\" B: \"Hmm... What should I do?\"",
     "notes-ja": "「どうしようかな」は、思考や迷いの瞬間に自然に出てくる表現です。「かな」によって、独り言のようなやわらかさが生まれ、相手との共有よりも、自分の内面との対話を表します。小声でつぶやくように使われることも多く、非常に人間らしい発話です。このようななくてもよいような発話が実は人間関係にはとても重要な役割を果たします。",
-    "notes-en": "\"Dou shiyou kana\" is often used when someone is thinking aloud or feeling indecisive. The \"kana\" softens the tone, making it feel like a private murmur rather than a request for advice. It reflects a moment of internal dialogue—a hallmark of natural, human speech. Such seemingly unnecessary utterances play a crucial role in human relationships, fostering connection and understanding."
+    "notes-en": "\"Dou shiyou kana\" is often used when someone is thinking aloud or feeling indecisive. The \"kana\" softens the tone, making it feel like a private murmur rather than a request for advice. It reflects a moment of internal dialogue, a hallmark of natural, human speech. Such seemingly unnecessary utterances play a crucial role in human relationships, fostering connection and understanding."
   },
   {
     "date": "2025.07.31",
@@ -319,7 +342,7 @@
     "example-ja": "A「いつも、(一緒:いっしょ)にいてくれたね」 B「ぼくが(一緒:いっしょ)にいたかっただけだよ」",
     "example-en": "A: \"Thanks so much for always being with me.\" B: \"I just wanted to be with you.\"",
     "notes-ja": "「...てくれたね」は、相手の行動に対する感謝やあたたかい気持ちを表す表現です。文末の「ね」によって、相手との共有感や親しさが自然に生まれます。感謝を直接言うよりも、思い出をふりかえるような、やさしいトーンになります。",
-    "notes-en": "\"...te kureta ne\" conveys warm gratitude for something someone did for you. The sentence-final particle \"ne\" adds a sense of shared memory or closeness. It's softer than directly saying thank you—it reflects appreciation through emotional connection."
+    "notes-en": "\"...te kureta ne\" conveys warm gratitude for something someone did for you. The sentence-final particle \"ne\" adds a sense of shared memory or closeness. It's softer than directly saying thank you, it reflects appreciation through emotional connection."
   },
   {
     "date": "2025.07.22",
@@ -1098,7 +1121,7 @@
     "example-ja": "A「この(状況:じょうきょう)、ちょっと(難:むずか)しいね」B「うん、でも、それ、わかる」",
     "example-en": "A: \"This situation is a bit tough.\" B: \"Yeah, I totally get that.\"",
     "adjusted-expression-ja": "本当にその通りで、私も同じ気持ちです。",
-    "adjusted-expression-en": "Exactly—I feel the same way.",
+    "adjusted-expression-en": "Exactly, I feel the same way.",
     "img-sub": "sorewakaru01.png",
     "notes-ja": "「それ、わかる」は、相手の意見や感情に共感するカジュアルな表現です。「I know that」や「I understand that」と訳されます。カジュアルな会話でよく使われ、相手に対して理解を示す役割があります。特に、相手の気持ちを受け入れることで、安心感を提供することができます。",
     "notes-en": "\"Sore, wakaru\" is a casual expression used to empathize with the other person's opinion or feelings. It can be translated as \"I know that\" or \"I understand that.\" This phrase is commonly used in informal conversations to show understanding towards the other person. By accepting the other person's feelings, it can provide a sense of reassurance."
@@ -1536,7 +1559,7 @@
     "adjusted-expression-en": "That's fine as it is, I suppose.",
     "img-sub": "sorehasoredeiinjyanai01.png",
     "example-ja": "A「(失敗作:しっぱいさく)の(ケーキ:けーき)、(見:み)た(目:め)はぐちゃぐちゃだよ」 B「でも、それはそれで、(手作:てづく)り(感:かん)あっていいんじゃない？」",
-    "example-en": "A: 'This failed cake looks like a total mess...' B: 'But, you know, that’s fine as it is — it has a homemade charm!'",
+    "example-en": "A: 'This failed cake looks like a total mess...' B: 'But, you know, that’s fine as it is ,  it has a homemade charm!'",
     "notes-ja": "「それはそれで...いいんじゃない？」は、相手の意見や状況を受け入れつつ、少しの妥協や緩和を示すカジュアルな表現です。「That's fine as it is, isn't it?」と訳されます。カジュアルな会話でよく使われ、相手に対して受容的な態度を示す役割があります。通常の基準ではマイナス評価される要素も、視点を変えることで肯定される場面で使われます。",
     "notes-en": "\"Sore wa sore de... iin janai?\" is a casual expression used to accept the other person's opinion or situation while showing a bit of compromise or softening. It can be translated as \"That's fine as it is, isn't it?\" This phrase is commonly used in informal conversations to indicate an accepting attitude towards the listener. It often appears in situations where something normally seen as negative is reframed in a positive light."
   },
@@ -2461,7 +2484,7 @@
     "img-sub": "ikeru01.png",
     "example-ja": "A「(行:い)ける？」B「(行:い)ける、(行:い)ける」",
     "example-en": "A: \"Can you do it?\" B: \"I can do it, I can do it.\"",
-    "notes-en": "\"Ikeru, ikeru\" is a casual expression used to convey the idea of being able to do something or to express encouragement. It can be translated as \"I can do it\" or \"Go for it,\" and is often used in informal conversations to show confidence in someone's ability. This phrase is common in everyday situations, such as when encouraging a friend or colleague to take on a challenge. In more formal situations, one might use \"dekimasu\" instead, which is a more polite way to express the same idea—typically with a clearer subject or object. Additionally, depending on context, \"ikeru\" can also mean \"It's okay\" or even \"It's so good I could eat a lot of it.\"",
+    "notes-en": "\"Ikeru, ikeru\" is a casual expression used to convey the idea of being able to do something or to express encouragement. It can be translated as \"I can do it\" or \"Go for it,\" and is often used in informal conversations to show confidence in someone's ability. This phrase is common in everyday situations, such as when encouraging a friend or colleague to take on a challenge. In more formal situations, one might use \"dekimasu\" instead, which is a more polite way to express the same idea, typically with a clearer subject or object. Additionally, depending on context, \"ikeru\" can also mean \"It's okay\" or even \"It's so good I could eat a lot of it.\"",
     "notes-ja": "「行ける、行ける」は、何かをすることができるという考えを伝えたり、励ましの気持ちを表現したりするカジュアルな表現です。「行ける」は「I can do it」や「Go for it」と訳され、カジュアルな会話で他人の能力に自信を持っていることを表すためによく使われます。このフレーズは、友人や同僚に挑戦するように励ます日常的な状況でよく使われます。よりフォーマルな場面では「できます」と言うことが一般的ですが、そういうときには、具体的に何ができるかを述べた方がいいですね。他にも、「行ける」と言うときは、「大丈夫」とか「おいしくていくつでも食べられる」などの意味でも使われます。"
   },
   {
@@ -2576,7 +2599,7 @@
     "notes-en": "\"Kigakiteru\" is a casual expression used to praise someone for their thoughtfulness or consideration. It combines the word \"ki\" (meaning \"spirit\" or \"mind\") with \"kiteru\" (meaning \"to be attentive\" or \"to be considerate\"). This phrase is often used in informal settings to express appreciation for someone's actions or behavior that show care and attention to others. It can also be used when someone does something small but thoughtful. But it's more effective to say this expression in a way that the person can hear it rather than directly to her. After all, isn't that how human relationships work?",
     "notes-ja": "「気が利いてる」は、誰かの思いやりや配慮を称賛するためのカジュアルな表現です。「気」は「spirit」や「mind」を意味し、「利いてる」は「to be attentive」や「to be considerate」を意味します。このフレーズは、他人を思いやる行動や振る舞いだけでなく、ちょっとした小さなサービスに感心したときに、思わず発する表現です。でも、この表現は「気が利いている」人に直接言わず、聞こえるように言った方が効果的ですよ。人間関係ってそんなもんじゃないですか？",
     "column-ja": "ベルギーを旅行したとき、コーヒーを頼むと必ずといっていいほど小さなチョコレートが添えられてきました。ちょっとした心遣いなのですが、それが嬉しくて『気が利いてるなあ』と毎回思ったものです。この表現を聞くと、あの香ばしいコーヒーとチョコの香りを思い出します。",
-    "column-en": "When I traveled in Belgium, every cup of coffee came with a little chocolate. It was a small gesture, but I found it so charming—truly thoughtful. Whenever I hear the phrase 'kigakiteru', I remember the aroma of coffee mingling with sweet chocolate in cozy cafés across the country."
+    "column-en": "When I traveled in Belgium, every cup of coffee came with a little chocolate. It was a small gesture, but I found it so charming, truly thoughtful. Whenever I hear the phrase 'kigakiteru', I remember the aroma of coffee mingling with sweet chocolate in cozy cafés across the country."
   },
   {
     "date": "2025.04.16",
@@ -3088,7 +3111,7 @@
     "adjusted-expression-ja": "それは、(:)結局、どこにも(:)訴えることはできません。",
     "adjusted-expression-en": "In the end, there was no legal recourse available.",
     "example-ja": "A「(銀行:ぎんこう)(振:ふ)り(込:こ)みで(商品:しょうひん)が(送:おく)ってこなくて、(相手:あいて)の(住所:じゅうしょ)もわからないんです」B「それは、(結局:けっきょく)のところ、(泣:な)き(寝入:ねい)りですね」",
-    "example-en": "A: \"I transferred the money to their account, but the product never came—and I don't even know where they are.\" B: \"Well... sounds like you're just going to have to suffer in silence.\"",
+    "example-en": "A: \"I transferred the money to their account, but the product never came, and I don't even know where they are.\" B: \"Well... sounds like you're just going to have to suffer in silence.\"",
     "notes-en": "\"Naki-ne-iri desu ne\" is an expression used to describe a situation where someone has no choice but to endure silently. \"Naki\" is the continuative form of the verb \"naku\" (to cry), \"ne\" is the noun form of \"neru\" (to sleep), \"iri\" comes from \"iru\" (to enter), and \"desu ne\" is a sentence-final particle that seeks agreement. The phrase implies resignation or powerlessness, often used when someone is left without recourse.",
     "notes-ja": "「泣き寝入り」は、黙って耐えるしかない状況を表す表現です。「泣き」は動詞「泣く」のマス形（「泣きます」の「ます」を取り除いた形で、連用形とも言う）、「寝」は「sleep」、「入り」は「enter」、「ですね」は「isn't it」を意味します。その人が文句を言わず、助けを求めずに状況に耐えるしかないことを暗示しています。",
     "variation": [
@@ -8289,16 +8312,16 @@
     "roman-ja": "AEAD",
     "expression-en": "An expression a day",
     "introduction-en": {
-      "original": "AEAD: An expression a day\nan expression a day – a dictionary of instant grammar expressions\n\nThis dictionary is a record of words that arise \"at the moment of speaking.\"\nIt is neither organized grammar nor polished syntax.\nWords that are instantly uttered according to the situation —\nthe \"living form of words\" that appears only at that moment is recorded.\n\nBased on instant grammar, this dictionary re-examines the sense of \"words dwelling in the moment\" by clarifying the structure of expressions, intentions, and differences from paired adjustment grammar.",
+      "original": "AEAD: An expression a day\nan expression a day – a dictionary of instant grammar expressions\n\nThis dictionary is a record of words that arise \"at the moment of speaking.\"\nIt is neither organized grammar nor polished syntax.\nWords that are instantly uttered according to the situation , \nthe \"living form of words\" that appears only at that moment is recorded.\n\nBased on instant grammar, this dictionary re-examines the sense of \"words dwelling in the moment\" by clarifying the structure of expressions, intentions, and differences from paired adjustment grammar.",
       "brief": "AEAD is a project that records natural words that are uttered in the moment. Focusing on instant grammar, we collect the living forms of words in daily expressions.",
       "academic": "AEAD (an expression a day) is a dictionary project that classifies and describes everyday spoken expressions based on instant grammar. It analyzes expressions that are situationally dependent and used in real time, rather than organized forms of syntax or vocabulary, and aims to theoretically clarify the immediate aspects of language use through contrast with adjustment grammar.",
-      "friendly": "AEAD is a dictionary that collects \"words of the moment\" that come out of your mouth. \"Finally!\" \"Anything is fine!\" \"Oh! The car is coming!\" — these little words of daily life are full of the mystery and fun of language."
+      "friendly": "AEAD is a dictionary that collects \"words of the moment\" that come out of your mouth. \"Finally!\" \"Anything is fine!\" \"Oh! The car is coming!\" ,  these little words of daily life are full of the mystery and fun of language."
     },
     "introduction-ja": {
-      "original": "aead: 瞬間のことば\nan expression a day – 即時文法の表現辞典\n\nこの辞典は、「話された瞬間」に立ち上がることばを集めた記録です。\n整理された文法でもなく、練られた構文でもない。\n状況に応じて即座に発せられることば——\nその瞬間にしか現れない「ことばの生きたかたち」を記録しています。\n\n即時文法に基づき、表現の構造、意図、対となる調整文法との違いを明らかにしながら、\n「ことばが瞬間に宿る」という感覚を見つめ直す辞典です。",
+      "original": "aead: 瞬間のことば\nan expression a day – 即時文法の表現辞典\n\nこの辞典は、「話された瞬間」に立ち上がることばを集めた記録です。\n整理された文法でもなく、練られた構文でもない。\n状況に応じて即座に発せられることば、\nその瞬間にしか現れない「ことばの生きたかたち」を記録しています。\n\n即時文法に基づき、表現の構造、意図、対となる調整文法との違いを明らかにしながら、\n「ことばが瞬間に宿る」という感覚を見つめ直す辞典です。",
       "brief": "aead は、瞬間に発せられる自然なことばを記録するプロジェクトです。即時文法に着目し、日々の表現の中にあることばの生きたかたちを集めています。",
       "academic": "aead (an expression a day) は、即時文法に基づいて日常的な発話表現を分類・記述する辞書プロジェクトである。構文や語彙の整理された形ではなく、状況依存的かつリアルタイムに使用される表現を分析対象とし、調整文法との対照によって、言語使用の即時的側面を理論的に明らかにすることを目的とする。",
-      "friendly": "aead は、ふと口をついて出る『瞬間のことば』を集めた辞典です。『やっとだよ』『なんでもいいよ』『あ！車、来てる！』——そんな日々のひとことに、ことばの不思議と面白さが詰まっています。"
+      "friendly": "aead は、ふと口をついて出る、「瞬間のことば」を集めた辞典です。「やっとだよ」「なんでもいいよ」「あ！車、来てる！」 そんな日々のひとことに、ことばの不思議と面白さが詰まっています。"
     }
   },
   {
@@ -8306,7 +8329,7 @@
     "title-ja": "aead: 瞬間のことば",
     "title-en": "aead: Words of the Moment",
     "description-ja": "aead (An expression a day) は、即時文法に注目して、話されたその瞬間に立ち上がる自然な表現を1日1つ記録していく辞典プロジェクトです。感情、状況、リアルタイム性などに支えられた、構文に還元できない『ことばの生きたかたち』を捉え、対照的に調整文法との関係も記述しています。",
-    "description-en": "aead (An expression a day) is a dictionary project focused on immediate grammar. It records one expression a day that arises in the moment of speech, capturing forms of language shaped by emotion, context, and real-time interaction—beyond structured syntax. Expressions are also contrasted with their adjusted (non-immediate) grammatical forms.",
+    "description-en": "aead (An expression a day) is a dictionary project focused on immediate grammar. It records one expression a day that arises in the moment of speech, capturing forms of language shaped by emotion, context, and real-time interaction, beyond structured syntax. Expressions are also contrasted with their adjusted (non-immediate) grammatical forms.",
     "structure": {
       "fields": [
         "date",
