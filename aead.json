@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.07",
+    "day": "Thu",
+    "number": 485,
+    "index": "yokumiru",
+    "title": "I see that a lot.",
+    "expression-ja": "よく(見:み)る",
+    "roman-ja": "yoku miru",
+    "expression-en": "I often see that",
+    "variants-ja": ["よく見るね", "よく見るやつ", "よく見る光景"],
+    "variants-en": ["You see that a lot", "Common sight", "I keep seeing that"],
+    "intent-ja": ["観察", "親しみ", "共感"],
+    "intent-en": ["observation", "familiarity", "shared feeling"],
+    "tags-ja": ["即時文法", "口語", "共感"],
+    "tags-en": ["immediate grammar", "spoken", "shared impression"],
+    "adjusted-expression-ja": "(頻繁:ひんぱん)に(見:み)かけます。",
+    "adjusted-expression-en": "I see it frequently.",
+    "img-sub": "yokumiru01.png",
+    "example-ja": "A「こんな(写真:しゃしん)、よく(見:み)るよね」 B「うん、たしかに」",
+    "example-en": "A: \"You see this kind of photo a lot, right?\" B: \"Yeah, definitely.\"",
+    "notes-ja": "「よく見る」は、日常的に目にするものや経験を共有するときに使われる即時的な観察表現です。「よく見るね」には共感や親しみがこもることが多く、特に誰かとの話のきっかけやつながりに役立ちます。",
+    "notes-en": "\"Yoku miru\" means to frequently see something. It's often used to comment on common or shared experiences, and when used in conversation, it creates a bond over mutual recognition. Adding \"ne\" (as in \"yoku miru ne\") can soften the tone and enhance shared feeling."
+  },
+  {
     "date": "2025.08.06",
     "day": "Wed",
     "number": 484,
