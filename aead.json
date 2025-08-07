@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.08",
+    "day": "Fri",
+    "number": 486,
+    "index": "yokukiku",
+    "title": "I hear that a lot.",
+    "expression-ja": "よく(聞:き)く",
+    "roman-ja": "yoku kiku",
+    "expression-en": "I often hear that",
+    "variants-ja": ["よく聞くね", "よく聞くやつ", "よく聞く話"],
+    "variants-en": ["You hear that a lot", "Common phrase", "I’ve heard that before"],
+    "intent-ja": ["共感", "観察", "自然な反応"],
+    "intent-en": ["shared feeling", "observation", "natural reaction"],
+    "tags-ja": ["即時文法", "感情", "話しことば"],
+    "tags-en": ["immediate grammar", "emotion", "spoken language"],
+    "adjusted-expression-ja": "(頻繁:ひんぱん)に(耳:みみ)にします。",
+    "adjusted-expression-en": "I hear it frequently.",
+    "img-sub": "yokukiku01.png",
+    "example-ja": "A「こんな(話:はなし)、よく(聞:き)くよね」 B「うん、たしかに」",
+    "example-en": "A: \"We hear this kind of story a lot, right?\" B: \"Yeah, definitely.\"",
+    "notes-ja": "「よく聞く」は、よく耳にすることばや話題に対して反応する即時文法の表現です。「よく聞くね」のように「ね」をつけることで、共感や共有のニュアンスが加わります。会話をつなげる導入としても自然です。",
+    "notes-en": "\"Yoku kiku\" is used to react to things you've often heard. It expresses recognition and connection with familiar topics. Adding \"ne\" (as in \"Yoku kiku ne\") adds warmth and shared feeling, making it useful in casual conversation."
+  },
+  {
     "date": "2025.08.07",
     "day": "Thu",
     "number": 485,
