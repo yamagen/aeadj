@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.09",
+    "day": "Sat",
+    "number": 487,
+    "index": "motto",
+    "title": "More",
+    "expression-ja": "もっと",
+    "roman-ja": "motto",
+    "expression-en": "more",
+    "variants-ja": ["もっと食べたい", "もっと見せて", "もっと早く"],
+    "variants-en": ["I want more", "Show me more", "Faster"],
+    "intent-ja": ["追加", "強調", "要求"],
+    "intent-en": ["addition", "emphasis", "request"],
+    "tags-ja": ["即時文法", "感情", "話しことば"],
+    "tags-en": ["immediate grammar", "emotion", "spoken language"],
+    "adjusted-expression-ja": "さらに",
+    "adjusted-expression-en": "more",
+    "img-sub": "motto01.png",
+    "example-ja": "A「もっと(食:た)べる？」 B「うん！」",
+    "example-en": "A: \"Do you want more to eat?\" B: \"Yeah!\"",
+    "notes-ja": "「もっと」は数量や程度を強めたいときに即時的に使える副詞です。単独でも応答として成立し、感情や欲求をそのまま表せます。文脈によって名詞・動詞・形容詞などにかかります。",
+    "notes-en": "\"Motto\" is an adverb used to indicate wanting more of something, either in quantity or degree. It can stand alone as an immediate response, directly expressing emotion or desire, and can modify nouns, verbs, or adjectives depending on context."
+  },
+  {
     "date": "2025.08.08",
     "day": "Fri",
     "number": 486,
