@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.10",
+    "day": "Sun",
+    "number": 488,
+    "index": "matteruyo",
+    "title": "I’m waiting for you.",
+    "expression-ja": "(待:ま)ってるよ",
+    "roman-ja": "matteru yo",
+    "expression-en": "I'm waiting for you",
+    "variants-ja": ["待ってるよね", "待ってるよー", "待ってるよん"],
+    "variants-en": ["I'll be waiting", "Waiting for you", "You know I'll wait"],
+    "intent-ja": ["安心", "期待", "やさしさ"],
+    "intent-en": ["reassurance", "expectation", "kindness"],
+    "tags-ja": ["即時文法", "感情", "話しことば"],
+    "tags-en": ["immediate grammar", "emotion", "spoken language"],
+    "adjusted-expression-ja": "お(待:ま)ちしております",
+    "adjusted-expression-en": "I will be waiting for you",
+    "img-sub": "matteruyo01.png",
+    "example-ja": "A「(先:さき)に(行:い)ってて」 B「うん、(待:ま)ってるよ」",
+    "example-en": "A: \"Go ahead without me.\" B: \"Sure, I'll be waiting for you.\"",
+    "notes-ja": "「待ってるよ」は相手に安心感を与える即時文法の表現です。単独で使用でき、日常会話では語尾を伸ばしたり、ね・よねを付けて親しみを加えることもあります。フォーマルな場では「お待ちしております」と言い換えます。",
+    "notes-en": "\"Matteru yo\" reassures the listener that you will wait for them. It stands alone as a complete utterance, and in casual conversation, it can be softened with elongated endings or particles like 'ne' or 'yone'. In formal settings, it is replaced with 'O-machi shite orimasu'."
+  },
+  {
     "date": "2025.08.09",
     "day": "Sat",
     "number": 487,
