@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.14",
+    "day": "Thu",
+    "number": 492,
+    "index": "nandemonai",
+    "title": "It's nothing.",
+    "expression-ja": "なんでもない",
+    "roman-ja": "nandemo nai",
+    "expression-en": "It's nothing.",
+    "variants-ja": ["全然なんでもない", "別になんでもない", "なんでもないよ"],
+    "variants-en": ["It's totally nothing", "It's really nothing", "It's nothing, really"],
+    "intent-ja": ["否定", "安心", "ごまかし"],
+    "intent-en": ["denial", "reassurance", "evasion"],
+    "tags-ja": ["即時文法", "口語", "感情"],
+    "tags-en": ["immediate grammar", "spoken", "emotion"],
+    "adjusted-expression-ja": "(大:たい)したことはない",
+    "adjusted-expression-en": "It's not a big deal",
+    "img-sub": "nandemonai01.png",
+    "example-ja": "A「どうしたの？」 B「なんでもない」",
+    "example-en": "A: \"What's wrong?\" B: \"It's nothing.\"",
+    "notes-ja": "「なんでもない」は特別な理由や問題がないことを即時的に表す口語表現です。安心させるためにも、ごまかすためにも使われ、文脈によってニュアンスが変わります。語気を柔らかくすると親しみが増し、強く言うと突き放す印象になります。また、発言を軽く取り消すときにも使われます。",
+    "notes-en": "\"Nandemo nai\" is a colloquial expression used to state immediately that there is no particular reason or problem. It can be used to reassure or to deflect, with nuances changing depending on context. A softer tone adds warmth, while a stronger tone can feel dismissive. It can also be used to lightly retract a statement such as \"Never mind.\""
+  },
+  {
     "date": "2025.08.13",
     "day": "Wed",
     "number": 491,
