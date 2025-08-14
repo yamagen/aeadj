@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.15",
+    "day": "Fri",
+    "number": 493,
+    "index": "imachottoii",
+    "title": "Got a moment now?",
+    "expression-ja": "(今:いま)、ちょっと、いい",
+    "roman-ja": "ima, chotto, ii",
+    "expression-en": "Got a moment now?",
+    "variants-ja": ["今、ちょっといいですか", "今、いい？", "今、少し、いい？"],
+    "variants-en": ["Do you have a moment now?", "Is now a good time?", "Got a sec?"],
+    "intent-ja": ["呼びかけ", "配慮", "会話開始"],
+    "intent-en": ["attention call", "consideration", "conversation start"],
+    "tags-ja": ["即時文法", "口語", "配慮"],
+    "tags-en": ["immediate grammar", "spoken", "consideration"],
+    "adjusted-expression-ja": "(今:いま)、(少:すこ)し、(よろ)しいですか。",
+    "adjusted-expression-en": "May I have a moment now?",
+    "img-sub": "imachottoii01.png",
+    "example-ja": "A「(今:いま)、ちょっと、いい？」 B「うん、どうしたの？」",
+    "example-en": "A: \"Got a moment now?\" B: \"Yeah, what's up?\"",
+    "notes-ja": "「今、ちょっと、いい」は相手の都合をうかがいながら会話を始める即時文法の呼びかけ表現です。文末の「いい」は省略的で、疑問形の助詞や丁寧語を加えることで柔らかさや丁寧さを調整できます。日常会話では相手が答えやすい間を作るために、文中で小さな間を置くことが多いです。英語でいう\"I have a quick question.\"のように簡単な質問をするときにも使われます。",
+    "notes-en": "\"Ima, chotto, ii\" is an immediate grammar expression used to start a conversation while checking if the other person is available. The final \"ii\" is abbreviated, and adding a question particle or polite form can adjust the tone. In casual speech, brief pauses between words create space for the listener to respond. It's similar to saying \"I have a quick question\" in English, used for simple inquiries."
+  },
+  {
     "date": "2025.08.14",
     "day": "Thu",
     "number": 492,
