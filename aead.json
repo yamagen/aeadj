@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.16",
+    "day": "Sat",
+    "number": 494,
+    "index": "dousenara",
+    "title": "Since we're at it...",
+    "expression-ja": "どうせなら",
+    "roman-ja": "douse nara",
+    "expression-en": "Since we're at it...",
+    "variants-ja": ["どうせなら行こう", "どうせならやってみよう", "どうせなら言えばいい"],
+    "variants-en": ["Since we're at it, let's go", "Since we're at it, let's try", "Since we're at it, you might as well say it"],
+    "intent-ja": ["提案", "気分", "即時判断"],
+    "intent-en": ["suggestion", "feeling", "immediate judgment"],
+    "tags-ja": ["即時文法", "口語", "提案"],
+    "tags-en": ["immediate grammar", "spoken", "suggestion"],
+    "adjusted-expression-ja": "せっかくなら",
+    "adjusted-expression-en": "Might as well",
+    "img-sub": "dousenara01.png",
+    "example-ja": "A「もう(遅:おそ)いよ」 B「どうせなら、(泊:と)まっていこうよ」",
+    "example-en": "A: \"It's already late.\" B: \"Since we're at it, we might as well stay over.\"",
+    "notes-ja": "「どうせなら」は、その場の状況を前提にして行動や提案をする即時文法の表現です。「せっかくなら」「いっそ」と近いニュアンスがあり、日常会話では気分や軽い判断を反映する柔らかい響きを持ちます。選択肢の中でより良い方を選ぶときや、消極的な状況を前向きに転換するときに使われます。",
+    "notes-en": "\"Douse nara\" is an immediate grammar expression used to make a suggestion or decision based on the current situation. Similar in nuance to \"sekkaku nara\" (since we have the chance) or \"isso\" (might as well), it carries a light and flexible tone in conversation. Often used to pick the better option among available ones or to turn a passive situation into a positive action."
+  },
+  {
     "date": "2025.08.15",
     "day": "Fri",
     "number": 493,
