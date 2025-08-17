@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.18",
+    "day": "Mon",
+    "number": 496,
+    "index": "kochirakoso",
+    "title": "Likewise",
+    "expression-ja": "こちらこそ",
+    "roman-ja": "kochirakoso",
+    "expression-en": "Likewise",
+    "variants-ja": ["こちらこそ、ありがとう", "こちらこそ、すみません", "こちらこそ、よろしく"],
+    "variants-en": ["Likewise, thank you", "No, I'm the one who should apologize", "Likewise, nice to meet you"],
+    "intent-ja": ["応答", "謙遜", "相互性"],
+    "intent-en": ["response", "modesty", "reciprocity"],
+    "tags-ja": ["即時文法", "口語", "応答"],
+    "tags-en": ["immediate grammar", "spoken", "response"],
+    "adjusted-expression-ja": "(私:わたし)の(方:ほう)こそ",
+    "adjusted-expression-en": "It is I who should say so",
+    "img-sub": "kochirakoso01.png",
+    "example-ja": "A「ありがとう！」 B「こちらこそ、ありがとう」",
+    "example-en": "A: \"Thank you!\" B: \"Likewise, thank you.\"",
+    "notes-ja": "「こちらこそ」は相手の感謝・謝罪・挨拶に対して、謙遜や相互性を示す即時文法の表現です。文脈に応じて「ありがとう」「すみません」「よろしく」に続けて使うことが多く、相手との関係を和やかにする働きを持ちます。",
+    "notes-en": "\"Kochira koso\" is an immediate grammar expression used in response to gratitude, apology, or greetings. It conveys modesty and reciprocity, often followed by phrases like \"arigatou\" (thank you), \"sumimasen\" (sorry), or \"yoroshiku\" (pleased to meet you). It helps smooth and warm interpersonal interactions."
+  },
+  {
     "date": "2025.08.17",
     "day": "Sun",
     "number": 495,
