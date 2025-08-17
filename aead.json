@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.17",
+    "day": "Sun",
+    "number": 495,
+    "index": "horane",
+    "title": "See?",
+    "expression-ja": "ほらね",
+    "roman-ja": "hora ne",
+    "expression-en": "See?",
+    "variants-ja": ["ほらね！", "ほらね、言ったでしょ", "ほらね、だから言ったんだ"],
+    "variants-en": ["See!", "See, I told you", "See, that's why I said it"],
+    "intent-ja": ["確認", "共感", "得意"],
+    "intent-en": ["confirmation", "shared feeling", "self-assertion"],
+    "tags-ja": ["即時文法", "口語", "確認"],
+    "tags-en": ["immediate grammar", "spoken", "confirmation"],
+    "adjusted-expression-ja": "(言:い)った(通:とお)りでしょう",
+    "adjusted-expression-en": "As I told you",
+    "img-sub": "horane01.png",
+    "example-ja": "A「やっぱり(雨:あめ)が(降:ふ)ってきたね」 B「ほらね」",
+    "example-en": "A: \"It started raining after all.\" B: \"See?\"",
+    "notes-ja": "「ほらね」は相手に自分の予想や発言が当たったことを示す即時文法表現です。共感的に使えば仲間意識を強め、得意げに使えば自己主張が強くなります。声の調子や文脈によってニュアンスが大きく変わります。",
+    "notes-en": "\"Hora ne\" is an immediate grammar expression used to point out that one's prediction or statement has come true. Used warmly, it reinforces a sense of shared understanding, while in a proud tone it emphasizes self-assertion. Its nuance depends heavily on intonation and context."
+  },
+  {
     "date": "2025.08.16",
     "day": "Sat",
     "number": 494,
