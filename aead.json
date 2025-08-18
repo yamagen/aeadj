@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.19",
+    "day": "Tue",
+    "number": 497,
+    "index": "omoikkiri",
+    "title": "With all my might",
+    "expression-ja": "(思:おも)いっきり",
+    "roman-ja": "omoikkiri",
+    "expression-en": "with all my might",
+    "variants-ja": ["思いっきり走る", "思いっきり笑う", "思いっきり怒る"],
+    "variants-en": ["run with all my might", "laugh out loud", "get really angry"],
+    "intent-ja": ["強調", "感情", "全力"],
+    "intent-en": ["emphasis", "emotion", "full force"],
+    "tags-ja": ["即時文法", "口語", "強調"],
+    "tags-en": ["immediate grammar", "spoken", "emphasis"],
+    "adjusted-expression-ja": "(力:ちから)いっぱい",
+    "adjusted-expression-en": "to the fullest",
+    "img-sub": "omoikkiri01.png",
+    "example-ja": "A「どうやって(投:な)げるの？」 B「(思:おも)いっきり(投:な)げて！」",
+    "example-en": "A: \"How should I throw it?\" B: \"Throw it with all your might!\"",
+    "notes-ja": "「思いっきり」は気持ちや力を出し切ることを即時的に表す副詞です。行動に感情を込めたいときに使われ、強さ・激しさ・熱中を伴います。文脈によってポジティブ（思いっきり楽しむ）にもネガティブ（思いっきり叱る）にも使われます。",
+    "notes-en": "\"Omoikkiri\" is an adverb expressing doing something with full force or emotion. It conveys intensity, passion, or wholeheartedness. Depending on context, it can be positive (enjoy to the fullest) or negative (scold severely)."
+  },
+  {
     "date": "2025.08.18",
     "day": "Mon",
     "number": 496,
