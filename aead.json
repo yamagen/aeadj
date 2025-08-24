@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.24",
+    "day": "Sun",
+    "number": 502,
+    "index": "tosugu",
+    "title": "As soon as",
+    "expression-ja": "...とすぐ、",
+    "roman-ja": "... to sugu,",
+    "expression-en": "as soon as ...",
+    "variants-ja": ["…とたん", "..てすぐに", "..と同時に"],
+    "variants-en": ["the moment ...", "immediately after ...ing", "at the same time as ..."],
+    "intent-ja": ["即時性", "連鎖", "予期せぬ出来事"],
+    "intent-en": ["immediacy", "sequence", "unexpected event"],
+    "tags-ja": ["即時文法", "接続", "時間"],
+    "tags-en": ["immediate grammar", "conjunction", "time"],
+    "adjusted-expression-ja": "...てすぐに",
+    "adjusted-expression-en": "immediately after ...ing",
+    "img-sub": "tosugu01.png",
+    "example-ja": "玄関を開けるとすぐ、猫が飛びかかってきた。",
+    "example-en": "As soon as I opened the door, the cat jumped at me.",
+    "notes-ja": "「…とすぐ、」は前件が起こった直後に、ほとんど間をおかず後件が起こることを表す即時文法の接続表現です。単なる条件ではなく、前件と後件が連続して必然的に結びつくことを示します。英語の \"then\" に近く、会話でも文章でも自然に使われます。",
+    "notes-en": "\"... to sugu,\" is an immediate grammar conjunction indicating that the second event occurs almost immediately after the first. It signifies a close, inevitable connection between the two events, similar to \"then\" in English. It is natural in both spoken and written Japanese."
+  },
+  {
     "date": "2025.08.23",
     "day": "Sat",
     "number": 501,
