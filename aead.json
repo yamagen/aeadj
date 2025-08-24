@@ -17,7 +17,7 @@
     "adjusted-expression-ja": "...と(間髪:かんぱつ)(入:い)れず",
     "adjusted-expression-en": "... without a moment's delay",
     "img-sub": "tosugu01.png",
-    "example-ja": "(:)玄関を(:)開けるとすぐ、(:)猫が(:)飛びかかってきた。",
+    "example-ja": "(玄関:げんかん)を(開:あ)けるとすぐ、(猫:ねこ)が(飛:と)びかかってきた。",
     "example-en": "As soon as I opened the door, the cat jumped at me.",
     "notes-ja": "「…とすぐ、」は前件が起こった直後に、ほとんど間をおかず後件が起こることを表す即時文法の接続表現です。単なる条件ではなく、前件と後件が連続して必然的に結びつくことを示します。英語の \"then\" に近く、会話でも文章でも自然に使われます。",
     "notes-en": "\"... to sugu,\" is an immediate grammar conjunction indicating that the second event occurs almost immediately after the first. It signifies a close, inevitable connection between the two events, similar to \"then\" in English. It is natural in both spoken and written Japanese."
