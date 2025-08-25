@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.25",
+    "day": "Mon",
+    "number": 503,
+    "index": "shikanakute",
+    "title": "I had no choice but to...",
+    "expression-ja": "しかなくて",
+    "roman-ja": "shika nakute",
+    "expression-en": "I had no choice but to...",
+    "variants-ja": ["行くしかなくて", "待つしかなくて", "謝るしかなくて"],
+    "variants-en": ["I had no choice but to go", "I had no choice but to wait", "I had no choice but to apologize"],
+    "intent-ja": ["限定", "言い訳", "必然"],
+    "intent-en": ["limitation", "excuse", "inevitability"],
+    "tags-ja": ["即時文法", "口語", "制約"],
+    "tags-en": ["immediate grammar", "spoken", "constraint"],
+    "adjusted-expression-ja": "〜する(以外:いがい)に(方法:ほうほう)はなくて",
+    "adjusted-expression-en": "there was no other option but to ...",
+    "img-sub": "shikanakute01.png",
+    "example-ja": "A「どうして(遅:おく)れたの？」 B「(電車:でんしゃ)が(止:と)まって、(歩:ある)くしかなくて...」",
+    "example-en": "A: \"Why were you late?\" B: \"The train stopped, so I had no choice but to walk...\"",
+    "notes-ja": "「しかなくて」は『〜する以外に方法がない』ことを即時的に説明するときに使われる表現です。多くの場合、言い訳や事情説明に使われ、文を途中で切って余韻を残すこともできます。フォーマルな場面では「〜するほかなくて」と表現されることもあります。",
+    "notes-en": "\"Shika nakute\" is an immediate grammar expression used to say there was no other option. It often appears in excuses or explanations, and can also trail off to leave the situation implicit. In formal contexts, it can be expressed as \"...suru hoka nakute.\""
+  },
+  {
     "date": "2025.08.24",
     "day": "Sun",
     "number": 502,
