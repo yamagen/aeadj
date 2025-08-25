@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.26",
+    "day": "Tue",
+    "number": 504,
+    "index": "tetara-hazude",
+    "title": "You should've known if you saw it",
+    "expression-ja": "...てたら、...はずで",
+    "roman-ja": "...tetara, ...hazude",
+    "expression-en": "If you'd been watching, you should have known",
+    "variants-ja": ["見てたら、わかるはずで", "聞いてたら、知ってるはずで", "やってたら、気づくはずで"],
+    "variants-en": ["If you had seen it, you should have known", "If you had heard it, you'd know", "If you had tried it, you'd have noticed"],
+    "intent-ja": ["根拠提示", "軽い主張", "含み"],
+    "intent-en": ["grounded assertion", "soft criticism", "implication"],
+    "tags-ja": ["即時文法", "口語", "感情", "根拠"],
+    "tags-en": ["immediate grammar", "spoken", "emotion", "evidentiality"],
+    "adjusted-expression-ja": "...ていたなら、..はずだったのだが",
+    "adjusted-expression-en": "If you had been ..., then you should have ...",
+    "img-sub": "tetarahazude01.png",
+    "example-ja": "A「え？そんなことあったの？」 B「それは(見:み)てたら、わかるはずで...」",
+    "example-en": "A: \"Huh? That happened?\" B: \"If you were watching, you should've noticed...\"",
+    "notes-ja": "「...てたら、...はずで」は、話し手が何らかの観察や経験を根拠に「〜は当然である」と判断する表現。文末の「で」で言い切らずに余韻を残すことで、相手に「気づくべきだった」という含意をやわらかく伝える。即時文法として、場面に即応する主観的な評価や不満を含むことが多い。",
+    "notes-en": "The expression '...tetara, ...hazude' implies that something should have been obvious if the listener had seen or experienced it. Ending with 'de' softens the claim and leaves it open-ended, often suggesting a mild reproach or implicit expectation. It is an example of immediate grammar, expressing the speaker’s real-time judgment."
+  },
+  {
     "date": "2025.08.25",
     "day": "Mon",
     "number": 503,
