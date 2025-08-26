@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.27",
+    "day": "Wed",
+    "number": 505,
+    "index": "nandesounaruno",
+    "title": "How does it end up like that?",
+    "expression-ja": "なんでそうなるの？",
+    "roman-ja": "nande sou naru no?",
+    "expression-en": "Why does it end up like that?",
+    "variants-ja": ["なんでそうなる？", "どうしてそうなるの？", "なんでそんなことになるの？"],
+    "variants-en": ["Why does it end up like that?", "How come it turns out that way?", "Why does it go that way?"],
+    "intent-ja": ["驚き", "不満", "納得できなさ"],
+    "intent-en": ["surprise", "discontent", "incredulity"],
+    "tags-ja": ["即時文法", "口語", "疑問", "感情"],
+    "tags-en": ["immediate grammar", "spoken", "question", "emotion"],
+    "adjusted-expression-ja": "どうしてそのようなことになるのですか？",
+    "adjusted-expression-en": "Why does it end in that way?",
+    "img-sub": "nandesounaruno01.png",
+    "example-ja": "A「(パソコン:ぱそこん)(直:なお)そうとしたら、もっと(壊:こわ)れた」 B「えっ、なんでそうなるの？」",
+    "example-en": "A: \"I tried to fix my computer, but it broke even more.\" B: \"What? How does it end up like that?\"",
+    "notes-ja": "「なんでそうなるの？」は、予想外の結果や納得できない状況に対して即時的に発せられる感情的な疑問。純粋な質問ではなく、驚きや不満を含み、相手に説明を求める圧力も持つ。フォーマルな場面では「どうしてそのようなことになるのですか？」のように言い換えられる。",
+    "notes-en": "\"Nande sou naru no?\" is an immediate grammar expression used when confronted with an unexpected or unreasonable result. It is less a request for information and more an incredulous reaction that pressures the other person to explain. In formal contexts, it can be rephrased as \"Doushite sonoyouna koto ni naru no desu ka?\""
+  },
+  {
     "date": "2025.08.26",
     "day": "Tue",
     "number": 504,
