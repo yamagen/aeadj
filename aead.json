@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.28",
+    "day": "Thu",
+    "number": 506,
+    "index": "nandakedone",
+    "title": "Well, but you know...",
+    "expression-ja": "...なんだけどね",
+    "roman-ja": "...nan da kedo ne",
+    "expression-en": "Well, but you know...",
+    "variants-ja": ["行きたかったんだけどね", "頑張ったんだけどね", "いい試合だったんだけどね"],
+    "variants-en": ["I wanted to go, but you know...", "I tried hard, but you know...", "It was a good game, but you know..."],
+    "intent-ja": ["事情説明", "言いさし", "共感呼びかけ"],
+    "intent-en": ["explanation", "trailing off", "seeking empathy"],
+    "tags-ja": ["即時文法", "口語", "含み", "共感"],
+    "tags-en": ["immediate grammar", "spoken", "implication", "empathy"],
+    "adjusted-expression-ja": "...なのですが",
+    "adjusted-expression-en": "However, ...",
+    "img-sub": "nandakedone01.png",
+    "example-ja": "A「(試合:しあい)、(負:ま)けちゃったね？」 B「いい(プレイ:ぷれい)はあったんだけどね...」",
+    "example-en": "A: \"We lost the game, huh?\" B: \"There were some good plays, but you know...\"",
+    "notes-ja": "「...なんだけどね」は、話を途中で切ることで含みを残し、聞き手に理解や共感を促す表現。言い訳や弁解、惜しい気持ちなど、話者の感情がにじむ。フォーマルな場面では「…なのですが」と言い換えられる。",
+    "notes-en": "The phrase '...nan da kedo ne' leaves the sentence trailing off, inviting the listener to infer the unsaid part. It often conveys excuses, disappointment, or an appeal for empathy. In formal contexts, it can be expressed as '...nano desu ga'."
+  },
+  {
     "date": "2025.08.27",
     "day": "Wed",
     "number": 505,
