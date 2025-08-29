@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.29",
+    "day": "Fri",
+    "number": 507,
+    "index": "towaomowanakatta",
+    "title": "I never thought that...",
+    "expression-ja": "..とは(思:おも)わなかった",
+    "roman-ja": "...to wa omowanakatta",
+    "expression-en": "I never thought that...",
+    "variants-ja": ["勝てるとは思わなかった", "君に会えるとは思わなかった", "こんなに時間がかかるとは思わなかった"],
+    "variants-en": ["I never thought we could win", "I never thought I would see you", "I never thought it would take this long"],
+    "intent-ja": ["意外性", "驚き", "回想"],
+    "intent-en": ["unexpectedness", "surprise", "retrospection"],
+    "tags-ja": ["即時文法", "口語", "意外性", "感情"],
+    "tags-en": ["immediate grammar", "spoken", "unexpectedness", "emotion"],
+    "adjusted-expression-ja": "...とは(思:)いませんでした",
+    "adjusted-expression-en": "I did not expect that...",
+    "img-sub": "towaomowanakatta01.png",
+    "example-ja": "A「(優勝:ゆうしょう)できたね！」 B「うん、まさか(勝:か)てるとは(思:おも)わなかった」",
+    "example-en": "A: \"We won the championship!\" B: \"Yeah, I never thought we could win.\"",
+    "notes-ja": "「...とは思わなかった」は、予想外の出来事や意外な出会いを表す即時文法的表現。話し手の驚きや感慨を直接的に伝える。フォーマルな場面では「...とは思いませんでした」と言い換えられる。",
+    "notes-en": "The phrase '...to wa omowanakatta' is an immediate grammar expression showing surprise at an unexpected outcome or encounter. It conveys the speaker's astonishment or reflection. In formal contexts, it can be expressed as '...to wa omoimasen deshita'."
+  },
+  {
     "date": "2025.08.28",
     "day": "Thu",
     "number": 506,
