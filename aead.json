@@ -14,7 +14,7 @@
     "intent-en": ["invitation", "suggestion", "closeness"],
     "tags-ja": ["即時文法", "口語", "誘い", "否定疑問"],
     "tags-en": ["immediate grammar", "spoken", "invitation", "negative question"],
-    "adjusted-expression-ja": "来ませんか？",
+    "adjusted-expression-ja": "(来:き)ませんか？",
     "adjusted-expression-en": "Would you like to come?",
     "img-sub": "konai01.png",
     "example-ja": "A「お(昼:ひる)どうする？」 B「(ラーメン:らーめん)(食:た)べに(行:い)かない？」",
