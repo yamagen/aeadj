@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.31",
+    "day": "Sun",
+    "number": 509,
+    "index": "konai",
+    "title": "How about coming?",
+    "expression-ja": "(来:こ)ない？",
+    "roman-ja": "konai?",
+    "expression-en": "How about coming?",
+    "variants-ja": ["行かない？", "食べない？", "飲まない？"],
+    "variants-en": ["How about going?", "How about eating?", "How about having a drink?"],
+    "intent-ja": ["誘い", "提案", "親しさ"],
+    "intent-en": ["invitation", "suggestion", "closeness"],
+    "tags-ja": ["即時文法", "口語", "誘い", "否定疑問"],
+    "tags-en": ["immediate grammar", "spoken", "invitation", "negative question"],
+    "adjusted-expression-ja": "来ませんか？",
+    "adjusted-expression-en": "Would you like to come?",
+    "img-sub": "konai01.png",
+    "example-ja": "A「お(昼:ひる)どうする？」 B「(ラーメン:らーめん)(食:た)べに(行:い)かない？」",
+    "example-en": "A: \"What should we do for lunch?\" B: \"How about going for ramen?\"",
+    "notes-ja": "「V-ない？」は形の上では否定疑問だが、実際には相手への軽い誘いを表す即時文法的な表現。親しい会話で多用され、強制ではなく共感や仲間意識を含む。フォーマルな場面では「V-ませんか？」に言い換えられる。\n\n【日本語と英語の違い】\n- 日本語の「行かない？」は、ほぼ自動的に「一緒にしようよ」という勧誘になる。\n- 英語の \"Not going?\" \"Not coming?\" は、本来「行かないの？」「来ないの？」という確認や驚きの意味で、勧誘にはならない。\n- 文脈によって軽い促しに聞こえることはあるが、日本語ほど便利で普遍的な勧誘表現ではない。\n- 英語で勧誘するには \"Shall we go?\" \"How about going?\" \"Do you want to come?\" などを使う。",
+    "notes-en": "Although 'V-nai?' is grammatically a negative question, it functions as an immediate grammar expression to casually invite someone. It is widely used in friendly speech and implies closeness rather than obligation. In formal contexts, it is replaced by 'V-masen ka?'.\n\n[Difference between Japanese and English]\n- Japanese 'ikanai?' almost automatically means 'Shall we...?', functioning as a universal invitation.\n- English 'Not going?' or 'Not coming?' literally means 'Aren't you going/coming?', mainly expressing confirmation or surprise, not an invitation.\n- In some contexts, it can sound like a nudge to go, but it is not a standard or reliable way to invite.\n- Natural ways to invite in English are 'Shall we go?', 'How about going?', 'Do you want to come?', etc."
+  },
+  {
     "date": "2025.08.30",
     "day": "Sat",
     "number": 508,
