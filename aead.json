@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.08.30",
+    "day": "Sat",
+    "number": 508,
+    "index": "moshiyokattara",
+    "title": "If it's alright with you...",
+    "expression-ja": "もし、よかったら、",
+    "roman-ja": "moshi, yokattara,",
+    "expression-en": "If it's alright with you...",
+    "variants-ja": ["もし、よかったら、一緒に行きませんか？", "もし、よかったら、使ってください。", "もし、よかったら、見てみて。"],
+    "variants-en": ["If it's alright with you, would you come with me?", "If it's alright with you, please use it.", "If it's alright with you, have a look."],
+    "intent-ja": ["控えめな提案", "配慮", "誘い"],
+    "intent-en": ["tentative suggestion", "consideration", "invitation"],
+    "tags-ja": ["即時文法", "口語", "丁寧", "提案"],
+    "tags-en": ["immediate grammar", "spoken", "polite", "suggestion"],
+    "adjusted-expression-ja": "もしよろしければ、",
+    "adjusted-expression-en": "If you don't mind, ...",
+    "img-sub": "moshiyokattara01.png",
+    "example-ja": "A「(宿題:しゅくだい)、むずかしかった？」 B「うん。もし、よかったら、あとで(一緒:いっしょ)にやらない？」",
+    "example-en": "A: \"Was the homework difficult?\" B: \"Yeah. If it's alright with you, want to do it together later?\"",
+    "notes-ja": "「もし、よかったら、」は、相手の都合や気持ちを尊重しつつ提案するときの即時文法的表現。文末を切ることで柔らかさや遠慮がにじみ出る。フォーマルな場面では「もしよろしければ、」に言い換えられる。",
+    "notes-en": "The phrase 'moshi, yokattara,' is an immediate grammar expression used when making a suggestion while showing consideration for the listener. The trailing comma adds hesitation and softness. In formal contexts, it is expressed as 'moshi yoroshikereba,'."
+  },
+  {
     "date": "2025.08.29",
     "day": "Fri",
     "number": 507,
