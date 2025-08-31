@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.01",
+    "day": "Mon",
+    "number": 510,
+    "index": "nantoka",
+    "title": "I managed to...",
+    "expression-ja": "なんとか",
+    "roman-ja": "nantoka",
+    "expression-en": "somehow / manage to",
+    "variants-ja": ["なんとかのりこえた", "なんとか卒業できた", "なんとか生き延びた"],
+    "variants-en": ["I managed to get through it somehow", "I somehow managed to graduate", "I somehow survived"],
+    "intent-ja": ["困難克服", "安堵", "ぎりぎりの成功"],
+    "intent-en": ["overcoming hardship", "relief", "barely succeeding"],
+    "tags-ja": ["即時文法", "口語", "克服", "安堵"],
+    "tags-en": ["immediate grammar", "spoken", "overcoming", "relief"],
+    "adjusted-expression-ja": "かろうじて",
+    "adjusted-expression-en": "barely / just managed to",
+    "img-sub": "nantoka_norikoeta01.png",
+    "example-ja": "A「(大変:たいへん)だったね。」 B「うん、なんとか、のりこえたよ。」",
+    "example-en": "A: \"That must have been tough.\" B: \"Yeah, I managed to get through it somehow.\"",
+    "notes-ja": "「なんとか」は困難をかろうじて克服したときに用いられる即時文法的表現。明確な手段を示さずに『どうにかできた』という安堵の気持ちを伝える。フォーマルな文脈では「かろうじて」「どうにか」などに置き換えられる。",
+    "notes-en": "'Nantoka' is used as an immediate grammar expression when overcoming difficulties with relief. It avoids specifying the means and simply conveys that the speaker 'somehow managed it'. In formal contexts, it can be replaced with 'karoujite' (barely) or 'dounika' (somehow)."
+  },
+  {
     "date": "2025.08.31",
     "day": "Sun",
     "number": 509,
