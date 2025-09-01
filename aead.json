@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.02",
+    "day": "Tue",
+    "number": 511,
+    "index": "datteba",
+    "title": "I'm telling you...",
+    "expression-ja": "...だって(ば)",
+    "roman-ja": "...datte(ba)",
+    "expression-en": "I'm telling you...",
+    "variants-ja": ["本当だって", "行ったんだってば", "違うんだって"],
+    "variants-en": ["It really is, I'm telling you", "I went, I'm telling you", "It's not true, I said"],
+    "intent-ja": ["強調", "念押し", "不満"],
+    "intent-en": ["emphasis", "insistence", "frustration"],
+    "tags-ja": ["即時文法", "口語", "強調", "感情"],
+    "tags-en": ["immediate grammar", "spoken", "emphasis", "emotion"],
+    "adjusted-expression-ja": "(確:たし)かにそうなんです",
+    "adjusted-expression-en": "It is certainly so",
+    "img-sub": "datteba01.png",
+    "example-ja": "A「ほんとにできるの？」 B「できるんだってば！」",
+    "example-en": "A: \"Can you really do it?\" B: \"I'm telling you, I can!\"",
+    "notes-ja": "「...だって(ば)」は、伝聞の「だって」と異なり、話し手がすでに述べたことを繰り返し強調し、相手に理解を迫る即時文法的表現。しばしば苛立ちや感情を伴う。フォーマルな場面では「確かにそうです」「本当です」などに置き換えられる。",
+    "notes-en": "Unlike the quotative 'datte' (as in 'he said that...'), '...datte(ba)' is used when the speaker insists on something they already said, pressing the listener to accept it. It often carries frustration or emotion. In formal contexts, it can be replaced with 'It is certainly so' or 'Indeed, it is so'."
+  },
+  {
     "date": "2025.09.01",
     "day": "Mon",
     "number": 510,
