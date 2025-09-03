@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025.09.03",
+    "day": "Wed",
+    "number": 512,
+    "index": "tanara",
+    "title": "If it had..., then...",
+    "expression-ja": "...たなら、...",
+    "roman-ja": "ta nara, ...",
+    "expression-en": "If it had..., then...",
+    "variants-ja": ["行けたなら、会えたのに", "知っていたなら、準備した", "一緒だったなら、楽しかった"],
+    "variants-en": [
+      "If I had been able to go, I could have seen you",
+      "If I had known, I would have prepared",
+      "If we had been together, it would have been fun"
+    ],
+    "intent-ja": ["仮定", "後悔", "感情の余韻"],
+    "intent-en": ["hypothetical", "regret", "emotional lingering"],
+    "tags-ja": ["即時文法", "口語", "仮定", "感情"],
+    "tags-en": ["immediate grammar", "spoken", "hypothetical", "emotion"],
+    "adjusted-expression-ja": "もし...たならば、...したでしょう",
+    "adjusted-expression-en": "If it had..., then it would have...",
+    "img-sub": "tanara01.png",
+    "example-ja": "(勇気:ゆうき)があったなら、(言:い)えたのに...",
+    "example-en": "If I had had the courage, I could have said it...",
+    "notes-ja": "「...たなら、...」は、過去の事実とは異なる仮定を提示し、後悔や残念さを表す即時文法的表現。多くの場合、文末を省略して感情を余韻として残す。フォーマルな文脈では「もし...たならば、...したでしょう」と言い換えられる。",
+    "notes-en": "'...ta nara, ...' is an immediate grammar expression presenting a counterfactual condition, often conveying regret or disappointment. It commonly trails off to leave the feeling implicit. In formal contexts, it is expressed as 'moshi ...ta naraba, ...shita deshou'."
+  },
+  {
     "date": "2025.09.02",
     "day": "Tue",
     "number": 511,
