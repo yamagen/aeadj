@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.04",
+    "day": "Thu",
+    "number": 513,
+    "index": "soudattanda",
+    "title": "Oh, so that’s how it was",
+    "expression-ja": "そうだったんだ",
+    "roman-ja": "sou datta n da",
+    "expression-en": "Oh, so that’s how it was",
+    "variants-ja": ["そうだったんですね", "そうだったのか", "そうだったんだね"],
+    "variants-en": ["Oh, I see, that’s how it was", "So that’s what happened", "So that’s how it was, huh"],
+    "intent-ja": ["納得", "理解", "気づき"],
+    "intent-en": ["acceptance", "understanding", "realization"],
+    "tags-ja": ["即時文法", "口語", "納得", "発見"],
+    "tags-en": ["immediate grammar", "spoken", "acceptance", "realization"],
+    "adjusted-expression-ja": "そうだったのですね",
+    "adjusted-expression-en": "I see, that was the case",
+    "img-sub": "soudattanda01.png",
+    "example-ja": "A「(彼:かれ)、(転校:てんこう)してたんだよ。」 B「そうだったんだ！」",
+    "example-en": "A: \"He had transferred schools.\" B: \"Oh, so that’s how it was!\"",
+    "notes-ja": "「そうだったんだ」は、相手の説明を聞いて初めて理解や納得が生じたときに使う即時文法的表現。過去形を用いているが、今この瞬間の気づきを表しているのが特徴。形式的には過去の事実を確認しているようでありながら、実際は『なるほど』『そういうことか』と同じく感情の定型句として使われる。フォーマルな場面では「そうだったのですね」と言い換えられる。",
+    "notes-en": "'Sou datta n da' is an immediate grammar expression used when new information brings about understanding or acceptance. Although it employs the past form 'datta,' it conveys the present realization of 'I see' or 'So that’s what happened.' It functions as a fixed expression of realization rather than a literal past tense. In formal contexts, it becomes 'sou datta no desu ne.'"
+  },
+  {
     "date": "2025.09.03",
     "day": "Wed",
     "number": 512,
