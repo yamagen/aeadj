@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.07",
+    "day": "Sun",
+    "number": 516,
+    "index": "soregasore",
+    "title": "That's it",
+    "expression-ja": "それがそれ",
+    "roman-ja": "sore ga sore",
+    "expression-en": "that's it",
+    "variants-ja": ["それがそれなんだよ", "それがそれだから困る", "それがそれってこと"],
+    "variants-en": ["That's it, you know", "That's it, that's the problem", "That's what it is"],
+    "intent-ja": ["納得", "共感", "問題の指摘"],
+    "intent-en": ["acceptance", "empathy", "pointing out an issue"],
+    "tags-ja": ["即時文法", "口語", "納得", "含み"],
+    "tags-en": ["immediate grammar", "spoken", "acceptance", "implication"],
+    "adjusted-expression-ja": "それがつまり...ということです",
+    "adjusted-expression-en": "in other words, that is the point",
+    "img-sub": "soregasore01.png",
+    "example-ja": "A「それって、(東急:とうきゅう)じゃないよね...」 B「それがそれなんだよ。」",
+    "example-en": "A: \"That's not Tokyu, right...\" B: \"That's it.\"",
+    "notes-ja": "「それがそれ」は、一見あいまいに見えるが、相手の発話をそのまま受け止め『まさにそれが答え／事情だ』と即時に納得を示す表現。場面によっては「ご名答」に近いニュアンスになる。説明用に「噂のお店って...」と前置きすることもあるが、実際の自然なやりとりでは「それって、東急じゃないよね...」「それがそれなんだよ」のようにシンプルに発話される。フォーマルな場面では「つまり、それが問題です」などに言い換えられる。",
+    "notes-en": "'Sore ga sore' looks vague, but functions as an immediate grammar expression to confirm what the other person has just said as the key point. It is close to saying 'Exactly' or 'That's the answer,' often carrying a nuance of 'spot on.' While explanatory contexts may add background like 'That trendy shop...', in natural conversation it appears simply as in 'That's not Tokyu, right...' / 'That's it.' In formal contexts, it can be expressed as 'In other words, that is the issue.'"
+  },
+  {
     "date": "2025.09.06",
     "day": "Sat",
     "number": 515,
