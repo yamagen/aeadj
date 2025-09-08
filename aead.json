@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.08",
+    "day": "Mon",
+    "number": 517,
+    "index": "maaikka",
+    "title": "Oh well / Never mind",
+    "expression-ja": "まあ、いっか",
+    "roman-ja": "maa, ikka",
+    "expression-en": "oh well / never mind",
+    "variants-ja": ["まあ、いいか", "まあ、いっかー", "まあ、いいや"],
+    "variants-en": ["oh well", "never mind", "guess it's fine"],
+    "intent-ja": ["諦め", "気持ちの切り替え", "軽い受容"],
+    "intent-en": ["giving up", "shifting mindset", "light acceptance"],
+    "tags-ja": ["即時文法", "口語", "諦め", "気分転換"],
+    "tags-en": ["immediate grammar", "spoken", "giving up", "moving on"],
+    "adjusted-expression-ja": "(仕方:しかた)がないですね",
+    "adjusted-expression-en": "it cannot be helped",
+    "img-sub": "maaikka01.png",
+    "example-ja": "A「(傘:かさ)(忘:わす)れちゃった」 B「まあ、いっか。(走:はし)れば(濡:ぬ)れないよ」",
+    "example-en": "A: \"I forgot my umbrella\" B: \"Oh well. If we run, we won’t get too wet\"",
+    "notes-ja": "「まあ、いっか」は失敗や不足があっても深刻にとらえず、即時に諦めや気持ちの切り替えをする表現。会話文では句点を付けずにカギ括弧を閉じるのが自然。フォーマルな場では「仕方がないですね」「気にしないでください」と言い換えられる。",
+    "notes-en": "'Maa, ikka' is an immediate grammar expression showing resignation or a quick shift in mindset. It downplays the problem and moves on lightly. In natural conversation, quotation marks close without a period. In formal contexts, it can be replaced with 'It cannot be helped' or 'Please don't worry about it.'"
+  },
+  {
     "date": "2025.09.07",
     "day": "Sun",
     "number": 516,
