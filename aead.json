@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.11",
+    "day": "Thu",
+    "number": 520,
+    "index": "itsumonara",
+    "title": "Normally / Usually",
+    "expression-ja": "いつもなら",
+    "roman-ja": "itsumo nara",
+    "expression-en": "normally / usually",
+    "variants-ja": ["いつもなら寝ている時間", "いつもなら怒るところ", "いつもなら行かない店"],
+    "variants-en": ["Normally I'd be asleep at this time", "Normally I'd get angry", "Normally I wouldn't go to this shop"],
+    "intent-ja": ["基準提示", "比較", "状況の違い"],
+    "intent-en": ["baseline", "comparison", "situation difference"],
+    "tags-ja": ["即時文法", "口語", "習慣", "比較"],
+    "tags-en": ["immediate grammar", "spoken", "habit", "comparison"],
+    "adjusted-expression-ja": "(通常:つうじょう)であれば",
+    "adjusted-expression-en": "under normal circumstances",
+    "img-sub": "itsumonara01.png",
+    "example-ja": "A「(今日:きょう)は(遅:おそ)いね」 B「いつもならもう(帰:かえ)ってるんだけど」",
+    "example-en": "A: You're late today. B: Normally I'd already be home.",
+    "notes-ja": "「いつもなら」は普段の習慣や基準を持ち出して、今回の状況との差を示す表現。即時的に比較を持ち出すため、驚きや違和感、状況説明を自然に伝えることができる。フォーマルでは「通常であれば」と言い換えられる。",
+    "notes-en": "'Itsumo nara' brings up one's usual habit or baseline to contrast with the current situation. It conveys surprise, discomfort, or explanation. In formal contexts, it can be replaced with 'tsuujou de areba' (under normal circumstances)."
+  },
+  {
     "date": "2025.09.10",
     "day": "Wed",
     "number": 519,
