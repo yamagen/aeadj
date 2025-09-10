@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.10",
+    "day": "Wed",
+    "number": 519,
+    "index": "nantoshitemo",
+    "title": "By all means / No matter what",
+    "expression-ja": "なんとしても",
+    "roman-ja": "nantoshitemo",
+    "expression-en": "by all means / no matter what",
+    "variants-ja": ["なんとしても成功させたい", "なんとしても行かなければならない", "なんとしても守り抜く"],
+    "variants-en": ["I want to succeed by all means", "I must go no matter what", "I will protect it at all costs"],
+    "intent-ja": ["強い意志", "決意", "必然"],
+    "intent-en": ["strong will", "determination", "inevitability"],
+    "tags-ja": ["即時文法", "口語", "強調", "意志"],
+    "tags-en": ["immediate grammar", "spoken", "emphasis", "will"],
+    "adjusted-expression-ja": "どのような(手段:しゅだん)を(取:と)っても",
+    "adjusted-expression-en": "by any means / whatever the means",
+    "img-sub": "nantoshitemo01.png",
+    "example-ja": "A「(無理:むり)じゃない？」 B「なんとしてもやり(遂:と)げる！」",
+    "example-en": "A: Isn't it impossible? B: I'll get it done no matter what!",
+    "notes-ja": "「なんとしても」は強い決意や必然性を即時に表す表現。通常はポジティブな意志に使われるが、場合によっては義務感や切迫感を含むこともある。フォーマルでは「どうしても」「必ず」などに置き換えられる。",
+    "notes-en": "'Nantoshitemo' expresses strong determination or inevitability. It is usually used for positive resolve but can also convey obligation or urgency. In formal contexts, 'doushitemo' or 'kanarazu' can be used instead."
+  },
+  {
     "date": "2025.09.09",
     "day": "Tue",
     "number": 518,
