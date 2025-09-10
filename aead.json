@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.09",
+    "day": "Tue",
+    "number": 518,
+    "index": "nannara",
+    "title": "If you like / If anything",
+    "expression-ja": "なんなら",
+    "roman-ja": "nannara",
+    "expression-en": "if you like / if anything",
+    "variants-ja": ["なんなら手伝いますよ", "なんなら帰ってもいい", "なんならやめてもいいよ"],
+    "variants-en": ["If you like, I can help", "If anything, you can go home", "If necessary, you can quit"],
+    "intent-ja": ["提案", "強調", "柔らかい逆接"],
+    "intent-en": ["suggestion", "emphasis", "soft contrast"],
+    "tags-ja": ["即時文法", "口語", "提案", "含み"],
+    "tags-en": ["immediate grammar", "spoken", "suggestion", "implication"],
+    "adjusted-expression-ja": "もしよければ / (必要:ひつよう)なら",
+    "adjusted-expression-en": "if you like / if necessary",
+    "img-sub": "nannara01.png",
+    "example-ja": "A「(明日:あす)、(荷物:)(多:)いんだ」 B「なんなら(車:)で(送:)るよ」",
+    "example-en": "A: \"I’ll have a lot of luggage tomorrow\" B: \"If you like, I can give you a ride\"",
+    "notes-ja": "「なんなら」は直訳しにくい即時文法的表現で、相手に柔らかく提案や選択肢を示す。場合によっては逆接的に「むしろ」「かえって」の意味も持つ。フォーマルな場では「もしよければ」「必要なら」と言い換えられる。",
+    "notes-en": "'Nannara' is an immediate grammar expression that gently offers a suggestion or option. Depending on context, it can also carry the sense of 'rather' or 'if anything.' In formal contexts, it can be expressed as 'moshi yokereba' (if you like) or 'hitsuyou nara' (if necessary)."
+  },
+  {
     "date": "2025.09.08",
     "day": "Mon",
     "number": 517,
