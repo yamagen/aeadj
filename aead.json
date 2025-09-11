@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.12",
+    "day": "Fri",
+    "number": 521,
+    "index": "dayone",
+    "title": "Right? / Isn't it?",
+    "expression-ja": "だよね",
+    "roman-ja": "da yo ne",
+    "expression-en": "right? / isn't it?",
+    "variants-ja": ["いい天気だよね", "難しかったよね", "楽しかったよね"],
+    "variants-en": ["It's nice weather, right?", "That was difficult, wasn't it?", "It was fun, wasn't it?"],
+    "intent-ja": ["同意確認", "共感", "会話のつなぎ"],
+    "intent-en": ["confirmation", "empathy", "conversational link"],
+    "tags-ja": ["即時文法", "口語", "共感", "確認"],
+    "tags-en": ["immediate grammar", "spoken", "empathy", "confirmation"],
+    "adjusted-expression-ja": "そうですよね",
+    "adjusted-expression-en": "that's true",
+    "img-sub": "dayone01.png",
+    "example-ja": "A「ふつう、こんなことしないよ！」 B「だよね！」",
+    "example-en": "A: Normally, nobody would do such a thing! B: Exactly!",
+    "notes-ja": "「だよね」は相手の発話に即時的に同意・共感を示す表現で、親しい間柄でよく使われる。単独で強い共感を表すこともできる。フォーマルな場面では「そうですね」「〜ではありませんか」に置き換えられる。",
+    "notes-en": "'Da yo ne' is used to show immediate agreement or empathy with what the other person said, common in casual speech. It can stand alone to strongly express empathy. In formal contexts, it can be replaced with 'sou desu ne' or '...de wa arimasen ka'."
+  },
+  {
     "date": "2025.09.11",
     "day": "Thu",
     "number": 520,
@@ -8312,7 +8335,7 @@
     "expression-en": "I'm sorry. This is embarrassing.",
     "img": "hazukashii01.png",
     "example-ja": "A「(失礼:しつれい)しました。これはこれは、お(恥:は)ずかしい」",
-    "example-en": "A: \"I'm sorry. Oh, this is embarrassing.\"",
+    "example-en": "A: I'm sorry. Oh, this is embarrassing.",
     "notes-en": "It is rare to directly say the word \"hazukashii\" which means \"embarassing\" in Japanese. However, when you make a tribial mistake or a boring error, you may say this phrase with a light apology such as \"shitsurei shimashita\" which means \"I'm sorry.\" When you utter this phrase, it is polite and has a relaxing effect among your conversation. If you can respond beautifully like this, no one will think of you as an \"embarrassing person,\" but rather as a person with very worldly common sense.",
     "notes-ja": "イ形容詞の「恥ずかしい」ということばを直接発することは、稀ですが、自分のとるにたらぬ、つまらぬ間違いを犯したときに、軽い謝罪のことばに添えて自分のことを「恥ずかしい」ということはあります。そのときには「お恥ずかしい」のように「お」を付けて発話すると丁寧で、雰囲気を和ませる効果があります。そのようにきれいな返答ができるあなたを誰も「恥ずかしい人」とは思わず、非常に世間的な常識を持った人だと思うでしょう。"
   },
@@ -8327,7 +8350,7 @@
     "expression-en": "Wow!",
     "img": "wow01.png",
     "example-ja": "A「わあ、すごい！」",
-    "example-en": "A: \"Wow, that's amazing!\"",
+    "example-en": "A: Wow, that's amazing!",
     "notes-en": "The word \"waa\" is an interjection that is used to express surprise or admiration. It is used to indicate that something is impressive or unexpected. This expression can be used in both casual and formal situations. Basically, you don't have to express your attitude in a polite way.",
     "notes-ja": "「わあ」は驚きや感嘆を表現するために使用される間投詞です。この表現はカジュアルな場面でもフォーマルな場面でも使用できます。基本的に自分の態度を思わず発する表現を無理に丁寧な形にする必要はありません。"
   },
