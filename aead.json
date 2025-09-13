@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.13",
+    "day": "Sat",
+    "number": 522,
+    "index": "bareta",
+    "title": "You got me? / Busted!",
+    "expression-ja": "(バレ:ばれ)た？",
+    "roman-ja": "bareta?",
+    "expression-en": "You got me? / Busted!",
+    "variants-ja": ["隠してたけどバレた？", "嘘ついたのバレた？", "気持ちバレた？"],
+    "variants-en": ["I tried to hide it, but you noticed?", "Did you catch my lie?", "Did you notice my feelings?"],
+    "intent-ja": ["本音露呈", "秘密発覚", "からかい"],
+    "intent-en": ["true feelings revealed", "secret exposed", "playful admission"],
+    "tags-ja": ["即時文法", "口語", "からかい", "感情"],
+    "tags-en": ["immediate grammar", "spoken", "playful", "emotion"],
+    "adjusted-expression-ja": "(:)気づかれましたか？",
+    "adjusted-expression-en": "Did you notice?",
+    "img-sub": "bareta01.png",
+    "example-ja": "A「(本当:ほんとう)は(行:い)きたくなかったんでしょ？」 B「(バレ:ばれ)た？」",
+    "example-en": "A: You actually didn't want to go, right? B: Busted!",
+    "notes-ja": "「バレた？」は自分の本音や秘密が相手に見抜かれたときに使う即時的な表現。多くの場合、深刻さよりも軽い照れやからかいを含んで使われる。フォーマルな場では「気づかれましたか？」などに置き換えられる。",
+    "notes-en": "'Bareta?' is used when your true feelings or a secret have been noticed by someone else. It usually carries a playful or embarrassed tone rather than seriousness. In formal contexts, it can be expressed as 'Did you notice?'"
+  },
+  {
     "date": "2025.09.12",
     "day": "Fri",
     "number": 521,
