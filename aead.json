@@ -14,7 +14,7 @@
     "intent-en": ["true feelings revealed", "secret exposed", "playful admission"],
     "tags-ja": ["即時文法", "口語", "からかい", "感情"],
     "tags-en": ["immediate grammar", "spoken", "playful", "emotion"],
-    "adjusted-expression-ja": "(:)気づかれましたか？",
+    "adjusted-expression-ja": "(気:き)づかれましたか？",
     "adjusted-expression-en": "Did you notice?",
     "img-sub": "bareta01.png",
     "example-ja": "A「(本当:ほんとう)は(行:い)きたくなかったんでしょ？」 B「(バレ:ばれ)た？」",
