@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.14",
+    "day": "Sun",
+    "number": 523,
+    "index": "chatta",
+    "title": "Oops, I ... / I ended up ...",
+    "expression-ja": "ちゃった",
+    "roman-ja": "chatta",
+    "expression-en": "oops, I ... / I ended up ...",
+    "variants-ja": ["寝ちゃった", "忘れちゃった", "食べちゃった"],
+    "variants-en": ["I fell asleep (oops)", "I forgot (oops)", "I ate it (oops)"],
+    "intent-ja": ["失敗", "予期せぬ行動", "軽い後悔"],
+    "intent-en": ["mistake", "unexpected action", "mild regret"],
+    "tags-ja": ["即時文法", "口語", "縮約", "感情"],
+    "tags-en": ["immediate grammar", "spoken", "contraction", "emotion"],
+    "adjusted-expression-ja": "〜してしまった",
+    "adjusted-expression-en": "ended up doing ...",
+    "img-sub": "chatta01.png",
+    "example-ja": "A「(宿題:しゅくだい)どうした？」 B「(忘:わす)れちゃった！」",
+    "example-en": "A: What about the homework? B: I forgot (oops)!",
+    "notes-ja": "「ちゃった」は「〜してしまった」の口語縮約形で、失敗や予期せぬ行動を軽く即時的に伝える表現。深刻な後悔ではなく、照れや軽い謝罪のニュアンスが多い。フォーマルな場では「〜してしまいました」と言い換えられる。",
+    "notes-en": "'Chatta' is the colloquial contraction of '...shite shimatta.' It expresses mistakes or unintended actions with a light, immediate tone, often implying embarrassment or mild apology rather than deep regret. In formal contexts, it is expressed as '...shite shimaimashita.'"
+  },
+  {
     "date": "2025.09.13",
     "day": "Sat",
     "number": 522,
