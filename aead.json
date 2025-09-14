@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.15",
+    "day": "Mon",
+    "number": 524,
+    "index": "sorewane",
+    "title": "Well, you see...",
+    "expression-ja": "うーん、それはね",
+    "roman-ja": "uun, sore wa ne",
+    "expression-en": "well, you see...",
+    "variants-ja": ["うーん、それはね、ちょっと違うよ", "うーん、それはね、説明が難しいんだ", "うーん、それはね、わからない"],
+    "variants-en": ["Well, you see, that's a bit different", "Well, you see, it's hard to explain", "Well, you see, I don't know"],
+    "intent-ja": ["思考中", "前置き", "柔らかい説明"],
+    "intent-en": ["thinking", "preface", "soft explanation"],
+    "tags-ja": ["即時文法", "口語", "前置き", "ためらい"],
+    "tags-en": ["immediate grammar", "spoken", "preface", "hesitation"],
+    "adjusted-expression-ja": "それについてはですね",
+    "adjusted-expression-en": "regarding that, you see",
+    "img-sub": "sorewane01.png",
+    "example-ja": "A「なんで(行:い)かなかったの？」 B「うーん、それはね、ちょっと...」",
+    "example-en": "A: Why didn't you go? B: Well, you see, it's a bit...",
+    "notes-ja": "「うーん、それはね」は考えながら答えるときの前置きで、相手にやわらかく説明の余地を残す即時表現。ためらいや思考中のニュアンスを含み、会話に自然な間を作る。フォーマルな場では「それについてはですね」などに置き換えられる。",
+    "notes-en": "'Uun, sore wa ne' is a prefatory phrase used while thinking, signaling that an explanation will follow. It conveys hesitation or consideration, and creates a natural pause in conversation. In formal contexts, it can be replaced with 'sore ni tsuite wa desu ne' (regarding that...)."
+  },
+  {
     "date": "2025.09.14",
     "day": "Sun",
     "number": 523,
