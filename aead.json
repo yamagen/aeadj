@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.18",
+    "day": "Fri",
+    "number": 526,
+    "index": "shitteru",
+    "title": "Do you know?",
+    "expression-ja": "(知:し)ってる？",
+    "roman-ja": "shitteru?",
+    "expression-en": "do you know?",
+    "variants-ja": ["これ知ってる？", "あの人知ってる？", "その話知ってる？"],
+    "variants-en": ["Do you know this?", "Do you know that person?", "Do you know that story?"],
+    "intent-ja": ["確認", "話題導入", "共有意識"],
+    "intent-en": ["confirmation", "topic introduction", "shared awareness"],
+    "tags-ja": ["即時文法", "口語", "確認", "共有"],
+    "tags-en": ["immediate grammar", "spoken", "confirmation", "shared knowledge"],
+    "adjusted-expression-ja": "ご(存:ぞん)じですか",
+    "adjusted-expression-en": "do you happen to know",
+    "img-sub": "shitteru01.png",
+    "example-ja": "A「ねえ、これ(知:し)ってる？」 B「うん、(前:まえ)に(見:み)たよ」",
+    "example-en": "A: Hey, do you know this? B: Yeah, I saw it before.",
+    "notes-ja": "「知ってる？」は相手の知識を即時に確認する口語的な表現で、驚きや話題の導入に使われる。親しい間柄では軽く言えるが、フォーマルな場では「ご存知ですか」に置き換えられる。",
+    "notes-en": "'Shitteru?' is a colloquial way to check whether the other person knows something. It is often used to introduce a topic or express surprise. In casual contexts, it is light and friendly, while in formal situations it can be replaced with 'gozonji desu ka' (do you happen to know?)."
+  },
+  {
     "date": "2025.09.17",
     "day": "Wed",
     "number": 525,
