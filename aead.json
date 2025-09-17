@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.17",
+    "day": "Wed",
+    "number": 525,
+    "index": "dekirenee",
+    "title": "You're good at it! / Not bad!",
+    "expression-ja": "できるねぇ",
+    "roman-ja": "dekiru nee",
+    "expression-en": "you're good at it! / not bad!",
+    "variants-ja": ["よくできるねぇ", "そんなこともできるねぇ", "一人でできるねぇ"],
+    "variants-en": ["You can really do it!", "You can even do that!", "You can do it all by yourself!"],
+    "intent-ja": ["感心", "評価", "驚き"],
+    "intent-en": ["admiration", "praise", "surprise"],
+    "tags-ja": ["即時文法", "口語", "評価", "感嘆"],
+    "tags-en": ["immediate grammar", "spoken", "evaluation", "exclamation"],
+    "adjusted-expression-ja": "(:)上手ですね / よくできますね",
+    "adjusted-expression-en": "you're skilled / you do it well",
+    "img-sub": "dekirenee01.png",
+    "example-ja": "A「(:)見て、この(:)絵、どう！」 B「できるねぇ！」",
+    "example-en": "A: Look at this painting, how do you think? B: Not bad!",
+    "notes-ja": "「できるねぇ」は相手の能力や行動を目の前で評価・感心する即時的な表現。砕けた口語で親しい間柄で使われることが多く、驚きや共感を含む。フォーマルな場では「上手ですね」「よくできますね」と言い換えられる。",
+    "notes-en": "'Dekiru nee' is an immediate expression of praise or admiration for someone's ability or action. It is casual and used in close relationships, often with a tone of surprise or shared feeling. In formal contexts, it can be replaced with 'jouzu desu ne' (you're skilled) or 'yoku dekimasu ne' (you do it well)."
+  },
+  {
     "date": "2025.09.15",
     "day": "Mon",
     "number": 524,
