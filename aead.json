@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.21",
+    "day": "Sun",
+    "number": 529,
+    "index": "nattotoka",
+    "title": "Hmm, that's kind of...",
+    "expression-ja": "...なっと",
+    "roman-ja": "…natto",
+    "expression-en": "hmm, that's kind of...",
+    "variants-ja": ["むずかしいなっと", "こわいなっと", "知らないなっと"],
+    "variants-en": ["Hmm, that’s kinda hard", "That’s kind of scary", "I don’t really know, hmm"],
+    "intent-ja": ["評価", "つぶやき", "即時判断"],
+    "intent-en": ["evaluation", "muttering", "immediate judgment"],
+    "tags-ja": ["即時文法", "口語", "評価", "曖昧"],
+    "tags-en": ["immediate grammar", "spoken", "evaluation", "vagueness"],
+    "adjusted-expression-ja": "〜だなと思って",
+    "adjusted-expression-en": "I thought it was ...",
+    "img-sub": "natto01.png",
+    "example-ja": "A「やってみる？」 B「うーん、これは、ちょっと、むずかしいなっと」",
+    "example-en": "A: Wanna give it a try? B: Hmm, this seems kinda hard...",
+    "notes-ja": "「なっと」は「だな＋っと」の口語的な連結・訛りで、評価やつぶやきを即時的に表現する表現。言い切らず、判断を含ませたまま終えるニュアンスがあり、相手に含みを伝える。フォーマルな場では「〜だと思いました」などに置き換えられる。",
+    "notes-en": "'Natto' in this context is a colloquial blend of 'da na' and 'tto', expressing immediate, often soft or hesitant judgments. It conveys a private thought, slightly left unsaid, and appears in informal spoken Japanese. In formal language, it would be replaced with 'I thought it was...'."
+  },
+  {
     "date": "2025.09.20",
     "day": "Sat",
     "number": 528,
