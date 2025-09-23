@@ -14,7 +14,7 @@
     "intent-en": ["response", "negation", "ambiguity"],
     "tags-ja": ["即時文法", "応答", "省略", "曖昧さ"],
     "tags-en": ["immediate grammar", "response", "ellipsis", "ambiguity"],
-    "adjusted-expression-ja": "(:)特にありません",
+    "adjusted-expression-ja": "(特:とく)にありません",
     "adjusted-expression-en": "Nothing in particular",
     "img-sub": "nanimo01.png",
     "example-ja": "A「どうしたの？」 B「(何:なに)も。」",
