@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.22",
+    "day": "Mon",
+    "number": 530,
+    "index": "soukitaka",
+    "title": "Ah, so that's your move.",
+    "expression-ja": "そう、きたか",
+    "roman-ja": "sou, kita ka",
+    "expression-en": "so that's how you're playing it",
+    "variants-ja": ["そうきたか", "おお、そうきたか", "そう来るとは"],
+    "variants-en": ["so that’s how it came", "didn't expect that", "ah, you went that way"],
+    "intent-ja": ["驚き", "受けとめ", "即時評価"],
+    "intent-en": ["surprise", "uptake", "instant evaluation"],
+    "tags-ja": ["即時文法", "口語", "反応", "感嘆"],
+    "tags-en": ["immediate grammar", "spoken", "reaction", "exclamation"],
+    "adjusted-expression-ja": "そう(:)来ましたか",
+    "adjusted-expression-en": "I see, so that was your move",
+    "img-sub": "soukitaka01.png",
+    "example-ja": "A「で、そこでまさかの(:)謝罪文ですよ」 B「...そう、きたか。」",
+    "example-en": "A: So then he suddenly sent an apology letter. B: ...So that's how you're playing it.",
+    "notes-ja": "「そう、きたか」は、相手の意外な行動や展開に対して即座に反応し、受け止めるときに使う表現。感心・納得・軽い驚きを含むことが多く、単なる感嘆ではなく状況の受容を示す。文頭に「ああ」や「へえ」が付くこともある。フォーマルな場では「そう来ましたか」などに言い換えられる。",
+    "notes-en": "'Sou, kitaka' is used when reacting to an unexpected turn of events or clever move. It expresses not just surprise, but also a kind of impressed acceptance. Often used in casual, reflective tones. In formal settings, it might be phrased as 'Sou kimashita ka' (I see, so that was your move)."
+  },
+  {
     "date": "2025.09.21",
     "day": "Sun",
     "number": 529,
