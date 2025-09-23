@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.23",
+    "day": "Tue",
+    "number": 531,
+    "index": "nanimo",
+    "title": "Nothing.",
+    "expression-ja": "(何:なに)も",
+    "roman-ja": "nani mo",
+    "expression-en": "Nothing.",
+    "variants-ja": ["何もない", "何もなかった", "何もいらない"],
+    "variants-en": ["There is nothing", "There was nothing", "I don't need anything"],
+    "intent-ja": ["応答", "否定", "曖昧"],
+    "intent-en": ["response", "negation", "ambiguity"],
+    "tags-ja": ["即時文法", "応答", "省略", "曖昧さ"],
+    "tags-en": ["immediate grammar", "response", "ellipsis", "ambiguity"],
+    "adjusted-expression-ja": "(:)特にありません",
+    "adjusted-expression-en": "Nothing in particular",
+    "img-sub": "nanimo01.png",
+    "example-ja": "A「どうしたの？」 B「(何:なに)も。」",
+    "example-en": "A: What's wrong? B: Nothing.",
+    "notes-ja": "「何も」は問いかけに対して短く応答する即時文法の表現で、暗黙的に「何もない」「特にない」という否定を含意する。あえて文を省略することで曖昧さを残し、会話の余地を与える。フォーマルな場面では「特にありません」と言い換えられる。",
+    "notes-en": "'Nani mo' is an immediate grammar expression used as a short response, implicitly carrying a negation such as 'there is nothing' or 'nothing in particular'. By omitting the full sentence, it leaves room for ambiguity and keeps the conversation open. In formal contexts, it can be expressed as 'tokuni arimasen' (nothing in particular)."
+  },
+  {
     "date": "2025.09.22",
     "day": "Mon",
     "number": 530,
