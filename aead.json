@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.25",
+    "day": "Thu",
+    "number": 533,
+    "index": "nishichaa",
+    "title": "Even if ... / For ...",
+    "expression-ja": "にしちゃあ",
+    "roman-ja": "ni shichaa",
+    "expression-en": "even if ... / for ...",
+    "variants-ja": ["若いにしちゃあ", "安いにしちゃあ", "上手いにしちゃあ"],
+    "variants-en": ["for being young", "for being cheap", "for being good"],
+    "intent-ja": ["評価", "比較", "驚き"],
+    "intent-en": ["evaluation", "comparison", "surprise"],
+    "tags-ja": ["即時文法", "口語", "比較", "驚き"],
+    "tags-en": ["immediate grammar", "spoken", "comparison", "surprise"],
+    "adjusted-expression-ja": "〜にしては",
+    "adjusted-expression-en": "for ... / considering ...",
+    "img-sub": "nishichaa01.png",
+    "example-ja": "A「(彼:かれ)、(若:わか)いよね」 B「うん、(若:わか)いにしちゃあ、(落:お)ち(着:つ)いてるよね」",
+    "example-en": "A: He's young, right? B: Yeah, for being young, he's pretty composed.",
+    "notes-ja": "「にしちゃあ」は「〜にしては」のくだけた口語表現で、ある基準や期待と比較して評価や驚きを即時的に伝える。親しい間柄で使われ、フォーマルな場では「〜にしては」と言い換えられる。",
+    "notes-en": "'Ni shichaa' is a casual spoken form of '...ni shite wa', used to express evaluation or surprise by comparing against a certain standard or expectation. It is commonly used among close acquaintances. In formal contexts, it can be replaced with '...ni shite wa'."
+  },
+  {
     "date": "2025.09.24",
     "day": "Wed",
     "number": 532,
