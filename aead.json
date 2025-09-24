@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.24",
+    "day": "Wed",
+    "number": 532,
+    "index": "teyo",
+    "title": "Come on, do it.",
+    "expression-ja": "みてきてよ",
+    "roman-ja": "mite kite yo",
+    "expression-en": "Go check it out, will you?",
+    "variants-ja": ["たべてよ", "みてよ", "なんとかしてよ", "やってよ"],
+    "variants-en": ["Eat it!", "look at it!", "Do something about it!", "Come on, do it!"],
+    "intent-ja": ["依頼", "感情", "圧力", "親しみ"],
+    "intent-en": ["request", "emotion", "pressure", "familiarity"],
+    "tags-ja": ["即時文法", "口語", "終助詞", "感情"],
+    "tags-en": ["immediate grammar", "spoken", "sentence-final particle", "emotion"],
+    "adjusted-expression-ja": "(見:み)てきてください",
+    "adjusted-expression-en": "Could you go and have a look, please?",
+    "img-sub": "teyo01.png",
+    "example-ja": "A「(外:そと)、(見:み)てきて」 B「えー、(見:み)てきてよ〜」",
+    "example-en": "A: Go check outside. B: Ugh, you go check it out!",
+    "notes-ja": "「..てよ」は、て形に終助詞「よ」がつくことで、親しい相手に対して感情をこめて即時的に依頼・要求する口語表現となる。やわらかくも、どこか圧力のある言い方として使われ、特に子どもや友人同士の会話で自然に使われる。フォーマルには「...てください」と言い換えられる。",
+    "notes-en": "\"...te yo\" attaches the sentence-final particle 'yo' to the te-form of a verb, creating a casual yet emotionally charged request. While often friendly, it can imply pressure or insistence, especially among close friends or children. In formal settings, it corresponds to polite requests like '...te kudasai'."
+  },
+  {
     "date": "2025.09.23",
     "day": "Tue",
     "number": 531,
