@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.29",
+    "day": "Mon",
+    "number": 537,
+    "index": "takute",
+    "title": "I want to ... / I feel like ...",
+    "expression-ja": "たくて",
+    "roman-ja": "takute",
+    "expression-en": "I want to ... / I feel like ...",
+    "variants-ja": ["食べたくて", "行きたくて", "話したくて"],
+    "variants-en": ["I want to eat", "I want to go", "I want to talk"],
+    "intent-ja": ["願望", "動機", "感情表現"],
+    "intent-en": ["desire", "motivation", "emotional expression"],
+    "tags-ja": ["即時文法", "口語", "願望", "動機"],
+    "tags-en": ["immediate grammar", "spoken", "desire", "motivation"],
+    "adjusted-expression-ja": "〜たいので",
+    "adjusted-expression-en": "because I want to ...",
+    "img-sub": "takute01.png",
+    "example-ja": "A「(野菜:やさい)だけは、いい(材料:ざいりょう)を(使:つか)いたくて」」 B「へえ、そうなんだ」",
+    "example-en": "A: I just want to use good ingredients for the vegetables. B: Oh, I see.",
+    "notes-ja": "「たくて」は動詞のたい形に接続助詞「て」がついたもので、願望や動機を即時的に表現する。感情を強調し、親しい間柄で使われることが多い。フォーマルな場では「〜たいので」などに置き換えられる。",
+    "notes-en": "'Takute' combines the 'tai' form of a verb with the connective particle 'te', expressing desire or motivation in an immediate way. It emphasizes emotion and is often used among close acquaintances. In formal contexts, it can be replaced with '...tai node' (because I want to ...)."
+  },
+  {
     "date": "2025.09.28",
     "day": "Sun",
     "number": 536,
