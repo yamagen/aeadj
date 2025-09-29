@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.09.30",
+    "day": "Tue",
+    "number": 538,
+    "index": "younamono",
+    "title": "Something like ... / Kind of like ...",
+    "expression-ja": "ようなもの",
+    "roman-ja": "you na mono",
+    "expression-en": "something like ... / kind of like ...",
+    "variants-ja": ["夢のようなもの", "映画のようなもの", "おとぎ話のようなもの"],
+    "variants-en": ["something like a dream", "something like a movie", "something like a fairy tale"],
+    "intent-ja": ["比喩", "例示", "曖昧表現"],
+    "intent-en": ["metaphor", "example", "vague expression"],
+    "tags-ja": ["即時文法", "口語", "比喩", "曖昧さ"],
+    "tags-en": ["immediate grammar", "spoken", "metaphor", "vagueness"],
+    "adjusted-expression-ja": "のようなもの",
+    "adjusted-expression-en": "something like ...",
+    "img-sub": "younamono01.png",
+    "example-ja": "A「(彼:かれ)の(話:はなし)、(夢:ゆめ)のようなもんだよね」 B「うん、(信:しん)じられないよね」",
+    "example-en": "A: His story is something like a dream, right? B: Yeah, it's unbelievable.",
+    "notes-ja": "「ようなもの/ん」は、比喩的に何かを説明したり、例示したりする即時的な表現。具体的な言葉を避け、曖昧さを持たせることで、話し手の感情やニュアンスを伝える。親しい間柄で使われることが多く、フォーマルな場では「のようなもの/ん」などに置き換えられる。",
+    "notes-en": "'You na mono/n' is an immediate expression used metaphorically to describe or exemplify something. By avoiding specific terms and introducing vagueness, it conveys the speaker's emotions or nuances. It is often used among close acquaintances. In formal contexts, it can be replaced with 'no you na mono' (something like ...)."
+  },
+  {
     "date": "2025.09.29",
     "day": "Mon",
     "number": 537,
