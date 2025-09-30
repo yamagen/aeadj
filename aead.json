@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.01",
+    "day": "Wed",
+    "number": 539,
+    "index": "oitoitatoshite",
+    "title": "Even if ... / Assuming that ...",
+    "expression-ja": "おいといたとして",
+    "roman-ja": "oitoita toshite",
+    "expression-en": "even if ... / assuming that ...",
+    "variants-ja": ["忘れといたとして", "無視しといたとして", "考えといたとして"],
+    "variants-en": ["even if you forget", "even if you ignore", "even if you consider"],
+    "intent-ja": ["仮定", "条件", "思考実験"],
+    "intent-en": ["hypothesis", "condition", "thought experiment"],
+    "tags-ja": ["即時文法", "口語", "仮定", "条件"],
+    "tags-en": ["immediate grammar", "spoken", "hypothesis", "condition"],
+    "adjusted-expression-ja": "おいておいたとしても",
+    "adjusted-expression-en": "even if you put aside ...",
+    "img-sub": "oitoitatoshite01.png",
+    "example-ja": "A「(実現性:じつげんせい)は(置:お)いといたとして、(面白:おもしろ)い(話:はなし)だよね」 B「うん、(確:たし)かに」",
+    "example-en": "A: Even if we put aside the feasibility, it's an interesting story, right? B: Yeah, certainly.",
+    "notes-ja": "「おいといたとして」は「おく」の口語的な連結形「おいとく」に過去形「た」をつけ、さらに仮定の「として」を加えた表現。ある事柄を一時的に脇に置き、仮定や条件を設定して思考実験を行う際に使われる。親しい間柄で使われ、フォーマルな場では「おいておいたとしても」などに置き換えられる。",
+    "notes-en": "'Oitoita toshite' combines the colloquial connective form 'oitoiku' of 'oku' (to put aside) with the past tense 'ta', followed by the hypothetical 'toshite'. It is used to temporarily set aside a matter and establish a hypothesis or condition for thought experiments. It is often used among close acquaintances. In formal contexts, it can be replaced with 'oite oita toshitemo' (even if you put aside ...)."
+  },
+  {
     "date": "2025.09.30",
     "day": "Tue",
     "number": 538,
