@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.02",
+    "day": "Thu",
+    "number": 540,
+    "index": "sounandakedone",
+    "title": "That's true, but ... / I agree, but ...",
+    "expression-ja": "そうなんだけどね",
+    "roman-ja": "sou nan da kedo ne",
+    "expression-en": "That's true, but ... / I agree, but ...",
+    "variants-ja": ["いいんだけどね", "わかるんだけどね", "助かるんだけどね"],
+    "variants-en": ["That's fine, but ...", "I understand, but ...", "That helps, but ..."],
+    "intent-ja": ["同意", "反論", "補足"],
+    "intent-en": ["agreement", "objection", "supplement"],
+    "tags-ja": ["即時文法", "口語", "同意", "反論"],
+    "tags-en": ["immediate grammar", "spoken", "agreement", "objection"],
+    "adjusted-expression-ja": "そうですが",
+    "adjusted-expression-en": "That's true, but ...",
+    "img-sub": "sounandakedone01.png",
+    "example-ja": "A「(彼:かれ)、(優:やさ)しいよね」 B「うん、そうなんだけどね、(優:やさ)しすぎるんだよ」",
+    "example-en": "A: He's kind, right? B: Yeah, that's true, but he's too kind.",
+    "notes-ja": "「そうなんだけどね」は、相手の意見に同意しつつも、何らかの反論や補足を加える際に使う口語的な表現。親しい間柄でよく使われ、フォーマルな場では「そうですが」などに置き換えられる。",
+    "notes-en": "'Sou nan da kedo ne' is a colloquial expression used to agree with someone's opinion while also adding an objection or additional information. It is commonly used among close acquaintances. In formal contexts, it can be replaced with 'sou desu ga' (That's true, but ...)."
+  },
+  {
     "date": "2025.10.01",
     "day": "Wed",
     "number": 539,
