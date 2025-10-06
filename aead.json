@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.07",
+    "day": "Tue",
+    "number": 545,
+    "index": "aremouowari?",
+    "title": "Is it over already? / Is that it already?",
+    "expression-ja": "あれ！もう(終:お)わり？",
+    "roman-ja": "are mou owari?",
+    "expression-en": "Is it over already? / Is that it already?",
+    "variants-ja": ["それ！もう(終:お)わり？", "これ！もう(終:お)わり？", "あれ！もう(終:お)わったの？"],
+    "variants-en": ["Is that it already?", "Is this over already?", "Is it already finished?"],
+    "intent-ja": ["驚き", "確認", "感情表現"],
+    "intent-en": ["surprise", "confirmation", "emotional expression"],
+    "tags-ja": ["即時文法", "口語", "感情表現", "確認"],
+    "tags-en": ["immediate grammar", "spoken", "emotional expression", "confirmation"],
+    "adjusted-expression-ja": "もう(終:お)わりですか？",
+    "adjusted-expression-en": "Is it over already?",
+    "img-sub": "aremouowari01.png",
+    "example-ja": "A「これで、おしまい、(面白:おもしろ)かったね」 B「あれ！もう(終:お)わり？」",
+    "example-en": "A: That's it, it was fun, right? B: Is it over already?",
+    "notes-ja": "「あれもう終わり？」は、相手の発言や状況に対して驚きや確認を即時的に表現する口語的な表現。親しい間柄でよく使われ、フォーマルな場では「もう終わりですか？」などに置き換えられる。",
+    "notes-en": "'Are mou owari?' is a colloquial expression used to immediately convey surprise or seek confirmation regarding someone's statement or situation. It is commonly used among close acquaintances. In formal contexts, it can be replaced with 'mou owari desu ka?' (Is it over already?)."
+  },
+  {
     "date": "2025.10.06",
     "day": "Mon",
     "number": 544,
