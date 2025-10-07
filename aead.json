@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.08",
+    "day": "Wed",
+    "number": 546,
+    "index": "tteiukotoha?",
+    "title": "You mean ...? / Are you saying ...?",
+    "expression-ja": "っていうことは？",
+    "roman-ja": "tte iu koto wa?",
+    "expression-en": "You mean ...? / Are you saying ...?",
+    "variants-ja": ["つまり？", "要するに？", "ということは？"],
+    "variants-en": ["In other words?", "To sum up?", "So, are you saying...?"],
+    "intent-ja": ["確認", "理解", "驚き"],
+    "intent-en": ["confirmation", "understanding", "surprise"],
+    "tags-ja": ["即時文法", "口語", "確認", "理解"],
+    "tags-en": ["immediate grammar", "spoken", "confirmation", "understanding"],
+    "adjusted-expression-ja": "すなわち、",
+    "adjusted-expression-en": "In other words, ...",
+    "img-sub": "tteiukotoha01.png",
+    "example-ja": "A「(明日:あした)、(雨:あめ)だって」 B「っていうことは、(中止:ちゅうし)？」",
+    "example-en": "A: They say it's going to rain tomorrow. B: You mean it's canceled?",
+    "notes-ja": "「っていうことは？」は、相手の発言に基づいて確認や理解を求める即時的な表現。親しい間柄でよく使われ、フォーマルな場では「すなわち、」などに置き換えられる。",
+    "notes-en": "'Tte iu koto wa?' is an immediate expression used to seek confirmation or understanding based on someone's statement. It is commonly used among close acquaintances. In formal contexts, it can be replaced with 'sunawachi,' (In other words, ...)."
+  },
+  {
     "date": "2025.10.07",
     "day": "Tue",
     "number": 545,
