@@ -1,5 +1,29 @@
 [
   {
+    "date": "2025.10.13",
+    "day": "Mon",
+    "number": 551,
+    "index": "kokosaikin",
+    "title": "Lately ... / These days ...",
+    "expression-ja": "ここ(最近:さいきん)",
+    "roman-ja": "koko saikin",
+    "expression-en": "Lately ... / These days ...",
+
+    "variants-ja": ["ここ(最近:さいきん)(忙:いそが)しい", "ここ(最近:さいきん)(寒:さむ)い", "ここ(最近:さいきん)(疲:つか)れる"],
+    "variants-en": ["Lately I've been busy", "These days it's cold", "Lately I'm getting tired"],
+    "intent-ja": ["近況報告", "話題提供", "感情表現"],
+    "intent-en": ["recent updates", "topic introduction", "emotional expression"],
+    "tags-ja": ["即時文法", "口語", "近況報告", "話題提供"],
+    "tags-en": ["immediate grammar", "spoken", "recent updates", "topic introduction"],
+    "adjusted-expression-ja": "最近",
+    "adjusted-expression-en": "Lately ... / These days ...",
+    "img-sub": "kokosaikin01.png",
+    "example-ja": "A「(最近:さいきん)、(忙:いそが)しい？」 B「うん、ここ(最近:さいきん)は(本当:ほんとう)に(忙:いそが)しいよ」",
+    "example-en": "A: Have you been busy lately? B: Yeah, these days I've really been busy.",
+    "notes-ja": "「ここ最近」は「最近」の前に「ここ」を付け加えたもので、話し手が現在の近況や状況を強調して伝えたいときに使う。正直に言うが、なぜ「ここ」を付けるのかというかという明瞭な理由はわからない。「そこそこちょっと前」などという表現はないので、こういうものはルール化できない。",
+    "notes-en": "'Koko saikin' is formed by adding 'koko' (here) before 'saikin' (recently), used when the speaker wants to emphasize their current situation or recent updates. Honestly, there isn't a clear reason why 'koko' is added; there are no expressions like 'soko soko chotto mae' (there, a little while ago), so such expressions cannot be strictly rule-based."
+  },
+  {
     "date": "2025.10.12",
     "day": "Sun",
     "number": 550,
