@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.15",
+    "day": "Wed",
+    "number": 553,
+    "index": "toiukane,...",
+    "title": "rather than that, ... / I mean, ... / You know, ...",
+    "expression-ja": "というかね、...",
+    "roman-ja": "toiukane,...",
+    "expression-en": "rather than that, ... / I mean, ... / You know, ...",
+    "variants-ja": ["つまりね、...", "要するにね、...", "なんていうかね、..."],
+    "variants-en": ["In other words, ...", "To sum up, ...", "How should I put it, ..."],
+    "intent-ja": ["説明", "補足", "話題転換"],
+    "intent-en": ["explanation", "supplement", "topic shift"],
+    "tags-ja": ["即時文法", "口語", "説明", "補足"],
+    "tags-en": ["immediate grammar", "spoken", "explanation", "supplement"],
+    "adjusted-expression-ja": "つまり、",
+    "adjusted-expression-en": "In other words, ...",
+    "img-sub": "toiukane01.png",
+    "example-ja": "A「(彼:かれ)って、(本当:ほんとう)に(優:やさ)しいよね」 B「うん、というかね、(優:やさ)しすぎるんだよ」",
+    "example-en": "A: He's really kind, right? B: Yeah, I mean, he's too kind.",
+    "notes-ja": "「というかね、...」は、相手の発言に対して補足説明や別の視点を提供する際に使う口語的な表現。もっと本音を漏らすときに使われることが多い。そして、だいたいあまり良い意味ではないことが多い。",
+    "notes-en": "'Toiukane,...' is a colloquial expression used to provide additional explanation or a different perspective in response to someone's statement. It is often used when revealing more honest feelings, and it usually carries a somewhat negative connotation."
+  },
+  {
     "date": "2025.10.14",
     "day": "Tue",
     "number": 552,
