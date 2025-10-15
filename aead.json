@@ -1,5 +1,27 @@
 [
   {
+    "date": "2025.10.14",
+    "day": "Tue",
+    "number": 552,
+    "index": "tsuiteru",
+    "title": "I'm lucky / I'm fortunate",
+    "expression-ja": "ついてる",
+    "roman-ja": "tsuiteru",
+    "expression-en": "I'm lucky / I'm fortunate",
+    "variants-ja": ["運がついてる", "ツイてる", "幸運がついてる"],
+    "variants-en": ["I'm lucky", "I'm fortunate", "Luck is on my side"],
+    "intent-ja": ["感謝", "喜び", "自己肯定"],
+    "intent-en": ["gratitude", "joy", "self-affirmation"],
+    "tags-ja": ["即時文法", "口語", "感謝", "喜び"],
+    "tags-en": ["immediate grammar", "spoken", "gratitude", "joy"],
+    "adjusted-expression-ja": "運がいいです",
+    "adjusted-expression-en": "I'm lucky",
+    "img-sub": "tsuiteru01.png",
+    "example-ja": "A「(宝:たから)くじ、(当:あ)たったんだって？」 B「うん、(本当:ほんとう)についてるよ」",
+    "example-en": "A: I heard you won the lottery? B: Yeah, I'm really lucky.",
+    "notes-ja": "「ついてる」は、運が良いことや幸運に恵まれていることを即時的に表現する口語的な表現。親しい間柄でよく使われます。▼逆に運が悪い場合は「ついてない」を使います。"
+  },
+  {
     "date": "2025.10.13",
     "day": "Mon",
     "number": 551,
