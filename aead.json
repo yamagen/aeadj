@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.16",
+    "day": "Thu",
+    "number": 554,
+    "index": "nazekattuuto",
+    "title": "This is the thing / This is the point / This is why ...",
+    "expression-ja": "なぜかっつーと",
+    "roman-ja": "naze kattsuu to",
+    "expression-en": "This is the thing / This is the point / This is why ...",
+    "variants-ja": ["理由はね、...", "原因はね、...", "ポイントはね、..."],
+    "variants-en": ["The reason is, ...", "The cause is, ...", "The point is, ..."],
+    "intent-ja": ["説明", "理由付け", "強調"],
+    "intent-en": ["explanation", "justification", "emphasis"],
+    "tags-ja": ["即時文法", "口語", "説明", "理由付け"],
+    "tags-en": ["immediate grammar", "spoken", "explanation", "justification"],
+    "adjusted-expression-ja": "なぜなら、",
+    "adjusted-expression-en": "The reason is, ...",
+    "img-sub": "nazekattuuto01.png",
+    "example-ja": "A「(今日:きょう)はね、すぐ(家:いえ)に(帰:かえ)る、なぜかっつーと、(彼女:かのじょ)の(誕生日:たんじょうび)なんだ」",
+    "example-en": "A: I'm going home right away today. This is the thing, it's my girlfriend's birthday.",
+    "notes-ja": "「なぜかっつーと、...」は、相手に対して説明や理由付けを即時的に行う際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「なぜ」「か」「っつーと」はそれぞれ独立した言葉で、「なぜ」は「why」、「か」は疑問を示す助詞、「っつーと」は「というと」の口語縮約形です。つまり、「なぜかっつーと、...」は「なぜなら、...」と同じ意味になります。でも、これよく使うんですよ。",
+    "notes-en": "'Naze kattsuu to, ...' is a colloquial expression used to provide immediate explanation or justification to someone. To explain the structure of this phrase in more detail, 'naze' means 'why', 'ka' is a particle indicating a question, and 'ttsu to' is a colloquial contraction of 'to iu to' (meaning 'if you say'). Therefore, 'naze kattsuu to, ...' has the same meaning as 'nazenara, ...' (The reason is, ...). However, this expression is frequently used in casual conversation."
+  },
+  {
     "date": "2025.10.15",
     "day": "Wed",
     "number": 553,
