@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.17",
+    "day": "Fri",
+    "number": 555,
+    "index": "tteiutone,",
+    "title": "if you say ...",
+    "expression-ja": "っていうとね、",
+    "roman-ja": "tte iutone,",
+    "expression-en": "if you say ...",
+    "variants-ja": ["そんなこといったら、", "そういうと、", "そう言ってしまったら、"],
+    "variants-en": ["If you say that, ...", "If you put it that way, ...", "If you say so, ..."],
+    "intent-ja": ["説明", "補足", "過剰の指摘"],
+    "intent-en": ["explanation", "supplement", "excessive pointing out"],
+    "tags-ja": ["即時文法", "口語", "説明", "補足"],
+    "tags-en": ["immediate grammar", "spoken", "explanation", "supplement"],
+    "adjusted-expression-ja": "と言ってしまいますと、",
+    "adjusted-expression-en": "If you say so, ...",
+    "img-sub": "tteiutone01.png",
+    "example-ja": "A「だいたい5(時間:じかん)ぐらいかかる、っていうとね、すごく(難:)しいような(感:かん)じがするけど、(実:じつ)は、(簡単:かんたん)」",
+    "example-en": "A: It takes about five hours. If you say that, it sounds really difficult, but actually, it's easy.",
+    "notes-ja": "「っていうとね、...」は、相手もしくは自分の発言に対して補足説明や別の視点を提供する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「って」「いう」「と」「ね」はそれぞれ独立した言葉で、「って」は「という」の口語縮約形、「いう」は「to say」、「と」は引用を示す助詞、「ね」は話し手の感情や意図を強調する終助詞です。つまり、「っていうとね、...」は「と言ってしまいますと、...」と同じ意味になります。",
+    "notes-en": "'Tte iutone, ...' is a colloquial expression used to provide additional explanation or a different perspective regarding someone's or one's own statement. To explain the structure of this phrase in more detail, 'tte' is a colloquial contraction of 'to iu' (meaning 'to say'), 'to' is a particle indicating quotation, and 'ne' is a sentence-ending particle that emphasizes the speaker's feelings or intentions. Therefore, 'tte iutone, ...' has the same meaning as 'to itte shimaimasu to, ...' (If you say so, ...)."
+  },
+  {
     "date": "2025.10.16",
     "day": "Thu",
     "number": 554,
