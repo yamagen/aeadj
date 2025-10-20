@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.20",
+    "day": "Mon",
+    "number": 558,
+    "index": "omouyouniikanai",
+    "title": "It doesn't go as I think / It doesn't go as expected",
+    "expression-ja": "(思:おも)うように(行:い)かない",
+    "roman-ja": "omou you ni ikanai",
+    "expression-en": "It doesn't go as I think / It doesn't go as expected",
+    "variants-ja": ["予想通りに行かない", "期待通りに行かない", "考え通りに行かない"],
+    "variants-en": ["It doesn't go as I expected", "It doesn't go as I anticipated", "It doesn't go as I considered"],
+    "intent-ja": ["比較", "評価", "感想"],
+    "intent-en": ["comparison", "evaluation", "impression"],
+    "tags-ja": ["即時文法", "口語", "比較", "評価"],
+    "tags-en": ["immediate grammar", "spoken", "comparison", "evaluation"],
+    "adjusted-expression-ja": "(予想:よそう)通りに(行:い)かない",
+    "adjusted-expression-en": "It doesn't go as I expected",
+    "img-sub": "omouyouniikanai01.png",
+    "example-ja": "A「(順調:じゅんちょう)に(進:すす)んでる？」 B「うーん、(思:おも)うように(行:い)かないね」",
+    "example-en": "A: Is it going smoothly? B: Hmm, it doesn't go as I thought.",
+    "notes-ja": "「思うように行かない」は、予想や期待と比較して実際の結果や状況が異なるという意味。英語では\"It's not going my way\"や\"Nothing is going right\"などと表現されることが多い。少し苛立ちや失望のニュアンスが含まれることがある。",
+    "notes-en": "'Omou you ni ikanai' means that the actual result or situation differs from one's expectations or anticipations. In English, it is often expressed as \"It's not going my way\" or \"Nothing is going right.\" It may carry a nuance of frustration or disappointment."
+  },
+  {
     "date": "2025.10.19",
     "day": "Sun",
     "number": 557,
