@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.19",
+    "day": "Sun",
+    "number": 557,
+    "index": "omottayorine",
+    "title": "than I thought / than expected",
+    "expression-ja": "(思:おも)ったよりね",
+    "roman-ja": "omotta yorine",
+    "expression-en": "than I thought / than expected",
+    "variants-ja": ["予想よりね", "期待よりね", "考えよりね"],
+    "variants-en": ["than I expected", "than I anticipated", "than I considered"],
+    "intent-ja": ["比較", "評価", "感想"],
+    "intent-en": ["comparison", "evaluation", "impression"],
+    "tags-ja": ["即時文法", "口語", "比較", "評価"],
+    "tags-en": ["immediate grammar", "spoken", "comparison", "evaluation"],
+    "adjusted-expression-ja": "(予想:よそう)よりも",
+    "adjusted-expression-en": "than I expected",
+    "img-sub": "omottayorine01.png",
+    "example-ja": "A「(早:はや)く(着:つ)いたね」 B「うん、(思:おも)ったよりね」",
+    "example-en": "A: We arrived early, didn't we? B: Yeah, than I thought.",
+    "notes-ja": "「思ったよりね」は、予想や期待と比較して実際の結果や状況が異なることを即時的に表現する。",
+    "notes-en": "'Omotta yorine' is used to immediately express that the actual result or situation differs from one's expectations or anticipations."
+  },
+  {
     "date": "2025.10.18",
     "day": "Sat",
     "number": 556,
