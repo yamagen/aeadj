@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.18",
+    "day": "Sat",
+    "number": 556,
+    "index": "koichijikanhodo",
+    "title": "about one hour / around one hour",
+    "expression-ja": "(小1時間:こいちじかん)ほど",
+    "roman-ja": "koichijikan hodo",
+    "expression-en": "about one hour / around one hour",
+    "variants-ja": ["約1時間", "およそ1時間", "だいたい1時間"],
+    "variants-en": ["approximately one hour", "around one hour", "roughly one hour"],
+    "intent-ja": ["時間の見積もり", "説明", "情報提供"],
+    "intent-en": ["time estimation", "explanation", "information provision"],
+    "tags-ja": ["即時文法", "書き言葉", "時間表現", "説明"],
+    "tags-en": ["immediate grammar", "written language", "time expression", "explanation"],
+    "adjusted-expression-ja": "(約1時間:やくいちじかん)",
+    "adjusted-expression-en": "approximately one hour",
+    "img-sub": "koichijikanhodo01.png",
+    "example-ja": "A「(会議:かいぎ)は(小1時間:こいちじかん)ほどで」 B「では、またその(頃:ころ)」",
+    "example-en": "A: The meeting will be about one hour. B: See you around that time.",
+    "notes-ja": "「小1時間ほど」は「約1時間」や「およそ1時間」と同じ意味で、時間の見積もりを表現する際に使う。だいたい1時間より少し短い時間を指すことが多く、相手にさほど長い時間ではないことを示す。それでは「小30分ほど」と言うかというと、あまり言わない。なぜかはわからないが、言いにくいことぐらいはわかる。",
+    "notes-en": "'Koichijikan hodo' has the same meaning as 'yaku ichijikan' or 'oyoso ichijikan', used to express an estimate of time. It often refers to a duration slightly less than one hour, indicating to the listener that it is not a particularly long time. However, people generally do not say 'ko sanjuppun hodo' (about half an hour). The reason for this is unclear, but it is understandable that it may sound awkward."
+  },
+  {
     "date": "2025.10.17",
     "day": "Fri",
     "number": 555,
