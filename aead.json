@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.23",
+    "day": "Thu",
+    "number": 561,
+    "index": "naniyannakuchanaranaindakke",
+    "title": "What am I supposed to do?",
+    "expression-ja": "(何:なに)やんなくちゃならないんだっけ",
+    "roman-ja": "nani yannakucha naranain dakke",
+    "expression-en": "What am I supposed to do?",
+    "variants-ja": ["何をしなくちゃならないんだっけ", "何をやらなくちゃならないんだっけ", "何をしなければならないんだっけ"],
+    "variants-en": ["What do I have to do?", "What must I do?", "What am I supposed to do?"],
+    "intent-ja": ["確認", "思い出し", "自己管理"],
+    "intent-en": ["confirmation", "recall", "self-management"],
+    "tags-ja": ["即時文法", "口語", "確認", "思い出し"],
+    "tags-en": ["immediate grammar", "spoken", "confirmation", "recall"],
+    "adjusted-expression-ja": "何をすべきだったのか、忘れてしまった",
+    "adjusted-expression-en": "I forgot what I was supposed to do",
+    "img-sub": "naniyannakuchanaranaindakke01.png",
+    "example-ja": "A「(明日:あした)の(会議:かいぎ)の(準備:じゅんび)、(何:なに)やんなくちゃならないんだっけ？」 B「(資料:しりょう)の(印刷:いんさつ)とだけじゃない？」",
+    "example-en": "A: What am I supposed to do to prepare for tomorrow's meeting? B: Isn't it just printing the materials?",
+    "notes-ja": "「何やんなくちゃならないんだっけ」は、「何をしなければならないのか忘れてしまった」という意味で、話し手が自分の義務やタスクを思い出そうとしていることを示す口語的な表現。もう少し詳しくこのことばの構成を説明すると、「何(なに)」は「what」、「やんなくちゃ」は「やらなくては」の口語縮約形で、「しなければならない」の意味、「ならないんだっけ」は「ならないのか忘れてしまった」という意味です。つまり、「何やんなくちゃならないんだっけ」は「何をしなければならないのか忘れてしまった」という意味になります。独り言としてよく使われます。",
+    "notes-en": "'Nani yannakucha naranain dakke' means 'I forgot what I was supposed to do', indicating that the speaker is trying to recall their duties or tasks. To explain the structure of this phrase in more detail, 'nani' means 'what', 'yannakucha' is a colloquial contraction of 'yaranakute wa', meaning 'must do', and 'naranain dakke' means 'I forgot what I was supposed to do'. Therefore, 'nani yannakucha naranain dakke' means 'I forgot what I was supposed to do'. It is often used as a self-talk."
+  },
+  {
     "date": "2025.10.22",
     "day": "Wed",
     "number": 560,
