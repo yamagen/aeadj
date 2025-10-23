@@ -14,7 +14,7 @@
     "intent-en": ["confirmation", "recall", "self-management"],
     "tags-ja": ["即時文法", "口語", "確認", "思い出し"],
     "tags-en": ["immediate grammar", "spoken", "confirmation", "recall"],
-    "adjusted-expression-ja": "何をすべきだったのか、忘れてしまった",
+    "adjusted-expression-ja": "(何:なに)をすべきだったのか、(忘:わす)れてしまった",
     "adjusted-expression-en": "I forgot what I was supposed to do",
     "img-sub": "naniyannakuchanaranaindakke01.png",
     "example-ja": "A「(明日:あした)の(会議:かいぎ)の(準備:じゅんび)、(何:なに)やんなくちゃならないんだっけ？」 B「(資料:しりょう)の(印刷:いんさつ)とだけじゃない？」",
