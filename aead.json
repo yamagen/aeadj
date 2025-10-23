@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.24",
+    "day": "Fri",
+    "number": 562,
+    "index": "unzarisuru",
+    "title": "I feel sick / I feel nauseous",
+    "expression-ja": "うんざりする",
+    "roman-ja": "unzari suru",
+    "expression-en": "I feel sick / I feel nauseous",
+    "variants-ja": ["飽き飽きする", "嫌気がさす", "うんざりだ"],
+    "variants-en": ["I'm fed up", "I'm sick of it", "I'm tired of it"],
+    "intent-ja": ["感情表現", "不満", "嫌悪"],
+    "intent-en": ["emotional expression", "dissatisfaction", "disgust"],
+    "tags-ja": ["即時文法", "口語", "感情表現", "不満"],
+    "tags-en": ["immediate grammar", "spoken", "emotional expression", "dissatisfaction"],
+    "adjusted-expression-ja": "(嫌気:いやけ)がさす",
+    "adjusted-expression-en": "I'm sick of it",
+    "img-sub": "unzarisuru01.png",
+    "example-ja": "A「(彼:かれ)の(話:はなし)、またあの(話:はなし)？」 B「うん、(本当:ほんとう)にうんざりするよ」",
+    "example-en": "A: His story, that story again? B: Yeah, I'm really sick of it.",
+    "notes-ja": "「うんざりする」は、同じことが繰り返されたり、嫌なことが続いたりして、強い不満や嫌悪感を感じることを即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「うんざり」は「飽き飽きする」や「嫌気がさす」と同じ意味で、物事に対して強い嫌悪感や不満を感じる状態を指します。",
+    "notes-en": "'Unzari suru' is a colloquial expression used to immediately express strong dissatisfaction or disgust when the same thing is repeated or unpleasant things continue. To explain the structure of this phrase in more detail, 'unzari' has the same meaning as 'akiaki suru' or 'iyake ga sasu', referring to a state of feeling strong disgust or dissatisfaction towards something."
+  },
+  {
     "date": "2025.10.23",
     "day": "Thu",
     "number": 561,
