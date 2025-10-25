@@ -1,5 +1,27 @@
 [
   {
+    "date": "2025.10.25",
+    "day": "Sat",
+    "number": 563,
+    "index": "doushitahazumika",
+    "title": "Not sure why, ...",
+    "expression-ja": "どうしたはずみか、...",
+    "roman-ja": "doushita hazumi ka, ",
+    "expression-en": "Not sure why, ",
+    "variants-ja": ["なぜか知らないけど、...", "理由はわからないけど、...", "なんとなくだけど、..."],
+    "variants-en": ["I don't know why, ...", "I don't know the reason, ...", "For some reason, ..."],
+    "intent-ja": ["説明", "理由付け", "感情表現"],
+    "intent-en": ["explanation", "justification", "emotional expression"],
+    "tags-ja": ["即時文法", "口語", "説明", "理由付け"],
+    "tags-en": ["immediate grammar", "spoken", "explanation", "justification"],
+    "adjusted-expression-ja": "(明確:めいかく)な(理由:りゆう)は(不明:ふめい)だが、...",
+    "adjusted-expression-en": "Although the exact reason is unclear, ...",
+    "example-ja": "どうしたはずみか、(休:やす)みなのに(大学:だいがく)に(来:き)てしまった。",
+    "example-en": "Not sure why, but I ended up coming to the university on a holiday.",
+    "notes-ja": "「どうしたはずみか、...」は、明確な理由がわからないが、ある出来事や行動が起こったことを即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「どうした」は「what happened」の意味、「はずみ」は「impetus」や「trigger」の意味、「か」は疑問を示す助詞です。",
+    "notes-en": "'Doushita hazumi ka, ...' is a colloquial expression used to immediately express that an event or action occurred without a clear reason. To explain the structure of this phrase in more detail, 'doushita' means 'what happened', 'hazumi' means 'impetus' or 'trigger', and 'ka' is a particle indicating a question."
+  },
+  {
     "date": "2025.10.24",
     "day": "Fri",
     "number": 562,
