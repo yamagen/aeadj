@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.28",
+    "day": "Tue",
+    "number": 566,
+    "index": "umakuitteru",
+    "title": "It's going well / It's working out",
+    "expression-ja": "うまくいってる",
+    "roman-ja": "umaku itteru",
+    "expression-en": "It's going well / It's working out",
+    "variants-ja": ["順調に進んでいる", "うまく進んでいる", "問題なく進んでいる"],
+    "variants-en": ["It's progressing smoothly", "It's going smoothly", "It's progressing without problems"],
+    "intent-ja": ["状況報告", "評価", "安心感の表現"],
+    "intent-en": ["status report", "evaluation", "expression of reassurance"],
+    "tags-ja": ["即時文法", "口語", "状況報告", "評価"],
+    "tags-en": ["immediate grammar", "spoken", "status report", "evaluation"],
+    "adjusted-expression-ja": "(順調:じゅんちょう)に(進:すす)んでいる",
+    "adjusted-expression-en": "It's progressing smoothly",
+    "img-sub": "umakuitteru01.png",
+    "example-ja": "A「(新企画:しんきかく)はどう？」 B「うまくいってるよ、(予定:よてい)通りに(進:すす)んでる」",
+    "example-en": "A: How's the new project going? B: It's going well, progressing as planned.",
+    "notes-ja": "「うまくいってる」は、物事が順調に進んでいることを即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「うまく」は「well」や「smoothly」の意味、「いってる」は「行っている」の口語縮約形で、「to go」や「to progress」の意味です。つまり、「うまくいってる」は「It's going well」や「It's working out」と同じ意味になります。",
+    "notes-en": "'Umaku itteru' is a colloquial expression used to immediately express that things are progressing smoothly. To explain the structure of this phrase in more detail, 'umaku' means 'well' or 'smoothly', and 'itteru' is a colloquial contraction of 'itte iru', meaning 'to go' or 'to progress'. Therefore, 'umaku itteru' has the same meaning as 'It's going well' or 'It's working out'."
+  },
+  {
     "date": "2025.10.27",
     "day": "Mon",
     "number": 565,
