@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.29",
+    "day": "Wed",
+    "number": 567,
+    "index": "nakuccha",
+    "title": "have to / must / need to",
+    "expression-ja": "しなくっちゃ",
+    "roman-ja": "nakuccha",
+    "expression-en": "have to / must / need to",
+    "variants-ja": ["しなければならない", "しないといけない", "しなくてはいけない"],
+    "variants-en": ["have to", "must", "need to"],
+    "intent-ja": ["義務", "必要性", "強制"],
+    "intent-en": ["obligation", "necessity", "compulsion"],
+    "tags-ja": ["即時文法", "口語", "義務", "必要性"],
+    "tags-en": ["immediate grammar", "spoken", "obligation", "necessity"],
+    "adjusted-expression-ja": "しなければならない",
+    "adjusted-expression-en": "have to",
+    "img-sub": "nakuccha01.png",
+    "example-ja": "A「(宿題:しゅくだい)は？」 B「うん、(今:いま)からしなくっちゃ」",
+    "example-en": "A: What about your homework? B: Yeah, I have to do it now.",
+    "notes-ja": "「しなくっちゃ」は、「しなければならない」や「しないといけない」と同じ意味で、義務や必要性を即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「しなくっちゃ」は「しなければ」の口語縮約形で、「to have to do」や「must do」の意味、「ちゃ」は「ては」の口語縮約形で、その後ろに「ならない」が省略されている形です。つまり、「しなくっちゃ」は「have to」や「must」と同じ意味になります。",
+    "notes-en": "'Shinakuccha' has the same meaning as 'shinakereba naranai' or 'shinai to ikenai', used to immediately express obligation or necessity in a colloquial manner. To explain the structure of this phrase in more detail, 'shinakuccha' is a colloquial contraction of 'shinakereba', meaning 'to have to do' or 'must do', and 'cha' is a colloquial contraction of 'te wa', with 'naranai' omitted afterward. Therefore, 'shinakuccha' has the same meaning as 'have to' or 'must'."
+  },
+  {
     "date": "2025.10.28",
     "day": "Tue",
     "number": 566,
