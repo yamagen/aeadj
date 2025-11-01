@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.10.31",
+    "day": "Fri",
+    "number": 569,
+    "index": "komakaikoto",
+    "title": "detailed things / small details",
+    "expression-ja": "(細:こま)かいこと",
+    "roman-ja": "komakai koto",
+    "expression-en": "detailed things / small details",
+    "variants-ja": ["細部のこと", "重箱の隅", "小さなこと"],
+    "variants-en": ["detailed matters", "specific details", "minor things"],
+    "intent-ja": ["説明", "情報提供", "注意喚起"],
+    "intent-en": ["explanation", "information provision", "attention"],
+    "tags-ja": ["即時文法", "口語", "説明", "情報提供"],
+    "tags-en": ["immediate grammar", "spoken", "explanation", "information provision"],
+    "adjusted-expression-ja": "(些細:ささい)なこと",
+    "adjusted-expression-en": "minor things",
+    "img-sub": "komakaikoto01.png",
+    "example-ja": "A「(髪:かみ)、ちゃんと(結:むす)んで(行:い)きなさい」 B「そんな(細:こま)かいこと」",
+    "example-en": "A: Make sure to tie your hair properly. B: Such a detailed thing.",
+    "notes-ja": "「細かいこと」は、詳細な情報や小さな事柄を指す口語的な表現。もう少し詳しくこのことばの構成を説明すると、「細かい」は「detailed」や「small」の意味、「こと」は「thing」や「matter」の意味です。つまり、「細かいこと」は「detailed things」や「small details」と同じ意味になりますが、だいたいは「どうでもいいこと」という意味で使われます。",
+    "notes-en": "'Komakai koto' is a colloquial expression referring to detailed information or small matters. To explain the structure of this phrase in more detail, 'komakai' means 'detailed' or 'small', and 'koto' means 'thing' or 'matter'. Therefore, 'komakai koto' has the same meaning as 'detailed things' or 'small details', but it is generally used to mean 'trivial matters'."
+  },
+  {
     "date": "2025.10.30",
     "day": "Thu",
     "number": 568,
