@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.11.03",
+    "day": "Mon",
+    "number": 572,
+    "index": "muda",
+    "title": "waste / futility",
+    "expression-ja": "(無駄:むだ)",
+    "roman-ja": "muda",
+    "expression-en": "waste / futility",
+    "variants-ja": ["無意味", "無益", "徒労"],
+    "variants-en": ["meaningless", "pointless", "futile"],
+    "intent-ja": ["評価", "否定", "感情表現"],
+    "intent-en": ["evaluation", "negation", "emotional expression"],
+    "tags-ja": ["即時文法", "口語", "評価", "否定"],
+    "tags-en": ["immediate grammar", "spoken", "evaluation", "negation"],
+    "adjusted-expression-ja": "(無意味:むいみ)",
+    "adjusted-expression-en": "meaningless",
+    "img-sub": "muda01.png",
+    "example-ja": "A「この(仕事:しごと)、(無駄:むだ)じゃない？」 B「うん、(時間:じかん)の(無駄:むだ)だよね」",
+    "example-en": "A: Isn't this work a waste? B: Yeah, it's a waste of time.",
+    "notes-ja": "「無駄」は、労力や時間を費やしても成果が得られないことを即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「無駄」は「waste」や「futility」の意味で、価値のないことや無意味なことを指します。",
+    "notes-en": "'Muda' is a colloquial expression used to immediately express that effort or time spent does not yield results. To explain the structure of this phrase in more detail, 'muda' means 'waste' or 'futility', referring to something that is worthless or meaningless."
+  },
+  {
     "date": "2025.11.02",
     "day": "Sun",
     "number": 571,
