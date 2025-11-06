@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.11.06",
+    "day": "Thu",
+    "number": 575,
+    "index": "ugokimawatte",
+    "title": "to move around / to circulate",
+    "expression-ja": "(動:うご)き(回:まわ)って",
+    "roman-ja": "ugoki mawatte",
+    "expression-en": "to move around / to circulate",
+    "variants-ja": ["巡回する", "移動する", "循環する"],
+    "variants-en": ["to patrol", "to move", "to circulate"],
+    "intent-ja": ["動作の描写", "状態の説明", "行動の指示"],
+    "intent-en": ["action description", "state explanation", "action instruction"],
+    "tags-ja": ["即時文法", "口語", "動作描写", "状態説明"],
+    "tags-en": ["immediate grammar", "spoken", "action description", "state explanation"],
+    "adjusted-expression-ja": "活発に動いている",
+    "adjusted-expression-en": "being actively in motion",
+    "img-sub": "ugokimawatte01.png",
+    "example-ja": "A「ねえ、(パンダ:ぱんだ)、どうだった？」 B「うん、(動:うご)き(回:まわ)ってて(可愛:かわい)かったよ」",
+    "example-en": "A: Hey, how was the panda? B: Yeah, it was moving around and cute.",
+    "notes-ja": "「動き回って」は、物や人が活発に移動したり、巡回したりする様子を即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「動き」は「to move」の意味、「回って」は「to go around」や「to circulate」の意味です。つまり、「動き回って」は「to move around」や「to circulate」と同じ意味になります。調整後の表現として、「活発に動いている」を紹介しましたが、普通に「動き回っている」と言うこともできます。",
+    "notes-en": "'Ugoki mawatte' is a colloquial expression used to immediately describe the state of objects or people moving actively or patrolling. To explain the structure of this phrase in more detail, 'ugoki' means 'to move', and 'mawatte' means 'to go around' or 'to circulate'. Therefore, 'ugoki mawatte' has the same meaning as 'to move around' or 'to circulate'. As an adjusted expression, 'being actively in motion' was introduced, but it is also common to simply say 'moving around'."
+  },
+  {
     "date": "2025.11.05",
     "day": "Wed",
     "number": 574,
