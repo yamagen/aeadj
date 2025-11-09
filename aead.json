@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.11.09",
+    "day": "Sun",
+    "number": 578,
+    "index": "sugi",
+    "title": "too much / excessive",
+    "expression-ja": "すぎ",
+    "roman-ja": "sugi",
+    "expression-en": "too much / excessive",
+    "variants-ja": ["過剰な", "過度な", "やりすぎの"],
+    "variants-en": ["excessive", "over the top", "too much"],
+    "intent-ja": ["評価", "注意喚起", "感情表現"],
+    "intent-en": ["evaluation", "warning", "emotional expression"],
+    "tags-ja": ["即時文法", "口語", "評価", "注意喚起"],
+    "tags-en": ["immediate grammar", "spoken", "evaluation", "warning"],
+    "adjusted-expression-ja": "(過剰:かじょう)な(状態:じょうたい)",
+    "adjusted-expression-en": "excessive state",
+    "img-sub": "sugi01.png",
+    "example-ja": "A「(彼:かれ)、(仕事:しごと)し(過:す)ぎだよ」 B「うん、やりすぎ」",
+    "example-en": "A: He's working too much. B: Yeah, it's excessive.",
+    "notes-ja": "「すぎ」は、物事が過剰であることや、限度を超えていることを即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「すぎ」は「too much」や「excessive」の意味で、物事が適切な範囲を超えている様子を指します。",
+    "notes-en": "'Sugi' is a colloquial expression used to immediately express that something is excessive or beyond limits. To explain the structure of this phrase in more detail, 'sugi' means 'too much' or 'excessive', referring to a state where something exceeds an appropriate range."
+  },
+  {
     "date": "2025.11.08",
     "day": "Sat",
     "number": 577,
