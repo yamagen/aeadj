@@ -1,5 +1,36 @@
 [
   {
+    "date": "2025.11.16",
+    "day": "Sun",
+    "number": 585,
+    "index": "hodonokotowanai",
+    "title": "it is not worth doing / it's not necessary to go to such lengths",
+    "expression-ja": "(無理:むり)にするほどのことじゃない",
+    "roman-ja": "muri ni suru hodo no koto janai",
+    "expression-en": "it is not worth doing / it's not necessary to go to such lengths",
+    "variants-ja": [
+      "そこまで(頑張:がんば)ることじゃない",
+      "そんなに(無理:むり)することじゃない",
+      "そこまで(努力:どりょく)することじゃない"
+    ],
+    "variants-en": [
+      "it's not worth trying that hard",
+      "it's not necessary to push yourself that much",
+      "it's not worth making that much effort"
+    ],
+    "intent-ja": ["評価", "助言", "感情表現"],
+    "intent-en": ["evaluation", "advice", "emotional expression"],
+    "tags-ja": ["即時文法", "口語", "評価", "助言"],
+    "tags-en": ["immediate grammar", "spoken", "evaluation", "advice"],
+    "adjusted-expression-ja": "(無理:むり)をする(必要:ひつよう)はない",
+    "adjusted-expression-en": "there is no need to overdo it",
+    "img-sub": "hodonokotowanai01.png",
+    "example-ja": "A「(試験:しけん)のために(徹夜:てつや)で(勉強:べんきょう)するよ」 B「いいや、(無理:むり)にするほどのことじゃないよ。ちゃんと(休:やす)んだほうが(良:い)いよ」",
+    "example-en": "A: I'm going to study all night for the exam. B: No, it's not worth doing that. It's better to get some rest.",
+    "notes-ja": "「無理にするほどのことじゃない」は、ある行動や努力が過剰であることを評価し、その必要性を否定する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「無理にする」は「to do something excessively」の意味で、「ほどのことじゃない」は「it's not worth doing」の意味です。つまり、「無理にするほどのことじゃない」は「it is not worth doing」や「it's not necessary to go to such lengths」と同じ意味になります。",
+    "notes-en": "'Muri ni suru hodo no koto janai' is a colloquial expression used to evaluate that a certain action or effort is excessive and to deny its necessity. To explain the structure of this phrase in more detail, 'muri ni suru' means 'to do something excessively', and 'hodo no koto janai' means 'it's not worth doing'. Therefore, 'muri ni suru hodo no koto janai' has the same meaning as 'it is not worth doing' or 'it's not necessary to go to such lengths'."
+  },
+  {
     "date": "2025.11.15",
     "day": "Sat",
     "number": 584,
