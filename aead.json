@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025.11.17",
+    "day": "Mon",
+    "number": 586,
+    "index": "nannkatanoshisou",
+    "title": "seems fun / looks enjoyable",
+    "expression-ja": "(何:なん)か(楽し:たの)しそう",
+    "roman-ja": "nanka tanoshisou",
+    "expression-en": "seems fun / looks enjoyable",
+    "variants-ja": ["面白そう", "嬉しそう", "ワクワクしそう"],
+    "variants-en": ["looks interesting", "seems happy", "looks exciting"],
+    "intent-ja": ["感情表現", "評価", "予測"],
+    "intent-en": ["emotional expression", "evaluation", "prediction"],
+    "tags-ja": ["即時文法", "口語", "感情表現", "評価"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "evaluation"
+    ],
+    "adjusted-expression-ja": "(楽し:たの)しそうだ",
+    "adjusted-expression-en": "seems fun",
+    "img-sub": "nannkatanoshisou01.png",
+    "example-ja": "A「(新:あたら)しい(ゲーム:げーむ)、(面白:おもしろ)そうだね」 B「うん、なんか(楽:たの)しそう」",
+    "example-en": "A: The new game looks interesting, doesn't it? B: Yeah, it seems fun.",
+    "notes-ja": "「なんか楽しそう」は、物事が楽しそうに見えることや、楽しさを感じさせる様子を即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「なんか」は「somehow」や「something like that」の意味で、「楽しそう」は「seems fun」や「looks enjoyable」の意味です。つまり、「なんか楽しそう」は「seems fun」や「looks enjoyable」と同じ意味になります。",
+    "notes-en": "'Nanka tanoshisou' is a colloquial expression used to immediately express that something looks fun or gives a sense of enjoyment. To explain the structure of this phrase in more detail, 'nanka' means 'somehow' or 'something like that', and 'tanoshisou' means 'seems fun' or 'looks enjoyable'. Therefore, 'nanka tanoshisou' has the same meaning as 'seems fun' or 'looks enjoyable'."
+  },
+  {
     "date": "2025.11.16",
     "day": "Sun",
     "number": 585,
