@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.11.21",
+    "day": "Fri",
+    "number": 590,
+    "index": "souitterundesukedone",
+    "title": "that's what I keep saying to him/her / I've been telling him/her that",
+    "expression-ja": "そう(言:い)ってるんですけどね",
+    "roman-ja": "sou itterun desu kedo ne",
+    "expression-en": "that's what I keep saying to him/her / I've been telling him/her that",
+    "variants-ja": ["そう話しているんですけどね", "そう伝えているんですけどね", "そう説明しているんですけどね"],
+    "variants-en": ["that's what I've been telling him/her", "that's what I've been conveying to him/her", "that's what I've been explaining to him/her"],
+    "intent-ja": ["説明", "強調", "情報提供"],
+    "intent-en": ["explanation", "emphasis", "information provision"],
+    "tags-ja": ["即時文法", "口語", "説明", "強調"],
+    "tags-en": ["immediate grammar", "spoken", "explanation", "emphasis"],
+    "adjusted-expression-ja": "そう(言:い)っていますが、",
+    "adjusted-expression-en": "I've been saying that, but",
+    "img-sub": "souitterundesukedone01.png",
+    "example-ja": "A「(彼:かれ)、また(遅刻:ちこく)？」 B「うん、(遅刻:)しちゃだめだよって、いつも、そう(言:い)ってるんですけどね」",
+    "example-en": "A: Is he late again? B: Yeah, I always tell him, 'You shouldn't be late,' that's what I keep saying to him.",
+    "notes-ja": "「そう言ってるんですけどね」は、相手に対して何かを伝えたり説明したりしていることを強調する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「そう言ってる」は「that's what I keep saying」や「I've been telling」の意味で、「んですけどね」は「but you know」や「though」の意味です。つまり、「そう言ってるんですけどね」は「that's what I keep saying to him/her」や「I've been telling him/her that」と同じ意味になります。",
+    "notes-en": "'Sou itterun desu kedo ne' is a colloquial expression used to emphasize that you have been conveying or explaining something to someone. To explain the structure of this phrase in more detail, 'sou itteru' means 'that's what I keep saying' or 'I've been telling', and 'n desu kedo ne' means 'but you know' or 'though'. Therefore, 'sou itterun desu kedo ne' has the same meaning as 'that's what I keep saying to him/her' or 'I've been telling him/her that'."
+  },
+  {
     "date": "2025.11.20",
     "day": "Thu",
     "number": 589,
