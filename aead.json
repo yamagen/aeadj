@@ -1,5 +1,46 @@
 [
   {
+    "date": "2025.11.26",
+    "day": "Wed",
+    "number": 595,
+    "index": "arikanashika",
+    "title": "soft framed evaluation",
+    "expression-ja": "(アリ:あり)か(ナシ:なし)か（でいえば）",
+    "roman-ja": "ari ka nashi ka (de ieba)",
+    "expression-en": "if I had to say yes or no",
+    "variants-ja": ["アリかナシかでいえば", "アリ寄り", "まあアリかな"],
+    "variants-en": [
+      "if pressed, I'd say it's acceptable",
+      "leaning yes",
+      "I'd say it's fine"
+    ],
+    "intent-ja": [
+      "即時的な評価",
+      "ソフトな肯定の提示",
+      "理由の省略を可能にする判断",
+      "選択肢フレーミングによる肯定誘導"
+    ],
+    "intent-en": [
+      "immediate evaluation",
+      "soft-positive judgment",
+      "judgment that allows omission of reasons",
+      "framing that guides toward acceptance"
+    ],
+    "tags-ja": ["即時文法", "評価", "ソフト肯定", "語用論"],
+    "tags-en": [
+      "immediate grammar",
+      "evaluation",
+      "soft positive",
+      "pragmatics"
+    ],
+    "adjusted-expression-ja": "(賛成:さんせい)か(反対:はんたい)かをはっきり(述:の)べる",
+    "adjusted-expression-en": "to state explicitly whether one agrees or disagrees",
+    "example-ja": "A「この案、アリかナシかでいえば？」 B「うーん、アリかナシかっていえば、アリかな。」",
+    "example-en": "A: So, for this idea, if you had to say yes or no? B: Hmm... if I had to say, I'd say it's a yes.",
+    "notes-ja": "「アリかナシか（でいえば）」は、二択を提示しているように見えて、実際には「アリ」方向へ評価を誘導するソフト肯定の構文である。否定（ナシ）は理由負荷が高く、語用論的に言いづらいため、自然会話ではこの構文の後件が「ナシ」になることはほとんどない。話者が強い賛成や積極的な理由を持っていなくても、『弱い支持／弱い応援』を伝えることができる点に特徴がある。心理学のframing効果とも対応し、即時文法が持つ判断の即時性と理由省略の機能が顕著に現れる表現である。",
+    "notes-en": "The phrase 'ari ka nashi ka (de ieba)' appears to offer a binary choice, but pragmatically it functions as a soft-positive construction. In natural Japanese conversation, giving a negative answer ('nashi') would require explanation, so the framing itself guides the listener toward a soft yes. The expression allows the speaker to show weak support or gentle approval without stating explicit reasons. This makes it an excellent example of Immediate Grammar: immediate evaluation, omission of justification, and a framing effect that biases the judgment toward acceptance."
+  },
+  {
     "date": "2025.11.25",
     "day": "Tue",
     "number": 594,
@@ -36,7 +77,12 @@
     "intent-ja": ["条件の追加", "対比", "譲歩"],
     "intent-en": ["addition of conditions", "contrast", "concession"],
     "tags-ja": ["即時文法", "口語", "条件追加", "対比"],
-    "tags-en": ["immediate grammar", "spoken", "addition of conditions", "contrast"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "addition of conditions",
+      "contrast"
+    ],
     "adjusted-expression-ja": "〜ことになりますけれども。",
     "adjusted-expression-en": "--though...",
     "img-sub": "keredomo01.png",
@@ -54,12 +100,29 @@
     "expression-ja": "〜みたいなあ",
     "roman-ja": "〜mitai naa",
     "expression-en": "want to try to do",
-    "variants-ja": ["〜したいなあ", "〜やってみたいなあ", "〜経験してみたいなあ"],
-    "variants-en": ["I want to do ~", "I want to try doing ~", "I want to experience ~"],
+    "variants-ja": [
+      "〜したいなあ",
+      "〜やってみたいなあ",
+      "〜経験してみたいなあ"
+    ],
+    "variants-en": [
+      "I want to do ~",
+      "I want to try doing ~",
+      "I want to experience ~"
+    ],
     "intent-ja": ["願望の表現", "希望の表現", "感情表現"],
-    "intent-en": ["expression of desire", "expression of hope", "emotional expression"],
+    "intent-en": [
+      "expression of desire",
+      "expression of hope",
+      "emotional expression"
+    ],
     "tags-ja": ["即時文法", "口語", "願望表現", "希望表現"],
-    "tags-en": ["immediate grammar", "spoken", "expression of desire", "expression of hope"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of desire",
+      "expression of hope"
+    ],
     "adjusted-expression-ja": "〜したいと思います。",
     "adjusted-expression-en": "I want to do ~.",
     "img-sub": "mitainaa01.png",
@@ -100,8 +163,16 @@
     "expression-ja": "そう(言:い)ってるんですけどね",
     "roman-ja": "sou itterun desu kedo ne",
     "expression-en": "that's what I keep saying to him/her / I've been telling him/her that",
-    "variants-ja": ["そう話しているんですけどね", "そう伝えているんですけどね", "そう説明しているんですけどね"],
-    "variants-en": ["that's what I've been telling him/her", "that's what I've been conveying to him/her", "that's what I've been explaining to him/her"],
+    "variants-ja": [
+      "そう話しているんですけどね",
+      "そう伝えているんですけどね",
+      "そう説明しているんですけどね"
+    ],
+    "variants-en": [
+      "that's what I've been telling him/her",
+      "that's what I've been conveying to him/her",
+      "that's what I've been explaining to him/her"
+    ],
     "intent-ja": ["説明", "強調", "情報提供"],
     "intent-en": ["explanation", "emphasis", "information provision"],
     "tags-ja": ["即時文法", "口語", "説明", "強調"],
@@ -123,12 +194,29 @@
     "expression-ja": "これ、(本当:ほんとう)の(話:はなし)",
     "roman-ja": "kore hontou no hanashi",
     "expression-en": "this is really something / this is serious / I'm telling you the truth",
-    "variants-ja": ["これは本物の話だ", "これは真実の話だ", "これは本格的な話だ"],
-    "variants-en": ["this is a genuine story", "this is a true story", "this is a serious matter"],
+    "variants-ja": [
+      "これは本物の話だ",
+      "これは真実の話だ",
+      "これは本格的な話だ"
+    ],
+    "variants-en": [
+      "this is a genuine story",
+      "this is a true story",
+      "this is a serious matter"
+    ],
     "intent-ja": ["強調", "驚きの表現", "情報提供"],
-    "intent-en": ["emphasis", "expression of surprise", "information provision"],
+    "intent-en": [
+      "emphasis",
+      "expression of surprise",
+      "information provision"
+    ],
     "tags-ja": ["即時文法", "口語", "強調", "驚きの表現"],
-    "tags-en": ["immediate grammar", "spoken", "emphasis", "expression of surprise"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emphasis",
+      "expression of surprise"
+    ],
     "adjusted-expression-ja": "これは本当の話です。",
     "adjusted-expression-en": "This is a true story.",
     "img-sub": "korehontonohanashi01.png",
@@ -147,11 +235,24 @@
     "roman-ja": "〜kana to omotte.",
     "expression-en": "I was wondering if...",
     "variants-ja": ["〜かしらと思って", "〜かなと思いまして", "〜かもと思って"],
-    "variants-en": ["I wonder if...", "I was thinking that...", "I thought maybe..."],
+    "variants-en": [
+      "I wonder if...",
+      "I was thinking that...",
+      "I thought maybe..."
+    ],
     "intent-ja": ["疑問の表現", "丁寧な表現", "提案の前置き"],
-    "intent-en": ["expression of doubt", "polite expression", "prelude to suggestion"],
+    "intent-en": [
+      "expression of doubt",
+      "polite expression",
+      "prelude to suggestion"
+    ],
     "tags-ja": ["即時文法", "口語", "疑問表現", "丁寧な表現"],
-    "tags-en": ["immediate grammar", "spoken", "expression of doubt", "polite expression"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of doubt",
+      "polite expression"
+    ],
     "adjusted-expression-ja": "〜かもしれないと思います。",
     "adjusted-expression-en": "I think it might be...",
     "img-sub": "kanatoomotte01.png",
@@ -170,7 +271,11 @@
     "roman-ja": "sou iu koto janai",
     "expression-en": "it's not like that / that's not the case",
     "variants-ja": ["そんなことはない", "そうではない", "違うよ"],
-    "variants-en": ["that's not true", "that's not the case", "that's not what I mean"],
+    "variants-en": [
+      "that's not true",
+      "that's not the case",
+      "that's not what I mean"
+    ],
     "intent-ja": ["否定", "訂正", "説明"],
     "intent-en": ["negation", "correction", "explanation"],
     "tags-ja": ["即時文法", "口語", "否定", "訂正"],
@@ -197,7 +302,12 @@
     "intent-ja": ["感情表現", "評価", "予測"],
     "intent-en": ["emotional expression", "evaluation", "prediction"],
     "tags-ja": ["即時文法", "口語", "感情表現", "評価"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "evaluation"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "evaluation"
+    ],
     "adjusted-expression-ja": "(楽:たの)しそうだ",
     "adjusted-expression-en": "seems fun",
     "img-sub": "nannkatanoshisou01.png",
@@ -215,8 +325,16 @@
     "expression-ja": "(無理:むり)にするほどのことじゃない",
     "roman-ja": "muri ni suru hodo no koto janai",
     "expression-en": "it is not worth doing / it's not necessary to go to such lengths",
-    "variants-ja": ["そこまで(頑張:がんば)ることじゃない", "そんなに(無理:むり)することじゃない", "そこまで(努力:どりょく)することじゃない"],
-    "variants-en": ["it's not worth trying that hard", "it's not necessary to push yourself that much", "it's not worth making that much effort"],
+    "variants-ja": [
+      "そこまで(頑張:がんば)ることじゃない",
+      "そんなに(無理:むり)することじゃない",
+      "そこまで(努力:どりょく)することじゃない"
+    ],
+    "variants-en": [
+      "it's not worth trying that hard",
+      "it's not necessary to push yourself that much",
+      "it's not worth making that much effort"
+    ],
     "intent-ja": ["評価", "助言", "感情表現"],
     "intent-en": ["evaluation", "advice", "emotional expression"],
     "tags-ja": ["即時文法", "口語", "評価", "助言"],
@@ -239,11 +357,24 @@
     "roman-ja": "hanashi ga aru",
     "expression-en": "to have something to talk about / to have a matter to discuss",
     "variants-ja": ["相談がある", "用事がある", "伝えたいことがある"],
-    "variants-en": ["to have a consultation", "to have business", "to have something to convey"],
+    "variants-en": [
+      "to have a consultation",
+      "to have business",
+      "to have something to convey"
+    ],
     "intent-ja": ["意思表示", "コミュニケーション", "情報提供"],
-    "intent-en": ["expression of intention", "communication", "information provision"],
+    "intent-en": [
+      "expression of intention",
+      "communication",
+      "information provision"
+    ],
     "tags-ja": ["即時文法", "口語", "意思表示", "コミュニケーション"],
-    "tags-en": ["immediate grammar", "spoken", "expression of intention", "communication"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of intention",
+      "communication"
+    ],
     "adjusted-expression-ja": "(相談:そうだん)がある",
     "adjusted-expression-en": "to have a consultation",
     "img-sub": "hanashigaaru01.png",
@@ -287,9 +418,18 @@
     "variants-ja": ["順番", "回数", "順位"],
     "variants-en": ["order", "number of times", "ranking"],
     "intent-ja": ["順序の表現", "回数の表現", "順位の表現"],
-    "intent-en": ["expression of order", "expression of number of times", "expression of ranking"],
+    "intent-en": [
+      "expression of order",
+      "expression of number of times",
+      "expression of ranking"
+    ],
     "tags-ja": ["即時文法", "口語", "順序表現", "回数表現"],
-    "tags-en": ["immediate grammar", "spoken", "order expression", "number of times expression"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "order expression",
+      "number of times expression"
+    ],
     "adjusted-expression-ja": "(順番:じゅんばん)",
     "adjusted-expression-en": "order",
     "img-sub": "ban01.png",
@@ -308,11 +448,20 @@
     "roman-ja": "kore ni suru",
     "expression-en": "I'll take this / I'll have this",
     "variants-ja": ["これを選ぶ", "これを頼む", "これに決める"],
-    "variants-en": ["I'll choose this", "I'll order this", "I'll decide on this"],
+    "variants-en": [
+      "I'll choose this",
+      "I'll order this",
+      "I'll decide on this"
+    ],
     "intent-ja": ["選択", "意思表示", "決定"],
     "intent-en": ["selection", "expression of intention", "decision"],
     "tags-ja": ["即時文法", "口語", "選択", "意思表示"],
-    "tags-en": ["immediate grammar", "spoken", "selection", "expression of intention"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "selection",
+      "expression of intention"
+    ],
     "adjusted-expression-ja": "これを(選:えら)ぶ",
     "adjusted-expression-en": "I'll choose this",
     "img-sub": "korenisuru01.png",
@@ -335,7 +484,12 @@
     "intent-ja": ["強調", "原因の提示", "議論の開始"],
     "intent-en": ["emphasis", "presentation of cause", "start of discussion"],
     "tags-ja": ["即時文法", "口語", "強調", "原因提示"],
-    "tags-en": ["immediate grammar", "spoken", "emphasis", "cause presentation"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emphasis",
+      "cause presentation"
+    ],
     "adjusted-expression-ja": "(本来:ほんらい)は、",
     "adjusted-expression-en": "originally,",
     "img-sub": "somosomo01.png",
@@ -358,7 +512,12 @@
     "intent-ja": ["条件設定", "妥協", "限定的な要求"],
     "intent-en": ["condition setting", "compromise", "limited requirement"],
     "tags-ja": ["即時文法", "口語", "条件設定", "妥協"],
-    "tags-en": ["immediate grammar", "spoken", "condition setting", "compromise"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "condition setting",
+      "compromise"
+    ],
     "adjusted-expression-ja": "(使用:しよう)できれば(良:よ)い",
     "adjusted-expression-en": "as long as it can be used",
     "img-sub": "baii_tsukaerebaii01.png",
@@ -404,7 +563,12 @@
     "intent-ja": ["状態の描写", "評価", "感情表現"],
     "intent-en": ["state description", "evaluation", "emotional expression"],
     "tags-ja": ["即時文法", "口語", "状態描写", "評価"],
-    "tags-en": ["immediate grammar", "spoken", "state description", "evaluation"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "state description",
+      "evaluation"
+    ],
     "adjusted-expression-ja": "(混乱:こんらん)している",
     "adjusted-expression-en": "being confused",
     "img-sub": "mechakucha01.png",
@@ -427,7 +591,12 @@
     "intent-ja": ["説明", "曖昧な表現", "不確定な状況"],
     "intent-en": ["explanation", "ambiguous expression", "uncertain situation"],
     "tags-ja": ["即時文法", "口語", "説明", "曖昧な表現"],
-    "tags-en": ["immediate grammar", "spoken", "explanation", "ambiguous expression"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "explanation",
+      "ambiguous expression"
+    ],
     "adjusted-expression-ja": "などということでした。",
     "adjusted-expression-en": "It was something like that.",
     "img-sub": "tokanantoka01.png",
@@ -448,9 +617,18 @@
     "variants-ja": ["巡回する", "移動する", "循環する"],
     "variants-en": ["to patrol", "to move", "to circulate"],
     "intent-ja": ["動作の描写", "状態の説明", "行動の指示"],
-    "intent-en": ["action description", "state explanation", "action instruction"],
+    "intent-en": [
+      "action description",
+      "state explanation",
+      "action instruction"
+    ],
     "tags-ja": ["即時文法", "口語", "動作描写", "状態説明"],
-    "tags-en": ["immediate grammar", "spoken", "action description", "state explanation"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "action description",
+      "state explanation"
+    ],
     "adjusted-expression-ja": "活発に動いている",
     "adjusted-expression-en": "being actively in motion",
     "img-sub": "ugokimawatte01.png",
@@ -473,7 +651,12 @@
     "intent-ja": ["感情表現", "緊張", "不安"],
     "intent-en": ["emotional expression", "tension", "anxiety"],
     "tags-ja": ["即時文法", "口語", "感情表現", "緊張"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "tension"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "tension"
+    ],
     "adjusted-expression-ja": "(緊張:きんちょう)している",
     "adjusted-expression-en": "to be tense",
     "img-sub": "piripirishiteru01.png",
@@ -496,7 +679,12 @@
     "intent-ja": ["感情表現", "不満", "怒り"],
     "intent-en": ["emotional expression", "dissatisfaction", "anger"],
     "tags-ja": ["即時文法", "口語", "感情表現", "不満"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "dissatisfaction"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "dissatisfaction"
+    ],
     "adjusted-expression-ja": "(苛立:いらだ)つ",
     "adjusted-expression-en": "to be frustrated",
     "img-sub": "irairasuru01.png",
@@ -542,7 +730,12 @@
     "intent-ja": ["感情表現", "不安", "焦り"],
     "intent-en": ["emotional expression", "anxiety", "impatience"],
     "tags-ja": ["即時文法", "口語", "感情表現", "不安"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "anxiety"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "anxiety"
+    ],
     "adjusted-expression-ja": "(苛立:いらだ)つ",
     "adjusted-expression-en": "to be irritated",
     "img-sub": "yakimokisuru01.png",
@@ -565,7 +758,12 @@
     "intent-ja": ["状態の描写", "評価", "感情表現"],
     "intent-en": ["state description", "evaluation", "emotional expression"],
     "tags-ja": ["即時文法", "口語", "状態描写", "評価"],
-    "tags-en": ["immediate grammar", "spoken", "state description", "evaluation"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "state description",
+      "evaluation"
+    ],
     "adjusted-expression-ja": "(散:ちら)かっている",
     "adjusted-expression-en": "cluttered",
     "img-sub": "gochagocha01.png",
@@ -588,7 +786,12 @@
     "intent-ja": ["説明", "情報提供", "注意喚起"],
     "intent-en": ["explanation", "information provision", "attention"],
     "tags-ja": ["即時文法", "口語", "説明", "情報提供"],
-    "tags-en": ["immediate grammar", "spoken", "explanation", "information provision"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "explanation",
+      "information provision"
+    ],
     "adjusted-expression-ja": "(些細:ささい)なこと",
     "adjusted-expression-en": "minor things",
     "img-sub": "komakaikoto01.png",
@@ -611,7 +814,12 @@
     "intent-ja": ["感情表現", "不安", "緊張"],
     "intent-en": ["emotional expression", "anxiety", "nervousness"],
     "tags-ja": ["即時文法", "口語", "感情表現", "不安"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "anxiety"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "anxiety"
+    ],
     "adjusted-expression-ja": "(落:お)ち(着:つ)かない",
     "adjusted-expression-en": "to be uneasy",
     "img-sub": "sowasowasuru01.png",
@@ -629,7 +837,11 @@
     "expression-ja": "しなくっちゃ",
     "roman-ja": "nakuccha",
     "expression-en": "have to / must / need to",
-    "variants-ja": ["しなければならない", "しないといけない", "しなくてはいけない"],
+    "variants-ja": [
+      "しなければならない",
+      "しないといけない",
+      "しなくてはいけない"
+    ],
     "variants-en": ["have to", "must", "need to"],
     "intent-ja": ["義務", "必要性", "強制"],
     "intent-en": ["obligation", "necessity", "compulsion"],
@@ -652,8 +864,16 @@
     "expression-ja": "うまくいってる",
     "roman-ja": "umaku itteru",
     "expression-en": "It's going well / It's working out",
-    "variants-ja": ["順調に進んでいる", "うまく進んでいる", "問題なく進んでいる"],
-    "variants-en": ["It's progressing smoothly", "It's going smoothly", "It's progressing without problems"],
+    "variants-ja": [
+      "順調に進んでいる",
+      "うまく進んでいる",
+      "問題なく進んでいる"
+    ],
+    "variants-en": [
+      "It's progressing smoothly",
+      "It's going smoothly",
+      "It's progressing without problems"
+    ],
     "intent-ja": ["状況報告", "評価", "安心感の表現"],
     "intent-en": ["status report", "evaluation", "expression of reassurance"],
     "tags-ja": ["即時文法", "口語", "状況報告", "評価"],
@@ -675,8 +895,16 @@
     "expression-ja": "どこから(当:あ)たりますか？",
     "roman-ja": "doko kara atarimasu ka?",
     "expression-en": "Where should we start?",
-    "variants-ja": ["どこから始めますか？", "どこから取り掛かりますか？", "どこから手を付けますか？"],
-    "variants-en": ["Where do we begin?", "Where do we get started?", "Where do we tackle first?"],
+    "variants-ja": [
+      "どこから始めますか？",
+      "どこから取り掛かりますか？",
+      "どこから手を付けますか？"
+    ],
+    "variants-en": [
+      "Where do we begin?",
+      "Where do we get started?",
+      "Where do we tackle first?"
+    ],
     "intent-ja": ["確認", "計画立案", "指示"],
     "intent-en": ["confirmation", "planning", "instruction"],
     "tags-ja": ["即時文法", "口語", "確認", "計画立案"],
@@ -699,7 +927,11 @@
     "roman-ja": "tte iunomo,...",
     "expression-en": "I mean, ... / You know, ...",
     "variants-ja": ["つまり、...", "要するに、...", "なんていうか、..."],
-    "variants-en": ["In other words, ...", "To sum up, ...", "How should I put it, ..."],
+    "variants-en": [
+      "In other words, ...",
+      "To sum up, ...",
+      "How should I put it, ..."
+    ],
     "intent-ja": ["説明", "補足", "話題転換"],
     "intent-en": ["explanation", "supplement", "topic shift"],
     "tags-ja": ["即時文法", "口語", "説明", "補足"],
@@ -721,8 +953,16 @@
     "expression-ja": "どうしたはずみか、...",
     "roman-ja": "doushita hazumi ka, ",
     "expression-en": "Not sure why, ",
-    "variants-ja": ["なぜか知らないけど、...", "理由はわからないけど、...", "なんとなくだけど、..."],
-    "variants-en": ["I don't know why, ...", "I don't know the reason, ...", "For some reason, ..."],
+    "variants-ja": [
+      "なぜか知らないけど、...",
+      "理由はわからないけど、...",
+      "なんとなくだけど、..."
+    ],
+    "variants-en": [
+      "I don't know why, ...",
+      "I don't know the reason, ...",
+      "For some reason, ..."
+    ],
     "intent-ja": ["説明", "理由付け", "感情表現"],
     "intent-en": ["explanation", "justification", "emotional expression"],
     "tags-ja": ["即時文法", "口語", "説明", "理由付け"],
@@ -748,7 +988,12 @@
     "intent-ja": ["感情表現", "不満", "嫌悪"],
     "intent-en": ["emotional expression", "dissatisfaction", "disgust"],
     "tags-ja": ["即時文法", "口語", "感情表現", "不満"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "dissatisfaction"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "dissatisfaction"
+    ],
     "adjusted-expression-ja": "(嫌気:いやけ)がさす",
     "adjusted-expression-en": "I'm sick of it",
     "img-sub": "unzarisuru01.png",
@@ -766,8 +1011,16 @@
     "expression-ja": "(何:なに)やんなくちゃならないんだっけ",
     "roman-ja": "nani yannakucha naranain dakke",
     "expression-en": "What am I supposed to do?",
-    "variants-ja": ["何をしなくちゃならないんだっけ", "何をやらなくちゃならないんだっけ", "何をしなければならないんだっけ"],
-    "variants-en": ["What do I have to do?", "What must I do?", "What am I supposed to do?"],
+    "variants-ja": [
+      "何をしなくちゃならないんだっけ",
+      "何をやらなくちゃならないんだっけ",
+      "何をしなければならないんだっけ"
+    ],
+    "variants-en": [
+      "What do I have to do?",
+      "What must I do?",
+      "What am I supposed to do?"
+    ],
     "intent-ja": ["確認", "思い出し", "自己管理"],
     "intent-en": ["confirmation", "recall", "self-management"],
     "tags-ja": ["即時文法", "口語", "確認", "思い出し"],
@@ -794,7 +1047,12 @@
     "intent-ja": ["数量の表現", "控えめな表現", "強調"],
     "intent-en": ["quantity expression", "modest expression", "emphasis"],
     "tags-ja": ["即時文法", "口語", "数量表現", "控えめな表現"],
-    "tags-en": ["immediate grammar", "spoken", "quantity expression", "modest expression"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "quantity expression",
+      "modest expression"
+    ],
     "adjusted-expression-ja": "(少:すこ)しだけ",
     "adjusted-expression-en": "A little bit",
     "img-sub": "honnnochotto01.png",
@@ -813,7 +1071,11 @@
     "roman-ja": "omou you ni hane",
     "expression-en": "Not as I think / Not as expected",
     "variants-ja": ["予想通りにはね", "期待通りにはね", "考え通りにはね"],
-    "variants-en": ["Not as I expected", "Not as I anticipated", "Not as I considered"],
+    "variants-en": [
+      "Not as I expected",
+      "Not as I anticipated",
+      "Not as I considered"
+    ],
     "intent-ja": ["比較", "評価", "感想"],
     "intent-en": ["comparison", "evaluation", "impression"],
     "tags-ja": ["即時文法", "口語", "比較", "評価"],
@@ -835,8 +1097,16 @@
     "expression-ja": "(思:おも)うように(行:い)かない",
     "roman-ja": "omou you ni ikanai",
     "expression-en": "It doesn't go as I think / It doesn't go as expected",
-    "variants-ja": ["予想通りに行かない", "期待通りに行かない", "考え通りに行かない"],
-    "variants-en": ["It doesn't go as I expected", "It doesn't go as I anticipated", "It doesn't go as I considered"],
+    "variants-ja": [
+      "予想通りに行かない",
+      "期待通りに行かない",
+      "考え通りに行かない"
+    ],
+    "variants-en": [
+      "It doesn't go as I expected",
+      "It doesn't go as I anticipated",
+      "It doesn't go as I considered"
+    ],
     "intent-ja": ["比較", "評価", "感想"],
     "intent-en": ["comparison", "evaluation", "impression"],
     "tags-ja": ["即時文法", "口語", "比較", "評価"],
@@ -859,7 +1129,11 @@
     "roman-ja": "omotta yorine",
     "expression-en": "than I thought / than expected",
     "variants-ja": ["予想よりね", "期待よりね", "考えよりね"],
-    "variants-en": ["than I expected", "than I anticipated", "than I considered"],
+    "variants-en": [
+      "than I expected",
+      "than I anticipated",
+      "than I considered"
+    ],
     "intent-ja": ["比較", "評価", "感想"],
     "intent-en": ["comparison", "evaluation", "impression"],
     "tags-ja": ["即時文法", "口語", "比較", "評価"],
@@ -882,11 +1156,20 @@
     "roman-ja": "koichijikan hodo",
     "expression-en": "about one hour / around one hour",
     "variants-ja": ["約1時間", "およそ1時間", "だいたい1時間"],
-    "variants-en": ["approximately one hour", "around one hour", "roughly one hour"],
+    "variants-en": [
+      "approximately one hour",
+      "around one hour",
+      "roughly one hour"
+    ],
     "intent-ja": ["時間の見積もり", "説明", "情報提供"],
     "intent-en": ["time estimation", "explanation", "information provision"],
     "tags-ja": ["即時文法", "書き言葉", "時間表現", "説明"],
-    "tags-en": ["immediate grammar", "written language", "time expression", "explanation"],
+    "tags-en": [
+      "immediate grammar",
+      "written language",
+      "time expression",
+      "explanation"
+    ],
     "adjusted-expression-ja": "(約1時間:やくいちじかん)",
     "adjusted-expression-en": "approximately one hour",
     "img-sub": "koichijikanhodo01.png",
@@ -904,8 +1187,16 @@
     "expression-ja": "っていうとね、",
     "roman-ja": "tte iutone,",
     "expression-en": "if you say ...",
-    "variants-ja": ["そんなこといったら、", "そういうと、", "そう言ってしまったら、"],
-    "variants-en": ["If you say that, ...", "If you put it that way, ...", "If you say so, ..."],
+    "variants-ja": [
+      "そんなこといったら、",
+      "そういうと、",
+      "そう言ってしまったら、"
+    ],
+    "variants-en": [
+      "If you say that, ...",
+      "If you put it that way, ...",
+      "If you say so, ..."
+    ],
     "intent-ja": ["説明", "補足", "過剰の指摘"],
     "intent-en": ["explanation", "supplement", "excessive pointing out"],
     "tags-ja": ["即時文法", "口語", "説明", "補足"],
@@ -928,7 +1219,11 @@
     "roman-ja": "naze kattsuu to",
     "expression-en": "This is the thing / This is the point / This is why ...",
     "variants-ja": ["理由はね、...", "原因はね、...", "ポイントはね、..."],
-    "variants-en": ["The reason is, ...", "The cause is, ...", "The point is, ..."],
+    "variants-en": [
+      "The reason is, ...",
+      "The cause is, ...",
+      "The point is, ..."
+    ],
     "intent-ja": ["説明", "理由付け", "強調"],
     "intent-en": ["explanation", "justification", "emphasis"],
     "tags-ja": ["即時文法", "口語", "説明", "理由付け"],
@@ -951,7 +1246,11 @@
     "roman-ja": "toiukane,...",
     "expression-en": "rather than that, ... / I mean, ... / You know, ...",
     "variants-ja": ["つまりね、...", "要するにね、...", "なんていうかね、..."],
-    "variants-en": ["In other words, ...", "To sum up, ...", "How should I put it, ..."],
+    "variants-en": [
+      "In other words, ...",
+      "To sum up, ...",
+      "How should I put it, ..."
+    ],
     "intent-ja": ["説明", "補足", "話題転換"],
     "intent-en": ["explanation", "supplement", "topic shift"],
     "tags-ja": ["即時文法", "口語", "説明", "補足"],
@@ -996,12 +1295,29 @@
     "roman-ja": "koko saikin",
     "expression-en": "Lately ... / These days ...",
 
-    "variants-ja": ["ここ(最近:さいきん)(忙:いそが)しい", "ここ(最近:さいきん)(寒:さむ)い", "ここ(最近:さいきん)(疲:つか)れる"],
-    "variants-en": ["Lately I've been busy", "These days it's cold", "Lately I'm getting tired"],
+    "variants-ja": [
+      "ここ(最近:さいきん)(忙:いそが)しい",
+      "ここ(最近:さいきん)(寒:さむ)い",
+      "ここ(最近:さいきん)(疲:つか)れる"
+    ],
+    "variants-en": [
+      "Lately I've been busy",
+      "These days it's cold",
+      "Lately I'm getting tired"
+    ],
     "intent-ja": ["近況報告", "話題提供", "感情表現"],
-    "intent-en": ["recent updates", "topic introduction", "emotional expression"],
+    "intent-en": [
+      "recent updates",
+      "topic introduction",
+      "emotional expression"
+    ],
     "tags-ja": ["即時文法", "口語", "近況報告", "話題提供"],
-    "tags-en": ["immediate grammar", "spoken", "recent updates", "topic introduction"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "recent updates",
+      "topic introduction"
+    ],
     "adjusted-expression-ja": "最近",
     "adjusted-expression-en": "Lately ... / These days ...",
     "img-sub": "kokosaikin01.png",
@@ -1019,12 +1335,29 @@
     "expression-ja": "引きずられちゃう",
     "roman-ja": "hikizurarechau",
     "expression-en": "I get dragged into ... / I end up ...",
-    "variants-ja": ["感情に引きずられちゃう", "過去に引きずられちゃう", "状況に引きずられちゃう"],
-    "variants-en": ["I get dragged into emotions", "I end up dwelling on the past", "I get dragged into the situation"],
+    "variants-ja": [
+      "感情に引きずられちゃう",
+      "過去に引きずられちゃう",
+      "状況に引きずられちゃう"
+    ],
+    "variants-en": [
+      "I get dragged into emotions",
+      "I end up dwelling on the past",
+      "I get dragged into the situation"
+    ],
     "intent-ja": ["感情表現", "自己反省", "状況説明"],
-    "intent-en": ["emotional expression", "self-reflection", "situation explanation"],
+    "intent-en": [
+      "emotional expression",
+      "self-reflection",
+      "situation explanation"
+    ],
     "tags-ja": ["即時文法", "口語", "感情表現", "自己反省"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "self-reflection"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "self-reflection"
+    ],
     "adjusted-expression-ja": "とらわれてしまいます",
     "adjusted-expression-en": "I end up being caught up in ...",
     "img-sub": "hikizurarechau01.png",
@@ -1042,12 +1375,25 @@
     "expression-ja": "ついてけない",
     "roman-ja": "tsuitekenai",
     "expression-en": "I can't keep up / I can't follow",
-    "variants-ja": ["理解ついてけない", "話についてけない", "変化についてけない"],
-    "variants-en": ["I can't keep up with understanding", "I can't follow the conversation", "I can't keep up with the changes"],
+    "variants-ja": [
+      "理解ついてけない",
+      "話についてけない",
+      "変化についてけない"
+    ],
+    "variants-en": [
+      "I can't keep up with understanding",
+      "I can't follow the conversation",
+      "I can't keep up with the changes"
+    ],
     "intent-ja": ["困惑", "理解不足", "感情表現"],
     "intent-en": ["confusion", "lack of understanding", "emotional expression"],
     "tags-ja": ["即時文法", "口語", "感情表現", "困惑"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "confusion"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "confusion"
+    ],
     "adjusted-expression-ja": "ついていけません",
     "adjusted-expression-en": "I can't keep up",
     "img-sub": "tsuitekenai01.png",
@@ -1070,7 +1416,12 @@
     "intent-ja": ["驚き", "否定", "感情表現"],
     "intent-en": ["surprise", "denial", "emotional expression"],
     "tags-ja": ["即時文法", "口語", "感情表現", "驚き"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "surprise"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "surprise"
+    ],
     "adjusted-expression-ja": "それはおかしいですね。",
     "adjusted-expression-en": "Is that really possible?",
     "img-sub": "sonnnaa01.png",
@@ -1134,12 +1485,25 @@
     "expression-ja": "あれ！もう(終:お)わり？",
     "roman-ja": "are mou owari?",
     "expression-en": "Is it over already? / Is that it already?",
-    "variants-ja": ["それ！もう(終:お)わり？", "これ！もう(終:お)わり？", "あれ！もう(終:お)わったの？"],
-    "variants-en": ["Is that it already?", "Is this over already?", "Is it already finished?"],
+    "variants-ja": [
+      "それ！もう(終:お)わり？",
+      "これ！もう(終:お)わり？",
+      "あれ！もう(終:お)わったの？"
+    ],
+    "variants-en": [
+      "Is that it already?",
+      "Is this over already?",
+      "Is it already finished?"
+    ],
     "intent-ja": ["驚き", "確認", "感情表現"],
     "intent-en": ["surprise", "confirmation", "emotional expression"],
     "tags-ja": ["即時文法", "口語", "感情表現", "確認"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "confirmation"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "confirmation"
+    ],
     "adjusted-expression-ja": "もう(終:お)わりですか？",
     "adjusted-expression-en": "Is it over already?",
     "img-sub": "aremouowari01.png",
@@ -1157,8 +1521,16 @@
     "expression-ja": "ぜひしたいですよ",
     "roman-ja": "zehi shitai desu yo",
     "expression-en": "I definitely want to ... / I really want to ...",
-    "variants-ja": ["ぜひ行きたいですよ", "ぜひ会いたいですよ", "ぜひ参加したいですよ"],
-    "variants-en": ["I definitely want to go", "I really want to meet", "I definitely want to participate"],
+    "variants-ja": [
+      "ぜひ行きたいですよ",
+      "ぜひ会いたいですよ",
+      "ぜひ参加したいですよ"
+    ],
+    "variants-en": [
+      "I definitely want to go",
+      "I really want to meet",
+      "I definitely want to participate"
+    ],
     "intent-ja": ["強い願望", "熱意", "積極性"],
     "intent-en": ["strong desire", "enthusiasm", "proactiveness"],
     "tags-ja": ["即時文法", "口語", "願望", "強調"],
@@ -1181,11 +1553,20 @@
     "roman-ja": "dai sansei",
     "expression-en": "I agree. / That's true. / I think so too.",
     "variants-ja": ["大反対", "大歓迎", "大歓迎"],
-    "variants-en": ["I strongly disagree", "I warmly welcome", "I strongly support"],
+    "variants-en": [
+      "I strongly disagree",
+      "I warmly welcome",
+      "I strongly support"
+    ],
     "intent-ja": ["同意", "賛成", "強調"],
     "intent-en": ["agreement", "approval", "emphasis"],
     "tags-ja": ["即時文法", "書き言葉", "同意", "強調"],
-    "tags-en": ["immediate grammar", "written language", "agreement", "emphasis"],
+    "tags-en": [
+      "immediate grammar",
+      "written language",
+      "agreement",
+      "emphasis"
+    ],
     "adjusted-expression-ja": "(大:おお)いに(賛成:さんせい)です",
     "adjusted-expression-en": "I strongly agree",
     "img-sub": "daisansei01.png",
@@ -1204,7 +1585,11 @@
     "roman-ja": "sore wa sore to shite",
     "expression-en": "That may be so, but ... / Be that as it may, ...",
     "variants-ja": ["問題は問題として", "事実は事実として", "意見は意見として"],
-    "variants-en": ["The problem is the problem, but ...", "The fact is the fact, but ...", "The opinion is the opinion, but ..."],
+    "variants-en": [
+      "The problem is the problem, but ...",
+      "The fact is the fact, but ...",
+      "The opinion is the opinion, but ..."
+    ],
     "intent-ja": ["対比", "話題転換", "補足"],
     "intent-en": ["contrast", "topic shift", "supplement"],
     "tags-ja": ["即時文法", "口語", "対比", "話題転換"],
@@ -1226,8 +1611,16 @@
     "expression-ja": "そうなんだ",
     "roman-ja": "sou nan da",
     "expression-en": "I see. / Is that so?",
-    "variants-ja": ["本当そうなんだ", "へえ、そうなんだ", "なるほど、そうなんだ"],
-    "variants-en": ["Is that really so?", "Oh, is that so?", "I see, is that so?"],
+    "variants-ja": [
+      "本当そうなんだ",
+      "へえ、そうなんだ",
+      "なるほど、そうなんだ"
+    ],
+    "variants-en": [
+      "Is that really so?",
+      "Oh, is that so?",
+      "I see, is that so?"
+    ],
     "intent-ja": ["理解", "驚き", "共感"],
     "intent-en": ["understanding", "surprise", "empathy"],
     "tags-ja": ["即時文法", "口語", "理解", "驚き"],
@@ -1250,7 +1643,11 @@
     "roman-ja": "sou nan da kedo ne",
     "expression-en": "That's true, but ... / I agree, but ...",
     "variants-ja": ["いいんだけどね", "わかるんだけどね", "助かるんだけどね"],
-    "variants-en": ["That's fine, but ...", "I understand, but ...", "That helps, but ..."],
+    "variants-en": [
+      "That's fine, but ...",
+      "I understand, but ...",
+      "That helps, but ..."
+    ],
     "intent-ja": ["同意", "反論", "補足"],
     "intent-en": ["agreement", "objection", "supplement"],
     "tags-ja": ["即時文法", "口語", "同意", "反論"],
@@ -1272,8 +1669,16 @@
     "expression-ja": "おいといたとして",
     "roman-ja": "oitoita toshite",
     "expression-en": "even if ... / assuming that ...",
-    "variants-ja": ["忘れといたとして", "無視しといたとして", "考えといたとして"],
-    "variants-en": ["even if you forget", "even if you ignore", "even if you consider"],
+    "variants-ja": [
+      "忘れといたとして",
+      "無視しといたとして",
+      "考えといたとして"
+    ],
+    "variants-en": [
+      "even if you forget",
+      "even if you ignore",
+      "even if you consider"
+    ],
     "intent-ja": ["仮定", "条件", "思考実験"],
     "intent-en": ["hypothesis", "condition", "thought experiment"],
     "tags-ja": ["即時文法", "口語", "仮定", "条件"],
@@ -1295,8 +1700,16 @@
     "expression-ja": "ようなもの",
     "roman-ja": "you na mono",
     "expression-en": "something like ... / kind of like ...",
-    "variants-ja": ["夢のようなもの", "映画のようなもの", "おとぎ話のようなもの"],
-    "variants-en": ["something like a dream", "something like a movie", "something like a fairy tale"],
+    "variants-ja": [
+      "夢のようなもの",
+      "映画のようなもの",
+      "おとぎ話のようなもの"
+    ],
+    "variants-en": [
+      "something like a dream",
+      "something like a movie",
+      "something like a fairy tale"
+    ],
     "intent-ja": ["比喩", "例示", "曖昧表現"],
     "intent-en": ["metaphor", "example", "vague expression"],
     "tags-ja": ["即時文法", "口語", "比喩", "曖昧さ"],
@@ -1342,11 +1755,20 @@
     "roman-ja": "oishii n kai",
     "expression-en": "so it's tasty, huh?",
     "variants-ja": ["高いんかい", "安いんかい", "難しいんかい"],
-    "variants-en": ["so it's expensive, huh?", "so it's cheap, huh?", "so it's difficult, huh?"],
+    "variants-en": [
+      "so it's expensive, huh?",
+      "so it's cheap, huh?",
+      "so it's difficult, huh?"
+    ],
     "intent-ja": ["驚き", "確認", "感情表現"],
     "intent-en": ["surprise", "confirmation", "emotional expression"],
     "tags-ja": ["即時文法", "口語", "感情表現", "確認"],
-    "tags-en": ["immediate grammar", "spoken", "emotional expression", "confirmation"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emotional expression",
+      "confirmation"
+    ],
     "adjusted-expression-ja": "おいしいのですね",
     "adjusted-expression-en": "So it's tasty, huh?",
     "img-sub": "nkai01.png",
@@ -1364,12 +1786,25 @@
     "expression-ja": "とは(言:い)わないまでも、",
     "roman-ja": "to wa iwanai mademo,",
     "expression-en": "even if you don't say it, ... / without saying it, ...",
-    "variants-ja": ["好きとは言わないまでも", "嫌いとは言わないまでも", "得意とは言わないまでも"],
-    "variants-en": ["Even if you don't say you like it", "Even if you don't say you hate it", "Even if you don't say you're good at it"],
+    "variants-ja": [
+      "好きとは言わないまでも",
+      "嫌いとは言わないまでも",
+      "得意とは言わないまでも"
+    ],
+    "variants-en": [
+      "Even if you don't say you like it",
+      "Even if you don't say you hate it",
+      "Even if you don't say you're good at it"
+    ],
     "intent-ja": ["控えめな表現", "婉曲な同意", "前置き"],
     "intent-en": ["modest expression", "indirect agreement", "preface"],
     "tags-ja": ["即時文法", "書き言葉", "婉曲表現", "前置き"],
-    "tags-en": ["immediate grammar", "written language", "euphemistic expression", "preface"],
+    "tags-en": [
+      "immediate grammar",
+      "written language",
+      "euphemistic expression",
+      "preface"
+    ],
     "adjusted-expression-ja": "とは(言:い)いませんが",
     "adjusted-expression-en": "I wouldn't say that, but ...",
     "img-sub": "tohaiwanaimademo01.png",
@@ -1387,8 +1822,16 @@
     "expression-ja": "じゃ、それで。",
     "roman-ja": "ja, sore de.",
     "expression-en": "Well, that's that. / So be it.",
-    "variants-ja": ["じゃ、そうするよ", "じゃ、それでいいよ", "じゃ、決まりだね"],
-    "variants-en": ["Well, I'll do that", "Well, that's fine", "Well, it's decided then"],
+    "variants-ja": [
+      "じゃ、そうするよ",
+      "じゃ、それでいいよ",
+      "じゃ、決まりだね"
+    ],
+    "variants-en": [
+      "Well, I'll do that",
+      "Well, that's fine",
+      "Well, it's decided then"
+    ],
     "intent-ja": ["決定", "結論", "受け入れ"],
     "intent-en": ["decision", "conclusion", "acceptance"],
     "tags-ja": ["即時文法", "口語", "結論", "受け入れ"],
@@ -1434,11 +1877,21 @@
     "roman-ja": "mite kite yo",
     "expression-en": "Go check it out, will you?",
     "variants-ja": ["たべてよ", "みてよ", "なんとかしてよ", "やってよ"],
-    "variants-en": ["Eat it!", "look at it!", "Do something about it!", "Come on, do it!"],
+    "variants-en": [
+      "Eat it!",
+      "look at it!",
+      "Do something about it!",
+      "Come on, do it!"
+    ],
     "intent-ja": ["依頼", "感情", "圧力", "親しみ"],
     "intent-en": ["request", "emotion", "pressure", "familiarity"],
     "tags-ja": ["即時文法", "口語", "終助詞", "感情"],
-    "tags-en": ["immediate grammar", "spoken", "sentence-final particle", "emotion"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "sentence-final particle",
+      "emotion"
+    ],
     "adjusted-expression-ja": "(見:み)てきてください",
     "adjusted-expression-en": "Could you go and have a look, please?",
     "img-sub": "teyo01.png",
@@ -1457,7 +1910,11 @@
     "roman-ja": "nani mo",
     "expression-en": "Nothing.",
     "variants-ja": ["何もない", "何もなかった", "何もいらない"],
-    "variants-en": ["There is nothing", "There was nothing", "I don't need anything"],
+    "variants-en": [
+      "There is nothing",
+      "There was nothing",
+      "I don't need anything"
+    ],
     "intent-ja": ["応答", "否定", "曖昧"],
     "intent-en": ["response", "negation", "ambiguity"],
     "tags-ja": ["即時文法", "応答", "省略", "曖昧さ"],
@@ -1480,7 +1937,11 @@
     "roman-ja": "sou, kita ka",
     "expression-en": "so that's how you're playing it",
     "variants-ja": ["そうきたか", "おお、そうきたか", "そう来るとは"],
-    "variants-en": ["so that’s how it came", "didn't expect that", "ah, you went that way"],
+    "variants-en": [
+      "so that’s how it came",
+      "didn't expect that",
+      "ah, you went that way"
+    ],
     "intent-ja": ["驚き", "受けとめ", "即時評価"],
     "intent-en": ["surprise", "uptake", "instant evaluation"],
     "tags-ja": ["即時文法", "口語", "反応", "感嘆"],
@@ -1503,7 +1964,11 @@
     "roman-ja": "…natto",
     "expression-en": "hmm, that's kind of...",
     "variants-ja": ["むずかしいなっと", "こわいなっと", "知らないなっと"],
-    "variants-en": ["Hmm, that’s kinda hard", "That’s kind of scary", "I don’t really know, hmm"],
+    "variants-en": [
+      "Hmm, that’s kinda hard",
+      "That’s kind of scary",
+      "I don’t really know, hmm"
+    ],
     "intent-ja": ["評価", "つぶやき", "即時判断"],
     "intent-en": ["evaluation", "muttering", "immediate judgment"],
     "tags-ja": ["即時文法", "口語", "評価", "曖昧"],
@@ -1525,12 +1990,25 @@
     "expression-ja": "ここんとこ",
     "roman-ja": "kokon toko",
     "expression-en": "lately / these days",
-    "variants-ja": ["ここんとこ忙しくて", "ここんとこ会ってないね", "ここんとこずっと眠い"],
-    "variants-en": ["I've been busy lately", "We haven't met lately", "I've been feeling sleepy these days"],
+    "variants-ja": [
+      "ここんとこ忙しくて",
+      "ここんとこ会ってないね",
+      "ここんとこずっと眠い"
+    ],
+    "variants-en": [
+      "I've been busy lately",
+      "We haven't met lately",
+      "I've been feeling sleepy these days"
+    ],
     "intent-ja": ["近況", "話題導入", "状況共有"],
     "intent-en": ["recent status", "topic opener", "context sharing"],
     "tags-ja": ["即時文法", "口語", "省略", "時間表現"],
-    "tags-en": ["immediate grammar", "spoken", "ellipsis", "temporal expression"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "ellipsis",
+      "temporal expression"
+    ],
     "adjusted-expression-ja": "このところ",
     "adjusted-expression-en": "recently / these days",
     "img-sub": "kokontoko01.png",
@@ -1549,11 +2027,20 @@
     "roman-ja": "shitteru?",
     "expression-en": "do you know?",
     "variants-ja": ["これ知ってる？", "あの人知ってる？", "その話知ってる？"],
-    "variants-en": ["Do you know this?", "Do you know that person?", "Do you know that story?"],
+    "variants-en": [
+      "Do you know this?",
+      "Do you know that person?",
+      "Do you know that story?"
+    ],
     "intent-ja": ["確認", "話題導入", "共有意識"],
     "intent-en": ["confirmation", "topic introduction", "shared awareness"],
     "tags-ja": ["即時文法", "口語", "確認", "共有"],
-    "tags-en": ["immediate grammar", "spoken", "confirmation", "shared knowledge"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "confirmation",
+      "shared knowledge"
+    ],
     "adjusted-expression-ja": "ご(存:ぞん)じですか",
     "adjusted-expression-en": "do you happen to know",
     "img-sub": "shitteru01.png",
@@ -1571,12 +2058,25 @@
     "expression-ja": "(他:ほか)、(何:なに)、できる？",
     "roman-ja": "hoka, nani, dekiru?",
     "expression-en": "what else can you do?",
-    "variants-ja": ["他、できることある？", "他、何かできたりする？", "他には？"],
-    "variants-en": ["Is there anything else you can do?", "Can you do anything else?", "Anything else?"],
+    "variants-ja": [
+      "他、できることある？",
+      "他、何かできたりする？",
+      "他には？"
+    ],
+    "variants-en": [
+      "Is there anything else you can do?",
+      "Can you do anything else?",
+      "Anything else?"
+    ],
     "intent-ja": ["確認", "話題継続", "探り"],
     "intent-en": ["checking", "follow-up", "exploratory"],
     "tags-ja": ["即時文法", "口語", "省略", "順序の自由"],
-    "tags-en": ["immediate grammar", "spoken", "ellipsis", "flexible word order"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "ellipsis",
+      "flexible word order"
+    ],
     "adjusted-expression-ja": "(他:ほか)に(何:なに)ができますか？",
     "adjusted-expression-en": "What else can you do?",
     "img-sub": "hokanandekiru01.png",
@@ -1594,8 +2094,16 @@
     "expression-ja": "できるねぇ",
     "roman-ja": "dekiru nee",
     "expression-en": "you're good at it! / not bad!",
-    "variants-ja": ["よくできるねぇ", "そんなこともできるねぇ", "一人でできるねぇ"],
-    "variants-en": ["You can really do it!", "You can even do that!", "You can do it all by yourself!"],
+    "variants-ja": [
+      "よくできるねぇ",
+      "そんなこともできるねぇ",
+      "一人でできるねぇ"
+    ],
+    "variants-en": [
+      "You can really do it!",
+      "You can even do that!",
+      "You can do it all by yourself!"
+    ],
     "intent-ja": ["感心", "評価", "驚き"],
     "intent-en": ["admiration", "praise", "surprise"],
     "tags-ja": ["即時文法", "口語", "評価", "感嘆"],
@@ -1617,8 +2125,16 @@
     "expression-ja": "うーん、それはね",
     "roman-ja": "uun, sore wa ne",
     "expression-en": "well, you see...",
-    "variants-ja": ["うーん、それはね、ちょっと違うよ", "うーん、それはね、説明が難しいんだ", "うーん、それはね、わからない"],
-    "variants-en": ["Well, you see, that's a bit different", "Well, you see, it's hard to explain", "Well, you see, I don't know"],
+    "variants-ja": [
+      "うーん、それはね、ちょっと違うよ",
+      "うーん、それはね、説明が難しいんだ",
+      "うーん、それはね、わからない"
+    ],
+    "variants-en": [
+      "Well, you see, that's a bit different",
+      "Well, you see, it's hard to explain",
+      "Well, you see, I don't know"
+    ],
     "intent-ja": ["思考中", "前置き", "柔らかい説明"],
     "intent-en": ["thinking", "preface", "soft explanation"],
     "tags-ja": ["即時文法", "口語", "前置き", "ためらい"],
@@ -1641,7 +2157,11 @@
     "roman-ja": "chatta",
     "expression-en": "oops, I ... / I ended up ...",
     "variants-ja": ["寝ちゃった", "忘れちゃった", "食べちゃった"],
-    "variants-en": ["I fell asleep (oops)", "I forgot (oops)", "I ate it (oops)"],
+    "variants-en": [
+      "I fell asleep (oops)",
+      "I forgot (oops)",
+      "I ate it (oops)"
+    ],
     "intent-ja": ["失敗", "予期せぬ行動", "軽い後悔"],
     "intent-en": ["mistake", "unexpected action", "mild regret"],
     "tags-ja": ["即時文法", "口語", "縮約", "感情"],
@@ -1663,10 +2183,22 @@
     "expression-ja": "(バレ:ばれ)た？",
     "roman-ja": "bareta?",
     "expression-en": "You got me? / Busted!",
-    "variants-ja": ["隠してたけどバレた？", "嘘ついたのバレた？", "気持ちバレた？"],
-    "variants-en": ["I tried to hide it, but you noticed?", "Did you catch my lie?", "Did you notice my feelings?"],
+    "variants-ja": [
+      "隠してたけどバレた？",
+      "嘘ついたのバレた？",
+      "気持ちバレた？"
+    ],
+    "variants-en": [
+      "I tried to hide it, but you noticed?",
+      "Did you catch my lie?",
+      "Did you notice my feelings?"
+    ],
     "intent-ja": ["本音露呈", "秘密発覚", "からかい"],
-    "intent-en": ["true feelings revealed", "secret exposed", "playful admission"],
+    "intent-en": [
+      "true feelings revealed",
+      "secret exposed",
+      "playful admission"
+    ],
     "tags-ja": ["即時文法", "口語", "からかい", "感情"],
     "tags-en": ["immediate grammar", "spoken", "playful", "emotion"],
     "adjusted-expression-ja": "(気:き)づかれましたか？",
@@ -1687,7 +2219,11 @@
     "roman-ja": "da yo ne",
     "expression-en": "right? / isn't it?",
     "variants-ja": ["いい天気だよね", "難しかったよね", "楽しかったよね"],
-    "variants-en": ["It's nice weather, right?", "That was difficult, wasn't it?", "It was fun, wasn't it?"],
+    "variants-en": [
+      "It's nice weather, right?",
+      "That was difficult, wasn't it?",
+      "It was fun, wasn't it?"
+    ],
     "intent-ja": ["同意確認", "共感", "会話のつなぎ"],
     "intent-en": ["confirmation", "empathy", "conversational link"],
     "tags-ja": ["即時文法", "口語", "共感", "確認"],
@@ -1709,8 +2245,16 @@
     "expression-ja": "いつもなら",
     "roman-ja": "itsumo nara",
     "expression-en": "normally / usually",
-    "variants-ja": ["いつもなら寝ている時間", "いつもなら怒るところ", "いつもなら行かない店"],
-    "variants-en": ["Normally I'd be asleep at this time", "Normally I'd get angry", "Normally I wouldn't go to this shop"],
+    "variants-ja": [
+      "いつもなら寝ている時間",
+      "いつもなら怒るところ",
+      "いつもなら行かない店"
+    ],
+    "variants-en": [
+      "Normally I'd be asleep at this time",
+      "Normally I'd get angry",
+      "Normally I wouldn't go to this shop"
+    ],
     "intent-ja": ["基準提示", "比較", "状況の違い"],
     "intent-en": ["baseline", "comparison", "situation difference"],
     "tags-ja": ["即時文法", "口語", "習慣", "比較"],
@@ -1732,8 +2276,16 @@
     "expression-ja": "なんとしても",
     "roman-ja": "nantoshitemo",
     "expression-en": "by all means / no matter what",
-    "variants-ja": ["なんとしても成功させたい", "なんとしても行かなければならない", "なんとしても守り抜く"],
-    "variants-en": ["I want to succeed by all means", "I must go no matter what", "I will protect it at all costs"],
+    "variants-ja": [
+      "なんとしても成功させたい",
+      "なんとしても行かなければならない",
+      "なんとしても守り抜く"
+    ],
+    "variants-en": [
+      "I want to succeed by all means",
+      "I must go no matter what",
+      "I will protect it at all costs"
+    ],
     "intent-ja": ["強い意志", "決意", "必然"],
     "intent-en": ["strong will", "determination", "inevitability"],
     "tags-ja": ["即時文法", "口語", "強調", "意志"],
@@ -1755,8 +2307,16 @@
     "expression-ja": "なんなら",
     "roman-ja": "nannara",
     "expression-en": "if you like / if anything",
-    "variants-ja": ["なんなら手伝いますよ", "なんなら帰ってもいい", "なんならやめてもいいよ"],
-    "variants-en": ["If you like, I can help", "If anything, you can go home", "If necessary, you can quit"],
+    "variants-ja": [
+      "なんなら手伝いますよ",
+      "なんなら帰ってもいい",
+      "なんならやめてもいいよ"
+    ],
+    "variants-en": [
+      "If you like, I can help",
+      "If anything, you can go home",
+      "If necessary, you can quit"
+    ],
     "intent-ja": ["提案", "強調", "柔らかい逆接"],
     "intent-en": ["suggestion", "emphasis", "soft contrast"],
     "tags-ja": ["即時文法", "口語", "提案", "含み"],
@@ -1778,10 +2338,22 @@
     "expression-ja": "ぼちぼち",
     "roman-ja": "bochibochi",
     "expression-en": "little by little / it's about time",
-    "variants-ja": ["ぼちぼち行こか", "仕事はぼちぼちやってます", "景気はぼちぼちやな"],
-    "variants-en": ["Shall we get going?", "I'm working little by little", "The economy is so-so"],
+    "variants-ja": [
+      "ぼちぼち行こか",
+      "仕事はぼちぼちやってます",
+      "景気はぼちぼちやな"
+    ],
+    "variants-en": [
+      "Shall we get going?",
+      "I'm working little by little",
+      "The economy is so-so"
+    ],
     "intent-ja": ["緩やかな進行", "そろそろの合図", "控えめな評価"],
-    "intent-en": ["gradual progress", "signal for it's time", "modest evaluation"],
+    "intent-en": [
+      "gradual progress",
+      "signal for it's time",
+      "modest evaluation"
+    ],
     "tags-ja": ["即時文法", "口語", "緩和", "進行"],
     "tags-en": ["immediate grammar", "spoken", "softening", "progress"],
     "adjusted-expression-ja": "(少:すこ)しずつ / そろそろ",
@@ -1801,8 +2373,16 @@
     "expression-ja": "それがそれ",
     "roman-ja": "sore ga sore",
     "expression-en": "that's it",
-    "variants-ja": ["それがそれなんだよ", "それがそれだから困る", "それがそれってこと"],
-    "variants-en": ["That's it, you know", "That's it, that's the problem", "That's what it is"],
+    "variants-ja": [
+      "それがそれなんだよ",
+      "それがそれだから困る",
+      "それがそれってこと"
+    ],
+    "variants-en": [
+      "That's it, you know",
+      "That's it, that's the problem",
+      "That's what it is"
+    ],
     "intent-ja": ["納得", "共感", "問題の指摘"],
     "intent-en": ["acceptance", "empathy", "pointing out an issue"],
     "tags-ja": ["即時文法", "口語", "納得", "含み"],
@@ -1847,8 +2427,16 @@
     "expression-ja": "わざわざ",
     "roman-ja": "wazawaza",
     "expression-en": "taking the trouble to / going out of one's way",
-    "variants-ja": ["わざわざ来てくれてありがとう", "わざわざ言わなくてもいい", "わざわざ持ってきてくれた"],
-    "variants-en": ["Thank you for taking the trouble to come", "You didn’t have to say it", "You went out of your way to bring it"],
+    "variants-ja": [
+      "わざわざ来てくれてありがとう",
+      "わざわざ言わなくてもいい",
+      "わざわざ持ってきてくれた"
+    ],
+    "variants-en": [
+      "Thank you for taking the trouble to come",
+      "You didn’t have to say it",
+      "You went out of your way to bring it"
+    ],
     "intent-ja": ["感謝", "非難", "強調"],
     "intent-en": ["gratitude", "criticism", "emphasis"],
     "tags-ja": ["即時文法", "口語", "感謝", "強調"],
@@ -1871,7 +2459,11 @@
     "roman-ja": "sou datta n da",
     "expression-en": "Oh, so that’s how it was",
     "variants-ja": ["そうだったんですね", "そうだったのか", "そうだったんだね"],
-    "variants-en": ["Oh, I see, that’s how it was", "So that’s what happened", "So that’s how it was, huh"],
+    "variants-en": [
+      "Oh, I see, that’s how it was",
+      "So that’s what happened",
+      "So that’s how it was, huh"
+    ],
     "intent-ja": ["納得", "理解", "気づき"],
     "intent-en": ["acceptance", "understanding", "realization"],
     "tags-ja": ["即時文法", "口語", "納得", "発見"],
@@ -1893,7 +2485,11 @@
     "expression-ja": "...たなら、...",
     "roman-ja": "ta nara, ...",
     "expression-en": "If it had..., then...",
-    "variants-ja": ["行けたなら、会えたのに", "知っていたなら、準備した", "一緒だったなら、楽しかった"],
+    "variants-ja": [
+      "行けたなら、会えたのに",
+      "知っていたなら、準備した",
+      "一緒だったなら、楽しかった"
+    ],
     "variants-en": [
       "If I had been able to go, I could have seen you",
       "If I had known, I would have prepared",
@@ -1921,7 +2517,11 @@
     "roman-ja": "...datte(ba)",
     "expression-en": "I'm telling you...",
     "variants-ja": ["本当だって", "行ったんだってば", "違うんだって"],
-    "variants-en": ["It really is, I'm telling you", "I went, I'm telling you", "It's not true, I said"],
+    "variants-en": [
+      "It really is, I'm telling you",
+      "I went, I'm telling you",
+      "It's not true, I said"
+    ],
     "intent-ja": ["強調", "念押し", "不満"],
     "intent-en": ["emphasis", "insistence", "frustration"],
     "tags-ja": ["即時文法", "口語", "強調", "感情"],
@@ -1943,8 +2543,16 @@
     "expression-ja": "なんとか",
     "roman-ja": "nantoka",
     "expression-en": "somehow / manage to",
-    "variants-ja": ["なんとかのりこえた", "なんとか卒業できた", "なんとか生き延びた"],
-    "variants-en": ["I managed to get through it somehow", "I somehow managed to graduate", "I somehow survived"],
+    "variants-ja": [
+      "なんとかのりこえた",
+      "なんとか卒業できた",
+      "なんとか生き延びた"
+    ],
+    "variants-en": [
+      "I managed to get through it somehow",
+      "I somehow managed to graduate",
+      "I somehow survived"
+    ],
     "intent-ja": ["困難克服", "安堵", "ぎりぎりの成功"],
     "intent-en": ["overcoming hardship", "relief", "barely succeeding"],
     "tags-ja": ["即時文法", "口語", "克服", "安堵"],
@@ -1967,11 +2575,20 @@
     "roman-ja": "konai?",
     "expression-en": "How about coming?",
     "variants-ja": ["行かない？", "食べない？", "飲まない？"],
-    "variants-en": ["How about going?", "How about eating?", "How about having a drink?"],
+    "variants-en": [
+      "How about going?",
+      "How about eating?",
+      "How about having a drink?"
+    ],
     "intent-ja": ["誘い", "提案", "親しさ"],
     "intent-en": ["invitation", "suggestion", "closeness"],
     "tags-ja": ["即時文法", "口語", "誘い", "否定疑問"],
-    "tags-en": ["immediate grammar", "spoken", "invitation", "negative question"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "invitation",
+      "negative question"
+    ],
     "adjusted-expression-ja": "(来:き)ませんか？",
     "adjusted-expression-en": "Would you like to come?",
     "img-sub": "konai01.png",
@@ -1989,8 +2606,16 @@
     "expression-ja": "もし、よかったら、",
     "roman-ja": "moshi, yokattara,",
     "expression-en": "If it's alright with you...",
-    "variants-ja": ["もし、よかったら、一緒に行きませんか？", "もし、よかったら、使ってください。", "もし、よかったら、見てみて。"],
-    "variants-en": ["If it's alright with you, would you come with me?", "If it's alright with you, please use it.", "If it's alright with you, have a look."],
+    "variants-ja": [
+      "もし、よかったら、一緒に行きませんか？",
+      "もし、よかったら、使ってください。",
+      "もし、よかったら、見てみて。"
+    ],
+    "variants-en": [
+      "If it's alright with you, would you come with me?",
+      "If it's alright with you, please use it.",
+      "If it's alright with you, have a look."
+    ],
     "intent-ja": ["控えめな提案", "配慮", "誘い"],
     "intent-en": ["tentative suggestion", "consideration", "invitation"],
     "tags-ja": ["即時文法", "口語", "丁寧", "提案"],
@@ -2012,8 +2637,16 @@
     "expression-ja": "..とは(思:おも)わなかった",
     "roman-ja": "...to wa omowanakatta",
     "expression-en": "I never thought that...",
-    "variants-ja": ["勝てるとは思わなかった", "君に会えるとは思わなかった", "こんなに時間がかかるとは思わなかった"],
-    "variants-en": ["I never thought we could win", "I never thought I would see you", "I never thought it would take this long"],
+    "variants-ja": [
+      "勝てるとは思わなかった",
+      "君に会えるとは思わなかった",
+      "こんなに時間がかかるとは思わなかった"
+    ],
+    "variants-en": [
+      "I never thought we could win",
+      "I never thought I would see you",
+      "I never thought it would take this long"
+    ],
     "intent-ja": ["意外性", "驚き", "回想"],
     "intent-en": ["unexpectedness", "surprise", "retrospection"],
     "tags-ja": ["即時文法", "口語", "意外性", "感情"],
@@ -2035,8 +2668,16 @@
     "expression-ja": "...なんだけどね",
     "roman-ja": "...nan da kedo ne",
     "expression-en": "Well, but you know...",
-    "variants-ja": ["行きたかったんだけどね", "頑張ったんだけどね", "いい試合だったんだけどね"],
-    "variants-en": ["I wanted to go, but you know...", "I tried hard, but you know...", "It was a good game, but you know..."],
+    "variants-ja": [
+      "行きたかったんだけどね",
+      "頑張ったんだけどね",
+      "いい試合だったんだけどね"
+    ],
+    "variants-en": [
+      "I wanted to go, but you know...",
+      "I tried hard, but you know...",
+      "It was a good game, but you know..."
+    ],
     "intent-ja": ["事情説明", "言いさし", "共感呼びかけ"],
     "intent-en": ["explanation", "trailing off", "seeking empathy"],
     "tags-ja": ["即時文法", "口語", "含み", "共感"],
@@ -2058,8 +2699,16 @@
     "expression-ja": "なんでそうなるの？",
     "roman-ja": "nande sou naru no?",
     "expression-en": "Why does it end up like that?",
-    "variants-ja": ["なんでそうなる？", "どうしてそうなるの？", "なんでそんなことになるの？"],
-    "variants-en": ["Why does it end up like that?", "How come it turns out that way?", "Why does it go that way?"],
+    "variants-ja": [
+      "なんでそうなる？",
+      "どうしてそうなるの？",
+      "なんでそんなことになるの？"
+    ],
+    "variants-en": [
+      "Why does it end up like that?",
+      "How come it turns out that way?",
+      "Why does it go that way?"
+    ],
     "intent-ja": ["驚き", "不満", "納得できなさ"],
     "intent-en": ["surprise", "discontent", "incredulity"],
     "tags-ja": ["即時文法", "口語", "疑問", "感情"],
@@ -2081,8 +2730,16 @@
     "expression-ja": "...てたら、...はずで",
     "roman-ja": "...tetara, ...hazude",
     "expression-en": "If you'd been watching, you should have known",
-    "variants-ja": ["見てたら、わかるはずで", "聞いてたら、知ってるはずで", "やってたら、気づくはずで"],
-    "variants-en": ["If you had seen it, you should have known", "If you had heard it, you'd know", "If you had tried it, you'd have noticed"],
+    "variants-ja": [
+      "見てたら、わかるはずで",
+      "聞いてたら、知ってるはずで",
+      "やってたら、気づくはずで"
+    ],
+    "variants-en": [
+      "If you had seen it, you should have known",
+      "If you had heard it, you'd know",
+      "If you had tried it, you'd have noticed"
+    ],
     "intent-ja": ["根拠提示", "軽い主張", "含み"],
     "intent-en": ["grounded assertion", "soft criticism", "implication"],
     "tags-ja": ["即時文法", "口語", "感情", "根拠"],
@@ -2105,7 +2762,11 @@
     "roman-ja": "shika nakute",
     "expression-en": "I had no choice but to...",
     "variants-ja": ["行くしかなくて", "待つしかなくて", "謝るしかなくて"],
-    "variants-en": ["I had no choice but to go", "I had no choice but to wait", "I had no choice but to apologize"],
+    "variants-en": [
+      "I had no choice but to go",
+      "I had no choice but to wait",
+      "I had no choice but to apologize"
+    ],
     "intent-ja": ["限定", "言い訳", "必然"],
     "intent-en": ["limitation", "excuse", "inevitability"],
     "tags-ja": ["即時文法", "口語", "制約"],
@@ -2128,7 +2789,11 @@
     "roman-ja": "... to sugu,",
     "expression-en": "as soon as ...",
     "variants-ja": ["…とたん", "..てすぐに", "..と同時に"],
-    "variants-en": ["the moment ...", "immediately after ...ing", "at the same time as ..."],
+    "variants-en": [
+      "the moment ...",
+      "immediately after ...ing",
+      "at the same time as ..."
+    ],
     "intent-ja": ["即時性", "連鎖", "予期せぬ出来事"],
     "intent-en": ["immediacy", "sequence", "unexpected event"],
     "tags-ja": ["即時文法", "接続", "時間"],
@@ -2151,7 +2816,11 @@
     "roman-ja": "sore nara",
     "expression-en": "In that case",
     "variants-ja": ["それなら行こう", "それなら大丈夫", "それならやめよう"],
-    "variants-en": ["In that case, let's go", "Then it's fine", "In that case, let's stop"],
+    "variants-en": [
+      "In that case, let's go",
+      "Then it's fine",
+      "In that case, let's stop"
+    ],
     "intent-ja": ["条件転換", "提案", "同意"],
     "intent-en": ["conditional shift", "suggestion", "agreement"],
     "tags-ja": ["即時文法", "口語", "条件"],
@@ -2196,8 +2865,16 @@
     "expression-ja": "(思:おも)いがけず",
     "roman-ja": "omoigakezu",
     "expression-en": "unexpectedly",
-    "variants-ja": ["思いがけず会った", "思いがけず助かった", "思いがけず褒められた"],
-    "variants-en": ["I met (someone) unexpectedly", "I was saved unexpectedly", "I was praised unexpectedly"],
+    "variants-ja": [
+      "思いがけず会った",
+      "思いがけず助かった",
+      "思いがけず褒められた"
+    ],
+    "variants-en": [
+      "I met (someone) unexpectedly",
+      "I was saved unexpectedly",
+      "I was praised unexpectedly"
+    ],
     "intent-ja": ["予想外", "偶然", "驚き"],
     "intent-en": ["unexpected", "coincidence", "surprise"],
     "tags-ja": ["即時文法", "副詞", "予期せぬ出来事"],
@@ -2220,7 +2897,11 @@
     "roman-ja": "totan",
     "expression-en": "the moment",
     "variants-ja": ["立ったとたん", "言ったとたん", "出かけたとたん"],
-    "variants-en": ["the moment (I) stood up", "the moment (I) said it", "the moment (I) left"],
+    "variants-en": [
+      "the moment (I) stood up",
+      "the moment (I) said it",
+      "the moment (I) left"
+    ],
     "intent-ja": ["即時性", "転換", "予期せぬ出来事"],
     "intent-en": ["immediacy", "change", "unexpected occurrence"],
     "tags-ja": ["即時文法", "接続", "時間"],
@@ -2243,7 +2924,11 @@
     "roman-ja": "omoikkiri",
     "expression-en": "with all my might",
     "variants-ja": ["思いっきり走る", "思いっきり笑う", "思いっきり怒る"],
-    "variants-en": ["run with all my might", "laugh out loud", "get really angry"],
+    "variants-en": [
+      "run with all my might",
+      "laugh out loud",
+      "get really angry"
+    ],
     "intent-ja": ["強調", "感情", "全力"],
     "intent-en": ["emphasis", "emotion", "full force"],
     "tags-ja": ["即時文法", "口語", "強調"],
@@ -2265,8 +2950,16 @@
     "expression-ja": "こちらこそ",
     "roman-ja": "kochirakoso",
     "expression-en": "Likewise",
-    "variants-ja": ["こちらこそ、ありがとう", "こちらこそ、すみません", "こちらこそ、よろしく"],
-    "variants-en": ["Likewise, thank you", "No, I'm the one who should apologize", "Likewise, nice to meet you"],
+    "variants-ja": [
+      "こちらこそ、ありがとう",
+      "こちらこそ、すみません",
+      "こちらこそ、よろしく"
+    ],
+    "variants-en": [
+      "Likewise, thank you",
+      "No, I'm the one who should apologize",
+      "Likewise, nice to meet you"
+    ],
     "intent-ja": ["応答", "謙遜", "相互性"],
     "intent-en": ["response", "modesty", "reciprocity"],
     "tags-ja": ["即時文法", "口語", "応答"],
@@ -2288,7 +2981,11 @@
     "expression-ja": "ほらね",
     "roman-ja": "hora ne",
     "expression-en": "See?",
-    "variants-ja": ["ほらね！", "ほらね、言ったでしょ", "ほらね、だから言ったんだ"],
+    "variants-ja": [
+      "ほらね！",
+      "ほらね、言ったでしょ",
+      "ほらね、だから言ったんだ"
+    ],
     "variants-en": ["See!", "See, I told you", "See, that's why I said it"],
     "intent-ja": ["確認", "共感", "得意"],
     "intent-en": ["confirmation", "shared feeling", "self-assertion"],
@@ -2311,8 +3008,16 @@
     "expression-ja": "どうせなら",
     "roman-ja": "douse nara",
     "expression-en": "Since we're at it...",
-    "variants-ja": ["どうせなら行こう", "どうせならやってみよう", "どうせなら言えばいい"],
-    "variants-en": ["Since we're at it, let's go", "Since we're at it, let's try", "Since we're at it, you might as well say it"],
+    "variants-ja": [
+      "どうせなら行こう",
+      "どうせならやってみよう",
+      "どうせなら言えばいい"
+    ],
+    "variants-en": [
+      "Since we're at it, let's go",
+      "Since we're at it, let's try",
+      "Since we're at it, you might as well say it"
+    ],
     "intent-ja": ["提案", "気分", "即時判断"],
     "intent-en": ["suggestion", "feeling", "immediate judgment"],
     "tags-ja": ["即時文法", "口語", "提案"],
@@ -2335,7 +3040,11 @@
     "roman-ja": "ima, chotto, ii",
     "expression-en": "Got a moment now?",
     "variants-ja": ["今、ちょっといいですか", "今、いい？", "今、少し、いい？"],
-    "variants-en": ["Do you have a moment now?", "Is now a good time?", "Got a sec?"],
+    "variants-en": [
+      "Do you have a moment now?",
+      "Is now a good time?",
+      "Got a sec?"
+    ],
     "intent-ja": ["呼びかけ", "配慮", "会話開始"],
     "intent-en": ["attention call", "consideration", "conversation start"],
     "tags-ja": ["即時文法", "口語", "配慮"],
@@ -2358,7 +3067,11 @@
     "roman-ja": "nandemo nai",
     "expression-en": "It's nothing.",
     "variants-ja": ["全然なんでもない", "別になんでもない", "なんでもないよ"],
-    "variants-en": ["It's totally nothing", "It's really nothing", "It's nothing, really"],
+    "variants-en": [
+      "It's totally nothing",
+      "It's really nothing",
+      "It's nothing, really"
+    ],
     "intent-ja": ["否定", "安心", "ごまかし"],
     "intent-en": ["denial", "reassurance", "evasion"],
     "tags-ja": ["即時文法", "口語", "感情"],
@@ -2381,7 +3094,11 @@
     "roman-ja": "yattete yokatta",
     "expression-en": "I'm glad I did it.",
     "variants-ja": ["行っててよかった", "買っててよかった", "聞いててよかった"],
-    "variants-en": ["I'm glad I went", "I'm glad I bought it", "I'm glad I heard it"],
+    "variants-en": [
+      "I'm glad I went",
+      "I'm glad I bought it",
+      "I'm glad I heard it"
+    ],
     "intent-ja": ["満足", "安心", "即時評価"],
     "intent-en": ["satisfaction", "relief", "immediate evaluation"],
     "tags-ja": ["即時文法", "口語", "満足"],
@@ -2403,8 +3120,16 @@
     "expression-ja": "やっときゃよかった",
     "roman-ja": "yattokya yokatta",
     "expression-en": "I should've done it.",
-    "variants-ja": ["行っときゃよかった", "買っときゃよかった", "言っときゃよかった"],
-    "variants-en": ["I should've gone", "I should've bought it", "I should've said it"],
+    "variants-ja": [
+      "行っときゃよかった",
+      "買っときゃよかった",
+      "言っときゃよかった"
+    ],
+    "variants-en": [
+      "I should've gone",
+      "I should've bought it",
+      "I should've said it"
+    ],
     "intent-ja": ["後悔", "未実行", "即時評価"],
     "intent-en": ["regret", "not done", "immediate evaluation"],
     "tags-ja": ["即時文法", "口語", "後悔"],
@@ -2427,7 +3152,11 @@
     "roman-ja": "... toku",
     "expression-en": "(do something) in advance",
     "variants-ja": ["これ、買っとく", "先に言っとく", "用意しとく"],
-    "variants-en": ["I'll buy this in advance", "I'll tell you first", "I'll prepare it beforehand"],
+    "variants-en": [
+      "I'll buy this in advance",
+      "I'll tell you first",
+      "I'll prepare it beforehand"
+    ],
     "intent-ja": ["準備", "配慮", "先回り"],
     "intent-en": ["preparation", "consideration", "anticipation"],
     "tags-ja": ["即時文法", "口語", "話しことば"],
@@ -2496,7 +3225,11 @@
     "roman-ja": "yoku kiku",
     "expression-en": "I often hear that",
     "variants-ja": ["よく聞くね", "よく聞くやつ", "よく聞く話"],
-    "variants-en": ["You hear that a lot", "Common phrase", "I’ve heard that before"],
+    "variants-en": [
+      "You hear that a lot",
+      "Common phrase",
+      "I’ve heard that before"
+    ],
     "intent-ja": ["共感", "観察", "自然な反応"],
     "intent-en": ["shared feeling", "observation", "natural reaction"],
     "tags-ja": ["即時文法", "感情", "話しことば"],
@@ -2542,7 +3275,11 @@
     "roman-ja": "Ki ga omoi",
     "expression-en": "Feeling reluctant / Heavy-hearted",
     "variants-ja": ["なんか気が重い", "明日が気が重い", "正直、気が重い"],
-    "variants-en": ["I feel reluctant", "I'm dreading tomorrow", "Honestly, I'm not looking forward to it"],
+    "variants-en": [
+      "I feel reluctant",
+      "I'm dreading tomorrow",
+      "Honestly, I'm not looking forward to it"
+    ],
     "intent-ja": ["憂鬱", "負担感", "ためらい"],
     "intent-en": ["gloominess", "sense of burden", "reluctance"],
     "tags-ja": ["即時文法", "感情", "比喩"],
@@ -2565,7 +3302,11 @@
     "roman-ja": "Zutto mashi",
     "expression-en": "Way better / Much better (comparatively)",
     "variants-ja": ["まだまし", "こっちの方がまし", "〜よりずっとまし"],
-    "variants-en": ["still better", "this one’s better at least", "much better than ~"],
+    "variants-en": [
+      "still better",
+      "this one’s better at least",
+      "much better than ~"
+    ],
     "intent-ja": ["比較", "妥協", "否定の中の肯定"],
     "intent-en": ["comparison", "consolation", "reluctant approval"],
     "tags-ja": ["即時文法", "話しことば", "感情"],
@@ -2610,8 +3351,16 @@
     "expression-ja": "これでいいのかな",
     "roman-ja": "Kore de ii no kana",
     "expression-en": "I wonder if this is okay",
-    "variants-ja": ["これでよかったかな", "こうしてよかったのかな", "これで大丈夫かな"],
-    "variants-en": ["Was this the right choice?", "Was it okay to do it this way?", "Is this alright, I wonder?"],
+    "variants-ja": [
+      "これでよかったかな",
+      "こうしてよかったのかな",
+      "これで大丈夫かな"
+    ],
+    "variants-en": [
+      "Was this the right choice?",
+      "Was it okay to do it this way?",
+      "Is this alright, I wonder?"
+    ],
     "intent-ja": ["不安", "確認", "つぶやき"],
     "intent-en": ["uncertainty", "seeking reassurance", "murmur"],
     "tags-ja": ["即時文法", "感情", "内語"],
@@ -2634,7 +3383,11 @@
     "roman-ja": "Uun, mayou naa",
     "expression-en": "Hmm, I can't decide.",
     "variants-ja": ["迷うなあ", "どうしようかな", "どっちにしようかな"],
-    "variants-en": ["I’m torn...", "What should I do?", "Which one should I pick..."],
+    "variants-en": [
+      "I’m torn...",
+      "What should I do?",
+      "Which one should I pick..."
+    ],
     "intent-ja": ["迷い", "独り言", "感情の共有"],
     "intent-en": ["indecision", "self-talk", "emotional sharing"],
     "tags-ja": ["即時文法", "感情", "思考"],
@@ -2657,7 +3410,11 @@
     "roman-ja": "Dou shiyou kana",
     "expression-en": "Hmm... What should I do?",
     "variants-ja": ["どうしよっかな", "どうしたもんかな", "どうしようか"],
-    "variants-en": ["What to do...", "I wonder what I should do", "Shall I...?"],
+    "variants-en": [
+      "What to do...",
+      "I wonder what I should do",
+      "Shall I...?"
+    ],
     "intent-ja": ["迷い", "独り言", "思考の始まり"],
     "intent-en": ["indecision", "murmuring", "thought initiation"],
     "tags-ja": ["即時文法", "感情", "思考"],
@@ -2680,7 +3437,11 @@
     "roman-ja": "naku wa nai",
     "expression-en": "not impossible / not that I wouldn’t",
     "variants-ja": ["やってみなくはない", "行かなくはない", "食べなくはない"],
-    "variants-en": ["I might try it", "I could go", "I don't exactly dislike it"],
+    "variants-en": [
+      "I might try it",
+      "I could go",
+      "I don't exactly dislike it"
+    ],
     "intent-ja": ["あいまい", "可能性", "含み"],
     "intent-en": ["ambiguity", "possibility", "implication"],
     "tags-ja": ["即時文法", "二重否定", "感情のぼかし"],
@@ -2702,7 +3463,11 @@
     "expression-ja": "かなり",
     "roman-ja": "Kanari",
     "expression-en": "quite / pretty much / fairly",
-    "variants-ja": ["かなりいい", "かなり(疲:つか)れた", "かなり(難:むずか)しかった"],
+    "variants-ja": [
+      "かなりいい",
+      "かなり(疲:つか)れた",
+      "かなり(難:むずか)しかった"
+    ],
     "variants-en": ["pretty good", "got quite tired", "was fairly difficult"],
     "intent-ja": ["程度", "感覚", "強調"],
     "intent-en": ["degree", "perception", "emphasis"],
@@ -2725,8 +3490,16 @@
     "expression-ja": "...らしい",
     "roman-ja": "...rashii",
     "expression-en": "They say / It seems...",
-    "variants-ja": ["(雨:あめ)らしい", "テストは(明日:あした)らしい", "もう(終:お)わったらしいよ"],
-    "variants-en": ["Seems like rain", "Apparently the test is tomorrow", "Looks like it's already over"],
+    "variants-ja": [
+      "(雨:あめ)らしい",
+      "テストは(明日:あした)らしい",
+      "もう(終:お)わったらしいよ"
+    ],
+    "variants-en": [
+      "Seems like rain",
+      "Apparently the test is tomorrow",
+      "Looks like it's already over"
+    ],
     "intent-ja": ["伝聞", "推測", "控えめ"],
     "intent-en": ["hearsay", "inference", "tentative"],
     "tags-ja": ["即時文法", "判断", "情報共有"],
@@ -2748,8 +3521,16 @@
     "expression-ja": "...みたい",
     "roman-ja": "...mitai",
     "expression-en": "It looks like...",
-    "variants-ja": ["(雨:あめ)みたい", "(大丈夫:だいじょうぶ)みたい", "もう(終:お)わったみたい"],
-    "variants-en": ["Looks like rain", "Seems okay", "Looks like it's already over"],
+    "variants-ja": [
+      "(雨:あめ)みたい",
+      "(大丈夫:だいじょうぶ)みたい",
+      "もう(終:お)わったみたい"
+    ],
+    "variants-en": [
+      "Looks like rain",
+      "Seems okay",
+      "Looks like it's already over"
+    ],
     "intent-ja": ["推測", "観察", "親しみ"],
     "intent-en": ["guess", "observation", "affection"],
     "tags-ja": ["即時文法", "判断", "自然な会話"],
@@ -2771,8 +3552,16 @@
     "expression-ja": "さっきから",
     "roman-ja": "Sakki kara",
     "expression-en": "Since a moment ago",
-    "variants-ja": ["さっきからずっと", "さっきから気になってた", "さっきから見てたよ"],
-    "variants-en": ["This whole time", "I’ve been wondering since earlier", "I’ve been watching you since just now"],
+    "variants-ja": [
+      "さっきからずっと",
+      "さっきから気になってた",
+      "さっきから見てたよ"
+    ],
+    "variants-en": [
+      "This whole time",
+      "I’ve been wondering since earlier",
+      "I’ve been watching you since just now"
+    ],
     "intent-ja": ["継続", "気づき", "感情の蓄積"],
     "intent-en": ["continuity", "awareness", "emotional buildup"],
     "tags-ja": ["即時文法", "感情", "自然な会話"],
@@ -2795,7 +3584,11 @@
     "roman-ja": "Sakki",
     "expression-en": "A moment ago",
     "variants-ja": ["さっきね", "さっきのことだけど", "さっき言ってた"],
-    "variants-en": ["Just earlier", "About what we said a moment ago", "You mentioned earlier"],
+    "variants-en": [
+      "Just earlier",
+      "About what we said a moment ago",
+      "You mentioned earlier"
+    ],
     "intent-ja": ["つなぎ", "気づき", "やわらかさ"],
     "intent-en": ["connection", "awareness", "softness"],
     "tags-ja": ["即時文法", "感情", "自然な会話"],
@@ -2817,8 +3610,16 @@
     "expression-ja": "(覚:おぼ)えててくれたんだ",
     "roman-ja": "Oboetete kureta nda",
     "expression-en": "You remembered for me.",
-    "variants-ja": ["覚えててくれたね", "覚えててくれたの？", "覚えててくれてたんだ"],
-    "variants-en": ["You remembered, huh?", "Did you remember?", "You had remembered for me."],
+    "variants-ja": [
+      "覚えててくれたね",
+      "覚えててくれたの？",
+      "覚えててくれてたんだ"
+    ],
+    "variants-en": [
+      "You remembered, huh?",
+      "Did you remember?",
+      "You had remembered for me."
+    ],
     "intent-ja": ["感謝", "共有", "驚き"],
     "intent-en": ["gratitude", "shared feeling", "surprise"],
     "tags-ja": ["即時文法", "感情", "親しみ"],
@@ -2840,8 +3641,16 @@
     "expression-ja": "(待:ま)っててくれたんだ",
     "roman-ja": "Mattete kureta nda",
     "expression-en": "You waited for me.",
-    "variants-ja": ["待っててくれたね", "待っててくれたの？", "待ってくれてたんだ"],
-    "variants-en": ["You stayed and waited, huh?", "Were you waiting for me?", "You’d been waiting for me."],
+    "variants-ja": [
+      "待っててくれたね",
+      "待っててくれたの？",
+      "待ってくれてたんだ"
+    ],
+    "variants-en": [
+      "You stayed and waited, huh?",
+      "Were you waiting for me?",
+      "You’d been waiting for me."
+    ],
     "intent-ja": ["感謝", "共有", "驚き"],
     "intent-en": ["gratitude", "shared feeling", "surprise"],
     "tags-ja": ["即時文法", "感情", "親しみ"],
@@ -2864,7 +3673,11 @@
     "roman-ja": "...te kureta ne",
     "expression-en": "You did that for me, didn't you?",
     "variants-ja": ["手伝ってくれたね", "待っててくれたね", "覚えててくれたね"],
-    "variants-en": ["You helped me, right?", "You waited for me, didn’t you?", "You remembered, didn’t you?"],
+    "variants-en": [
+      "You helped me, right?",
+      "You waited for me, didn’t you?",
+      "You remembered, didn’t you?"
+    ],
     "intent-ja": ["感謝", "共有", "親密さ"],
     "intent-en": ["gratitude", "shared moment", "closeness"],
     "tags-ja": ["即時文法", "感情", "親しみ"],
@@ -2887,7 +3700,11 @@
     "roman-ja": "...te demo",
     "expression-en": "Even if I have to...",
     "variants-ja": ["行ってでも", "奪ってでも", "泣いてでも"],
-    "variants-en": ["Even if I go", "Even if I have to take it", "Even if I cry"],
+    "variants-en": [
+      "Even if I go",
+      "Even if I have to take it",
+      "Even if I cry"
+    ],
     "intent-ja": ["強調", "決意", "目的"],
     "intent-en": ["emphasis", "determination", "goal-oriented"],
     "tags-ja": ["即時文法", "意志", "過程強調"],
@@ -2909,8 +3726,16 @@
     "expression-ja": "...まではね",
     "roman-ja": "...made wa ne",
     "expression-en": "Not that far...",
-    "variants-ja": ["そこまではね", "やるけど...そこまではね", "行くけど...泊まりまではね"],
-    "variants-en": ["I can do it, but not that far", "I'm okay up to a point", "That's too much for me"],
+    "variants-ja": [
+      "そこまではね",
+      "やるけど...そこまではね",
+      "行くけど...泊まりまではね"
+    ],
+    "variants-en": [
+      "I can do it, but not that far",
+      "I'm okay up to a point",
+      "That's too much for me"
+    ],
     "intent-ja": ["ためらい", "限定", "控えめ"],
     "intent-en": ["hesitation", "limitation", "modesty"],
     "tags-ja": ["即時文法", "ためらい", "条件づけ"],
@@ -2933,7 +3758,12 @@
     "roman-ja": "Nani, sore!",
     "expression-en": "What is that!?",
     "variants-ja": ["なにそれ", "なに、それ", "何それ！", "何、それ！"],
-    "variants-en": ["What the heck is that?", "Seriously?", "What is that!?", "No way!"],
+    "variants-en": [
+      "What the heck is that?",
+      "Seriously?",
+      "What is that!?",
+      "No way!"
+    ],
     "intent-ja": ["驚き", "共感", "呆れ"],
     "intent-en": ["surprise", "empathy", "exasperation"],
     "tags-ja": ["即時文法", "感情", "感嘆"],
@@ -2956,7 +3786,11 @@
     "roman-ja": "Ii kamo",
     "expression-en": "Might be nice",
     "variants-ja": ["それ、いいかも", "いいかもしれない", "けっこういいかも"],
-    "variants-en": ["That might be good", "Could be nice", "Sounds like a good idea"],
+    "variants-en": [
+      "That might be good",
+      "Could be nice",
+      "Sounds like a good idea"
+    ],
     "intent-ja": ["判断", "柔らかい肯定", "共感"],
     "intent-en": ["judgment", "soft agreement", "shared feeling"],
     "tags-ja": ["即時文法", "評価", "控えめ"],
@@ -3119,7 +3953,11 @@
     "variants-ja": ["あるよ", "うん、あるある"],
     "variants-en": ["Yeah, I have", "I’ve had that"],
     "intent-ja": ["経験確認", "共感", "即答"],
-    "intent-en": ["confirmation of experience", "empathy", "immediate response"],
+    "intent-en": [
+      "confirmation of experience",
+      "empathy",
+      "immediate response"
+    ],
     "tags-ja": ["即時文法", "共感", "経験"],
     "tags-en": ["immediate grammar", "empathy", "experience"],
     "adjusted-expression-ja": "そういう(経験:けいけん)はあります。",
@@ -3186,7 +4024,11 @@
     "roman-ja": "Owatta ppoi",
     "expression-en": "Looks like it’s over",
     "variants-ja": ["終わったみたい", "もう終わったっぽい", "終わった感じ"],
-    "variants-en": ["Seems like it’s over", "I think it’s over", "Looks like it’s finished"],
+    "variants-en": [
+      "Seems like it’s over",
+      "I think it’s over",
+      "Looks like it’s finished"
+    ],
     "intent-ja": ["推量", "確認", "軽い言い方"],
     "intent-en": ["supposition", "confirmation", "casual"],
     "tags-ja": ["即時文法", "推量", "カジュアル"],
@@ -3300,8 +4142,16 @@
     "expression-ja": "だったらいいけど...",
     "roman-ja": "Dattara ii kedo...",
     "expression-en": "I wish that were true...",
-    "variants-ja": ["そうだったらいいけど", "そうならいいけど", "そうだといいけど"],
-    "variants-en": ["I hope so...", "That would be nice...", "It'd be great if that were true..."],
+    "variants-ja": [
+      "そうだったらいいけど",
+      "そうならいいけど",
+      "そうだといいけど"
+    ],
+    "variants-en": [
+      "I hope so...",
+      "That would be nice...",
+      "It'd be great if that were true..."
+    ],
     "intent-ja": ["期待", "不安", "ためらい"],
     "intent-en": ["hope", "uncertainty", "hesitation"],
     "tags-ja": ["即時文法", "感情", "控えめ"],
@@ -3323,7 +4173,11 @@
     "expression-ja": "そんなことないって",
     "roman-ja": "Sonna koto nai tte",
     "expression-en": "That's not true",
-    "variants-ja": ["そんなことないよ", "そんなことないから", "そんなことないってば"],
+    "variants-ja": [
+      "そんなことないよ",
+      "そんなことないから",
+      "そんなことないってば"
+    ],
     "variants-en": ["That's not true", "No way", "It's not like that"],
     "intent-ja": ["否定", "励まし", "共感"],
     "intent-en": ["negation", "encouragement", "empathy"],
@@ -3439,7 +4293,11 @@
     "roman-ja": "Hiyahiya suru",
     "expression-en": "I feel uneasy",
     "variants-ja": ["ひやひやする", "胸がひやひやする", "冷や汗が出る"],
-    "variants-en": ["I feel uneasy", "I feel nervous", "It makes me break into a cold sweat"],
+    "variants-en": [
+      "I feel uneasy",
+      "I feel nervous",
+      "It makes me break into a cold sweat"
+    ],
     "intent-ja": ["不安", "恐れ", "緊張"],
     "intent-en": ["anxiety", "fear", "nervousness"],
     "tags-ja": ["即時文法", "感情", "身体感覚"],
@@ -3462,7 +4320,11 @@
     "roman-ja": "Wakuwaku suru",
     "expression-en": "I am so excited",
     "variants-ja": ["わくわくする", "胸がわくわくする", "楽しみでわくわくする"],
-    "variants-en": ["I am so excited", "I feel thrilled", "I am looking forward to it"],
+    "variants-en": [
+      "I am so excited",
+      "I feel thrilled",
+      "I am looking forward to it"
+    ],
     "intent-ja": ["期待", "楽しみ", "高揚感"],
     "intent-en": ["anticipation", "excitement", "elevation"],
     "tags-ja": ["即時文法", "感情", "身体感覚"],
@@ -3485,7 +4347,11 @@
     "roman-ja": "Dokidoki shita",
     "expression-en": "My heart was pounding",
     "variants-ja": ["どきどきした", "胸がどきどきした", "心臓がばくばくした"],
-    "variants-en": ["My heart was pounding", "My heart was racing", "My heart thumped"],
+    "variants-en": [
+      "My heart was pounding",
+      "My heart was racing",
+      "My heart thumped"
+    ],
     "intent-ja": ["緊張", "期待", "不安"],
     "intent-en": ["nervousness", "anticipation", "anxiety"],
     "tags-ja": ["即時文法", "感情", "身体感覚"],
@@ -3507,12 +4373,25 @@
     "expression-ja": "(言:い)いたい、それが",
     "roman-ja": "Iitai, Sore ga",
     "expression-en": "That's what I wanted to say",
-    "variants-ja": ["言いたいんだよ、それが", "言いたいの、それが", "まさに言いたかった、それが"],
-    "variants-en": ["That's what I wanted to say", "Exactly that!", "That's the point I was trying to make"],
+    "variants-ja": [
+      "言いたいんだよ、それが",
+      "言いたいの、それが",
+      "まさに言いたかった、それが"
+    ],
+    "variants-en": [
+      "That's what I wanted to say",
+      "Exactly that!",
+      "That's the point I was trying to make"
+    ],
     "intent-ja": ["強調", "納得", "共感"],
     "intent-en": ["emphasis", "agreement", "shared feeling"],
     "tags-ja": ["即時文法", "倒置", "感情", "倒置-述部先行"],
-    "tags-en": ["immediate grammar", "inversion", "emotion", "structure-pattern"],
+    "tags-en": [
+      "immediate grammar",
+      "inversion",
+      "emotion",
+      "structure-pattern"
+    ],
     "adjusted-expression-ja": "私はそれを言いたかったんです。",
     "adjusted-expression-en": "That's what I've been trying to say all along.",
     "img-sub": "iitaisorega01.png",
@@ -3553,8 +4432,18 @@
     "expression-ja": "(気:き)がついたら",
     "roman-ja": "Ki ga tsuitara",
     "expression-en": "Before I knew it / When I realized it",
-    "variants-ja": ["気がついたら", "いつの間にか", "知らないうちに", "ふと気づくと"],
-    "variants-en": ["Before I knew it", "When I realized it", "Before I noticed", "Suddenly I noticed"],
+    "variants-ja": [
+      "気がついたら",
+      "いつの間にか",
+      "知らないうちに",
+      "ふと気づくと"
+    ],
+    "variants-en": [
+      "Before I knew it",
+      "When I realized it",
+      "Before I noticed",
+      "Suddenly I noticed"
+    ],
     "intent-ja": ["無意識", "時間経過", "驚き", "気づき"],
     "intent-en": ["unconscious", "passage of time", "surprise", "awareness"],
     "tags-ja": ["即時文法", "時制", "気づき"],
@@ -3576,12 +4465,48 @@
     "expression-ja": "(気:き)まずい",
     "roman-ja": "Kimazui",
     "expression-en": "awkward / uncomfortable",
-    "variants-ja": ["きまずい", "ちょっときまずいね", "なんか空気が重い", "気まずい", "気まずくなった", "ちょっと気まずい雰囲気になった"],
-    "variants-en": ["awkward", "awkward silence", "felt uncomfortable", "a bit uncomfortable", "kind of tense"],
-    "intent-ja": ["感情", "対人関係", "気まずさ", "遠慮", "場の空気", "沈黙", "誤解", "不快感"],
-    "intent-en": ["emotion", "interpersonal", "awkwardness", "reserve", "social tension", "silence", "misunderstanding", "discomfort"],
+    "variants-ja": [
+      "きまずい",
+      "ちょっときまずいね",
+      "なんか空気が重い",
+      "気まずい",
+      "気まずくなった",
+      "ちょっと気まずい雰囲気になった"
+    ],
+    "variants-en": [
+      "awkward",
+      "awkward silence",
+      "felt uncomfortable",
+      "a bit uncomfortable",
+      "kind of tense"
+    ],
+    "intent-ja": [
+      "感情",
+      "対人関係",
+      "気まずさ",
+      "遠慮",
+      "場の空気",
+      "沈黙",
+      "誤解",
+      "不快感"
+    ],
+    "intent-en": [
+      "emotion",
+      "interpersonal",
+      "awkwardness",
+      "reserve",
+      "social tension",
+      "silence",
+      "misunderstanding",
+      "discomfort"
+    ],
     "tags-ja": ["即時文法", "対人", "感情", "状況描写"],
-    "tags-en": ["immediate grammar", "interpersonal", "emotion", "situation description"],
+    "tags-en": [
+      "immediate grammar",
+      "interpersonal",
+      "emotion",
+      "situation description"
+    ],
     "adjusted-expression-ja": "いたたまれない(雰囲気:ふんいき)になってしまった",
     "adjusted-expression-en": "It became an unbearable atmosphere.",
     "img-sub": "kimazui01.png",
@@ -3599,12 +4524,27 @@
     "expression-ja": "いらない",
     "roman-ja": "Iranai",
     "expression-en": "No thanks / I don't need it",
-    "variants-ja": ["いらない", "もういらない", "ううん、いらない", "それは、いらないかな"],
-    "variants-en": ["No thanks", "I don't need it", "I'm good", "Not necessary"],
+    "variants-ja": [
+      "いらない",
+      "もういらない",
+      "ううん、いらない",
+      "それは、いらないかな"
+    ],
+    "variants-en": [
+      "No thanks",
+      "I don't need it",
+      "I'm good",
+      "Not necessary"
+    ],
     "intent-ja": ["拒否", "遠慮", "完了", "冷却"],
     "intent-en": ["refusal", "restraint", "completion", "detachment"],
     "tags-ja": ["即時文法", "会話", "反応", "対人関係"],
-    "tags-en": ["immediate grammar", "conversation", "reaction", "interpersonal"],
+    "tags-en": [
+      "immediate grammar",
+      "conversation",
+      "reaction",
+      "interpersonal"
+    ],
     "adjusted-expression-ja": "お(気持:きも)ちだけいただいておきます。(今:いま)は(大丈夫:だいじょうぶ)です。",
     "adjusted-expression-en": "I appreciate the gesture, but I'm fine for now.",
     "img-sub": "iranai01.png",
@@ -3622,8 +4562,18 @@
     "expression-ja": "いきなり",
     "roman-ja": "Ikinari",
     "expression-en": "All of a sudden / Out of nowhere",
-    "variants-ja": ["いきなり", "いきなり話しかけられた", "いきなり走り出した", "いきなり泣き出した"],
-    "variants-en": ["All of a sudden", "Suddenly, someone talked to me", "Suddenly started running", "Suddenly burst into tears"],
+    "variants-ja": [
+      "いきなり",
+      "いきなり話しかけられた",
+      "いきなり走り出した",
+      "いきなり泣き出した"
+    ],
+    "variants-en": [
+      "All of a sudden",
+      "Suddenly, someone talked to me",
+      "Suddenly started running",
+      "Suddenly burst into tears"
+    ],
     "intent-ja": ["驚き", "即時反応", "状況変化"],
     "intent-en": ["surprise", "immediate reaction", "sudden change"],
     "tags-ja": ["即時文法", "副詞", "感情"],
@@ -3645,10 +4595,25 @@
     "expression-ja": "それ、わかる",
     "roman-ja": "Sore, wakaru",
     "expression-en": "That, I know / I understand that",
-    "variants-ja": ["それ、わかる", "本当にそれ、わかる", "まさにそれだよね", "分かる分かる"],
-    "variants-en": ["I know that", "That really resonates", "Exactly, I understand", "I totally get it"],
+    "variants-ja": [
+      "それ、わかる",
+      "本当にそれ、わかる",
+      "まさにそれだよね",
+      "分かる分かる"
+    ],
+    "variants-en": [
+      "I know that",
+      "That really resonates",
+      "Exactly, I understand",
+      "I totally get it"
+    ],
     "intent-ja": ["共感", "理解", "同調", "安心感の提供"],
-    "intent-en": ["empathy", "understanding", "agreement", "providing reassurance"],
+    "intent-en": [
+      "empathy",
+      "understanding",
+      "agreement",
+      "providing reassurance"
+    ],
     "tags-ja": ["即時文法", "共感", "会話", "リアクション"],
     "tags-en": ["immediate grammar", "empathy", "conversation", "reaction"],
     "example-ja": "A「この(状況:じょうきょう)、ちょっと(難:むずか)しいね」B「うん、でも、それ、わかる」",
@@ -3668,12 +4633,33 @@
     "expression-ja": "ちょっとしたこと",
     "roman-ja": "Chotto shita koto",
     "expression-en": "Just a little thing / Nothing big",
-    "variants-ja": ["ちょっとしたこと", "ちょっとしたことで", "そんなちょっとしたことで", "ちょっとしたことで気が滅入る"],
-    "variants-en": ["Just a little thing", "Something minor", "Over something trivial", "A small thing can really get to you"],
+    "variants-ja": [
+      "ちょっとしたこと",
+      "ちょっとしたことで",
+      "そんなちょっとしたことで",
+      "ちょっとしたことで気が滅入る"
+    ],
+    "variants-en": [
+      "Just a little thing",
+      "Something minor",
+      "Over something trivial",
+      "A small thing can really get to you"
+    ],
     "intent-ja": ["軽視", "謙遜", "共感", "心の揺れ", "感情のきっかけ"],
-    "intent-en": ["downplaying", "humility", "empathy", "emotional trigger", "small cause"],
+    "intent-en": [
+      "downplaying",
+      "humility",
+      "empathy",
+      "emotional trigger",
+      "small cause"
+    ],
     "tags-ja": ["即時文法", "感情", "評価", "状況描写"],
-    "tags-en": ["immediate grammar", "emotion", "evaluation", "situation description"],
+    "tags-en": [
+      "immediate grammar",
+      "emotion",
+      "evaluation",
+      "situation description"
+    ],
     "example-ja": "ちょっとしたことだが、(簡単:かんたん)じゃない。",
     "example-en": "Because of a trivial matter, it's not easy.",
     "adjusted-expression-ja": "ほんの些細なことが、心に残ってしまいました。",
@@ -3691,8 +4677,18 @@
     "expression-ja": "もう(少:すこ)し、(待:ま)って",
     "roman-ja": "Mō sukoshi, matte",
     "expression-en": "Just a little longer / Please wait a bit",
-    "variants-ja": ["もう少し、待って", "あとちょっと、待って", "ちょっとだけ、待って", "少しだけ、待ってて"],
-    "variants-en": ["Just a little longer", "Wait a bit more", "Please wait a little longer", "Hold on a second"],
+    "variants-ja": [
+      "もう少し、待って",
+      "あとちょっと、待って",
+      "ちょっとだけ、待って",
+      "少しだけ、待ってて"
+    ],
+    "variants-en": [
+      "Just a little longer",
+      "Wait a bit more",
+      "Please wait a little longer",
+      "Hold on a second"
+    ],
     "intent-ja": ["依頼", "猶予", "調整"],
     "intent-en": ["request", "delay", "adjustment"],
     "tags-ja": ["即時文法", "会話", "時間"],
@@ -3715,9 +4711,20 @@
     "roman-ja": "Sakki",
     "expression-en": "Just now / A moment ago",
     "variants-ja": ["さっき", "ついさっき", "さっきまで", "さっき言ってたやつ"],
-    "variants-en": ["Just now", "A moment ago", "Until a moment ago", "What I mentioned earlier"],
+    "variants-en": [
+      "Just now",
+      "A moment ago",
+      "Until a moment ago",
+      "What I mentioned earlier"
+    ],
     "intent-ja": ["直前", "切り出し", "再開", "回想", "時間感覚"],
-    "intent-en": ["just before", "starting point", "resumption", "recall", "sense of time"],
+    "intent-en": [
+      "just before",
+      "starting point",
+      "resumption",
+      "recall",
+      "sense of time"
+    ],
     "tags-ja": ["即時文法", "時間", "会話の流れ"],
     "tags-en": ["immediate grammar", "time", "conversational flow"],
     "example-ja": "さっきまでは雨だったのに、今は晴れてる。",
@@ -3737,8 +4744,16 @@
     "expression-ja": "ずっと、いっしょ",
     "roman-ja": "Zutto, issho",
     "expression-en": "Together, always",
-    "variants-ja": ["ずっと、いっしょ", "いつまでも、いっしょ", "これからも、ずっといっしょ"],
-    "variants-en": ["Together, always", "Forever together", "We’ll always be together"],
+    "variants-ja": [
+      "ずっと、いっしょ",
+      "いつまでも、いっしょ",
+      "これからも、ずっといっしょ"
+    ],
+    "variants-en": [
+      "Together, always",
+      "Forever together",
+      "We’ll always be together"
+    ],
     "intent-ja": ["愛情", "約束", "安心"],
     "intent-en": ["affection", "commitment", "reassurance"],
     "tags-ja": ["即時文法", "感情", "親密さ"],
@@ -3760,8 +4775,18 @@
     "expression-ja": "いつでも",
     "roman-ja": "Itsudemo",
     "expression-en": "Anytime / Whenever",
-    "variants-ja": ["いつでも", "いつでもいいよ", "いつでもどうぞ", "いつでも言ってね"],
-    "variants-en": ["Anytime", "Whenever's fine", "Feel free anytime", "Just let me know whenever"],
+    "variants-ja": [
+      "いつでも",
+      "いつでもいいよ",
+      "いつでもどうぞ",
+      "いつでも言ってね"
+    ],
+    "variants-en": [
+      "Anytime",
+      "Whenever's fine",
+      "Feel free anytime",
+      "Just let me know whenever"
+    ],
     "intent-ja": ["柔軟", "受容", "歓迎", "許可"],
     "intent-en": ["flexibility", "openness", "invitation", "permission"],
     "tags-ja": ["即時文法", "応答", "寛容", "会話"],
@@ -3783,7 +4808,12 @@
     "expression-ja": "(一応:いちおう)",
     "roman-ja": "Ichiou",
     "expression-en": "For now / Just in case / Tentatively",
-    "variants-ja": ["一応", "一応、確認だけしとくね", "一応、終わったことにしておこう", "一応はね"],
+    "variants-ja": [
+      "一応",
+      "一応、確認だけしとくね",
+      "一応、終わったことにしておこう",
+      "一応はね"
+    ],
     "variants-en": ["For now", "Just in case", "Tentatively", "Kind of"],
     "intent-ja": ["保留", "控えめ", "不確か", "前置き"],
     "intent-en": ["tentative", "hedging", "uncertainty", "preliminary"],
@@ -3806,8 +4836,18 @@
     "expression-ja": "ついでに",
     "roman-ja": "Tsuideni",
     "expression-en": "While I'm at it / Incidentally",
-    "variants-ja": ["ついでに", "そのついでに", "ついでと言ってはなんだけど", "話のついでに"],
-    "variants-en": ["While I'm at it", "Along the way", "As an aside", "By the way"],
+    "variants-ja": [
+      "ついでに",
+      "そのついでに",
+      "ついでと言ってはなんだけど",
+      "話のついでに"
+    ],
+    "variants-en": [
+      "While I'm at it",
+      "Along the way",
+      "As an aside",
+      "By the way"
+    ],
     "intent-ja": ["追加", "軽さ", "策略", "含み"],
     "intent-en": ["addition", "casualness", "tact", "implication"],
     "tags-ja": ["即時文法", "会話", "接続", "行動"],
@@ -3829,10 +4869,25 @@
     "expression-ja": "(場合:ばあい)によりけり",
     "roman-ja": "Baai ni yorikeri",
     "expression-en": "It depends on the case",
-    "variants-ja": ["場合によりけり", "場合によっては", "状況しだい", "ケースバイケース"],
-    "variants-en": ["It depends on the case", "Depending on the situation", "Depends on the circumstances", "Case by case"],
+    "variants-ja": [
+      "場合によりけり",
+      "場合によっては",
+      "状況しだい",
+      "ケースバイケース"
+    ],
+    "variants-en": [
+      "It depends on the case",
+      "Depending on the situation",
+      "Depends on the circumstances",
+      "Case by case"
+    ],
     "intent-ja": ["柔軟", "保留", "思慮", "配慮"],
-    "intent-en": ["flexibility", "non-commitment", "consideration", "carefulness"],
+    "intent-en": [
+      "flexibility",
+      "non-commitment",
+      "consideration",
+      "carefulness"
+    ],
     "tags-ja": ["即時文法", "判断", "返答", "含み"],
     "tags-en": ["immediate grammar", "judgment", "response", "implication"],
     "adjusted-expression-ja": "この(件:けん)は、(場合:ばあい)によりけりだと(思:おも)います。",
@@ -3852,12 +4907,27 @@
     "expression-ja": "たとえば",
     "roman-ja": "Tatoeba",
     "expression-en": "For example",
-    "variants-ja": ["たとえば", "たとえば、そうだなあ", "たとえば...って言われても", "たとえば、ね？"],
-    "variants-en": ["For example", "Well, for instance...", "Say, for example...", "I mean, like..."],
+    "variants-ja": [
+      "たとえば",
+      "たとえば、そうだなあ",
+      "たとえば...って言われても",
+      "たとえば、ね？"
+    ],
+    "variants-en": [
+      "For example",
+      "Well, for instance...",
+      "Say, for example...",
+      "I mean, like..."
+    ],
     "intent-ja": ["導入", "例示", "あいまい", "話題転換"],
     "intent-en": ["introduction", "example", "ambiguity", "topic shift"],
     "tags-ja": ["即時文法", "あいまい", "会話", "展開"],
-    "tags-en": ["immediate grammar", "ambiguity", "conversation", "development"],
+    "tags-en": [
+      "immediate grammar",
+      "ambiguity",
+      "conversation",
+      "development"
+    ],
     "adjusted-expression-ja": "たとえばの話ですが、こういうふうにも考えられるかもしれません。",
     "adjusted-expression-en": "For example, one might consider it this way.",
     "img-sub": "tatoeba01.png",
@@ -3875,8 +4945,18 @@
     "expression-ja": "そんな(日:ひ)もある",
     "roman-ja": "Sonna hi mo aru",
     "expression-en": "Some days are just like that",
-    "variants-ja": ["そんな日もある", "そういうこともある", "まあ、あるよね、そういう日", "たまにはそういう日もあるさ"],
-    "variants-en": ["Some days are like that", "These things happen", "It happens", "Well, that’s just how it goes"],
+    "variants-ja": [
+      "そんな日もある",
+      "そういうこともある",
+      "まあ、あるよね、そういう日",
+      "たまにはそういう日もあるさ"
+    ],
+    "variants-en": [
+      "Some days are like that",
+      "These things happen",
+      "It happens",
+      "Well, that’s just how it goes"
+    ],
     "intent-ja": ["受容", "慰め", "共感", "ゆるし"],
     "intent-en": ["acceptance", "comfort", "empathy", "forgiveness"],
     "tags-ja": ["即時文法", "感情", "日常"],
@@ -3898,8 +4978,18 @@
     "expression-ja": "それはそれとして",
     "roman-ja": "Sore wa sore to shite",
     "expression-en": "That being said / Putting that aside",
-    "variants-ja": ["それはそれとして", "ともかくとして", "それはそれで", "それは置いといて"],
-    "variants-en": ["That being said", "Be that as it may", "Anyway", "Putting that aside"],
+    "variants-ja": [
+      "それはそれとして",
+      "ともかくとして",
+      "それはそれで",
+      "それは置いといて"
+    ],
+    "variants-en": [
+      "That being said",
+      "Be that as it may",
+      "Anyway",
+      "Putting that aside"
+    ],
     "intent-ja": ["話題転換", "譲歩", "切り分け"],
     "intent-en": ["topic shift", "concession", "separation"],
     "tags-ja": ["即時文法", "構文省略", "スタンス"],
@@ -3921,8 +5011,18 @@
     "expression-ja": "ぜんぶがぜんぶ",
     "roman-ja": "Zenbu ga zenbu",
     "expression-en": "Not everything / Not all of it",
-    "variants-ja": ["ぜんぶがぜんぶ", "すべてがすべて", "みんながみんな", "何もかもがそうってわけじゃない"],
-    "variants-en": ["Not everything", "Not all of it", "It's not always the case", "Not everyone is like that"],
+    "variants-ja": [
+      "ぜんぶがぜんぶ",
+      "すべてがすべて",
+      "みんながみんな",
+      "何もかもがそうってわけじゃない"
+    ],
+    "variants-en": [
+      "Not everything",
+      "Not all of it",
+      "It's not always the case",
+      "Not everyone is like that"
+    ],
     "intent-ja": ["部分否定", "慎重", "バランス", "説明の前置き"],
     "intent-en": ["partial negation", "caution", "balance", "hedging"],
     "tags-ja": ["即時文法", "スタンス", "慎重さ"],
@@ -3944,12 +5044,27 @@
     "expression-ja": "どうにかなる",
     "roman-ja": "Dounika naru",
     "expression-en": "It'll work out somehow / It'll be fine",
-    "variants-ja": ["どうにかなる", "なんとかなる", "まあ何とかなるさ", "きっと大丈夫"],
-    "variants-en": ["It’ll work out somehow", "It’ll be fine", "Things will turn out okay", "It’ll be all right"],
+    "variants-ja": [
+      "どうにかなる",
+      "なんとかなる",
+      "まあ何とかなるさ",
+      "きっと大丈夫"
+    ],
+    "variants-en": [
+      "It’ll work out somehow",
+      "It’ll be fine",
+      "Things will turn out okay",
+      "It’ll be all right"
+    ],
     "intent-ja": ["楽観", "安心", "慰め", "励まし"],
     "intent-en": ["optimism", "reassurance", "comfort", "encouragement"],
     "tags-ja": ["即時文法", "感情", "状況描写", "慰め"],
-    "tags-en": ["immediate grammar", "emotion", "situation description", "comfort"],
+    "tags-en": [
+      "immediate grammar",
+      "emotion",
+      "situation description",
+      "comfort"
+    ],
     "adjusted-expression-ja": "状況は厳しいかもしれませんが、最終的には何とか解決できると思います。",
     "adjusted-expression-en": "Although the situation may be difficult, I believe that things will eventually be resolved.",
     "img-sub": "dounikanaru.png",
@@ -3967,12 +5082,32 @@
     "expression-ja": "...は(何:なん)であれ",
     "roman-ja": "... wa nan de are",
     "expression-en": "whatever ... is / no matter what ... is",
-    "variants-ja": ["何であれ", "どんなものであれ", "何であっても", "いずれにせよ"],
-    "variants-en": ["whatever it is", "no matter what", "in any case", "regardless of what it is"],
+    "variants-ja": [
+      "何であれ",
+      "どんなものであれ",
+      "何であっても",
+      "いずれにせよ"
+    ],
+    "variants-en": [
+      "whatever it is",
+      "no matter what",
+      "in any case",
+      "regardless of what it is"
+    ],
     "intent-ja": ["条件不問", "一般化", "包括", "話題転換"],
-    "intent-en": ["regardless of condition", "generalization", "inclusiveness", "topic shift"],
+    "intent-en": [
+      "regardless of condition",
+      "generalization",
+      "inclusiveness",
+      "topic shift"
+    ],
     "tags-ja": ["即時文法", "条件", "一般化", "文脈転換"],
-    "tags-en": ["immediate grammar", "condition", "generalization", "context shift"],
+    "tags-en": [
+      "immediate grammar",
+      "condition",
+      "generalization",
+      "context shift"
+    ],
     "adjusted-expression-ja": "いかなる(理由:りゆう)があったとして、...。",
     "adjusted-expression-en": "Regardless of the reason, ...",
     "img-sub": "nandeare.png",
@@ -3991,11 +5126,26 @@
     "roman-ja": "Hotto suru",
     "expression-en": "feel relieved",
     "variants-ja": ["ほっとした", "ほっとする", "ほっとして", "ほっとしている"],
-    "variants-en": ["felt relieved", "feel relieved", "what a relief", "that's a relief"],
+    "variants-en": [
+      "felt relieved",
+      "feel relieved",
+      "what a relief",
+      "that's a relief"
+    ],
     "intent-ja": ["安堵", "緊張の解放", "安心", "気持ちの変化"],
-    "intent-en": ["relief", "release of tension", "reassurance", "change of feeling"],
+    "intent-en": [
+      "relief",
+      "release of tension",
+      "reassurance",
+      "change of feeling"
+    ],
     "tags-ja": ["即時文法", "感情", "心情", "状況描写"],
-    "tags-en": ["immediate grammar", "emotion", "feeling", "situation description"],
+    "tags-en": [
+      "immediate grammar",
+      "emotion",
+      "feeling",
+      "situation description"
+    ],
     "adjusted-expression-ja": "やっと安心できました。",
     "adjusted-expression-en": "I can finally relax.",
     "img-sub": "hotto.suru01.png",
@@ -4014,7 +5164,11 @@
     "roman-ja": "Saa, hajimeyou",
     "expression-en": "Alright, let’s get started",
     "variants-ja": ["さあ、始めよう", "さあ、始めましょう", "さあ、いこう"],
-    "variants-en": ["Alright, let's begin", "Okay, let's get started", "Let's go"],
+    "variants-en": [
+      "Alright, let's begin",
+      "Okay, let's get started",
+      "Let's go"
+    ],
     "intent-ja": ["開始", "決意", "勢い"],
     "intent-en": ["start", "determination", "momentum"],
     "tags-ja": ["即時文法", "行動", "開始"],
@@ -4037,11 +5191,21 @@
     "roman-ja": "Kurikaeshi kurikaeshi",
     "expression-en": "repeatedly / over and over",
     "variants-ja": ["繰り返し繰り返し", "繰り返し", "何度も何度も", "何度も"],
-    "variants-en": ["repeatedly", "over and over", "time and again", "again and again"],
+    "variants-en": [
+      "repeatedly",
+      "over and over",
+      "time and again",
+      "again and again"
+    ],
     "intent-ja": ["反復", "持続", "強調"],
     "intent-en": ["repetition", "continuity", "emphasis"],
     "tags-ja": ["即時文法", "反復", "状況描写", "強調"],
-    "tags-en": ["immediate grammar", "repetition", "situation description", "emphasis"],
+    "tags-en": [
+      "immediate grammar",
+      "repetition",
+      "situation description",
+      "emphasis"
+    ],
     "adjusted-expression-ja": "何度も繰り返して、やっと理解できた。",
     "adjusted-expression-en": "After repeating it over and over, I finally understood.",
     "img-sub": "kurikaeshikurikaeshi01.png",
@@ -4082,8 +5246,16 @@
     "expression-ja": "それはそれで...いいんじゃない？",
     "roman-ja": "Sore wa sore de... iin janai?",
     "expression-en": "That's fine as it is, isn't it?",
-    "variants-ja": ["それはそれでいいんじゃない？", "それはそれでアリじゃない？", "まあ、それはそれでいいか"],
-    "variants-en": ["That's fine as it is, isn't it?", "That's acceptable, right?", "Well, that’s okay, I guess"],
+    "variants-ja": [
+      "それはそれでいいんじゃない？",
+      "それはそれでアリじゃない？",
+      "まあ、それはそれでいいか"
+    ],
+    "variants-en": [
+      "That's fine as it is, isn't it?",
+      "That's acceptable, right?",
+      "Well, that’s okay, I guess"
+    ],
     "intent-ja": ["受容", "妥協", "緩和"],
     "intent-en": ["acceptance", "compromise", "softening"],
     "tags-ja": ["即時文法", "受容", "妥協", "ゆるし"],
@@ -4106,11 +5278,20 @@
     "roman-ja": "Sappari",
     "expression-en": "Not at all / Not in the least",
     "variants-ja": ["さっぱり", "さっぱりわからない", "さっぱりしない"],
-    "variants-en": ["Not at all", "Not in the least", "I don't understand at all"],
+    "variants-en": [
+      "Not at all",
+      "Not in the least",
+      "I don't understand at all"
+    ],
     "intent-ja": ["否定", "不満", "軽い驚き"],
     "intent-en": ["negation", "dissatisfaction", "mild surprise"],
     "tags-ja": ["即時文法", "否定", "状況依存型", "軽い驚き"],
-    "tags-en": ["immediate grammar", "negation", "context-dependent", "mild surprise"],
+    "tags-en": [
+      "immediate grammar",
+      "negation",
+      "context-dependent",
+      "mild surprise"
+    ],
     "adjusted-expression-ja": "まったくうまくいきません。",
     "adjusted-expression-en": "It doesn't go well at all.",
     "img-sub": "sappari01.png",
@@ -4129,11 +5310,27 @@
     "roman-ja": "Dō no kō no",
     "expression-en": "this and that / such and such",
     "variants-ja": ["どうのこうの", "どうこう", "ああだこうだ", "あれこれ"],
-    "variants-en": ["this and that", "such and such", "blah blah", "this or that"],
+    "variants-en": [
+      "this and that",
+      "such and such",
+      "blah blah",
+      "this or that"
+    ],
     "intent-ja": ["文句", "細かいこと", "批判", "不明な事情の濁し"],
-    "intent-en": ["complaint", "nitpicking", "criticism", "glossing over unclear details"],
+    "intent-en": [
+      "complaint",
+      "nitpicking",
+      "criticism",
+      "glossing over unclear details"
+    ],
     "tags-ja": ["即時文法", "状況依存", "繰り返し", "軽い文句", "事情の省略"],
-    "tags-en": ["immediate grammar", "context-dependent", "repetition", "light complaint", "skipping details"],
+    "tags-en": [
+      "immediate grammar",
+      "context-dependent",
+      "repetition",
+      "light complaint",
+      "skipping details"
+    ],
     "adjusted-expression-ja": "詳細は存じませんが、税金に関する何らかの話題だったかと記憶しております。",
     "adjusted-expression-en": "I'm not certain of the details, but I believe it was some matter regarding taxes.",
     "img-sub": "dounokouno01.png",
@@ -4151,7 +5348,11 @@
     "expression-ja": "なんだかんだで",
     "roman-ja": "Nandakanda de",
     "expression-en": "After all / In the end",
-    "variants-ja": ["なんだかんだで", "なんだかんだ言って", "なんだかんだの末に"],
+    "variants-ja": [
+      "なんだかんだで",
+      "なんだかんだ言って",
+      "なんだかんだの末に"
+    ],
     "variants-en": ["After all", "In the end", "When all is said and done"],
     "intent-ja": ["結論", "まとめ", "軽いニュアンス"],
     "intent-en": ["conclusion", "summary", "light nuance"],
@@ -4197,12 +5398,36 @@
     "expression-ja": "(風邪:かぜ)ひいた",
     "roman-ja": "Kaze hiita",
     "expression-en": "I caught a cold",
-    "variants-ja": ["風邪ひいた", "風邪ひいちゃった", "風邪ひいちゃいました", "風邪ひいてしまった"],
-    "variants-en": ["I caught a cold", "I got a cold", "I ended up catching a cold", "I happened to catch a cold"],
+    "variants-ja": [
+      "風邪ひいた",
+      "風邪ひいちゃった",
+      "風邪ひいちゃいました",
+      "風邪ひいてしまった"
+    ],
+    "variants-en": [
+      "I caught a cold",
+      "I got a cold",
+      "I ended up catching a cold",
+      "I happened to catch a cold"
+    ],
     "intent-ja": ["病気", "軽い後悔", "注意不足"],
     "intent-en": ["illness", "light regret", "lack of attention"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "病気", "軽い後悔", "注意不足"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "illness", "light regret", "lack of attention"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "病気",
+      "軽い後悔",
+      "注意不足"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "illness",
+      "light regret",
+      "lack of attention"
+    ],
     "adjusted-expression-ja": "風邪を引いてしまいました。",
     "adjusted-expression-en": "I have caught a cold.",
     "img-sub": "kazehiita01.png",
@@ -4220,12 +5445,29 @@
     "expression-ja": "(何:なに)やってんの？",
     "roman-ja": "Nani yatten no?",
     "expression-en": "What are you doing?",
-    "variants-ja": ["何やってんの？", "何やってるの？", "何してんの？", "何してるの？"],
-    "variants-en": ["What are you doing?", "What are you up to?", "What are you working on?", "What are you engaged in?"],
+    "variants-ja": [
+      "何やってんの？",
+      "何やってるの？",
+      "何してんの？",
+      "何してるの？"
+    ],
+    "variants-en": [
+      "What are you doing?",
+      "What are you up to?",
+      "What are you working on?",
+      "What are you engaged in?"
+    ],
     "intent-ja": ["疑問", "関心", "親密さ"],
     "intent-en": ["question", "interest", "intimacy"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "疑問", "関心", "親密さ"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "question", "interest", "intimacy"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "question",
+      "interest",
+      "intimacy"
+    ],
     "adjusted-expression-ja": "今、何をしているのですか？",
     "adjusted-expression-en": "What are you doing right now?",
     "img-sub": "naniyattenno01.png",
@@ -4243,10 +5485,22 @@
     "expression-ja": "うま！",
     "roman-ja": "Uma!",
     "expression-en": "Delicious",
-    "variants-ja": ["うま！", "うまい！", "うっま！", "うまいよ！", "めっちゃうま！"],
+    "variants-ja": [
+      "うま！",
+      "うまい！",
+      "うっま！",
+      "うまいよ！",
+      "めっちゃうま！"
+    ],
     "variants-en": ["Delicious!", "Tasty!", "Yummy!", "So good!"],
     "intent-ja": ["感情の表出", "喜び", "驚き", "強調", "若者言葉"],
-    "intent-en": ["expression of emotion", "joy", "surprise", "emphasis", "youth slang"],
+    "intent-en": [
+      "expression of emotion",
+      "joy",
+      "surprise",
+      "emphasis",
+      "youth slang"
+    ],
     "tags-ja": ["即時文法", "感情表出", "状況依存型"],
     "tags-en": ["immediate grammar", "emotion expression", "context-dependent"],
     "adjusted-expression-ja": "おいしい！",
@@ -4266,12 +5520,36 @@
     "expression-ja": "つい、...してしまった",
     "roman-ja": "Tsui ... shite shimatta",
     "expression-en": "accidentally ...",
-    "variants-ja": ["つい、...してしまった", "つい、...しちゃった", "つい、...しちゃいました", "つい、...してしまいました"],
-    "variants-en": ["accidentally ...", "I accidentally ...", "I ended up ...", "I happened to ..."],
+    "variants-ja": [
+      "つい、...してしまった",
+      "つい、...しちゃった",
+      "つい、...しちゃいました",
+      "つい、...してしまいました"
+    ],
+    "variants-en": [
+      "accidentally ...",
+      "I accidentally ...",
+      "I ended up ...",
+      "I happened to ..."
+    ],
     "intent-ja": ["失敗", "軽い後悔", "注意不足"],
     "intent-en": ["mistake", "light regret", "lack of attention"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "失敗", "軽い後悔", "注意不足"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "mistake", "light regret", "lack of attention"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "失敗",
+      "軽い後悔",
+      "注意不足"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "mistake",
+      "light regret",
+      "lack of attention"
+    ],
     "adjusted-expression-ja": "(意図:いと)せずに、...してしまいました。",
     "adjusted-expression-en": "I have done ... unintentionally.",
     "img-sub": "tsuiteshimatta01.png",
@@ -4289,12 +5567,31 @@
     "expression-ja": "うっかり",
     "roman-ja": "Ukkari",
     "expression-en": "Oops",
-    "variants-ja": ["うっかり", "うっかりして", "うっかりしてた", "うっかりしちゃった"],
+    "variants-ja": [
+      "うっかり",
+      "うっかりして",
+      "うっかりしてた",
+      "うっかりしちゃった"
+    ],
     "variants-en": ["Oops", "I accidentally", "I carelessly", "I forgot"],
     "intent-ja": ["失敗", "軽い後悔", "注意不足"],
     "intent-en": ["mistake", "light regret", "lack of attention"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "失敗", "軽い後悔", "注意不足"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "mistake", "light regret", "lack of attention"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "失敗",
+      "軽い後悔",
+      "注意不足"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "mistake",
+      "light regret",
+      "lack of attention"
+    ],
     "adjusted-expression-ja": "注意を怠ってしまいました。",
     "adjusted-expression-en": "I neglected to pay attention.",
     "img-sub": "ukkari01.png",
@@ -4312,12 +5609,29 @@
     "expression-ja": "どうする？",
     "roman-ja": "Dousuru?",
     "expression-en": "What should I do?",
-    "variants-ja": ["どうする？", "どうしよう？", "どうするの？", "どうしようかな？"],
-    "variants-en": ["What should I do?", "What will I do?", "What should I do about it?", "What should I think?"],
+    "variants-ja": [
+      "どうする？",
+      "どうしよう？",
+      "どうするの？",
+      "どうしようかな？"
+    ],
+    "variants-en": [
+      "What should I do?",
+      "What will I do?",
+      "What should I do about it?",
+      "What should I think?"
+    ],
     "intent-ja": ["選択", "不安", "迷い"],
     "intent-en": ["choice", "anxiety", "hesitation"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "選択", "不安", "迷い"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "choice", "anxiety", "hesitation"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "choice",
+      "anxiety",
+      "hesitation"
+    ],
     "adjusted-expression-ja": "どうしようか考えています。",
     "adjusted-expression-en": "I'm thinking about what to do.",
     "img-sub": "dousuru01.png",
@@ -4335,12 +5649,32 @@
     "expression-ja": "おいしいのに...",
     "roman-ja": "Oishii noni...",
     "expression-en": "It's delicious, but...",
-    "variants-ja": ["おいしいのに", "おいしいのになあ", "おいしいのにね", "おいしかったのに"],
-    "variants-en": ["It's delicious, but...", "It was so good, but...", "Even though it's tasty...", "Even though I liked it..."],
+    "variants-ja": [
+      "おいしいのに",
+      "おいしいのになあ",
+      "おいしいのにね",
+      "おいしかったのに"
+    ],
+    "variants-en": [
+      "It's delicious, but...",
+      "It was so good, but...",
+      "Even though it's tasty...",
+      "Even though I liked it..."
+    ],
     "intent-ja": ["感情の矛盾", "切なさ", "共有", "同情"],
-    "intent-en": ["emotional conflict", "bittersweet", "shared feeling", "sympathy"],
+    "intent-en": [
+      "emotional conflict",
+      "bittersweet",
+      "shared feeling",
+      "sympathy"
+    ],
     "tags-ja": ["即時文法", "省略", "感情表出", "状況依存型"],
-    "tags-en": ["immediate grammar", "ellipsis", "emotion", "context-dependent"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "emotion",
+      "context-dependent"
+    ],
     "adjusted-expression-ja": "おいしいのに、誰も食べてくれません。",
     "adjusted-expression-en": "Although it's delicious, nobody eats it.",
     "example-ja": "A「(納豆:なっとう)、きらい」B「え、おいしいのに...」",
@@ -4358,12 +5692,28 @@
     "expression-ja": "できるかも",
     "roman-ja": "Dekiru kamo",
     "expression-en": "I might be able to",
-    "variants-ja": ["できるかも", "できるかもしれない", "できるかもね", "できるかもよ"],
-    "variants-en": ["I might be able to", "Maybe I can", "I guess I could", "I might manage"],
+    "variants-ja": [
+      "できるかも",
+      "できるかもしれない",
+      "できるかもね",
+      "できるかもよ"
+    ],
+    "variants-en": [
+      "I might be able to",
+      "Maybe I can",
+      "I guess I could",
+      "I might manage"
+    ],
     "intent-ja": ["可能性", "控えめ", "柔らかさ"],
     "intent-en": ["possibility", "tentativeness", "softening"],
     "tags-ja": ["即時文法", "推量", "婉曲", "控えめ", "柔らかさ"],
-    "tags-en": ["immediate grammar", "guessing", "euphemism", "tentativeness", "softening"],
+    "tags-en": [
+      "immediate grammar",
+      "guessing",
+      "euphemism",
+      "tentativeness",
+      "softening"
+    ],
     "adjusted-expression-ja": "もしかしたら、できるかもしれません。",
     "adjusted-expression-en": "Perhaps I might be able to do it.",
     "img-sub": "dekirukamo01.png",
@@ -4404,12 +5754,29 @@
     "expression-ja": "(食:た)べなくちゃ",
     "roman-ja": "Tabenakucha",
     "expression-en": "I have to eat",
-    "variants-ja": ["食べなくちゃ", "食べなきゃ", "食べなきゃいけない", "食べなきゃならない"],
-    "variants-en": ["I have to eat", "I must eat", "I need to eat", "I gotta eat"],
+    "variants-ja": [
+      "食べなくちゃ",
+      "食べなきゃ",
+      "食べなきゃいけない",
+      "食べなきゃならない"
+    ],
+    "variants-en": [
+      "I have to eat",
+      "I must eat",
+      "I need to eat",
+      "I gotta eat"
+    ],
     "intent-ja": ["義務", "必要", "意志"],
     "intent-en": ["obligation", "necessity", "intention"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "義務", "必要", "意志"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "obligation", "necessity", "intention"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "obligation",
+      "necessity",
+      "intention"
+    ],
     "adjusted-expression-ja": "食べなければなりません。",
     "adjusted-expression-en": "I have to eat.",
     "img-sub": "tabenakucha01.png",
@@ -4427,12 +5794,28 @@
     "expression-ja": "(間違:まちが)いない",
     "roman-ja": "Machigai nai",
     "expression-en": "No doubt about it",
-    "variants-ja": ["間違いない", "間違いないって", "間違いないよ", "間違いないから"],
-    "variants-en": ["No doubt about it", "I'm telling you", "I'm sure of it", "Definitely"],
+    "variants-ja": [
+      "間違いない",
+      "間違いないって",
+      "間違いないよ",
+      "間違いないから"
+    ],
+    "variants-en": [
+      "No doubt about it",
+      "I'm telling you",
+      "I'm sure of it",
+      "Definitely"
+    ],
     "intent-ja": ["確信", "強調", "同意の要求"],
     "intent-en": ["certainty", "emphasis", "seeking agreement"],
     "tags-ja": ["即時文法", "確信", "強調", "断言", "親密"],
-    "tags-en": ["immediate grammar", "certainty", "emphasis", "assertion", "intimacy"],
+    "tags-en": [
+      "immediate grammar",
+      "certainty",
+      "emphasis",
+      "assertion",
+      "intimacy"
+    ],
     "adjusted-expression-ja": "それは確実です／間違いありません",
     "adjusted-expression-en": "That is certain / There is no mistake about it",
     "img-sub": "machigainai01.png",
@@ -4455,7 +5838,14 @@
     "intent-ja": ["話の導入", "親密", "共有"],
     "intent-en": ["introduction", "intimacy", "sharing"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "話の導入", "親密", "共有"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "introduction", "intimacy", "sharing"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "introduction",
+      "intimacy",
+      "sharing"
+    ],
     "adjusted-expression-ja": "それはまたのちほどお話しします。",
     "adjusted-expression-en": "I'll talk about that later.",
     "img-sub": "sorehamataatode01.png",
@@ -4474,11 +5864,23 @@
     "roman-ja": "Sore ga sa",
     "expression-en": "So, you know...",
     "variants-ja": ["それがさ、", "それがさあ、", "それがね、", "それがねえ、"],
-    "variants-en": ["So, you know...", "So, like...", "So, you see...", "So, you know what?"],
+    "variants-en": [
+      "So, you know...",
+      "So, like...",
+      "So, you see...",
+      "So, you know what?"
+    ],
     "intent-ja": ["話の導入", "親密", "共有"],
     "intent-en": ["introduction", "intimacy", "sharing"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "話の導入", "親密", "共有"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "introduction", "intimacy", "sharing"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "introduction",
+      "intimacy",
+      "sharing"
+    ],
     "adjusted-expression-ja": "それで、お(話:はなし)というのは、...",
     "adjusted-expression-en": "So, the story is ...",
     "img-sub": "soregasa01.png",
@@ -4496,11 +5898,23 @@
     "roman-ja": "De ne",
     "expression-en": "So, you know...",
     "variants-ja": ["でね、", "でさ、", "でさあ、", "でねえ、"],
-    "variants-en": ["So, you know...", "So, like...", "So, you see...", "So, you know what?"],
+    "variants-en": [
+      "So, you know...",
+      "So, like...",
+      "So, you see...",
+      "So, you know what?"
+    ],
     "intent-ja": ["話の導入", "親密", "共有"],
     "intent-en": ["introduction", "intimacy", "sharing"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "話の導入", "親密", "共有"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "introduction", "intimacy", "sharing"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "introduction",
+      "intimacy",
+      "sharing"
+    ],
     "adjusted-expression-ja": "そこで、お(話:はなし)というのは、...",
     "adjusted-expression-en": "So, the story is ...",
     "img-sub": "denene01.png",
@@ -4517,12 +5931,38 @@
     "expression-ja": "はいはい",
     "roman-ja": "Hai hai",
     "expression-en": "Yeah, yeah",
-    "variants-ja": ["はいはい", "はいはい、わかりました", "はいはい、わかりましたよ", "はいはい、わかりましたよ、もう"],
-    "variants-en": ["Yeah, yeah", "Okay, okay, I got it", "Yeah, yeah, I understand", "Yeah, yeah, I got it already"],
+    "variants-ja": [
+      "はいはい",
+      "はいはい、わかりました",
+      "はいはい、わかりましたよ",
+      "はいはい、わかりましたよ、もう"
+    ],
+    "variants-en": [
+      "Yeah, yeah",
+      "Okay, okay, I got it",
+      "Yeah, yeah, I understand",
+      "Yeah, yeah, I got it already"
+    ],
     "intent-ja": ["同意", "あきらめ", "妥協"],
     "intent-en": ["agreement", "resignation", "compromise"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "同意", "あきらめ", "妥協", "繰り返し"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "agreement", "resignation", "compromise", "repetition"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "同意",
+      "あきらめ",
+      "妥協",
+      "繰り返し"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "agreement",
+      "resignation",
+      "compromise",
+      "repetition"
+    ],
     "adjusted-expression-ja": "はい、わかりました。",
     "adjusted-expression-en": "Yes, I understand.",
     "img-sub": "haihai01.png",
@@ -4540,12 +5980,29 @@
     "expression-ja": "あえて(言:い)うなら",
     "roman-ja": "Aete iu nara",
     "expression-en": "If I had to say",
-    "variants-ja": ["あえて言うなら", "あえて言えば", "あえて言うと", "あえて言うならば"],
-    "variants-en": ["If I had to say", "If I had to put it that way", "If I had to say it", "If I had to express it"],
+    "variants-ja": [
+      "あえて言うなら",
+      "あえて言えば",
+      "あえて言うと",
+      "あえて言うならば"
+    ],
+    "variants-en": [
+      "If I had to say",
+      "If I had to put it that way",
+      "If I had to say it",
+      "If I had to express it"
+    ],
     "intent-ja": ["自己開示", "率直", "親密"],
     "intent-en": ["self-disclosure", "frankness", "intimacy"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "自己開示", "率直", "親密"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "self-disclosure", "frankness", "intimacy"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "self-disclosure",
+      "frankness",
+      "intimacy"
+    ],
     "adjusted-expression-ja": "あえて申し上げれるのなら、",
     "adjusted-expression-en": "If I were to express it more formally, ...",
     "img-sub": "aeteiunara01.png",
@@ -4564,11 +6021,23 @@
     "roman-ja": "Shoujiki",
     "expression-en": "To be honest",
     "variants-ja": ["正直に言うと", "正直に言えば", "正直なところ", "正直な話"],
-    "variants-en": ["To be honest", "Honestly speaking", "To be frank", "In all honesty"],
+    "variants-en": [
+      "To be honest",
+      "Honestly speaking",
+      "To be frank",
+      "In all honesty"
+    ],
     "intent-ja": ["率直", "自己開示", "親密"],
     "intent-en": ["frankness", "self-disclosure", "intimacy"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "率直", "自己開示", "親密"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "frankness", "self-disclosure", "intimacy"],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "frankness",
+      "self-disclosure",
+      "intimacy"
+    ],
     "adjusted-expression-ja": "正直に言いますと、そう思います。",
     "adjusted-expression-en": "frankly speaking, I think so.",
     "img-sub": "shoujiki01.png",
@@ -4586,12 +6055,29 @@
     "expression-ja": "(結論:けつろん)から(言:い)えば",
     "roman-ja": "Ketsuron kara ieba",
     "expression-en": "To put it simply",
-    "variants-ja": ["結論から言えば", "結論から言うと", "結論だけ言えば", "一言で言えば"],
-    "variants-en": ["To put it simply", "To sum it up", "If I had to say just the conclusion", "To make a long story short"],
+    "variants-ja": [
+      "結論から言えば",
+      "結論から言うと",
+      "結論だけ言えば",
+      "一言で言えば"
+    ],
+    "variants-en": [
+      "To put it simply",
+      "To sum it up",
+      "If I had to say just the conclusion",
+      "To make a long story short"
+    ],
     "intent-ja": ["要点提示", "話の切り出し", "前置き省略"],
     "intent-en": ["main point first", "discourse entry", "omit preface"],
     "tags-ja": ["即時文法", "視点提示", "談話標識", "要点優先", "省略", "口語"],
-    "tags-en": ["immediate grammar", "viewpoint marking", "discourse marker", "point-first", "ellipsis", "spoken"],
+    "tags-en": [
+      "immediate grammar",
+      "viewpoint marking",
+      "discourse marker",
+      "point-first",
+      "ellipsis",
+      "spoken"
+    ],
     "adjusted-expression-ja": "結論から言うと、そういうことです。",
     "adjusted-expression-en": "To put it simply, that's how it is.",
     "img-sub": "ketsuronkaraieba01.png",
@@ -4609,12 +6095,36 @@
     "expression-ja": "もう、どうでもいい",
     "roman-ja": "Mou, dou demo ii",
     "expression-en": "I don't care anymore",
-    "variants-ja": ["もう、どうでもいい", "もう、どうでもよくなった", "もう、どうでもいいや", "もう、どうでもいいよ"],
-    "variants-en": ["I don't care anymore", "I don't care about it anymore", "I don't care at all", "I don't care anymore, you know?"],
+    "variants-ja": [
+      "もう、どうでもいい",
+      "もう、どうでもよくなった",
+      "もう、どうでもいいや",
+      "もう、どうでもいいよ"
+    ],
+    "variants-en": [
+      "I don't care anymore",
+      "I don't care about it anymore",
+      "I don't care at all",
+      "I don't care anymore, you know?"
+    ],
     "intent-ja": ["あきらめ", "自己納得", "妥協"],
     "intent-en": ["resignation", "self-acceptance", "compromise"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "あきらめ", "自己納得", "妥協"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "resignation", "self-acceptance", "compromise"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "あきらめ",
+      "自己納得",
+      "妥協"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "resignation",
+      "self-acceptance",
+      "compromise"
+    ],
     "adjusted-expression-ja": "もう、どうでもいいと思います。",
     "adjusted-expression-en": "I think I don't care anymore.",
     "img-sub": "doudemoii01.png",
@@ -4637,7 +6147,13 @@
     "intent-ja": ["回想", "導入", "共有", "親密"],
     "intent-en": ["recollection", "introduction", "sharing", "intimacy"],
     "tags-ja": ["即時文法", "話題導入", "状況依存型", "親密", "回想"],
-    "tags-en": ["immediate grammar", "topic-introduction", "context-dependent", "intimacy", "recollection"],
+    "tags-en": [
+      "immediate grammar",
+      "topic-introduction",
+      "context-dependent",
+      "intimacy",
+      "recollection"
+    ],
     "adjusted-expression-ja": "あれから、みんなで食事をして帰りました。",
     "adjusted-expression-en": "After that, we all had a meal and went home.",
     "img-sub": "arekara01.png",
@@ -4659,8 +6175,20 @@
     "variants-en": ["from now on", "starting now", "from here"],
     "intent-ja": ["開始", "意志", "未来", "区切り"],
     "intent-en": ["beginning", "intention", "future", "transition"],
-    "tags-ja": ["即時文法", "時の区切り", "意志表明", "状況転換", "モーダル表現"],
-    "tags-en": ["immediate grammar", "temporal boundary", "statement of intent", "context shift", "modal expression"],
+    "tags-ja": [
+      "即時文法",
+      "時の区切り",
+      "意志表明",
+      "状況転換",
+      "モーダル表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "temporal boundary",
+      "statement of intent",
+      "context shift",
+      "modal expression"
+    ],
     "adjusted-expression-ja": "これから始めます。",
     "adjusted-expression-en": "I will start from now.",
     "img-sub": "korekara01.png",
@@ -4679,11 +6207,21 @@
     "roman-ja": "Ano toki ne",
     "expression-en": "So back then, you know...",
     "variants-ja": ["あのときね", "あのときさ", "あのときはね"],
-    "variants-en": ["So back then, you know...", "At that time, remember?", "Back in that moment..."],
+    "variants-en": [
+      "So back then, you know...",
+      "At that time, remember?",
+      "Back in that moment..."
+    ],
     "intent-ja": ["回想", "導入", "共有", "親密"],
     "intent-en": ["recollection", "introduction", "sharing", "intimacy"],
     "tags-ja": ["即時文法", "話題導入", "状況依存型", "親密", "回想"],
-    "tags-en": ["immediate grammar", "topic-introduction", "context-dependent", "intimacy", "recollection"],
+    "tags-en": [
+      "immediate grammar",
+      "topic-introduction",
+      "context-dependent",
+      "intimacy",
+      "recollection"
+    ],
     "adjusted-expression-ja": "あのときのことを思い出しました。",
     "adjusted-expression-en": "I remembered what happened back then.",
     "example-ja": "A「けがしたの？」B「うん、(駅:えき)で」A「ああ、あのときね」",
@@ -4700,12 +6238,42 @@
     "expression-ja": "いくらなんでも...",
     "roman-ja": "Ikura nan demo...",
     "expression-en": "No matter how you look at it... / Come on, seriously...",
-    "variants-ja": ["いくらなんでも", "いくらなんでもさ", "いくらなんでもそれは", "いくらなんでもひどい"],
-    "variants-en": ["No matter how you look at it", "Come on, seriously", "That’s just too much", "This is going too far"],
+    "variants-ja": [
+      "いくらなんでも",
+      "いくらなんでもさ",
+      "いくらなんでもそれは",
+      "いくらなんでもひどい"
+    ],
+    "variants-en": [
+      "No matter how you look at it",
+      "Come on, seriously",
+      "That’s just too much",
+      "This is going too far"
+    ],
     "intent-ja": ["驚き", "非難", "拒否", "感情の爆発", "同意の拒絶"],
-    "intent-en": ["surprise", "criticism", "rejection", "emotional outburst", "refusal to agree"],
-    "tags-ja": ["即時文法", "感情表現", "状況依存型", "非難", "確認", "曖昧な終止"],
-    "tags-en": ["immediate grammar", "emotional expression", "context-dependent", "criticism", "confirmation", "unfinished ending"],
+    "intent-en": [
+      "surprise",
+      "criticism",
+      "rejection",
+      "emotional outburst",
+      "refusal to agree"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "感情表現",
+      "状況依存型",
+      "非難",
+      "確認",
+      "曖昧な終止"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "emotional expression",
+      "context-dependent",
+      "criticism",
+      "confirmation",
+      "unfinished ending"
+    ],
     "adjusted-expression-ja": "いくらなんでも、それはひどすぎます。",
     "adjusted-expression-en": "No matter how you look at it, that's just too much.",
     "example-ja": "いくらなんでも、それはないんじゃない？",
@@ -4723,11 +6291,35 @@
     "roman-ja": "Maji",
     "expression-en": "Seriously",
     "variants-ja": ["まじ", "マジ", "マジで", "本気で", "本当に"],
-    "variants-en": ["Seriously", "For real", "Really", "Honestly", "No kidding"],
+    "variants-en": [
+      "Seriously",
+      "For real",
+      "Really",
+      "Honestly",
+      "No kidding"
+    ],
     "intent-ja": ["驚き", "確認", "興味", "親密"],
     "intent-en": ["surprise", "confirmation", "interest", "intimacy"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "驚き", "確認", "親密", "若者語", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "surprise", "confirmation", "intimacy", "youth language", "strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "驚き",
+      "確認",
+      "親密",
+      "若者語",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "surprise",
+      "confirmation",
+      "intimacy",
+      "youth language",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(本気:ほんき)ですか。",
     "adjusted-expression-en": "Are you serious?",
     "img-sub": "maji01.png",
@@ -4745,12 +6337,36 @@
     "expression-ja": "(貸:か)して、...",
     "roman-ja": "Kashite, ...",
     "expression-en": "Lend me ...",
-    "variants-ja": ["貸して", "ちょっと貸して", "貸してくれる？", "貸してよ", "貸してください"],
-    "variants-en": ["Lend me", "Let me borrow", "Can I borrow?", "Let me have it", "Please lend me"],
+    "variants-ja": [
+      "貸して",
+      "ちょっと貸して",
+      "貸してくれる？",
+      "貸してよ",
+      "貸してください"
+    ],
+    "variants-en": [
+      "Lend me",
+      "Let me borrow",
+      "Can I borrow?",
+      "Let me have it",
+      "Please lend me"
+    ],
     "intent-ja": ["要求", "確認", "関心", "親密", "ラフさ（casualness）"],
-    "intent-en": ["request", "confirmation", "interest", "intimacy", "casualness"],
+    "intent-en": [
+      "request",
+      "confirmation",
+      "interest",
+      "intimacy",
+      "casualness"
+    ],
     "tags-ja": ["即時文法", "省略", "命令", "依頼", "口語"],
-    "tags-en": ["Immediate Grammar", "ellipsis", "imperative", "request", "spoken"],
+    "tags-en": [
+      "Immediate Grammar",
+      "ellipsis",
+      "imperative",
+      "request",
+      "spoken"
+    ],
     "adjusted-expression-ja": "それを(貸:か)していただけませんか。",
     "adjusted-expression-en": "Please lend me that.",
     "img-sub": "kashite01.png",
@@ -4769,11 +6385,33 @@
     "roman-ja": "Ma, ikka",
     "expression-en": "Oh well. / Never mind.",
     "variants-ja": ["ま、いっか", "ま、いっか", "ま、いいか"],
-    "variants-en": ["Oh well.", "Never mind.", "It's okay.", "It's all right.", "It's fine."],
+    "variants-en": [
+      "Oh well.",
+      "Never mind.",
+      "It's okay.",
+      "It's all right.",
+      "It's fine."
+    ],
     "intent-ja": ["妥協", "あきらめ", "自己納得"],
     "intent-en": ["compromise", "resignation", "self-acceptance"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "妥協", "あきらめ", "自己納得", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "compromise", "resignation", "self-acceptance", "strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "妥協",
+      "あきらめ",
+      "自己納得",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "compromise",
+      "resignation",
+      "self-acceptance",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "とりあえず、そうしましょう。",
     "adjusted-expression-en": "For now, let's do it that way.",
     "img-sub": "maikka01.png",
@@ -4795,8 +6433,22 @@
     "variants-en": ["Almost all", "Mostly", "Roughly", "About", "Nearly"],
     "intent-ja": ["概算", "おおよそ", "大体", "ほぼ"],
     "intent-en": ["approximation", "roughly", "about", "almost"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "概算", "おおよそ", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "approximation", "roughly", "strong immediacy"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "概算",
+      "おおよそ",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "approximation",
+      "roughly",
+      "strong immediacy"
+    ],
     "adjusted-expression-ja": "ほぼすべて、(完了:かんりょう)しました。",
     "adjusted-expression-en": "Almost all of it is done.",
     "img-sub": "daitai01.png",
@@ -4814,12 +6466,44 @@
     "expression-ja": "どういうこと？",
     "roman-ja": "Dou iu koto?",
     "expression-en": "What do you mean?",
-    "variants-ja": ["どういうこと？", "どういう意味？", "どういうことなの？", "どういうことだろう？", "どういうことなんだろう？"],
-    "variants-en": ["What do you mean?", "What does that mean?", "What does it mean?", "What is that supposed to mean?", "What are you talking about?"],
+    "variants-ja": [
+      "どういうこと？",
+      "どういう意味？",
+      "どういうことなの？",
+      "どういうことだろう？",
+      "どういうことなんだろう？"
+    ],
+    "variants-en": [
+      "What do you mean?",
+      "What does that mean?",
+      "What does it mean?",
+      "What is that supposed to mean?",
+      "What are you talking about?"
+    ],
     "intent-ja": ["確認", "疑問", "説明要求", "理解", "興味"],
-    "intent-en": ["confirmation", "question", "request for explanation", "understanding", "interest"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "疑問", "説明要求", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "question", "request for explanation", "strong real-time nature"],
+    "intent-en": [
+      "confirmation",
+      "question",
+      "request for explanation",
+      "understanding",
+      "interest"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "疑問",
+      "説明要求",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "question",
+      "request for explanation",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "どういうことですか？",
     "adjusted-expression-en": "What do you mean?",
     "img-sub": "douiu01.png",
@@ -4837,14 +6521,52 @@
     "expression-ja": "そのつもりだった",
     "roman-ja": "Tsumoridatta",
     "expression-en": "I was going to",
-    "variants-ja": ["そのつもりだった", "そうするつもりだった", "やるつもりだった", "行くつもりだった"],
-    "variants-en": ["I meant to", "I was going to", "I intended to", "I was about to (but...)"],
+    "variants-ja": [
+      "そのつもりだった",
+      "そうするつもりだった",
+      "やるつもりだった",
+      "行くつもりだった"
+    ],
+    "variants-en": [
+      "I meant to",
+      "I was going to",
+      "I intended to",
+      "I was about to (but...)"
+    ],
     "intent-ja": ["過去の意図", "過去の約束", "確認", "同意", "承諾"],
-    "intent-en": ["past intention", "past promise", "confirmation", "agreement", "acceptance"],
-    "tags-ja": ["即時文法", "感情表現", "状況依存型", "省略", "意図表明", "過去の意図"],
-    "tags-en": ["immediate grammar", "emotional expression", "context-dependent", "ellipsis", "expression of intention", "past intention"],
-    "adjusted-expression-ja": ["〜する予定でした", "〜する意向でした", "〜しようと考えていました"],
-    "adjusted-expression-en": ["I had planned to do ～.", "I intended to do ～.", "I had the intention to do ～."],
+    "intent-en": [
+      "past intention",
+      "past promise",
+      "confirmation",
+      "agreement",
+      "acceptance"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "感情表現",
+      "状況依存型",
+      "省略",
+      "意図表明",
+      "過去の意図"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "emotional expression",
+      "context-dependent",
+      "ellipsis",
+      "expression of intention",
+      "past intention"
+    ],
+    "adjusted-expression-ja": [
+      "〜する予定でした",
+      "〜する意向でした",
+      "〜しようと考えていました"
+    ],
+    "adjusted-expression-en": [
+      "I had planned to do ～.",
+      "I intended to do ～.",
+      "I had the intention to do ～."
+    ],
     "img-sub": "tsumoridatta01.png",
     "example-ja": "A「(行:い)くつもりだったの？」B「(行:い)くつもりだったけど、(行:い)けなかった」",
     "example-en": "A: \"Were you going to go?\" B: \"I meant to go, but I couldn't.\"",
@@ -4869,11 +6591,31 @@
       "ばっちりそのつもり",
       "はい、そのつもりです"
     ],
-    "variants-en": ["I will", "Yeah, I will", "Of course I will", "Sure, I will", "Absolutely, I will", "Definitely, I will", "Yes, I will"],
+    "variants-en": [
+      "I will",
+      "Yeah, I will",
+      "Of course I will",
+      "Sure, I will",
+      "Absolutely, I will",
+      "Definitely, I will",
+      "Yes, I will"
+    ],
     "intent-ja": ["意図", "約束", "確認", "同意", "承諾"],
-    "intent-en": ["intention", "promise", "confirmation", "agreement", "consent"],
+    "intent-en": [
+      "intention",
+      "promise",
+      "confirmation",
+      "agreement",
+      "consent"
+    ],
     "tags-ja": ["即時文法", "省略", "状況依存型", "意図表現", "確認応答"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "expression of intention", "confirmation response"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "expression of intention",
+      "confirmation response"
+    ],
     "adjusted-expression-ja": "そうするつもりでいます。",
     "adjusted-expression-en": "I intend to do so.",
     "img-sub": "sonotsumori01.png",
@@ -4891,12 +6633,49 @@
     "expression-ja": "(君:きみ)の(番:ばん)だよ",
     "roman-ja": "Kimi no ban da yo",
     "expression-en": "(It's) your turn",
-    "variants-ja": ["次は君だよ", "君の出番だよ", "あなたの番ですよ", "次はあなたですよ"],
-    "variants-en": ["It's your turn.", "You're up.", "Now it's your turn.", "Your move.", "You're next."],
-    "intent-ja": ["順番を伝える", "行動を促す", "交代を知らせる", "親しみを込めて呼びかける", "タイミングを示す"],
-    "intent-en": ["indicating the turn", "encouraging action", "notifying a handover", "calling warmly", "indicating timing"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "促し", "交代", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "ellipsis", "context-dependent", "encouragement", "handover", "strong real-time nature"],
+    "variants-ja": [
+      "次は君だよ",
+      "君の出番だよ",
+      "あなたの番ですよ",
+      "次はあなたですよ"
+    ],
+    "variants-en": [
+      "It's your turn.",
+      "You're up.",
+      "Now it's your turn.",
+      "Your move.",
+      "You're next."
+    ],
+    "intent-ja": [
+      "順番を伝える",
+      "行動を促す",
+      "交代を知らせる",
+      "親しみを込めて呼びかける",
+      "タイミングを示す"
+    ],
+    "intent-en": [
+      "indicating the turn",
+      "encouraging action",
+      "notifying a handover",
+      "calling warmly",
+      "indicating timing"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "促し",
+      "交代",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "ellipsis",
+      "context-dependent",
+      "encouragement",
+      "handover",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(次:つぎ)の(方:かた)？",
     "adjusted-expression-en": "Next, please?",
     "img-sub": "kiminobandayo01.png",
@@ -4914,12 +6693,29 @@
     "expression-ja": "(次:つぎ)がある",
     "roman-ja": "Tsugi ga aru",
     "expression-en": "You'll still have another chance",
-    "variants-ja": ["次があるさ", "またチャンスあるよ", "また今度がある", "今度こそ"],
-    "variants-en": ["There's always next time", "You can try again", "You'll get another chance", "Better luck next time", "Next time for sure"],
+    "variants-ja": [
+      "次があるさ",
+      "またチャンスあるよ",
+      "また今度がある",
+      "今度こそ"
+    ],
+    "variants-en": [
+      "There's always next time",
+      "You can try again",
+      "You'll get another chance",
+      "Better luck next time",
+      "Next time for sure"
+    ],
     "intent-ja": ["励まし", "慰め", "再挑戦"],
     "intent-en": ["encouragement", "comfort", "retry"],
     "tags-ja": ["即時文法", "省略", "励まし", "慰め", "口語"],
-    "tags-en": ["Immediate Grammar", "ellipsis", "encouragement", "comfort", "spoken"],
+    "tags-en": [
+      "Immediate Grammar",
+      "ellipsis",
+      "encouragement",
+      "comfort",
+      "spoken"
+    ],
     "adjusted-expression-ja": "今回は残念でしたが、またの機会があります",
     "adjusted-expression-en": "Although this time was unfortunate, there will be another opportunity.",
     "img-sub": "tsugigaaru01.png",
@@ -4937,12 +6733,30 @@
     "expression-ja": "(見:み)せて、...",
     "roman-ja": "Misete, ...",
     "expression-en": "Show me ...",
-    "variants-ja": ["見せて", "ちょっと見せて", "見せてくれる？", "見せてよ", "見せなさい"],
-    "variants-en": ["Show me", "Let me see", "Can I see?", "Let me have a look", "Give me a peek"],
+    "variants-ja": [
+      "見せて",
+      "ちょっと見せて",
+      "見せてくれる？",
+      "見せてよ",
+      "見せなさい"
+    ],
+    "variants-en": [
+      "Show me",
+      "Let me see",
+      "Can I see?",
+      "Let me have a look",
+      "Give me a peek"
+    ],
     "intent-ja": ["要求", "確認", "関心"],
     "intent-en": ["request", "confirmation", "interest"],
     "tags-ja": ["即時文法", "省略", "命令", "依頼", "口語"],
-    "tags-en": ["Immediate Grammar", "ellipsis", "imperative", "request", "spoken"],
+    "tags-en": [
+      "Immediate Grammar",
+      "ellipsis",
+      "imperative",
+      "request",
+      "spoken"
+    ],
     "adjusted-expression-ja": "それを(見:み)せてください。",
     "adjusted-expression-en": "Please show me that.",
     "img-sub": "misete01.png",
@@ -4961,11 +6775,35 @@
     "roman-ja": "Kekka, o-rai",
     "expression-en": "All right, even if we got some troubles",
     "variants-ja": ["まあ、なんとかなった", "うまくいった"],
-    "variants-en": ["All good", "We're good", "It worked out", "All's well that ends well", "No problem in the end", "Made it"],
+    "variants-en": [
+      "All good",
+      "We're good",
+      "It worked out",
+      "All's well that ends well",
+      "No problem in the end",
+      "Made it"
+    ],
     "intent-ja": ["結果", "解決", "安堵"],
     "intent-en": ["result", "solution", "relief"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "結果", "安堵", "解決", "終結"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "result", "solution", "light tone", "relief", "closure"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "結果",
+      "安堵",
+      "解決",
+      "終結"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "result",
+      "solution",
+      "light tone",
+      "relief",
+      "closure"
+    ],
     "adjusted-expression-ja": "(終:お)わりよければすべてよし",
     "adjusted-expression-en": "All's well that ends well.",
     "img-sub": "kekkaorai01.png",
@@ -4983,12 +6821,45 @@
     "expression-ja": "でも、...",
     "roman-ja": "Demo, ...",
     "expression-en": "But ...",
-    "variants-ja": ["でも、...", "しかし、...", "だけど、...", "けど、...", "とはいえ、...", "それでも、..."],
-    "variants-en": ["But ...", "However ...", "Though ...", "Still ...", "Nevertheless ..."],
+    "variants-ja": [
+      "でも、...",
+      "しかし、...",
+      "だけど、...",
+      "けど、...",
+      "とはいえ、...",
+      "それでも、..."
+    ],
+    "variants-en": [
+      "But ...",
+      "However ...",
+      "Though ...",
+      "Still ...",
+      "Nevertheless ..."
+    ],
     "intent-ja": ["否定", "反論", "対照", "対比", "逆接"],
-    "intent-en": ["negation", "refutation", "contrast", "comparison", "adversative"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "否定", "反論", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "negation", "refutation", "strong real-time nature"],
+    "intent-en": [
+      "negation",
+      "refutation",
+      "contrast",
+      "comparison",
+      "adversative"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "否定",
+      "反論",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "negation",
+      "refutation",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "しかしながら、...",
     "adjusted-expression-en": "However,...",
     "img-sub": "demo01.png",
@@ -5007,11 +6878,32 @@
     "roman-ja": "Ikeru, ikeru",
     "expression-en": "I can do it",
     "variants-ja": ["できる", "いける", "やれる", "可能だ"],
-    "variants-en": ["Go for it", "I'm good", "I can do it", "I can go", "I can make it", "It's possible"],
+    "variants-en": [
+      "Go for it",
+      "I'm good",
+      "I can do it",
+      "I can go",
+      "I can make it",
+      "It's possible"
+    ],
     "intent-ja": ["可能", "行動"],
     "intent-en": ["possibility", "action"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "可能性", "行動", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "possibility", "action", "strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "可能性",
+      "行動",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "possibility",
+      "action",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(行:い)けると(思:おも)います。",
     "adjusted-expression-en": "I think I can do it.",
     "img-sub": "ikeru01.png",
@@ -5029,12 +6921,51 @@
     "expression-ja": "(思:おも)わず、...",
     "roman-ja": "Omowazu, ...",
     "expression-en": "Without thinking ...",
-    "variants-ja": ["無意識に", "つい", "はからずも", "反射的に", "直感的に", "無意識のうちに", "反射的に", "意に反して", "考えずに", "咄嗟に"],
-    "variants-en": ["instinctively", "unconsciously", "reflexively", "involuntarily"],
+    "variants-ja": [
+      "無意識に",
+      "つい",
+      "はからずも",
+      "反射的に",
+      "直感的に",
+      "無意識のうちに",
+      "反射的に",
+      "意に反して",
+      "考えずに",
+      "咄嗟に"
+    ],
+    "variants-en": [
+      "instinctively",
+      "unconsciously",
+      "reflexively",
+      "involuntarily"
+    ],
     "intent-ja": ["行動", "反応", "意識", "心理", "感情"],
-    "intent-en": ["action", "reaction", "awareness", "consciousness", "emotion", "psychology"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "行動", "反応", "意識", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "action", "reaction", "awareness", "strong real-time nature"],
+    "intent-en": [
+      "action",
+      "reaction",
+      "awareness",
+      "consciousness",
+      "emotion",
+      "psychology"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "行動",
+      "反応",
+      "意識",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "action",
+      "reaction",
+      "awareness",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(配慮:はいりょ)も(十分:じゅうぶん)にせずに、(発言:はつげん)してしまいました。",
     "adjusted-expression-en": "I spoke without thinking about the consideration.",
     "img-sub": "omowazu01.png",
@@ -5076,8 +7007,24 @@
     ],
     "intent-ja": ["謙遜", "否定"],
     "intent-en": ["humility", "negation"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "謙遜", "否定", "繰り返し", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "humility", "negation", "repetition", "strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "謙遜",
+      "否定",
+      "繰り返し",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "humility",
+      "negation",
+      "repetition",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "いえいえ、そんなことはないですよ。",
     "adjusted-expression-en": "Oh no, that's not true at all.",
     "img-sub": "ieiemadamada01.png",
@@ -5099,8 +7046,23 @@
     "variants-en": ["Well, ...", "Then, ...", "So, ...", "Now, ..."],
     "intent-ja": ["提案", "疑問", "談話標識"],
     "intent-en": ["suggestion", "question", "discourse marker"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "新規発話", "リアルタイム性", "話題転換"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "new utterance", "strong real-time nature", "topic change", "transition"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "新規発話",
+      "リアルタイム性",
+      "話題転換"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "new utterance",
+      "strong real-time nature",
+      "topic change",
+      "transition"
+    ],
     "adjusted-expression-ja": "それでは、つぎです。",
     "adjusted-expression-en": "Well, let's move on to the next one.",
     "img-sub": "sate01.png",
@@ -5118,12 +7080,28 @@
     "expression-ja": "(気:き)が(利:き)いてる！",
     "roman-ja": "Ki ga kiiteru!",
     "expression-en": "That was thoughtful!",
-    "variants-ja": ["よく(気:き)がつく", "よく(気:き)が(利:き)く", "(気:き)がまわる", "(気配:くば)りがある"],
-    "variants-en": ["How thoughtful!", "So considerate!", "You're so attentive.", "That was really nice of you."],
+    "variants-ja": [
+      "よく(気:き)がつく",
+      "よく(気:き)が(利:き)く",
+      "(気:き)がまわる",
+      "(気配:くば)りがある"
+    ],
+    "variants-en": [
+      "How thoughtful!",
+      "So considerate!",
+      "You're so attentive.",
+      "That was really nice of you."
+    ],
     "intent-ja": ["称賛", "感謝", "評価"],
     "intent-en": ["praise", "appreciation", "evaluation"],
     "tags-ja": ["即時文法", "評価", "会話", "省略", "文末"],
-    "tags-en": ["immediate grammar", "evaluation", "conversation", "ellipsis", "sentence-final"],
+    "tags-en": [
+      "immediate grammar",
+      "evaluation",
+      "conversation",
+      "ellipsis",
+      "sentence-final"
+    ],
     "adjusted-expression-ja": "(気:き)が(利:き)いていますね。",
     "adjusted-expression-en": "That's very thoughtful of you.",
     "img-sub": "kigakiteru01.png",
@@ -5143,12 +7121,28 @@
     "expression-ja": "(あっ:あっ)という(間:ま)に",
     "roman-ja": "A tto iu mani",
     "expression-en": "In the blink of an eye",
-    "variants-ja": ["たちまち", "(一瞬:いっしゅん)のうちに", "(瞬:またた)く(間:ま)に", "(即座:そくざ)に"],
-    "variants-en": ["In an instant", "In a moment", "In a flash", "Immediately"],
+    "variants-ja": [
+      "たちまち",
+      "(一瞬:いっしゅん)のうちに",
+      "(瞬:またた)く(間:ま)に",
+      "(即座:そくざ)に"
+    ],
+    "variants-en": [
+      "In an instant",
+      "In a moment",
+      "In a flash",
+      "Immediately"
+    ],
     "intent-ja": ["時間", "即時性"],
     "intent-en": ["time", "immediacy"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "時間", "即時性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "time", "immediacy"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "time",
+      "immediacy"
+    ],
     "adjusted-expression-ja": "あっという(間:ま)に、(終:お)わってしまいました。",
     "adjusted-expression-en": "It ended in the blink of an eye.",
     "img-sub": "attoiumani01.png",
@@ -5166,12 +7160,35 @@
     "expression-ja": "(自分:じぶん)(次第:しだい)",
     "roman-ja": "Jibun shidai",
     "expression-en": "It's up to you",
-    "variants-ja": ["(自分:じぶん)(次第:しだい)", "あなた(次第:しだい)", "君(次第:しだい)"],
-    "variants-en": ["It's up to you", "It's your choice", "It's your decision", "You decide"],
+    "variants-ja": [
+      "(自分:じぶん)(次第:しだい)",
+      "あなた(次第:しだい)",
+      "君(次第:しだい)"
+    ],
+    "variants-en": [
+      "It's up to you",
+      "It's your choice",
+      "It's your decision",
+      "You decide"
+    ],
     "intent-ja": ["選択", "決定", "責任"],
     "intent-en": ["choice", "decision", "responsibility"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "選択", "責任", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "choice", "responsibility", "strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "選択",
+      "責任",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "choice",
+      "responsibility",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "それは、(本人:ほんにん)の(気持:きも)ち(次第:しだい)ですね。",
     "adjusted-expression-en": "It's up to the person involved.",
     "img-sub": "jibunshidai01.png",
@@ -5194,7 +7211,13 @@
     "intent-ja": ["説明", "強調", "言い換え"],
     "intent-en": ["explanation", "emphasis", "rephrasing"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "説明", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "explanation", "strong real-time quality"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "explanation",
+      "strong real-time quality"
+    ],
     "adjusted-expression-ja": "と言いますか、チャンスがないと申しますか、...",
     "adjusted-expression-en": "Or rather, I should say, there just aren't many opportunities...",
     "img-sub": "teiuka01.png",
@@ -5217,7 +7240,13 @@
     "intent-ja": ["確信", "予測"],
     "intent-en": ["certainty", "prediction"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "確信", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "certainty", "strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "certainty",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "きっと、正解だと思います。",
     "adjusted-expression-en": "I think it's surely the answer.",
     "img-sub": "kitto01.png",
@@ -5235,12 +7264,28 @@
     "expression-ja": "な(訳:わけ)ないでしょ",
     "roman-ja": "Na wake nai desho",
     "expression-en": "Don't be silly",
-    "variants-ja": ["まさか", "ちょっと待ってよ", "ありえない", "どうして、そうなる？"],
-    "variants-en": ["Come on", "No way", "That's impossible", "How could that happen?"],
+    "variants-ja": [
+      "まさか",
+      "ちょっと待ってよ",
+      "ありえない",
+      "どうして、そうなる？"
+    ],
+    "variants-en": [
+      "Come on",
+      "No way",
+      "That's impossible",
+      "How could that happen?"
+    ],
     "intent-ja": ["否定", "驚き"],
     "intent-en": ["negation", "surprise"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "否定", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "negation", "strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "negation",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "そんなことはないと思います。",
     "adjusted-expression-en": "I don't think that's the case.",
     "img-sub": "nawakenaidesho01.png",
@@ -5263,7 +7308,13 @@
     "intent-ja": ["否定"],
     "intent-en": ["negation"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "否定", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "negation", "strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "negation",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(台:だい)なしにしないで",
     "adjusted-expression-en": "Don't ruin everything.",
     "img-sub": "motomokomonai01.png",
@@ -5281,12 +7332,30 @@
     "expression-ja": "どうすればいい？",
     "roman-ja": "Dousureba ii?",
     "expression-en": "What should I do?",
-    "variants-ja": ["どうすればいい", "どうしよう", "どうしたらいい", "どしたらいい", "どうする"],
-    "variants-en": ["What should I do?", "What can I do?", "What do I do?", "What am I supposed to do?", "What now?"],
+    "variants-ja": [
+      "どうすればいい",
+      "どうしよう",
+      "どうしたらいい",
+      "どしたらいい",
+      "どうする"
+    ],
+    "variants-en": [
+      "What should I do?",
+      "What can I do?",
+      "What do I do?",
+      "What am I supposed to do?",
+      "What now?"
+    ],
     "intent-ja": ["提案", "疑問"],
     "intent-en": ["suggestion", "question"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "疑問文", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "question", "strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "question",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "どうすればいいのか、(考:かんが)えています。",
     "adjusted-expression-en": "I'm thinking about what to do.",
     "img-sub": "dousurebaii01.png",
@@ -5309,7 +7378,13 @@
     "intent-ja": ["拒否", "感情", "照れ", "冗談"],
     "intent-en": ["refusal", "emotion", "embarrassment", "joking"],
     "tags-ja": ["即時文法", "感情表現", "状況依存型", "リアルタイム性", "呼応"],
-    "tags-en": ["immediate grammar", "emotional expression", "context-dependent", "real-time nature", "responsive"],
+    "tags-en": [
+      "immediate grammar",
+      "emotional expression",
+      "context-dependent",
+      "real-time nature",
+      "responsive"
+    ],
     "adjusted-expression-ja": "そういうことはやめてください。",
     "adjusted-expression-en": "Please don't say such things.",
     "img-sub": "yameteyo01.png",
@@ -5330,7 +7405,13 @@
     "intent-ja": ["感謝", "招待"],
     "intent-en": ["gratitude", "invitation"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "感謝", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "gratitude", "strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "gratitude",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(来:き)てくださり、ありがとうございます。",
     "adjusted-expression-en": "Thank you for coming.",
     "img-sub": "kurete01.png",
@@ -5350,8 +7431,22 @@
     "expression-en": "Basically",
     "intent-ja": ["基本", "基礎", "評価", "枠づけ"],
     "intent-en": ["basic", "foundation", "evaluation", "framing"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "構造外前置き句", "リアルタイム性", "評価的発話"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "extrasyntactic premodifier", "strong real-time nature", "evaluative utterance"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "構造外前置き句",
+      "リアルタイム性",
+      "評価的発話"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "extrasyntactic premodifier",
+      "strong real-time nature",
+      "evaluative utterance"
+    ],
     "adjusted-expression-ja": "(基本的:きほんてき)には、(賛成:さんせい)です。",
     "adjusted-expression-en": "Basically, I agree.",
     "img-sub": "kousoriga01.png",
@@ -5405,7 +7500,13 @@
     "intent-ja": ["提案", "誘い"],
     "intent-en": ["suggestion", "invitation"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "提案", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "suggestion", "strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "suggestion",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(寄:よ)り(道:みち)して、(帰:かえ)りましょう。",
     "adjusted-expression-en": "Let's take a detour and go home.",
     "img-sub": "yorimichishite01.png",
@@ -5426,7 +7527,13 @@
     "intent-ja": ["帰宅", "提案"],
     "intent-en": ["going home", "suggestion"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "提案", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "suggestion", "strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "suggestion",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(帰:かえ)りましょう",
     "adjusted-expression-en": "Shall we go home?",
     "img-sub": "kaero01.png",
@@ -5447,7 +7554,13 @@
     "intent-ja": ["提案", "誘い"],
     "intent-en": ["suggestion", "invitation"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "提案", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "context-dependent", "suggestion", "strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "suggestion",
+      "strong real-time nature"
+    ],
     "adjusted-expression-ja": "(今度:こんど)、のんびり、(コーヒー:こーひー)でも(飲:の)みませんか？",
     "adjusted-expression-en": "Would you like to have a relaxing coffee together sometime?",
     "img-sub": "nonbiri.png",
@@ -5468,7 +7581,13 @@
     "intent-ja": ["確認", "疑問"],
     "intent-en": ["confirmation", "question"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "疑問文", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "Context-dependent expression", "Question", "Strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Question",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "そうなんですか？(知:し)りませんでした。",
     "adjusted-expression-en": "Is that so? I didn't know.",
     "img-sub": "sounano01.png",
@@ -5489,7 +7608,13 @@
     "intent-ja": ["達成", "完了"],
     "intent-en": ["achievement", "completion"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "感情表現", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "Context-dependent expression", "Emotional expression", "Strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Emotional expression",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "やっと、(宿題:しゅくだい)が(終:お)わりました。",
     "adjusted-expression-en": "Finally, the homework is done.",
     "img-sub": "yattodayo01.png",
@@ -5510,7 +7635,13 @@
     "intent-ja": ["列挙", "網羅"],
     "intent-en": ["enumeration", "comprehensive"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "列挙", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "Context-dependent expression", "Enumeration", "Strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Enumeration",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "(寝:ね)たり、(食:た)べたりします。",
     "adjusted-expression-en": "I sleep, eat, and so on.",
     "img-sub": "taritari01.png",
@@ -5530,8 +7661,22 @@
     "expression-en": "While listening to music...",
     "intent-ja": ["同時性", "並行"],
     "intent-en": ["simultaneity", "concurrency"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "同時性", "並行", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "Context-dependent expression", "Simultaneity", "Concurrency", "Strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "同時性",
+      "並行",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Simultaneity",
+      "Concurrency",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "(音楽:おんがく)を(聞:き)ながら...",
     "adjusted-expression-en": "While listening to music...",
     "img-sub": "ongakukinagara01.png",
@@ -5552,7 +7697,13 @@
     "intent-ja": ["選択", "柔軟"],
     "intent-en": ["choice", "flexibility"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "許可", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "Context-dependent expression", "Permission", "Strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Permission",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "どれでもかまいませんよ。",
     "adjusted-expression-en": "Any of them will be fine.",
     "img-sub": "nandemoiiyo01.png",
@@ -5572,8 +7723,22 @@
     "expression-en": "Isn't this amazing?",
     "intent-ja": ["感動", "驚き"],
     "intent-en": ["impressed", "surprised"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "感情表現", "疑問文", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "Context-dependent expression", "Emotional expression", "Question", "Strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "感情表現",
+      "疑問文",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Emotional expression",
+      "Question",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "これは、すごいですね。",
     "adjusted-expression-en": "This is amazing, isn't it?",
     "grammar-ja": "否定疑問文（〜ない？）は、日本語では即時的な感動や共感を引き出すためによく使われます。特に 'すごくない？' は、驚きを共有する典型的な即時文法の表現であり、肯定的な意味を含みつつも否定形で聞くことで、聞き手にリアルタイムでの反応を促しています。",
@@ -5597,8 +7762,22 @@
     "expression-en": "I'm tired",
     "intent-ja": ["疲労", "不満"],
     "intent-en": ["fatigue", "frustration"],
-    "tags-ja": ["即時文法", "省略", "状況依存型", "感情表現", "感動詞使用", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "Context-dependent expression", "Emotional expression", "interjectional usage", "Strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "感情表現",
+      "感動詞使用",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Emotional expression",
+      "interjectional usage",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "ちょっと、(疲:つか)れてしまいました。",
     "adjusted-expression-en": "Ah, I'm tired.",
     "img-sub": "tsukaretaa01.png",
@@ -5621,7 +7800,13 @@
     "intent-ja": ["挨拶", "近況確認"],
     "intent-en": ["greeting", "check-in"],
     "tags-ja": ["即時文法", "省略", "状況依存型", "疑問文", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "omission", "Context-dependent expression", "Question", "Strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "omission",
+      "Context-dependent expression",
+      "Question",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "最近、どうですか？",
     "adjusted-expression-en": "How have you been lately?",
     "img-sub": "saikindou01.png",
@@ -5640,7 +7825,11 @@
     "roman-ja": "Sore wa, kekkyoku no tokoro, naki-neiri desu ne",
     "expression-en": "So in the end, you just have to endure it in silence, huh?",
     "tags-ja": ["即時文法", "状況によっては調整文法", "評価表現"],
-    "tags-en": ["immediate grammar", "contextually adjustive", "evaluation expression"],
+    "tags-en": [
+      "immediate grammar",
+      "contextually adjustive",
+      "evaluation expression"
+    ],
     "adjusted-expression-ja": "それは、(:)結局、どこにも(:)訴えることはできません。",
     "adjusted-expression-en": "In the end, there was no legal recourse available.",
     "example-ja": "A「(銀行:ぎんこう)(振:ふ)り(込:こ)みで(商品:しょうひん)が(送:おく)ってこなくて、(相手:あいて)の(住所:じゅうしょ)もわからないんです」B「それは、(結局:けっきょく)のところ、(泣:な)き(寝入:ねい)りですね」",
@@ -5694,8 +7883,22 @@
     "expression-ja": "あ！(車:くるま)、(来:き)てる！",
     "roman-ja": "A! Kuruma, kiteru!",
     "expression-en": "Watch out! The car is coming!",
-    "tags-ja": ["即時文法", "省略", "状況依存型", "警告", "縮約形", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "Many omissions", "Context-dependent expression", "Warning", "Contracted expressions", "Strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "警告",
+      "縮約形",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "Many omissions",
+      "Context-dependent expression",
+      "Warning",
+      "Contracted expressions",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "あ！(車:くるま)が(来:き)ています！",
     "adjusted-expression-en": "Oh! The car is approaching.",
     "img-sub": "terua01.png",
@@ -5714,7 +7917,12 @@
     "roman-ja": "Itsu, modotte kuru no",
     "expression-en": "When are you coming back?",
     "tags-ja": ["即時文法", "状況依存型", "疑問「の」", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "Context-dependent expression", "Question particle \"no\"", "Strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "Context-dependent expression",
+      "Question particle \"no\"",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "いつ、(戻:もど)って(来:く)るのですか。",
     "adjusted-expression-en": "When will you be returning?",
     "img-sub": "itsumodottekuruno01.png",
@@ -5732,7 +7940,14 @@
     "expression-ja": "だから(言:い)ったじゃん",
     "roman-ja": "Dakara ittajan",
     "expression-en": "I told you so",
-    "tags-ja": ["即時文法", "省略", "状況依存型", "くりかえし表現", "縮約表現", "リアルタイム性"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "くりかえし表現",
+      "縮約表現",
+      "リアルタイム性"
+    ],
     "tags-en": [
       "immediate grammar",
       "Many omissions",
@@ -5758,8 +7973,20 @@
     "expression-ja": "どれどれ",
     "roman-ja": "Dore dore",
     "expression-en": "Let me see.",
-    "tags-ja": ["即時文法", "省略", "状況依存型", "くりかえし表現", "リアルタイム性"],
-    "tags-en": ["immediate grammar", "Many omissions", "Context-dependent expression", "Repetitive expressions", "Strong real-time nature"],
+    "tags-ja": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "くりかえし表現",
+      "リアルタイム性"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "Many omissions",
+      "Context-dependent expression",
+      "Repetitive expressions",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "どちらでしょうか。",
     "adjusted-expression-en": "Which one would it be?",
     "img-sub": "doredore01.png",
@@ -6094,7 +8321,12 @@
     "roman-ja": "Kuwashiku ha, kono kyoku no ato.",
     "expression-en": "Details after this song.",
     "tags-ja": ["即時文法", "省略", "状況依存型の表現", "リアルタイム性が強い"],
-    "tags-en": ["immediate grammar", "Many omissions", "Context-dependent expression", "Strong real-time nature"],
+    "tags-en": [
+      "immediate grammar",
+      "Many omissions",
+      "Context-dependent expression",
+      "Strong real-time nature"
+    ],
     "adjusted-expression-ja": "詳しくは、この曲が終わった後にご説明いたします。",
     "adjusted-expression-en": "Let me explain this in detail after this song is over.",
 
@@ -10881,8 +13113,20 @@
       "total-entries": 388,
       "continuity": "毎日継続中（365日で終わらず、無限に継続予定）"
     },
-    "tags-ja-sample": ["即時文法", "省略", "状況依存型", "感情表現", "リアルタイム性"],
-    "tags-en-sample": ["immediate grammar", "omission", "context-dependent", "emotional expression", "real-time nature"],
+    "tags-ja-sample": [
+      "即時文法",
+      "省略",
+      "状況依存型",
+      "感情表現",
+      "リアルタイム性"
+    ],
+    "tags-en-sample": [
+      "immediate grammar",
+      "omission",
+      "context-dependent",
+      "emotional expression",
+      "real-time nature"
+    ],
     "examples": [
       {
         "expression-ja": "やっと、だよ",
