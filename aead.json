@@ -35,7 +35,7 @@
     ],
     "adjusted-expression-ja": "(賛成:さんせい)か(反対:はんたい)かをはっきり(述:の)べる",
     "adjusted-expression-en": "to state explicitly whether one agrees or disagrees",
-    "example-ja": "A「この案、アリかナシかでいえば？」 B「うーん、アリかナシかっていえば、アリかな。」",
+    "example-ja": "A「この(案:あん)、(アリ:あり)か(ナシ:なし)かでいえば？」 B「うーん、(アリ:あり)か(ナシ:なし)かっていえば、(アリ:あり)かな。」",
     "example-en": "A: So, for this idea, if you had to say yes or no? B: Hmm... if I had to say, I'd say it's a yes.",
     "notes-ja": "「アリかナシか（でいえば）」は、二択を提示しているように見えて、実際には「アリ」方向へ評価を誘導するソフト肯定の構文である。否定（ナシ）は理由負荷が高く、語用論的に言いづらいため、自然会話ではこの構文の後件が「ナシ」になることはほとんどない。話者が強い賛成や積極的な理由を持っていなくても、『弱い支持／弱い応援』を伝えることができる点に特徴がある。心理学のframing効果とも対応し、即時文法が持つ判断の即時性と理由省略の機能が顕著に現れる表現である。",
     "notes-en": "The phrase 'ari ka nashi ka (de ieba)' appears to offer a binary choice, but pragmatically it functions as a soft-positive construction. In natural Japanese conversation, giving a negative answer ('nashi') would require explanation, so the framing itself guides the listener toward a soft yes. The expression allows the speaker to show weak support or gentle approval without stating explicit reasons. This makes it an excellent example of Immediate Grammar: immediate evaluation, omission of justification, and a framing effect that biases the judgment toward acceptance."
