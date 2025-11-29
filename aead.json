@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.11.27",
+    "day": "Thu",
+    "number": 596,
+    "index": "miniiku",
+    "title": "to go somewhere to see sth",
+    "expression-ja": "(見:み)に(行:い)く",
+    "roman-ja": "mi ni iku",
+    "expression-en": "to go somewhere to see sth",
+    "variants-ja": [
+      "(買:か)いに(行:い)く",
+      "(食:た)べに(行:い)く",
+      "(遊:あそ)びに(行:い)く"
+    ],
+    "variants-en": [
+      "to go somewhere to buy sth",
+      "to go somewhere to eat sth",
+      "to go somewhere to play/hang out"
+    ],
+    "intent-ja": ["目的の表現", "行動の表現", "移動の表現"],
+    "intent-en": [
+      "expression of purpose",
+      "expression of action",
+      "expression of movement"
+    ],
+    "tags-ja": ["即時文法", "口語", "目的表現", "行動表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of purpose",
+      "expression of action"
+    ],
+    "adjusted-expression-ja": "(見:み)に(行:い)きます",
+    "adjusted-expression-en": "to go to see sth",
+    "img-sub": "miniiku01.png",
+    "example-ja": "A「(新:あたら)しい(映画:えいが)、(見:み)に(行:い)く？」 B「うん、(行:い)こう」",
+    "example-en": "A: Shall we go see the new movie? B: Yeah, let's go.",
+    "notes-ja": "「〜に行く」は、特定の目的を持ってどこかへ行くことを表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「に」は目的地や目的を示す助詞で、「行く」は移動することを意味します。つまり、「〜に行く」は「to go somewhere to do sth」や「to go somewhere for a purpose」と同じ意味になります。これを速く言ってみてください。たぶん「みにーく」になりますよね。「買いにく」、「食べにく」、「遊びにく」も同様です。そちらの方が自然な発音になります。",
+    "notes-en": "'~Ni iku' is a colloquial expression used to indicate going somewhere with a specific purpose. To explain the structure of this phrase in more detail, 'ni' is a particle that indicates the destination or purpose, and 'iku' means to move or go. Therefore, '~ni iku' has the same meaning as 'to go somewhere to do sth' or 'to go somewhere for a purpose.' Try saying it quickly. It probably sounds like 'mini-ku.' The same applies to 'kainiku,' 'tabeniku,' and 'asobiniku,' which also sound more natural when pronounced that way."
+  },
+  {
     "date": "2025.11.26",
     "day": "Wed",
     "number": 595,
