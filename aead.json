@@ -1,5 +1,37 @@
 [
   {
+    "date": "2025.11.28",
+    "day": "Fri",
+    "number": 597,
+    "index": "aiteru",
+    "title": "to be open / to be available",
+    "expression-ja": "(空:あ)いてる",
+    "roman-ja": "aiteru",
+    "expression-en": "to be open / to be available",
+    "variants-ja": [
+      "(開:あ)いてる",
+      "(空:あ)いていますか",
+      "(席:せき)が(空:あ)いてる"
+    ],
+    "variants-en": ["is open", "is available?", "is there an open seat?"],
+    "intent-ja": ["状態の表現", "質問", "確認"],
+    "intent-en": ["expression of state", "question", "confirmation"],
+    "tags-ja": ["即時文法", "口語", "状態表現", "質問"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of state",
+      "question"
+    ],
+    "adjusted-expression-ja": "(空:あ)いていますか",
+    "adjusted-expression-en": "is it open / is it available?",
+    "img-sub": "aiteru01.png",
+    "example-ja": "A「その(日:ひ)、(空:あ)いてる？」 B「うん、(何:なに)？」 A「(映画:えいが)、(見:み)に(行:い)こ」",
+    "example-en": "A: Are you free that day? B: Yeah, what is it? A: Let's go see a movie.",
+    "notes-ja": "「空いてる」は、場所や時間が利用可能であることを即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「空いてる」は「to be open」や「to be available」の意味で、話し手が述べた内容に対して利用可能な状態を示します。つまり、「空いてる」は「is open」や「is available?」と同じ意味になります。",
+    "notes-en": "'Aiteru' is a colloquial expression used to immediately express that a place or time is available. To explain the structure of this phrase in more detail, 'aiteru' means 'to be open' or 'to be available', indicating the state of availability in relation to what the speaker has stated. Therefore, 'aiteru' has the same meaning as 'is open' or 'is available?'."
+  },
+  {
     "date": "2025.11.27",
     "day": "Thu",
     "number": 596,
