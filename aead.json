@@ -3,11 +3,11 @@
     "date": "2025.11.27",
     "day": "Thu",
     "number": 596,
-    "index": "miniiku",
+    "index": "shiniiku",
     "title": "to go somewhere to see sth",
-    "expression-ja": "(見:み)に(行:い)く",
+    "expression-ja": "しに(行:い)く",
     "roman-ja": "mi ni iku",
-    "expression-en": "to go somewhere to see sth",
+    "expression-en": "to go somewhere to do sth",
     "variants-ja": [
       "(買:か)いに(行:い)く",
       "(食:た)べに(行:い)く",
@@ -31,7 +31,7 @@
       "expression of purpose",
       "expression of action"
     ],
-    "adjusted-expression-ja": "(見:み)に(行:い)きます",
+    "adjusted-expression-ja": "しに(行:い)きます",
     "adjusted-expression-en": "to go to see sth",
     "img-sub": "miniiku01.png",
     "example-ja": "A「(新:あたら)しい(映画:えいが)、(見:み)に(行:い)く？」 B「うん、(行:い)こう」",
