@@ -1,5 +1,72 @@
 [
   {
+    "date": "2025.11.30",
+    "day": "Sun",
+    "number": 599,
+    "index": "nagamochi",
+    "title": "long-lasting / durable",
+    "expression-ja": "(長持:ながも)ち",
+    "roman-ja": "nagamochi",
+    "expression-en": "long-lasting / durable",
+    "variants-ja": [
+      "(耐久:たいきゅう)性(高:たか)い",
+      "(丈夫:じょうぶ)な",
+      "(持続:じぞく)力(強:つよ)い"
+    ],
+    "variants-en": ["high durability", "sturdy / strong", "strong endurance"],
+    "intent-ja": ["耐久性の表現", "品質の強調", "持続力の表現"],
+    "intent-en": [
+      "expression of durability",
+      "emphasis on quality",
+      "expression of endurance"
+    ],
+    "tags-ja": ["即時文法", "口語", "耐久性表現", "品質強調"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of durability",
+      "emphasis on quality"
+    ],
+    "adjusted-expression-ja": "(耐久:たいきゅう)性が(高:たか)い",
+    "adjusted-expression-en": "high durability",
+    "img-sub": "nagamochi01.png",
+    "example-ja": "A「この(靴:くつ)、(長持:ながも)ちすんの？」 B「うん、3(年:ねん)は(持:も)つよ」",
+    "example-en": "A: Are these shoes durable? B: Yeah, they'll last for three years.",
+    "notes-ja": "「長持ち」は、物や製品が長期間使用できることを表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「長持ち」は「long-lasting」や「durable」の意味で、話し手が述べた内容に対して耐久性や持続力を示します。つまり、「長持ち」は「long-lasting」や「durable」と同じ意味になります。「長く持ちますか」という表現もありますが、そちらは少しフォーマルな響きがあります。動詞「持つ」はhaveという意味の方が一般的ですが、ここでは「持ちますか？」と聞くと「持つ」という動詞の意味が変わってしまうので注意してください。",
+    "notes-en": "'Nagamochi' is a colloquial expression used to indicate that an object or product can be used for a long period of time. To explain the structure of this phrase in more detail, 'nagamochi' means 'long-lasting' or 'durable', indicating durability or endurance in relation to what the speaker has stated. Therefore, 'nagamochi' has the same meaning as 'long-lasting' or 'durable'. There is also the expression 'naga ku mochimasu ka', but that has a slightly more formal tone. While the verb 'motsu' generally means 'to have', in this context, asking 'mochimasu ka?' changes the meaning of the verb, so be cautious."
+  },
+  {
+    "date": "2025.11.29",
+    "day": "Sat",
+    "number": 598,
+    "index": "nakineiri",
+    "title": "suffer quietly",
+    "expression-ja": "(泣:な)き(寝入:ねい)り",
+    "roman-ja": "naki-neiri",
+    "expression-en": "suffer quietly",
+    "variants-ja": [
+      "(我慢:がまん)の(限界:げんかい)",
+      "(耐:た)え(忍:しの)ぶ",
+      "(静:しず)かに(耐:た)える"
+    ],
+    "variants-en": [
+      "the limit of endurance",
+      "to endure patiently",
+      "to endure quietly"
+    ],
+    "intent-ja": ["忍耐", "我慢", "内面的な苦しみの表現"],
+    "intent-en": ["patience", "endurance", "expression of internal suffering"],
+    "tags-ja": ["即時文法", "口語", "忍耐", "我慢"],
+    "tags-en": ["immediate grammar", "spoken", "patience", "endurance"],
+    "adjusted-expression-ja": "(理不尽:りふじん)にも(為:な)す(術:すべ)がない",
+    "adjusted-expression-en": "to have no way to deal with such unfairness",
+    "img-sub": "nakineiri01.png",
+    "example-ja": "A「(問:と)い(合:あ)わせても(結局:けっきょく)『(仕様:しよう)です』で(終:お)わっちゃった」 B「それって(泣:な)き(寝入:ねい)りだよね」",
+    "example-en": "A: Even after I inquired, it just ended with 'That's how it is.' B: Yeah, that's suffering quietly, isn't it?",
+    "notes-ja": "「泣き寝入り」は、不当な扱いや不公平な状況に対して、声を上げずに我慢することを表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「泣き」は「crying」の意味で、「寝入り」は「going to sleep」の意味です。つまり、「泣き寝入り」は「suffer quietly」や「endure silently」と同じ意味になります。",
+    "notes-en": "'Naki-neiri' is a colloquial expression used to describe enduring unfair treatment or situations without raising one's voice. To explain the structure of this phrase in more detail, 'naki' means 'crying', and 'neiri' means 'going to sleep'. Therefore, 'naki-neiri' has the same meaning as 'suffer quietly' or 'endure silently'."
+  },
+  {
     "date": "2025.11.28",
     "day": "Fri",
     "number": 597,
