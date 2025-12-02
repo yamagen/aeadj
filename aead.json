@@ -1,5 +1,85 @@
 [
   {
+    "date": "2025.12.02",
+    "day": "Tue",
+    "number": 601,
+    "index": "kudaranai",
+    "title": "worthless / trivial / silly",
+    "expression-ja": "(下:くだ)らない",
+    "roman-ja": "kudaranai",
+    "expression-en": "worthless / trivial / silly",
+    "variants-ja": [
+      "(無価値:むかち)な",
+      "(取:と)るに(足:た)らない",
+      "(くだら)なくて(意味:いみ)がない"
+    ],
+    "variants-en": [
+      "worthless",
+      "not worth considering",
+      "silly and meaningless"
+    ],
+    "intent-ja": ["否定的な評価", "価値の否定", "軽蔑の表現"],
+    "intent-en": [
+      "negative evaluation",
+      "denial of value",
+      "expression of contempt"
+    ],
+    "tags-ja": ["即時文法", "口語", "否定的評価", "価値否定"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "negative evaluation",
+      "denial of value"
+    ],
+    "adjusted-expression-ja": "(無価値:むかち)な",
+    "adjusted-expression-en": "worthless",
+    "img-sub": "kudaranai01.png",
+    "example-ja": "A「この(映画:えいが)、(下:くだ)らないよね」 B「うん、でも、その(下:くだ)らないところがいいんじゃない」",
+    "example-en": "A: This movie is silly, isn't it? B: Yeah, but isn't that silliness what makes it good?",
+    "notes-ja": "「くだらない」は、物事や出来事が価値がない、または重要でないことを表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「くだらない」は「worthless」や「trivial」、「silly」の意味で、話し手が述べた内容に対して否定的な評価を示します。つまり、「くだらない」は「worthless」や「trivial」や「silly」と同じ意味になります。",
+    "notes-en": "'Kudaranai' is a colloquial expression used to indicate that something is worthless or unimportant. To explain the structure of this phrase in more detail, 'kudaranai' means 'worthless', 'trivial', or 'silly', indicating a negative evaluation in relation to what the speaker has stated. Therefore, 'kudaranai' has the same meaning as 'worthless', 'trivial', or 'silly'."
+  },
+  {
+    "date": "2025.12.01",
+    "day": "Mon",
+    "number": 600,
+    "index": "kekkoomoshiroi",
+    "title": "quite interesting / pretty interesting",
+    "expression-ja": "(結構:けっこう)(面白:おもしろ)い",
+    "roman-ja": "kekko omoshiroi",
+    "expression-en": "quite interesting / pretty interesting",
+    "variants-ja": [
+      "(かなり)(面白:おもしろ)い",
+      "(相当:そうとう)(面白:おもしろ)い",
+      "(なかなか)(面白:おもしろ)い"
+    ],
+    "variants-en": [
+      "fairly interesting",
+      "considerably interesting",
+      "rather interesting"
+    ],
+    "intent-ja": ["評価の強調", "興味の表現", "肯定的な意見"],
+    "intent-en": [
+      "emphasis on evaluation",
+      "expression of interest",
+      "positive opinion"
+    ],
+    "tags-ja": ["即時文法", "口語", "評価強調", "興味表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emphasis on evaluation",
+      "expression of interest"
+    ],
+    "adjusted-expression-ja": "(非常:ひじょう)に(面白:おもしろ)い",
+    "adjusted-expression-en": "very interesting",
+    "img-sub": "kekkoomoshiroi01.png",
+    "example-ja": "A「この(本:ほん)、(結構:けっこう)(面白:おもしろ)いよ」 B「へえ、(読:よ)んでみようかな」",
+    "example-en": "A: This book is quite interesting. B: Oh, I might give it a read.",
+    "notes-ja": "「結構面白い」は、物事や出来事が予想以上に興味深いことを表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「結構」は「quite」や「pretty」の意味で、「面白い」は「interesting」の意味です。つまり、「結構面白い」は「quite interesting」や「pretty interesting」と同じ意味になります。",
+    "notes-en": "'Kekko omoshiroi' is a colloquial expression used to indicate that something is more interesting than expected. To explain the structure of this phrase in more detail, 'kekko' means 'quite' or 'pretty', and 'omoshiroi' means 'interesting'. Therefore, 'kekko omoshiroi' has the same meaning as 'quite interesting' or 'pretty interesting'."
+  },
+  {
     "date": "2025.11.30",
     "day": "Sun",
     "number": 599,
