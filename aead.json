@@ -1,5 +1,77 @@
 [
   {
+    "date": "2025.12.04",
+    "day": "Thu",
+    "number": 603,
+    "index": "hotonndo..nai",
+    "title": "hardly / scarcely / almost not",
+    "expression-ja": "(ほとんど)...ない",
+    "roman-ja": "hotonndo...nai",
+    "expression-en": "hardly / scarcely / almost not",
+    "variants-ja": [
+      "(ほぼ)...ない",
+      "(めったに)...ない",
+      "(ほとんど)...しない"
+    ],
+    "variants-en": ["(almost)...not", "(rarely)...not", "(hardly)...do not"],
+    "intent-ja": ["否定の強調", "頻度の表現", "程度の表現"],
+    "intent-en": [
+      "emphasis on negation",
+      "expression of frequency",
+      "expression of degree"
+    ],
+    "tags-ja": ["即時文法", "口語", "否定強調", "頻度表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emphasis on negation",
+      "expression of frequency"
+    ],
+    "adjusted-expression-ja": "(ほとんど)...ません",
+    "adjusted-expression-en": "hardly ...",
+    "img-sub": "hotonndo_nai01.png",
+    "example-ja": "A「(週末:しゅうまつ)、(遊:あそ)びに(行:い)く？」 B「うーん、(ほとんど)(行:い)かない」",
+    "example-en": "A: Are you going out on the weekend? B: Hmm, I hardly go.",
+    "notes-ja": "「ほとんど...ない」は、ある事柄や行動が非常に少ない頻度で行われることや、ほとんど存在しないことを強調する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「ほとんど」は「hardly」や「scarcely」、「almost not」の意味で、「ない」は否定を示します。つまり、「ほとんど...ない」は「hardly ...」や「scarcely ...」と同じ意味になります。",
+    "notes-en": "'Hotonndo...nai' is a colloquial expression used to emphasize that a certain matter or action occurs very infrequently or is almost non-existent. To explain the structure of this phrase in more detail, 'hotonndo' means 'hardly', 'scarcely', or 'almost not', and 'nai' indicates negation. Therefore, 'hotonndo...nai' has the same meaning as 'hardly ...' or 'scarcely ...'."
+  },
+  {
+    "date": "2025.12.03",
+    "day": "Wed",
+    "number": 602,
+    "index": "annmari..nai",
+    "title": "not very / not much / not so",
+    "expression-ja": "あんまり...ない",
+    "roman-ja": "anmari...nai",
+    "expression-en": "not very / not much / not so",
+    "variants-ja": ["あまり...ない", "そんなに...ない", "それほど...ない"],
+    "variants-en": [
+      "not really ...",
+      "not that much ...",
+      "not to that extent ..."
+    ],
+    "intent-ja": ["否定の強調", "程度の表現", "評価の抑制"],
+    "intent-en": [
+      "emphasis on negation",
+      "expression of degree",
+      "moderation of evaluation"
+    ],
+    "tags-ja": ["即時文法", "口語", "否定強調", "程度表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "emphasis on negation",
+      "expression of degree"
+    ],
+    "adjusted-expression-ja": "あまり...ません",
+    "adjusted-expression-en": "not very ...",
+    "img-sub": "anmari_nai01.png",
+    "example-ja": "A「(料理:りょうり)、する？」 B「うーん、あんまり」",
+    "example-en": "A: Do you cook? B: Hmm, not really.",
+    "notes-ja": "「あんまり...ない」は、ある事柄や行動があまり頻繁に行われないことや、程度が低いことを強調する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「あんまり」は「not very」や「not much」の意味で、「ない」は否定を示します。つまり、「あんまり...ない」は「not very ...」や「not much ...」と同じ意味になります。",
+    "notes-en": "'Anmari...nai' is a colloquial expression used to emphasize that a certain matter or action is not done very often or is of low degree. To explain the structure of this phrase in more detail, 'anmari' means 'not very' or 'not much', and 'nai' indicates negation. Therefore, 'anmari...nai' has the same meaning as 'not very ...' or 'not much ...'."
+  },
+  {
     "date": "2025.12.02",
     "day": "Tue",
     "number": 601,
