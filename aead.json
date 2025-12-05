@@ -9,14 +9,14 @@
     "roman-ja": "toka kankei naku",
     "expression-en": "regardless of...",
     "variants-ja": [
-      "〜とか(気:き)に(し:し)なく？",
-      "〜とか(問題:もんだい)なく？",
-      "〜とか(影響:えいきょう)なく？"
+      "〜とか(気:き)に(し:し)なく",
+      "〜とか(問題:もんだい)なく",
+      "〜とか(影響:えいきょう)なく"
     ],
     "variants-en": [
-      "regardless of ~?",
-      "without worrying about ~?",
-      "without concern for ~?"
+      "regardless of ~",
+      "without worrying about ~",
+      "without concern for ~"
     ],
     "intent-ja": ["無関心の表現", "影響の否定", "条件の無視"],
     "intent-en": [
@@ -32,7 +32,7 @@
       "ignoring conditions"
     ],
     "adjusted-expression-ja": "〜などを(問:と)わず、",
-    "adjusted-expression-en": "regardless of ...?",
+    "adjusted-expression-en": "regardless of ...",
     "img-sub": "tokakankeinaku01.png",
     "example-ja": "A「(ラグビー:らぐびー)って(天気:てんき)、(天気:てんき)とか(関係:かんけい)なく、(ゲーム:げーむ)するの？」 B「ああ、(雨:あめ)でもやるよ。うん、(関係:かんけい)なくね」",
     "example-en": "A: In rugby, do they play games regardless of the weather? B: Yeah, they play even in the rain. Yeah, regardless of it.",
