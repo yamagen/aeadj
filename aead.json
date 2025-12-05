@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.12.05",
+    "day": "Fri",
+    "number": 604,
+    "index": "tokakankeinaku",
+    "title": "regardless of...",
+    "expression-ja": "〜とか(関係:かんけい)なく、",
+    "roman-ja": "toka kankei naku",
+    "expression-en": "regardless of...",
+    "variants-ja": [
+      "〜とか(気:き)に(し:し)なく？",
+      "〜とか(問題:もんだい)なく？",
+      "〜とか(影響:えいきょう)なく？"
+    ],
+    "variants-en": [
+      "regardless of ~?",
+      "without worrying about ~?",
+      "without concern for ~?"
+    ],
+    "intent-ja": ["無関心の表現", "影響の否定", "条件の無視"],
+    "intent-en": [
+      "expression of indifference",
+      "denial of influence",
+      "ignoring conditions"
+    ],
+    "tags-ja": ["即時文法", "口語", "無関心表現", "条件無視"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of indifference",
+      "ignoring conditions"
+    ],
+    "adjusted-expression-ja": "〜などを(問:と)わず、",
+    "adjusted-expression-en": "regardless of ...?",
+    "img-sub": "tokakankeinaku01.png",
+    "example-ja": "A「(ラグビー:らぐびー)って(天気:てんき)、(天気:てんき)とか(関係:かんけい)なく、(ゲーム:げーむ)するの？」 B「ああ、(雨:あめ)でもやるよ。うん、(関係:かんけい)なくね」",
+    "example-en": "A: In rugby, do they play games regardless of the weather? B: Yeah, they play even in the rain. Yeah, regardless of it.",
+    "notes-ja": "「〜とか関係なく？」は、ある事柄や状況に対して無関心であることや、その影響を受けないことを即時的に表現する口語的な表現。もう少し詳しくこのことばの構成を説明すると、「とか」は「regardless of」や「without worrying about」の意味で、「関係なく」は「without concern for」や「ignoring conditions」の意味です。つまり、「〜とか関係なく？」は「regardless of ...?」や「without worrying about ...?」と同じ意味になります。",
+    "notes-en": "'~Toka kankei naku?' is a colloquial expression used to immediately express indifference to a certain matter or situation, or that one is not influenced by it. To explain the structure of this phrase in more detail, 'toka' means 'regardless of' or 'without worrying about', and 'kankei naku' means 'without concern for' or 'ignoring conditions'. Therefore, '~toka kankei naku?' has the same meaning as 'regardless of ...?' or 'without worrying about ...?'."
+  },
+  {
     "date": "2025.12.04",
     "day": "Thu",
     "number": 603,
