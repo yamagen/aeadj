@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.12.06",
+    "day": "Sat",
+    "number": 605,
+    "index": "tteittanoni",
+    "title": "I told you so...",
+    "expression-ja": "って(言:い)ったのに",
+    "roman-ja": "tte itta no ni",
+    "expression-en": "I told you so...",
+    "variants-ja": [
+      "って(言:い)ったじゃん",
+      "って(言:い)ったでしょ",
+      "って(言:い)ったのにさ"
+    ],
+    "variants-en": [
+      "I told you, didn't I?",
+      "I told you, right?",
+      "I told you so, you know"
+    ],
+    "intent-ja": ["注意喚起", "不満の表現", "確認の強調"],
+    "intent-en": [
+      "attention-getting",
+      "warning tone",
+      "calling attention to something"
+    ],
+    "tags-ja": ["即時文法", "口語", "注意喚起", "不満表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "attention calling",
+      "expression of dissatisfaction"
+    ],
+    "adjusted-expression-ja": "そのように(申:もう)し(上:あ)げました",
+    "adjusted-expression-en": "I did mention that earlier",
+    "img-sub": "tteittanoni01.png",
+    "example-ja": "A「(忘:わす)れ(物:もの)しちゃった」 B「だから、(忘:わす)れるよって(言:い)ったのに」",
+    "example-en": "A: I forgot it. B: I told you you'd forget it.",
+    "notes-ja": "「って言ったのに」は、以前に伝えた内容が守られなかったり、期待通りに行かなかった場合に、そのことを指摘する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「って」は引用を示す助詞で、「言ったのに」は「I told you so」の意味です。つまり、「って言ったのに」は「I told you so...」や「I did mention that earlier」と同じ意味になります。だいたいは相手を非難することばなので、使うときは注意してくださいというよりも、使わない方がいいかもしれませんね。冗談ならいいですが。",
+    "notes-en": "'Tte itta no ni' is a colloquial expression used to point out when previously conveyed information was not followed or when things did not go as expected. To explain the structure of this phrase in more detail, 'tte' is a particle indicating quotation, and 'itta no ni' means 'I told you so'. Therefore, 'tte itta no ni' has the same meaning as 'I told you so...' or 'I did mention that earlier.' It is generally used to criticize the other person, so be cautious when using it; in fact, it might be better not to use it at all, unless it's in a joking context."
+  },
+  {
     "date": "2025.12.05",
     "day": "Fri",
     "number": 604,
