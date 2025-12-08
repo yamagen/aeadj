@@ -1,5 +1,81 @@
 [
   {
+    "date": "2025.12.08",
+    "day": "Mon",
+    "number": 607,
+    "index": "hayaihanashi",
+    "title": "to make a long story short",
+    "expression-ja": "(早:はや)い(話:はなし)",
+    "roman-ja": "hayai hanashi",
+    "expression-en": "to make a long story short",
+    "variants-ja": [
+      "(手短:てみじか)に(言:い)うと",
+      "(要:よう)するに",
+      "(簡単:かんたん)に(言:い)うと"
+    ],
+    "variants-en": ["to put it briefly", "in short", "to say it simply"],
+    "intent-ja": ["要約の表現", "簡潔な説明", "話のまとめ"],
+    "intent-en": [
+      "expression of summary",
+      "concise explanation",
+      "conclusion of story"
+    ],
+    "tags-ja": ["即時文法", "口語", "要約表現", "簡潔説明"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of summary",
+      "concise explanation"
+    ],
+    "adjusted-expression-ja": "(手短:てみじか)に(言:い)いますと",
+    "adjusted-expression-en": "to put it briefly",
+    "img-sub": "hayaihanashi01.png",
+    "example-ja": "A「(昨日:きのう)の(会議:かいぎ)、(長:なが)かったね」 B「うん、(早:はや)い(話:はなし)、(誰:だれ)かが(社長:しゃちょう)のお(弁当:べんとう)を(買:か)ってくるということ？」",
+    "example-en": "A: Yesterday's meeting was long, wasn't it? B: Yeah, to make a long story short, someone ended up being the one to run the errand for the president's bento, right?",
+    "notes-ja": "「早い話」は、長い説明や複雑な経緯を省いて結論だけを述べる際に使う口語的な表現。単に要点をまとめるだけでなく、長い過程に比べて結末がくだらない場合などに、軽い皮肉やユーモアを含むこともある。「早い」は「quick」や「fast」、「話」は「story」や「talk」の意味で、英語では「to make a long story short」や「to put it briefly」がよく対応する。",
+    "notes-en": "'Hayai hanashi' is a colloquial expression used when the speaker wants to skip long explanations and present only the conclusion. It not only summarizes the main point but may also carry a light sense of irony or humor, especially when the final outcome is trivial compared to the long process leading up to it. Literally, 'hayai' means 'quick' or 'fast', and 'hanashi' means 'story' or 'talk'. Natural English equivalents include 'to make a long story short' and 'to put it briefly'."
+  },
+  {
+    "date": "2025.12.07",
+    "day": "Sun",
+    "number": 606,
+    "index": "socchiniicchatta",
+    "title": "I ended up ... / I accidentally ...",
+    "expression-ja": "そっちに(行:い)っちゃった",
+    "roman-ja": "socchi ni icchatta",
+    "expression-en": "I ended up going that way",
+    "variants-ja": [
+      "そっちに(行:い)っちゃったんだよね",
+      "そっちに(行:い)っちゃったよ",
+      "そっちに(行:い)っちゃったんだ"
+    ],
+    "variants-en": [
+      "I accidentally went that way",
+      "I ended up going in that direction",
+      "I went that way"
+    ],
+    "intent-ja": ["結果の表現", "予期せぬ行動の説明", "状況の報告"],
+    "intent-en": [
+      "expression of result",
+      "explanation of unexpected action",
+      "reporting of situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "結果表現", "行動説明"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of result",
+      "explanation of action"
+    ],
+    "adjusted-expression-ja": "(話題:わだい)が(逸:そ)れています",
+    "adjusted-expression-en": "The topic has strayed",
+    "img-sub": "socchiniicchatta01.png",
+    "example-ja": "A「(猫:ねこ)が(好:す)きなんですねぇ」 B「(何:なん)の(話:はなし)だったっけ？また、(そっち:そっち)に(行:い)っちゃった」",
+    "example-en": "A: You like cats, don't you? B: What were we talking about? Again, I ended up going in that direction.",
+    "notes-ja": "「そっちに行っちゃった」は、話題や注意が別の方向に逸れたことを表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「そっちに」は「that way」や「in that direction」の意味で、「行っちゃった」は「ended up going」や「accidentally went」の意味です。つまり、「そっちに行っちゃった」は文脈によって 'I ended up ...' とも 'I accidentally ...' とも対応し、英語では結果としてそちらの方向へ行ってしまったことを表します。",
+    "notes-en": "'Socchi ni icchatta' is a colloquial expression used to indicate that the topic or attention has strayed in another direction. To explain the structure of this phrase in more detail, 'socchi ni' means 'that way' or 'in that direction', and 'icchatta' means 'ended up going' or 'accidentally went'. Therefore, depending on the context, 'socchi ni icchatta' can correspond to both 'I ended up ...' and 'I accidentally ...', expressing that one has gone in that direction as a result."
+  },
+  {
     "date": "2025.12.06",
     "day": "Sat",
     "number": 605,
