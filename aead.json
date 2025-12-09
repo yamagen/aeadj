@@ -1,5 +1,37 @@
 [
   {
+    "date": "2025.12.09",
+    "day": "Tue",
+    "number": 608,
+    "index": "awanai",
+    "title": "doesn't fit / doesn't suit",
+    "expression-ja": "(合:あ)わない",
+    "roman-ja": "awanai",
+    "expression-en": "doesn't fit / doesn't suit",
+    "variants-ja": ["似合わない", "適切でない", "調子が合わない"],
+    "variants-en": ["doesn't match", "is not appropriate", "is out of sync"],
+    "intent-ja": ["不適合の表現", "不一致の表現", "否定的な評価"],
+    "intent-en": [
+      "expression of incompatibility",
+      "expression of mismatch",
+      "negative evaluation"
+    ],
+    "tags-ja": ["即時文法", "口語", "不適合表現", "否定的評価"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of incompatibility",
+      "negative evaluation"
+    ],
+    "adjusted-expression-ja": "(合:あ)いません",
+    "adjusted-expression-en": "does not fit",
+    "img-sub": "awanai01.png",
+    "example-ja": "A「この(服:ふく)、(合:あ)わないよね」 B「うん、(色:いろ)も(柄:がら)も(好:す)きじゃないし」",
+    "example-en": "A: These clothes don't fit, do they? B: Yeah, I don't like the color or the pattern either.",
+    "notes-ja": "「合わない」は、物事や状況が適切でない、または一致しないことを表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「合わない」は「doesn't fit」や「doesn't suit」の意味で、話し手が述べた内容に対して不適合や不一致を示します。ものがその場に適していない場合や、期待に沿わない場合、そして、対人関係においても使われ、「あの人とは合わない」というように使われることもあります。",
+    "notes-en": "'Awanai' is a colloquial expression used to indicate that something is not appropriate or does not match. To explain the structure of this phrase in more detail, 'awanai' means 'doesn't fit' or 'doesn't suit', indicating incompatibility or mismatch in relation to what the speaker has stated. It can be used when something is not suitable for a particular situation, does not meet expectations, and can also be applied in interpersonal relationships, as in 'I don't get along with that person.'"
+  },
+  {
     "date": "2025.12.08",
     "day": "Mon",
     "number": 607,
