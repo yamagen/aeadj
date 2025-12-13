@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.12.13",
+    "day": "Sat",
+    "number": 612,
+    "index": "janakute",
+    "title": "not that..but...",
+    "expression-ja": "〜じゃなくて、",
+    "roman-ja": "〜janakute,",
+    "expression-en": "not that... but...",
+    "variants-ja": ["〜ではなくて、", "〜じゃないけど、", "〜ではないけれども、"],
+    "variants-en": ["not that..., but...", "it's not that..., but...", "it's not that..., however..."],
+    "intent-ja": ["否定の表現", "対比の強調", "説明の導入"],
+    "intent-en": ["expression of negation", "emphasis on contrast", "introduction of explanation"],
+    "tags-ja": ["即時文法", "口語", "否定表現", "対比強調"],
+    "tags-en": ["immediate grammar", "spoken", "expression of negation", "emphasis on contrast"],
+    "adjusted-expression-ja": "〜ではなく、",
+    "adjusted-expression-en": "not that..., but...",
+    "img-sub": "janakute01.png",
+    "example-ja": "A「いいとか、(悪:わる)いとかじゃなくて..」 B「でも、(結局:けっきょく)、したくないんでしょ」",
+    "example-en": "A: It's not that it's good or bad... B: But in the end, you don't want to do it, do you?",
+    "notes-ja": "「〜じゃなくて、」は、ある事柄や状況を否定しつつ、別の事柄や状況を強調する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「じゃなくて」は「not that... but...」の意味で、話し手が述べた内容に対して否定的な立場を示します。",
+    "notes-en": "'~Janakute,' is a colloquial expression used to negate a certain matter or situation while emphasizing another matter or situation. To explain the structure of this phrase in more detail, 'janakute' means 'not that... but...', indicating a negative stance in relation to what the speaker has stated."
+  },
+  {
     "date": "2025.12.12",
     "day": "Fri",
     "number": 611,
