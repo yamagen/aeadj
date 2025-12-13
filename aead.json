@@ -1,5 +1,28 @@
 [
   {
+    "date": "2025.12.14",
+    "day": "Sun",
+    "number": 613,
+    "index": "tokorode,ta",
+    "title": "even if...",
+    "expression-ja": "〜たところで",
+    "roman-ja": "〜ta tokoro de",
+    "expression-en": "even if...",
+    "variants-ja": ["〜ても", "〜たって", "〜たとしても"],
+    "variants-en": ["even if ~", "even though ~", "even assuming ~"],
+    "intent-ja": ["譲歩の表現", "条件の提示", "否定的な結論"],
+    "intent-en": ["expression of concession", "presentation of condition", "negative conclusion"],
+    "tags-ja": ["即時文法", "口語", "譲歩表現", "条件提示"],
+    "tags-en": ["immediate grammar", "spoken", "expression of concession", "presentation of condition"],
+    "adjusted-expression-ja": "〜ても",
+    "adjusted-expression-en": "even if ~",
+    "img-sub": "tokorode_ta01.png",
+    "example-ja": "A「(言:い)ったところで、(意味:いみ)がない」 B「そうかもしれないけど、(伝:つた)えないと..」",
+    "example-en": "A: Even if I say it, it has no meaning. B: That may be true, but if you don't convey it...",
+    "notes-ja": "「〜たところで」は、ある行動や状況が起こったとしても、その結果が期待されるものではない、または意味がないことを表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「たところで」は「even if ~」や「even though ~」の意味で、話し手が述べた内容に対して譲歩的な立場を示します。",
+    "notes-en": "'~Ta tokoro de' is a colloquial expression used to indicate that even if a certain action or situation occurs, the result is not what is expected or is meaningless. To explain the structure of this phrase in more detail, 'ta tokoro de' means 'even if ~' or 'even though ~', indicating a concessive stance in relation to what the speaker has stated."
+  },
+  {
     "date": "2025.12.13",
     "day": "Sat",
     "number": 612,
