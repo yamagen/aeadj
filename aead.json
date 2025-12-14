@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025.12.15",
+    "day": "Mon",
+    "number": 614,
+    "index": "sugoigenkijanaidesuka",
+    "title": "isn't .. really energetic?",
+    "expression-ja": "(今:いま)、..がすごい(元気:げんき)じゃないですか",
+    "roman-ja": "ima, .. ga sugoi genki janai desu ka",
+    "expression-en": "isn't .. really energetic?",
+    "variants-ja": [
+      "(最近:さいきん)、..がすごく(元気:げんき)ですよね",
+      "(最近:さいきん)、..がとても(元気:げんき)じゃないですか",
+      "(今:いま)、..がかなり(元気:げんき)じゃないですか"
+    ],
+    "variants-en": ["lately, .. is really energetic, isn't it?", "lately, .. is very energetic, isn't it?", "now, .. is quite energetic, isn't it?"],
+    "intent-ja": ["確認の表現", "感嘆の表現", "状況の報告"],
+    "intent-en": ["expression of confirmation", "expression of admiration", "reporting of situation"],
+    "tags-ja": ["即時文法", "口語", "確認表現", "感嘆表現", "一気に言うフレーズ"],
+    "tags-en": ["immediate grammar", "spoken", "expression of confirmation", "expression of admiration", "phrases said in one breath"],
+    "adjusted-expression-ja": "(最近:さいきん)、..がとても(活発:かっぱつ)です",
+    "adjusted-expression-en": "lately, .. is very active",
+    "img-sub": "sugoigenkijanaidesuka01.png",
+    "example-ja": "A「(今:いま)、DTMが、(すごい)(元気:げんき)じゃないですか」 B「うん、(素人:しろうと)でも(簡単:かんたん)に(作:つく)れるからね」",
+    "example-en": "A: Isn't DTM really energetic now? B: Yeah, because even amateurs can easily create music with it.",
+    "notes-ja": "「今、..がすごい元気じゃないですか」は、ある人や物事が非常に活発でエネルギッシュであることを確認し、感嘆する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「今」は「now」や「lately」の意味で、「すごい元気じゃないですか」は「isn't really energetic?」や「is very active, isn't it?」の意味です。DTM（デスクトップミュージック）やプログラム言語など、技術的な分野での進歩や普及に関連して使われることが多い。",
+    "notes-en": "'Ima, .. ga sugoi genki janai desu ka' is a colloquial expression used to confirm and express admiration for a person or thing that is very active and energetic. To explain the structure of this phrase in more detail, 'ima' means 'now' or 'lately', and 'sugoi genki janai desu ka' means 'isn't really energetic?' or 'is very active, isn't it?'. It is often used in relation to advancements or popularization in technical fields such as DTM (desktop music) or programming languages."
+  },
+  {
     "date": "2025.12.14",
     "day": "Sun",
     "number": 613,
