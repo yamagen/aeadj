@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.12.18",
+    "day": "Thu",
+    "number": 617,
+    "index": "sorehasorekorehakore",
+    "title": "That's apples and oranges.",
+    "expression-ja": "それはそれ、これはこれ",
+    "roman-ja": "sore wa sore, kore wa kore.",
+    "expression-en": "That's that, and this is this.",
+    "variants-ja": [
+      "それぞれ別々のものだ。",
+      "それとこれは別物だ。",
+      "それはそれ、これは別だ。"
+    ],
+    "variants-en": [
+      "That's apples and oranges.",
+      "That's a different matter.",
+      "That and this are not the same thing."
+    ],
+    "intent-ja": ["区別の表現", "独立性の強調", "対比の提示"],
+    "intent-en": [
+      "expression of distinction",
+      "emphasis on independence",
+      "presentation of contrast"
+    ],
+    "tags-ja": ["即時文法", "口語", "区別表現", "対比提示"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of distinction",
+      "presentation of contrast"
+    ],
+    "adjusted-expression-ja": "それらは(別:べつ)の(事柄:ことがら)として(扱:あつか)うべきです。",
+    "adjusted-expression-en": "They should be treated as separate matters.",
+    "img-sub": "sorehasorekorehakore01.png",
+    "example-ja": "A「さっきも(僕:ぼく)が(払:はら)ったんだから、いっしょに(払:はら)うよ」 B「ちがう、それはそれ、これはこれ」",
+    "example-en": "A: I already paid earlier, so I'll pay together. B: No, that's apples and oranges.",
+    "notes-ja": "「それはそれ、これはこれ。」は、二つの事柄や状況が異なるものであり、互いに影響を与えないことを強調する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「それはそれ」は「that is that」の意味で、「これはこれ」は「this is this」の意味です。英語では 'That's apples and oranges.' や 'That's a different matter.' がよく対応します。",
+    "notes-en": "'Sore wa sore, kore wa kore.' is a colloquial expression used to emphasize that two matters or situations are different and do not affect each other. To explain the structure of this phrase in more detail, 'sore wa sore' means 'that is that', and 'kore wa kore' means 'this is this'. In English, it often corresponds to 'That's apples and oranges.' or 'That's a different matter.'"
+  },
+  {
     "date": "2025.12.17",
     "day": "Wed",
     "number": 616,
