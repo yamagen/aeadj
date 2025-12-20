@@ -1,5 +1,85 @@
 [
   {
+    "date": "2025.12.20",
+    "day": "Sat",
+    "number": 619,
+    "index": "sonnakotonaiyo",
+    "title": "That's not true.",
+    "expression-ja": "そんなことないよ。",
+    "roman-ja": "sonna koto nai yo.",
+    "expression-en": "That's not true.",
+    "variants-ja": [
+      "そうじゃないよ。",
+      "そんなことはないよ。",
+      "そういうわけではないよ。"
+    ],
+    "variants-en": [
+      "That's not the case.",
+      "That's not so.",
+      "That's not the reason."
+    ],
+    "intent-ja": ["否定の表現", "反論の提示", "意見の違い"],
+    "intent-en": [
+      "expression of negation",
+      "presentation of counterargument",
+      "difference of opinion"
+    ],
+    "tags-ja": ["即時文法", "口語", "否定表現", "反論提示"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of negation",
+      "presentation of counterargument"
+    ],
+    "adjusted-expression-ja": "そうではありません。",
+    "adjusted-expression-en": "That's not the case.",
+    "img-sub": "sonnakotonaiyo01.png",
+    "example-ja": "A「(彼:かれ)は(本当:ほんとう)に(忙:いそが)しいんだよ」 B「そんなことないよ、(昨日:きのう)も(遊:あそ)んでたじゃない」",
+    "example-en": "A: He is really busy. B: That's not true, he was hanging out yesterday too.",
+    "notes-ja": "「そんなことないよ。」は、ある意見や主張に対して否定的な立場を示す際に使う口語的な表現。主観的な意見や一般的な認識に対して反論を提示する場合に用いられます。",
+    "notes-en": "'Sonna koto nai yo.' is a colloquial expression used to indicate a negative stance towards a certain opinion or assertion. It is employed when presenting a counterargument against subjective opinions or general perceptions."
+  },
+  {
+    "date": "2025.12.19",
+    "day": "Fri",
+    "number": 618,
+    "index": "sonnakotoittatte",
+    "title": "Even if you say that.",
+    "expression-ja": "そんなこと(言:い)ったって。",
+    "roman-ja": "sonna koto itta tte.",
+    "expression-en": "Even if you say that.",
+    "variants-ja": [
+      "そう言われても。",
+      "そんなことを言われても。",
+      "そう言ったところで。"
+    ],
+    "variants-en": [
+      "Even if you say so.",
+      "Even if you are told that.",
+      "Even if you say that."
+    ],
+    "intent-ja": ["譲歩の表現", "反論の提示", "意見の違い"],
+    "intent-en": [
+      "expression of concession",
+      "presentation of counterargument",
+      "difference of opinion"
+    ],
+    "tags-ja": ["即時文法", "口語", "譲歩表現", "反論提示"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of concession",
+      "presentation of counterargument"
+    ],
+    "adjusted-expression-ja": "そう言われましても、",
+    "adjusted-expression-en": "Even if you say so,",
+    "img-sub": "sonnakotoittatte01.png",
+    "example-ja": "A「(彼:かれ)は(本当:ほんとう)に(忙:いそが)しいんだよ」 B「そんなこと(言:い)ったって、(約束:やくそく)は(守:まも)ってほしい」",
+    "example-en": "A: He is really busy. B: Even if you say that, I want him to keep his promise.",
+    "notes-ja": "「そんなこと言ったって。」は、ある意見や主張に対して譲歩的な立場を示す際に使う口語的な表現。主観的な意見や一般的な認識に対して反論を提示する場合に用いられます。",
+    "notes-en": "'Sonna koto itta tte.' is a colloquial expression used to indicate a concessive stance towards a certain opinion or assertion. It is employed when presenting a counterargument against subjective opinions or general perceptions."
+  },
+  {
     "date": "2025.12.18",
     "day": "Thu",
     "number": 617,
