@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.12.21",
+    "day": "Sun",
+    "number": 620,
+    "index": "tsukaerebaiiugokebaiitteiunjanakute",
+    "title": "It's not just about being usable or working,",
+    "expression-ja": "(使:つか)えれば(良:い)い、(動:うご)けば(良:い)いっていうんじゃなくて、",
+    "roman-ja": "tsukaereba ii, ugokeba ii tte iu n janakute,",
+    "expression-en": "It's not just about being usable or working,",
+    "variants-ja": [
+      "(使:つか)えるだけでなく、(動:うご)くだけでなく、",
+      "(使:つか)えれば(良:よ)いとか、(動:うご)けば(良:よ)いとかじゃなくて、",
+      "(使:つか)えることや(動:うご)くことだけが重要ではなくて、"
+    ],
+    "variants-en": [
+      "It's not just about being usable or working,",
+      "It's not just about being able to use it or having it work,",
+      "It's not only important that it can be used or that it works,"
+    ],
+    "intent-ja": ["価値観の表現", "品質の重視", "機能性の超越"],
+    "intent-en": [
+      "expression of values",
+      "emphasis on quality",
+      "transcendence of functionality"
+    ],
+    "tags-ja": ["即時文法", "口語", "価値観表現", "品質重視"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of values",
+      "emphasis on quality"
+    ],
+    "adjusted-expression-ja": "(使:つか)えることや(動:うご)くことだけが(重要:じゅうよう)ではありません、",
+    "adjusted-expression-en": "It's not only important that it can be used or that it works,",
+    "img-sub": "tsukaerebaiiugokebaiitteiunjanakute01.png",
+    "example-ja": "A「この(ソフト:そふと)、(使:つか)えれば(良:い)い、(動:うご)けば(良:い)っていうんじゃなくて、(使:つか)いやすさも(重視:じゅうし)してほしい」 B「そうだね、(見:み)た目も(大事:だいじ)だよね」",
+    "example-en": "A: It's not just about being usable or working, I also want ease of use to be emphasized. B: That's right, appearance is also important.",
+    "notes-ja": "「使えればいい、動けばいいっていうんじゃなくて、」は、物事の価値や重要性が単に機能的な側面にとどまらないことを強調する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「使えればいい」は「it's okay if it can be used」の意味で、「動けばいい」は「it's okay if it works」の意味です。話し手は、機能性だけでなく、品質や使いやすさなど他の要素も重視していることを示しています。",
+    "notes-en": "'Tsukaereba ii, ugokeba ii tte iu n janakute,' is a colloquial expression used to emphasize that the value or importance of something goes beyond just its functional aspects. To explain the structure of this phrase in more detail, 'tsukaereba ii' means 'it's okay if it can be used', and 'ugokeba ii' means 'it's okay if it works'. The speaker indicates that they value not only functionality but also other elements such as quality and ease of use."
+  },
+  {
     "date": "2025.12.20",
     "day": "Sat",
     "number": 619,
