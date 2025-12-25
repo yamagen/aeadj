@@ -1,5 +1,73 @@
 [
   {
+    "date": "2025.12.25",
+    "day": "Thu",
+    "number": 624,
+    "index": "yononakakiniha",
+    "title": "In society's view,",
+    "expression-ja": "(世:よ)の(中:なか)(的:てき)には、",
+    "roman-ja": "yo no naka teki ni wa,",
+    "expression-en": "In society's view,",
+    "variants-ja": ["社会的には、", "世間的には、", "一般的には、"],
+    "variants-en": [
+      "In society's view,",
+      "From a societal perspective,",
+      "Generally speaking,"
+    ],
+    "intent-ja": ["社会的視点の提示", "一般的認識の表明", "価値観の共有"],
+    "intent-en": [
+      "presentation of societal viewpoint",
+      "expression of general perception",
+      "sharing of values"
+    ],
+    "tags-ja": ["即時文法", "口語", "社会的視点", "一般認識"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "societal viewpoint",
+      "general perception"
+    ],
+    "adjusted-expression-ja": "(社会:しゃかい)の(見解:けんかい)では、",
+    "adjusted-expression-en": "In society's view,",
+    "img-sub": "yononakakiniha01.png",
+    "example-ja": "A「この(仕事:しごと)、(大変:たいへん)だよね」 B「うん、(世:よ)の(中:なか)(的:てき)には、(当:あ)たり前なんだろうけど」",
+    "example-en": "A: This job is tough, isn't it? B: Yeah, from society's view, it's probably considered normal.",
+    "notes-ja": "「世の中的には、」は、社会全体の一般的な認識や価値観を述べる際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「世の中」は「society」や「the world」の意味で、「的には」は「from the perspective of」や「in terms of」の意味です。話し手は、社会的な視点から物事を捉えていることを示しています。",
+    "notes-en": "'Yo no naka teki ni wa,' is a colloquial expression used when stating the general perception or values of society as a whole. To explain the structure of this phrase in more detail, 'yo no naka' means 'society' or 'the world', and 'teki ni wa' means 'from the perspective of' or 'in terms of'. The speaker indicates that they are viewing matters from a societal perspective."
+  },
+  {
+    "date": "2025.12.24",
+    "day": "Wed",
+    "number": 623,
+    "index": "bokutekiniha",
+    "title": "In my opinion,",
+    "expression-ja": "ぼく的には、",
+    "roman-ja": "boku teki ni wa,",
+    "expression-en": "In my opinion,",
+    "variants-ja": ["わたし的には、", "おれ的には、", "あたし的には、"],
+    "variants-en": ["In my opinion,", "From my perspective,", "As for me,"],
+    "intent-ja": ["個人の意見表明", "主観的視点の提示", "自己表現"],
+    "intent-en": [
+      "expression of personal opinion",
+      "presentation of subjective viewpoint",
+      "self-expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "意見表明", "主観視点"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of opinion",
+      "subjective viewpoint"
+    ],
+    "adjusted-expression-ja": "(私:わたし)の(意見:いけん)では、",
+    "adjusted-expression-en": "In my opinion,",
+    "img-sub": "bokutekiniha01.png",
+    "example-ja": "A「この(映画:えいが)、(面白:おもしろ)かった？」 B「ぼく(的:てき)には、あまり(良:よ)くなかったかな」",
+    "example-en": "A: Was this movie interesting? B: In my opinion, it wasn't very good.",
+    "notes-ja": "「ぼく的には、」は、話し手が自分の主観的な意見や視点を述べる際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「ぼく」は男性が自分を指す一人称で、「的には」は「from the perspective of」や「in terms of」の意味です。話し手は、自分の意見が他の人と異なる可能性があることを示しています。",
+    "notes-en": "'Boku teki ni wa,' is a colloquial expression used when the speaker is stating their own subjective opinion or viewpoint. To explain the structure of this phrase in more detail, 'boku' is a first-person pronoun used by males, and 'teki ni wa' means 'from the perspective of' or 'in terms of'. The speaker indicates that their opinion may differ from that of others."
+  },
+  {
     "date": "2025.12.23",
     "day": "Tue",
     "number": 622,
