@@ -1,5 +1,85 @@
 [
   {
+    "date": "2025.12.27",
+    "day": "Sat",
+    "number": 626,
+    "index": "iinogettoshitane",
+    "title": "You got a good one, didn't you?",
+    "expression-ja": "いいの(ゲット:げっと)したね。",
+    "roman-ja": "ii no getto shita ne.",
+    "expression-en": "You got a good one, didn't you?",
+    "variants-ja": [
+      "いいもの(手:て)に入:い)れたね。",
+      "いい(品:しな)を(買:か)ったね。",
+      "いい(物:もの)を(手:て)に(入:い)れたね。"
+    ],
+    "variants-en": [
+      "You got a good one, didn't you?",
+      "You got a good item, didn't you?",
+      "You bought a good product, didn't you?"
+    ],
+    "intent-ja": ["称賛の表現", "肯定的評価", "所有物の認識"],
+    "intent-en": [
+      "expression of praise",
+      "positive evaluation",
+      "recognition of possession"
+    ],
+    "tags-ja": ["即時文法", "口語", "称賛表現", "肯定評価"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of praise",
+      "positive evaluation"
+    ],
+    "adjusted-expression-ja": "いいものを(手:て)に(入:い)れましたね。",
+    "adjusted-expression-en": "You obtained a good item, didn't you?",
+    "img-sub": "iinogettoshitane01.png",
+    "example-ja": "A「これ、(新:あたら)しい(キーボード:きーぼーど)だよ」 B「いいの(ゲット:げっと)したね。」",
+    "example-en": "A: This is a new keyboard. B: You got a good one, didn't you?",
+    "notes-ja": "「いいのゲットしたね。」は、話し手が相手の所有物や取得物に対して称賛や肯定的な評価を表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「いいの」は「a good one」の意味で、「ゲットした」は「got」や「obtained」の意味です。話し手は、相手が良いものを手に入れたことを認識し、それを称賛しています。",
+    "notes-en": "'Ii no getto shita ne.' is a colloquial expression used when the speaker wants to express praise or positive evaluation of the listener's possession or acquisition. To explain the structure of this phrase in more detail, 'ii no' means 'a good one', and 'getto shita' means 'got' or 'obtained'. The speaker recognizes that the listener has obtained something good and praises them for it."
+  },
+  {
+    "date": "2025.12.26",
+    "day": "Fri",
+    "number": 625,
+    "index": "esorebokunosukinayatsujanaidesuka",
+    "title": "Huh, isn't that my favorite one?",
+    "expression-ja": "え、それ、(僕:ぼく)の(好:す)きなやつじゃないですか。",
+    "roman-ja": "e, sore, boku no suki na yatsu janai desu ka.",
+    "expression-en": "Huh, isn't that my favorite one?",
+    "variants-ja": [
+      "あれ、それ、(私:わたし)の(好:す)きなやつじゃないですか。",
+      "おお、それ、(俺:おれ)の(好:す)きなやつじゃないですか。",
+      "うわ、それ、(あたし)の(好:す)きなやつじゃないですか。"
+    ],
+    "variants-en": [
+      "Huh, isn't that my favorite one?",
+      "Oh, isn't that my favorite one?",
+      "Wow, isn't that my favorite one?"
+    ],
+    "intent-ja": ["驚きの表現", "喜びの表現", "所有物の認識"],
+    "intent-en": [
+      "expression of surprise",
+      "expression of joy",
+      "recognition of possession"
+    ],
+    "tags-ja": ["即時文法", "口語", "驚き表現", "喜び表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of surprise",
+      "expression of joy"
+    ],
+    "adjusted-expression-ja": "あれは、(私:わたし)の(好:す)きなものではありませんか。",
+    "adjusted-expression-en": "Isn't that my favorite one?",
+    "img-sub": "esorebokunosukinayatsujanaidesuka01.png",
+    "example-ja": "A「これ、(新:あたら)しい(ゲーム:げーむ)だよ」 B「え、それ、(僕:ぼく)の(好:す)きなやつじゃないですか」",
+    "example-en": "A: This is a new game. B: Huh, isn't that my favorite one?",
+    "notes-ja": "「え、それ、僕の好きなやつじゃないですか。」は、話し手が驚きや喜びを表現し、自分の所有物や好みを認識する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「え」は驚きを表す感嘆詞で、「それ」は指示代名詞、「僕の好きなやつ」は「my favorite one」の意味です。少々、長い表現ですが、自分の心境を自然に表わしています。",
+    "notes-en": "'E, sore, boku no suki na yatsu janai desu ka.' is a colloquial expression used when the speaker wants to express surprise or joy and recognize their possession or preference. To explain the structure of this phrase in more detail, 'e' is an interjection expressing surprise, 'sore' is a demonstrative pronoun, and 'boku no suki na yatsu' means 'my favorite one'. Although it is a somewhat long expression, it naturally conveys the speaker's feelings."
+  },
+  {
     "date": "2025.12.25",
     "day": "Thu",
     "number": 624,
