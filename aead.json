@@ -1,5 +1,46 @@
 [
   {
+    "date": "2025.12.28",
+    "day": "Sun",
+    "number": 627,
+    "index": "te..hai",
+    "title": "and,.. yah,...",
+    "expression-ja": "...て、はい、...",
+    "roman-ja": "...te, hai,...",
+    "expression-en": "...and, yah,...",
+    "variants-ja": [
+      "...して、はい、...",
+      "...やって、はい、...",
+      "...行って、はい、..."
+    ],
+    "variants-en": [
+      "...and, yah,...",
+      "...doing it, yah,...",
+      "...going, yah,..."
+    ],
+    "intent-ja": ["話の継続", "同意の表現", "会話の流れ維持"],
+    "intent-en": [
+      "continuation of conversation",
+      "expression of agreement",
+      "maintenance of conversational flow"
+    ],
+    "tags-ja": ["即時文法", "口語", "会話継続", "言いさし表現", "中途半端表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "conversation continuation",
+      "trailing-off expression",
+      "incomplete expression"
+    ],
+    "adjusted-expression-ja": "...して、そうですね、...",
+    "adjusted-expression-en": "...and, well,...",
+    "img-sub": "te_hai01.png",
+    "example-ja": "A「(昨日:きのう)、(パーティ:ぱーてぃ)、どうだった」 B「まあ、(食:た)べて(飲:の)んで、はい、」 A「いつもと(同:おな)じかぁ」",
+    "example-en": "A: How was the party yesterday? B: Well, we ate and drank, and, yah,... A: Same as always, huh?",
+    "notes-ja": "「...て、はい、...」は、話し手が会話を続ける際に使う言いさしの表現であり、相手に同意や理解を促すための口語的な表現。もう少し詳しくこのことばの構成を説明すると、「て」は動詞をつなぐのに使い、やったことの例を示しましょう。形容詞で感想を述べるときには「たのしくて」のように「くて」の形を使いましょう。「はい」は相手の反応を促すための間投詞です。話し手は、会話の流れを維持しつつ、相手に共感や同意を求めています。",
+    "notes-en": "'...te, hai,...' is a trailing-off expression used by the speaker to continue the conversation and to prompt agreement or understanding from the listener in a colloquial manner. To explain the structure of this phrase in more detail, 'te' is used to connect verbs and to provide examples of actions taken. When expressing feelings with adjectives, use the 'kute' form, such as 'tanoshikute'. 'Hai' is an interjection used to elicit a response from the listener. The speaker maintains the flow of conversation while seeking empathy or agreement from the listener."
+  },
+  {
     "date": "2025.12.27",
     "day": "Sat",
     "number": 626,
