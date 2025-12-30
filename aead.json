@@ -1,11 +1,48 @@
 [
   {
+    "date": "2025.12.30",
+    "day": "Tue",
+    "number": 629,
+    "index": "dochirademo",
+    "title": "Either way",
+    "expression-ja": "どちらでも、",
+    "roman-ja": "dochira demo,",
+    "expression-en": "Either way,",
+    "variants-ja": ["どちらにしても、", "どっちでも、", "いずれでも、"],
+    "variants-en": [
+      "Either way,",
+      "Any one is fine,",
+      "Whichever you prefer, ..."
+    ],
+    "intent-ja": ["選択の自由の提示", "中立的立場の表明", "柔軟な対応の示唆"],
+    "intent-en": [
+      "presentation of freedom of choice",
+      "expression of neutral stance",
+      "suggestion of flexible response"
+    ],
+    "tags-ja": ["即時文法", "口語", "選択表現", "中立表現", "柔軟表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of choice",
+      "expression of neutrality",
+      "expression of flexibility"
+    ],
+    "adjusted-expression-ja": "どちらでも(結構:けっこう)です",
+    "adjusted-expression-en": "Either one is fine.",
+    "img-sub": "dochirademo01.png",
+    "example-ja": "A「お(昼:ひる)は(和食:わしょく)？(洋食:ようしょく)？」 B「どちらでも、」",
+    "example-en": "A: For lunch, Japanese food or Western food? B: Either way, ...",
+    "notes-ja": "「どちらでも、」は、話し手が選択肢に対して中立的な立場を示し、相手に選択の自由を与える際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「どちらでも」は「either way」や「whichever」の意味で、選択肢に対して特定の偏りがないことを示しています。話し手は、柔軟な対応を示唆し、相手に選択を委ねています。",
+    "notes-en": "'Dochira demo,' is a colloquial expression used when the speaker wants to indicate a neutral stance towards options and give the listener freedom of choice. To explain the structure of this phrase in more detail, 'dochira demo' means 'either way' or 'whichever', indicating that there is no specific bias towards any option. The speaker suggests a flexible response and entrusts the choice to the listener."
+  },
+  {
     "date": "2025.12.29",
     "day": "Mon",
     "number": 628,
     "index": "nankaikimo",
     "title": "Somehow, it might be good.",
-    "expression-ja": "なんか、(良:い)いかも。",
+    "expression-ja": "なんか、(良:い)いかも、",
     "roman-ja": "nanka, ii kamo.",
     "expression-en": "Somehow, it might be good.",
     "variants-ja": [
