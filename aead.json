@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025.12.31",
+    "day": "Wed",
+    "number": 630,
+    "index": "soreshikanai",
+    "title": "There's no other choice.",
+    "expression-ja": "それしかない。",
+    "roman-ja": "sore shika nai.",
+    "expression-en": "There's no other choice.",
+    "variants-ja": [
+      "他に選択肢がない。",
+      "これ以外に方法がない。",
+      "これ以外の選択肢はない。"
+    ],
+    "variants-en": [
+      "There's no other choice.",
+      "There are no other options.",
+      "There's no alternative."
+    ],
+    "intent-ja": ["選択肢の欠如の表現", "決定の強調", "状況の受容"],
+    "intent-en": [
+      "expression of lack of options",
+      "emphasis on decision",
+      "acceptance of situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "選択肢欠如表現", "決定強調"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of lack of options",
+      "emphasis on decision"
+    ],
+    "adjusted-expression-ja": "他に(選択肢:せんたくし)がありません。",
+    "adjusted-expression-en": "There are no other options.",
+    "img-sub": "soreshikanai01.png",
+    "example-ja": "A「この(問題:もんだい)、どうする？やめる？」 B「うーん、(それ:それ)しかない」",
+    "example-en": "A: What should we do about this problem? Quit? B: Hmm, there's no other choice.",
+    "notes-ja": "「それしかない。」は、話し手が選択肢が限られていることを強調し、状況を受け入れる際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「それ」は特定の選択肢や解決策を指し、「しかない」は「only」や「no other option」の意味です。話し手は、他に選択肢がないことを認識し、その状況を受け入れています。",
+    "notes-en": "'Sore shika nai.' is a colloquial expression used when the speaker wants to emphasize that options are limited and to accept the situation. To explain the structure of this phrase in more detail, 'sore' refers to a specific option or solution, and 'shika nai' means 'only' or 'no other option'. The speaker recognizes that there are no other choices and accepts the situation."
+  },
+  {
     "date": "2025.12.30",
     "day": "Tue",
     "number": 629,
