@@ -31,7 +31,7 @@
       "expression of lack of options",
       "emphasis on decision"
     ],
-    "adjusted-expression-ja": "他に(選択肢:せんたくし)がありません。",
+    "adjusted-expression-ja": "(他:ほか)に(選択肢:せんたくし)がありません。",
     "adjusted-expression-en": "There are no other options.",
     "img-sub": "soreshikanai01.png",
     "example-ja": "A「この(問題:もんだい)、どうする？やめる？」 B「うーん、(それ:それ)しかない」",
