@@ -1,5 +1,82 @@
 [
   {
+    "date": "2026.01.05",
+    "day": "Mon",
+    "number": 635,
+    "index": "yayanayanderu",
+    "title": "Still mulling it over",
+    "expression-ja": "やや、(悩:なや)んでる、",
+    "roman-ja": "yaya, nayanderu,",
+    "expression-en": "Still mulling it over,",
+    "variants-ja": [
+      "ちょっと、(悩:なや)んでる、",
+      "少し、(悩:なや)んでる、",
+      "まあ、(悩:なや)んでる、"
+    ],
+    "variants-en": [
+      "Still thinking about it,",
+      "Still mulling it over,",
+      "Still pondering it,",
+      "I'm going to sleep on it."
+    ],
+    "intent-ja": ["思考過程の表現", "決定の保留", "内省の共有"],
+    "intent-en": [
+      "expression of thought process",
+      "postponement of decision",
+      "sharing of introspection"
+    ],
+    "tags-ja": ["即時文法", "口語", "思考表現", "決定保留"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of thought",
+      "postponement of decision"
+    ],
+    "adjusted-expression-ja": "まだ検討しているところです。",
+    "adjusted-expression-en": "I'm still looking into it.",
+    "img-sub": "yayanayanderu01.png",
+    "example-ja": "A「この(提案:ていあん)、どうする？」 B「やや、(悩:なや)んでる、」",
+    "example-en": "A: What should we do about this proposal? B: Still mulling it over, ...",
+    "notes-ja": "「やや、悩んでる、」は、話し手が感情的に苦しんでいる状態を表すものではなく、ある事柄について判断を下す前の処理過程にあることを、やや距離を置いて共有する表現である。「やや」は思考の程度を示すだけでなく、深刻な悩みではないことを相手に示す調整の役割を持つ。この表現は、話し手が自分の内部処理を対象化し、聞き手に過度な心配を与えずに決定を保留していることを伝える点に特徴がある。",
+    "notes-en": "'Yaya, nayanderu,' is not used to express emotional distress or worry. Rather, it is a colloquial expression that reports the speaker's current processing state before making a decision, with a certain distance. The adverb 'yaya' functions not only to indicate degree, but also to signal that the situation is not serious. By using this expression, the speaker objectifies their internal thought process and shares it without inviting unnecessary concern from the listener."
+  },
+  {
+    "date": "2026.01.04",
+    "day": "Sun",
+    "number": 634,
+    "index": "jikanaru",
+    "title": "Do you have time?",
+    "expression-ja": "(時間:じかん)、ある？",
+    "roman-ja": "jikan aru?",
+    "expression-en": "Do you have time?",
+    "variants-ja": [
+      "(時間:じかん)、ありますか？",
+      "(暇:ひま)、ありますか？",
+      "(時間:じかん)、(大丈夫:だいじょうぶ)ですか？"
+    ],
+    "variants-en": ["Do you have time?", "Are you free?", "Is your time okay?"],
+    "intent-ja": ["時間の確認", "予定の調整", "会話の開始"],
+    "intent-en": [
+      "confirmation of time",
+      "adjustment of schedule",
+      "initiation of conversation"
+    ],
+    "tags-ja": ["即時文法", "口語", "時間確認", "予定調整"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "time confirmation",
+      "schedule adjustment"
+    ],
+    "adjusted-expression-ja": "(今:いま)、お(時間:じかん)、ございますか？",
+    "adjusted-expression-en": "Do you have time now?",
+    "img-sub": "jikanaru01.png",
+    "example-ja": "A「(今:いま)、(時間:じかん)、ある？」 B「うん、いいよ」",
+    "example-en": "A: Do you have time now? B: Yeah, it's fine.",
+    "notes-ja": "「時間ある？」は、話し手が相手の時間的な余裕を確認し、予定の調整や会話の開始を促す際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「時間」は「time」の意味で、「ある？」は「do you have?」の意味です。話し手は、相手の都合を尋ね、会話や活動の開始を意図しています。",
+    "notes-en": "'Jikan aru?' is a colloquial expression used when the speaker wants to confirm the listener's availability of time and to prompt the adjustment of schedule or initiation of conversation. To explain the structure of this phrase in more detail, 'jikan' means 'time', and 'aru?' means 'do you have?'. The speaker is inquiring about the listener's convenience and intends to start a conversation or activity."
+  },
+  {
     "date": "2026.01.03",
     "day": "Sat",
     "number": 633,
