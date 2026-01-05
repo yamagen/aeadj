@@ -3,37 +3,41 @@
     "date": "2026.01.02",
     "day": "Fri",
     "number": 632,
-    "index": "gomengomen",
-    "title": "Sorry, sorry",
-    "expression-ja": "ごめん、ごめん",
-    "roman-ja": "gomen, gomen",
-    "expression-en": "Sorry, sorry",
+    "index": "wakaruhitonantedaremoinai",
+    "title": "You know, there's no one knowing the answer.",
+    "expression-ja": "わかる(人:ひと)なんて(誰:だれ)もいない。",
+    "roman-ja": "wakaruhito nante dare mo inai.",
+    "expression-en": "You know, there's no one knowing the answer.",
     "variants-ja": [
-      "ごめんなさい、ごめんなさい",
-      "すみません、すみません",
-      "申し訳ない、申し訳ない"
+      "わかる(人:ひと)なんて(誰:だれ)もいません。",
+      "(答:こた)えが(分:わ)かる(人:ひと)なんて(誰:だれ)もいない。",
+      "(理解:りかい)できる(人:ひと)なんて(誰:だれ)もいない。"
     ],
     "variants-en": [
-      "Sorry, sorry",
-      "I'm sorry, I'm sorry",
-      "My apologies, my apologies"
+      "You know, there's no one knowing the answer.",
+      "There's no one who understands the answer.",
+      "No one can comprehend it."
     ],
-    "intent-ja": ["謝罪の表現", "軽い謝罪", "非公式な謝罪"],
-    "intent-en": ["expression of apology", "light apology", "informal apology"],
-    "tags-ja": ["即時文法", "口語", "謝罪表現", "軽い謝罪"],
+    "intent-ja": ["知識の欠如の表現", "共通認識の強調", "不確実性の示唆"],
+    "intent-en": [
+      "expression of lack of knowledge",
+      "emphasis on common understanding",
+      "suggestion of uncertainty"
+    ],
+    "tags-ja": ["即時文法", "口語", "知識欠如表現", "共通認識強調"],
     "tags-en": [
       "immediate grammar",
       "spoken",
-      "expression of apology",
-      "light apology"
+      "expression of lack of knowledge",
+      "emphasis on common understanding"
     ],
-    "adjusted-expression-ja": "(失礼:しつれい)しました。",
-    "adjusted-expression-en": "I apologize.",
-    "img-sub": "gomengomen01.png",
-    "example-ja": "A「10(分:ぷん)、(遅刻:ちこく)！」 B「ごめん、ごめん」",
-    "example-en": "A: You're 10 minutes late! B: Sorry, sorry.",
-    "notes-ja": "「ごめん、ごめん」は、話し手が軽い謝罪を表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「ごめん」は「sorry」や「I'm sorry」の意味で、繰り返すことで謝罪の気持ちを強調しています。話し手は、非公式な場面での謝罪を示しており、相手に対して軽い謝罪の意図を伝えています。",
-    "notes-en": "'Gomen, gomen' is a colloquial expression used when the speaker wants to express a light apology. To explain the structure of this phrase in more detail, 'gomen' means 'sorry' or 'I'm sorry', and the repetition emphasizes the feeling of apology. The speaker indicates an informal apology in casual situations, conveying a light apology intention to the listener."
+    "adjusted-expression-ja": "(答:こた)えが(分:わ)かる(人:ひと)なんて(誰:だれ)もいません。",
+    "adjusted-expression-en": "There's no one who knows the answer.",
+    "img-sub": "wakaruhitonantedaremoinai01.png",
+    "example-ja": "A「この(問題:もんだい)、できる？」 B「これは、(難:むずか)しいよ、わかる(人:ひと)なんて(誰:だれ)もいないよ」",
+    "example-en": "A: Can you solve this quiz? B: This is difficult, you know, there's no one knowing the answer.",
+    "notes-ja": "「わかる人なんて誰もいない。」は、話し手がある事柄に対して知識や理解が欠如していることを表現し、共通認識を強調する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「わかる人なんて」は「no one who knows」の意味で、「誰もいない」は「there is no one」の意味です。",
+    "notes-en": "'Wakaruhito nante dare mo inai.' is a colloquial expression used when the speaker wants to express a lack of knowledge or understanding about a certain matter and to emphasize common understanding. To explain the structure of this phrase in more detail, 'wakaruhito nante' means 'no one who knows', and 'dare mo inai' means 'there is no one'."
   },
   {
     "date": "2026.01.01",
@@ -5537,7 +5541,7 @@
     "intent-en": ["apology", "slight awkwardness", "friendly"],
     "tags-ja": ["即時文法", "謝罪", "軽い"],
     "tags-en": ["immediate grammar", "apology", "light"],
-    "adjusted-expression-ja": "(:)申し(:)訳ない、(:)気づかなかったよ。",
+    "adjusted-expression-ja": "(申:もう)し(訳:わけ)ない、(気:き)づかなかったよ。",
     "adjusted-expression-en": "I’m sorry, I didn’t notice.",
     "img-sub": "gomengomen01.png",
     "example-ja": "A「(あれ？(ドア:どあ)(閉:し)めた？)」 B「ごめんごめん、(閉:し)めてくるね。」",
