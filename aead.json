@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026.01.03",
+    "day": "Sat",
+    "number": 633,
+    "index": "janankaarimasu",
+    "title": "So, do you have something else?",
+    "expression-ja": "じゃあ、なんかあります？",
+    "roman-ja": "jaa, nanka arimasu?",
+    "expression-en": "So, do you have something else?",
+    "variants-ja": [
+      "じゃあ、他にありますか？",
+      "じゃあ、何かありますか？",
+      "じゃあ、ほかに何かありますか？"
+    ],
+    "variants-en": [
+      "So, do you have something else?",
+      "Well then, is there anything else?",
+      "So, do you have any other options?"
+    ],
+    "intent-ja": ["追加の提案の促し", "選択肢の確認", "会話の継続"],
+    "intent-en": [
+      "prompting additional suggestions",
+      "confirming options",
+      "continuation of conversation"
+    ],
+    "tags-ja": ["即時文法", "口語", "追加提案", "選択肢確認"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "additional suggestion",
+      "option confirmation"
+    ],
+    "adjusted-expression-ja": "では、他に何かありますか？",
+    "adjusted-expression-en": "Well then, is there anything else?",
+    "img-sub": "janankaarimasu01.png",
+    "example-ja": "A「これはあまりよくないよ」 B「じゃあ、なんかあります？」",
+    "example-en": "A: This one isn't very good. B: Hmm, so, do you have something else?",
+    "notes-ja": "「じゃあ、なんかあります？」は、話し手が相手に対して追加の提案や選択肢を求める際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「じゃあ」は「well then」や「so」の意味で、会話の流れを示します。「なんかあります？」は「do you have something else?」や「is there anything else?」の意味です。話し手は、会話を継続し、相手からの追加の提案を促しています。",
+    "notes-en": "'Jaa, nanka arimasu?' is a colloquial expression used when the speaker wants to ask the listener for additional suggestions or options. To explain the structure of this phrase in more detail, 'jaa' means 'well then' or 'so', indicating the flow of conversation. 'Nanka arimasu?' means 'do you have something else?' or 'is there anything else?'. The speaker is continuing the conversation and prompting the listener for additional suggestions."
+  },
+  {
     "date": "2026.01.02",
     "day": "Fri",
     "number": 632,
