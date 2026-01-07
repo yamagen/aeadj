@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026.01.07",
+    "day": "Wed",
+    "number": 637,
+    "index": "sakana tsukuttayo",
+    "title": "I made fish.",
+    "expression-ja": "(魚:さかな)、(作:つく)ったよ。",
+    "roman-ja": "sakana, tsukutta yo.",
+    "expression-en": "I made fish.",
+    "variants-ja": [
+      "(魚:さかな)、(作:つく)りましたよ。",
+      "(魚:さかな)、(調理:ちょうり)したよ。",
+      "(魚:さかな)、(料理:りょうり)したよ。"
+    ],
+    "variants-en": ["I made fish.", "I cooked fish.", "I prepared fish."],
+    "intent-ja": ["料理の報告", "成果の共有", "食事の提案"],
+    "intent-en": [
+      "reporting of cooking",
+      "sharing of achievement",
+      "suggestion of meal"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "料理報告表現",
+      "成果共有表現",
+      "食事提案表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of cooking report",
+      "expression of achievement sharing",
+      "expression of meal suggestion"
+    ],
+    "adjusted-expression-ja": "(魚:さかな)を(調理:ちょうり)しました。",
+    "adjusted-expression-en": "I cooked fish.",
+    "img-sub": "sakana_tsukuttayo01.png",
+    "example-ja": "A「(夕食:ゆうしょく)、何にする？」 B「(魚:さかな)、(作:つく)ったよ」",
+    "example-en": "A: What should we have for dinner? B: I made fish.",
+    "notes-ja": "「魚、作ったよ。」は、話し手が料理した内容を報告し、食事の提案をする際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「魚」は「fish」の意味で、「作ったよ」は「I made」や「I cooked」の意味です。話し手は、相手に料理の内容を伝え、食事の選択肢として提案しています。",
+    "notes-en": "'Sakana, tsukutta yo.' is a colloquial expression used when the speaker wants to report what they have cooked and suggest it as a meal. To explain the structure of this phrase in more detail, 'sakana' means 'fish', and 'tsukutta yo' means 'I made' or 'I cooked'. The speaker is conveying the content of the cooking to the listener and proposing it as a meal option."
+  },
+  {
+    "date": "2026.01.06",
+    "day": "Tue",
+    "number": 636,
+    "index": "imamitanowa",
+    "title": "What I just saw was,",
+    "expression-ja": "(今:いま)、(見:み)たのは、",
+    "roman-ja": "ima, mita no wa,",
+    "expression-en": "What I just saw was,",
+    "variants-ja": [
+      "さっき、(見:み)たのは、",
+      "たった(今:いま)、(見:み)たのは、",
+      "(最近:さいきん)、(見:み)たのは、"
+    ],
+    "variants-en": [
+      "What I just saw was,",
+      "What I recently saw was,",
+      "What I saw a moment ago was,"
+    ],
+    "intent-ja": [
+      "情報の共有",
+      "経験の報告",
+      "注意喚起",
+      "話題の導入",
+      "名詞句の強調"
+    ],
+    "intent-en": [
+      "sharing of information",
+      "reporting of experience",
+      "drawing attention",
+      "introduction of topic",
+      "emphasis on noun phrase"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "情報共有表現",
+      "経験報告表現",
+      "注意喚起表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of information sharing",
+      "expression of experience reporting",
+      "expression of drawing attention"
+    ],
+    "adjusted-expression-ja": "(先程:さきほど)、(見:み)たのは、",
+    "adjusted-expression-en": "What I just saw was,",
+    "img-sub": "imamitanowa01.png",
+    "example-ja": "A「(今:いま)、(見:み)たのは、何だったの」 B「あれは(流:なが)れ(星:ぼし)だよ」",
+    "example-en": "A: What was that I just saw? B: That was a shooting star.",
+    "notes-ja": "「今、見たのは、」は、話し手が最近経験した出来事や情報を共有し、注意を引くために使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「今」は「just now」や「recently」の意味で、時間的な近さを示します。「見たのは、」は「what I saw was」の意味で、経験したことを報告しています。話し手は、相手の注意を引きつけ、その後に続く情報に関心を持たせることを意図しています。",
+    "notes-en": "'Ima, mita no wa,' is a colloquial expression used when the speaker wants to share a recent experience or information and draw attention. To explain the structure of this phrase in more detail, 'ima' means 'just now' or 'recently', indicating temporal proximity. 'Mita no wa,' means 'what I saw was', reporting on an experienced event. The speaker intends to capture the listener's attention and generate interest in the information that follows."
+  },
+  {
     "date": "2026.01.05",
     "day": "Mon",
     "number": 635,
