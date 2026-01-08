@@ -1,5 +1,50 @@
 [
   {
+    "date": "2026.01.08",
+    "day": "Thu",
+    "number": 638,
+    "index": "pintokonai",
+    "title": "It doesn't click.",
+    "expression-ja": "(ピン:ぴん)と(来:こ)ない。",
+    "roman-ja": "pin to konai.",
+    "expression-en": "It doesn't click.",
+    "variants-ja": [
+      "(ピン:ぴん)と(来:こ)ません。",
+      "しっくり(来:こ)ない。",
+      "なんとなく(違:ちが)う(感:かん)じがする。"
+    ],
+    "variants-en": [
+      "It doesn't click.",
+      "It doesn't quite make sense.",
+      "I don't really get it."
+    ],
+    "intent-ja": [
+      "合わない感覚の表現",
+      "違和感の共有",
+      "直感的に違うと感じることの伝達"
+    ],
+    "intent-en": [
+      "sharing a sense of mismatch",
+      "sharing intuitive unease",
+      "expressing lack of intuitive alignment"
+    ],
+    "tags-ja": ["即時文法", "口語", "感覚表現", "違和感表現", "直感表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of feeling",
+      "expression of discomfort",
+      "expression of intuition"
+    ],
+    "adjusted-expression-ja": "しっくり(来:こ)ない。",
+    "adjusted-expression-en": "It doesn't fit well.",
+    "img-sub": "pintokonai01.png",
+    "example-ja": "A「この(デザイン:でざいん)、どう(思:おも)う？」 B「うーん、(ピン:ぴん)と(来:こ)ない」",
+    "example-en": "A: What do you think of this design? B: Hmm, it doesn't click.",
+    "notes-ja": "「ピンと来ない」は、話し手がある事柄に対して直感的に合わない感覚を抱いていることを表現する際に使う口語的な表現。話し手は、違和感を共有し、その事柄が自分にとって適切でないことを伝えています。",
+    "notes-en": "'Pin to konai.' is a colloquial expression used when the speaker wants to express that they have an intuitive sense of mismatch about something. The speaker shares their discomfort and conveys that the matter is not suitable for them."
+  },
+  {
     "date": "2026.01.07",
     "day": "Wed",
     "number": 637,
