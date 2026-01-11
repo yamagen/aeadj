@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.01.11",
+    "day": "Sun",
+    "number": 641,
+    "index": "shitoiteyokatta",
+    "title": "I'm glad I did it.",
+    "expression-ja": "しといてよかった。",
+    "roman-ja": "shitoite yokatta.",
+    "expression-en": "I'm glad I did it.",
+    "variants-ja": [
+      "やっておいてよかった。",
+      "しておいてよかった。",
+      "やっといてよかった。"
+    ],
+    "variants-en": [
+      "I'm glad I did it.",
+      "I'm glad I took care of it.",
+      "I'm glad I got it done."
+    ],
+    "intent-ja": ["行動の肯定", "過去の選択の評価", "安心感の表現"],
+    "intent-en": [
+      "affirmation of action",
+      "evaluation of past choice",
+      "expression of relief"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "行動肯定表現",
+      "過去選択評価表現",
+      "安心感表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of action affirmation",
+      "expression of past choice evaluation",
+      "expression of relief"
+    ],
+    "adjusted-expression-ja": "しておいて(正解:せいかい)でした。",
+    "adjusted-expression-en": "It was the right what to do.",
+    "img-sub": "shitoiteyokatta01.png",
+    "example-ja": "A「これ、(最後:さいご)の(一:ひと)つ？」 B「まだあるよ、たくさん(買:か)っといてよかったね」",
+    "example-en": "A: Is this the last one? B: There are still more, I'm glad I bought a lot.",
+    "notes-ja": "「しといてよかった。」は、話し手が過去に行った行動や選択を肯定的に評価し、その結果に対して安心感を表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「しといて」は「しておく」の口語形で、事前に行動を完了させることを意味します。「よかった」は「I'm glad」や「It was good」の意味です。話し手は、過去の選択が正しかったことを認識し、その結果に満足しています。",
+    "notes-en": "'Shitoite yokatta.' is a colloquial expression used when the speaker wants to affirmatively evaluate an action or choice made in the past and express a sense of relief about the outcome. To explain the structure of this phrase in more detail, 'shitoite' is the colloquial form of 'shite oku', meaning to complete an action in advance. 'Yokatta' means 'I'm glad' or 'It was good'. The speaker recognizes that their past choice was correct and is satisfied with the result."
+  },
+  {
     "date": "2026.01.10",
     "day": "Sat",
     "number": 640,
