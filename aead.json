@@ -1,5 +1,95 @@
 [
   {
+    "date": "2026.01.10",
+    "day": "Sat",
+    "number": 640,
+    "index": "aead",
+    "title": "Somehow, it's weird.",
+    "expression-ja": "なんか、(変:へん)。",
+    "roman-ja": "nanka, hen.",
+    "expression-en": "Somehow, it's weird.",
+    "variants-ja": [
+      "なんとなく、(変:へん)。",
+      "なんだか、(変:へん)。",
+      "なんとなく、おかしい。"
+    ],
+    "variants-en": [
+      "Somehow, it's weird.",
+      "Somehow, it's strange.",
+      "Somehow, it's odd."
+    ],
+    "intent-ja": ["違和感の表現", "感覚の共有", "評価の提示"],
+    "intent-en": [
+      "expression of discomfort",
+      "sharing of feelings",
+      "presentation of evaluation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "違和感表現",
+      "感覚共有表現",
+      "評価提示表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of discomfort",
+      "expression of feeling sharing",
+      "expression of evaluation presentation"
+    ],
+    "adjusted-expression-ja": "なんとなく、(変:へん)です。",
+    "adjusted-expression-en": "Somehow, it's strange.",
+    "img-sub": "aead01.png",
+    "example-ja": "A「この(デザイン:でざいん)、どう？」 B「うーん、なんか、(変:へん)」",
+    "example-en": "A: How about this design? B: Hmm, somehow, it's weird.",
+    "notes-ja": "「なんか、変。」は、話し手がある事柄に対して違和感を抱いていることを表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「なんか」は「somehow」や「somewhat」の意味で、漠然とした感覚を示します。「変」は「weird」や「strange」の意味です。話し手は、違和感を共有し、その事柄が自分にとって適切でないことを伝えています。",
+    "notes-en": "'Nanka, hen.' is a colloquial expression used when the speaker wants to express that they have a sense of discomfort about something. To explain the structure of this phrase in more detail, 'nanka' means 'somehow' or 'somewhat', indicating a vague feeling. 'Hen' means 'weird' or 'strange'. The speaker shares their discomfort and conveys that the matter is not suitable for them."
+  },
+  {
+    "date": "2026.01.09",
+    "day": "Fri",
+    "number": 639,
+    "index": "genkishiteru",
+    "title": "How have you been?",
+    "expression-ja": "(元気:げんき)してる？",
+    "roman-ja": "genki shiteru?",
+    "expression-en": "How have you been?",
+    "variants-ja": [
+      "(元気:げんき)ですか？",
+      "(調子:ちょうし)はどう？",
+      "(最近:さいきん)、(元気:げんき)？"
+    ],
+    "variants-en": ["How have you been?", "How are you?", "How's it going?"],
+    "intent-ja": ["健康状態の確認", "近況の共有", "会話の開始"],
+    "intent-en": [
+      "confirmation of health status",
+      "sharing of recent news",
+      "initiation of conversation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "健康確認表現",
+      "近況共有表現",
+      "会話開始表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of health confirmation",
+      "expression of recent news sharing",
+      "expression of conversation initiation"
+    ],
+    "adjusted-expression-ja": "(お元気:おげんき)ですか？",
+    "adjusted-expression-en": "How are you?",
+    "img-sub": "genkishiteru01.png",
+    "example-ja": "A「(久:ひさ)しぶり！(元気:げんき)してる？」 B「うん、(元気:げんき)だよ」",
+    "example-en": "A: Long time no see! How have you been? B: Yeah, I'm fine.",
+    "notes-ja": "「元気してる？」は、話し手が相手の健康状態や近況を確認し、会話を始める際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「元気」は「health」や「well-being」の意味で、「してる？」は「are you doing?」の意味です。話し手は、相手の状態を尋ね、会話のきっかけを作っています。",
+    "notes-en": "'Genki shiteru?' is a colloquial expression used when the speaker wants to check the listener's health status and recent news, and to initiate a conversation. To explain the structure of this phrase in more detail, 'genki' means 'health' or 'well-being', and 'shiteru?' means 'are you doing?'. The speaker is inquiring about the listener's condition and creating an opportunity for conversation."
+  },
+  {
     "date": "2026.01.08",
     "day": "Thu",
     "number": 638,
