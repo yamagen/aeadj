@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026.01.13",
+    "day": "Tue",
+    "number": 643,
+    "index": "koreguraiwasasete",
+    "title": "let me do this much",
+    "expression-ja": "これぐらいはさせて",
+    "roman-ja": "kore gurai wa sasete,",
+    "expression-en": "let me do this much",
+    "variants-ja": [
+      "これくらいはさせて",
+      "これだけはさせて",
+      "これぐらいはさせてください。"
+    ],
+    "variants-en": [
+      "let me do this much",
+      "please let me do this much",
+      "let me at least do this much, please."
+    ],
+    "intent-ja": ["謙遜の表現", "気持ちの伝達", "依頼の意図"],
+    "intent-en": [
+      "humble expression",
+      "communication of feelings",
+      "intention of request"
+    ],
+    "tags-ja": ["即時文法", "口語", "謙遜表現", "依頼表現"],
+    "tags-en": ["immediate grammar", "spoken", "humble expression", "request"],
+    "adjusted-expression-ja": "これぐらいは(私:わたし)に(任:まか)せてください。",
+    "adjusted-expression-en": "Please let me handle at least this much.",
+    "img-sub": "koreguraiwasasete01.png",
+    "example-ja": "A「これ、(手伝:てつだ)ってくれてありがとう」 B「これぐらいはさせて」",
+    "example-en": "A: Thank you for helping me with this. B: Let me do this much.",
+    "notes-ja": "「これぐらいはさせて」は、いつもお世話になっている人からの頼まれごとに対して、謙遜しつつも自分の力でできる範囲で手伝いたいという気持ちの表現。「これぐらいは」は「at least this much」の意味。「させて」は「let me do it」の意味。",
+    "notes-en": "'Kore gurai wa sasete' is an expression used when responding to a request from someone who is always taking care of you, expressing a humble yet willing attitude to help within your own capabilities. 'Kore gurai wa' means 'at least this much', and 'sasete' means 'let me do it'."
+  },
+  {
     "date": "2026.01.12",
     "day": "Mon",
     "number": 642,
