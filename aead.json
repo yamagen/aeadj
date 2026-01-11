@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.01.12",
+    "day": "Mon",
+    "number": 642,
+    "index": "koreguraishikadekinakute",
+    "title": "sorry that this is all I can do",
+    "expression-ja": "これぐらいしかできなくて、",
+    "roman-ja": "kore gurai shika dekinakute,",
+    "expression-en": "sorry that this is all I can do",
+    "variants-ja": [
+      "これくらいしかできなくて、",
+      "これだけしかできなくて、",
+      "これぐらいしかできなくて、すみません。"
+    ],
+    "variants-en": [
+      "sorry that this is all I can do",
+      "sorry that I can only do this much",
+      "sorry that this is all I can do, sorry."
+    ],
+    "intent-ja": ["謙遜の表現", "能力の制限の伝達", "謝罪の意図"],
+    "intent-en": [
+      "expression of humility",
+      "communication of limitation of ability",
+      "intention of apology"
+    ],
+    "tags-ja": ["即時文法", "口語", "謙遜表現", "能力制限伝達", "謝罪表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of humility",
+      "communication of ability limitation",
+      "expression of apology"
+    ],
+    "adjusted-expression-ja": "これぐらいしかできなくて、(申:もう)し(訳:わけ)ありません。",
+    "adjusted-expression-en": "I'm sorry that this is all I can do.",
+    "img-sub": "koreguraishikadekinakute01.png",
+    "example-ja": "A「これ、(手伝:てつだ)ってくれてありがとう」 B「ごめんね、これぐらいしかできなくて」",
+    "example-en": "A: Thank you for helping me with this. B: Sorry that this is all I can do.",
+    "notes-ja": "「これぐらいしかできなくて、」は、話し手が自分の能力や行動に対して謙遜の意を表し、謝罪の意図を伝える際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「これぐらいしか」は「only this much」の意味で、自分の限界を示します。「できなくて、」は「I can't do it」の意味で、能力の制限を伝えています。話し手は、相手に対して自分の限界を認識させ、謝罪の気持ちを表現しています。",
+    "notes-en": "'Kore gurai shika dekinakute,' is a colloquial expression used when the speaker wants to express humility about their abilities or actions and convey an intention of apology. To explain the structure of this phrase in more detail, 'kore gurai shika' means 'only this much', indicating the speaker's limitations. 'Dekinakute,' means 'I can't do it', communicating the limitation of ability. The speaker acknowledges their limitations to the listener and expresses a feeling of apology."
+  },
+  {
     "date": "2026.01.11",
     "day": "Sun",
     "number": 641,
