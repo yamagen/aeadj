@@ -14953,6 +14953,21 @@
     "expression-ja": "やらなきゃ(損:そん)！",
     "roman-ja": "Yaranakya son.",
     "expression-en": "It's a loss if I/you don't do it",
+    "variants-ja": ["やらなきゃ損！", "やらなければ損！", "やらないと損！"],
+    "variants-en": [
+      "It's a loss if I/you don't do it",
+      "If I/you don't do it, it's a loss",
+      "You/I have to do it, or it's a loss"
+    ],
+    "intent-ja": ["必要", "損得", "主張"],
+    "intent-en": ["necessity", "profit and loss", "assertion"],
+    "tags-ja": ["即時文法", "日常会話"],
+    "tags-en": ["immediate grammar", "daily conversation"],
+    "adjusted-expression-ja": "やった(方:ほう)がいいと(思:おも)います。",
+    "adjusted-expression-en": "I think you/I should do it.",
+    "img-sub": "yaranakyason01.png",
+    "example-ja": "A「やらなきゃ(損:そん)!」 B「そうだね」",
+    "example-en": "A: It's a loss if you/I don't do it! B: That's right.",
     "notes-en": "It means that you should do it because you will have some good profit or benefit someday.",
     "notes-ja": "いつか何か良い利益や利益が得られるので、それをやるべきだという意味です。"
   },
