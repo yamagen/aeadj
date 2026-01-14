@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026.01.14",
+    "day": "Wed",
+    "number": 644,
+    "index": "bikutomoshinai",
+    "title": "It doesn't budge at all.",
+    "expression-ja": "(ビク:びく)ともしない。",
+    "roman-ja": "biku to mo shinai.",
+    "expression-en": "It doesn't budge at all.",
+    "variants-ja": [
+      "全く(動:うご)かない。",
+      "まったく(動:うご)かない。",
+      "全然(動:うご)かない。"
+    ],
+    "variants-en": [
+      "It doesn't budge at all.",
+      "It doesn't move at all.",
+      "It won't move at all."
+    ],
+    "intent-ja": ["不動の表現", "強調の意図", "状況の説明"],
+    "intent-en": [
+      "expression of immobility",
+      "intention of emphasis",
+      "explanation of situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "不動表現", "強調表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of immobility",
+      "expression of emphasis"
+    ],
+    "adjusted-expression-ja": "まったく(動:うご)きません。",
+    "adjusted-expression-en": "It doesn't move at all.",
+    "img-sub": "bikutomoshinai01.png",
+    "example-ja": "A「この(ドア:どあ)、(開:あ)けてみて」 B「うーん、(ビク:びく)ともしない」",
+    "example-en": "A: Try opening this door. B: Hmm, it doesn't budge at all.",
+    "notes-ja": "「ビクともしない。」は、話し手がある物体や状況が全く動かないことを強調して表現する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「ビクともしない」は「not budging at all」の意味で、完全な不動状態を示します。話し手は、物体や状況の動かない性質を強調しています。",
+    "notes-en": "'Biku to mo shinai.' is a colloquial expression used when the speaker wants to emphasize that a certain object or situation does not move at all. To explain the structure of this phrase in more detail, 'biku to mo shinai' means 'not budging at all', indicating a state of complete immobility. The speaker emphasizes the unmovable nature of the object or situation."
+  },
+  {
     "date": "2026.01.13",
     "day": "Tue",
     "number": 643,
