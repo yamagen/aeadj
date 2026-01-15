@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026.01.15",
+    "day": "Thu",
+    "number": 645,
+    "index": "sorebetsumono",
+    "title": "That's a different thing.",
+    "expression-ja": "それ、(別物:べつもの)。",
+    "roman-ja": "sore, betsu-mono.",
+    "expression-en": "That's a different thing.",
+    "variants-ja": [
+      "それ、(別:べつ)の(物:もの)。",
+      "それ、(違:ちが)う(物:もの)。",
+      "それ、(別物:べつもの)です。"
+    ],
+    "variants-en": [
+      "That's a different thing.",
+      "That's another thing.",
+      "That's a different item."
+    ],
+    "intent-ja": ["区別の表現", "誤解の訂正", "情報の明確化"],
+    "intent-en": [
+      "expression of distinction",
+      "correction of misunderstanding",
+      "clarification of information"
+    ],
+    "tags-ja": ["即時文法", "口語", "区別表現", "誤解訂正表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of distinction",
+      "expression of misunderstanding correction"
+    ],
+    "adjusted-expression-ja": "それとは(別:べつ)の(物:もの)です。",
+    "adjusted-expression-en": "That is a different thing.",
+    "img-sub": "sorebetsumono01.png",
+    "example-ja": "A「これが、(以前:いぜん)、(話:はな)してたものなの？」 B「ううん、それ、(別物:べつもの)」",
+    "example-en": "A: Is this what you were talking about before? B: No, that's a different thing.",
+    "notes-ja": "「それ、別物」は、話し手がある事柄や物体が他のものと異なることを強調し、誤解を訂正する際に使う口語的な表現。もう少し詳しくこのことばの構成を説明すると、「それ」は「that」の意味で、特定の対象を指します。「別物」は「different thing」や「another item」の意味です。話し手は、相手に対してその対象が他のものと区別されるべきであることを伝えています。",
+    "notes-en": "'Sore, betsu-mono.' is a colloquial expression used when the speaker wants to emphasize that a certain matter or object is different from others and to correct a misunderstanding. To explain the structure of this phrase in more detail, 'sore' means 'that', referring to a specific object. 'Betsu-mono' means 'different thing' or 'another item'. The speaker is conveying to the listener that the object in question should be distinguished from others."
+  },
+  {
     "date": "2026.01.14",
     "day": "Wed",
     "number": 644,
