@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.01.22",
+    "day": "Thu",
+    "number": 652,
+    "index": "toieba",
+    "title": "Speaking of...",
+    "expression-ja": "...といえば、...",
+    "roman-ja": "... to ieba, ...",
+    "expression-en": "Speaking of...",
+    "variants-ja": [
+      "...と言えば、...",
+      "...って言えば、...",
+      "...といえば、...ね。"
+    ],
+    "variants-en": [
+      "Speaking of...",
+      "If you say...",
+      "Speaking of..., right?"
+    ],
+    "intent-ja": ["話題の転換", "関連情報の提供", "思い出の喚起"],
+    "intent-en": [
+      "topic shift",
+      "provision of related information",
+      "evocation of memories"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "話題転換表現",
+      "関連情報提供表現",
+      "思い出喚起表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of topic shift",
+      "expression of related information provision",
+      "expression of memory evocation"
+    ],
+    "adjusted-expression-ja": "(関連:かんれん)するかもしれませんが、...と(言:い)えば、...",
+    "adjusted-expression-en": "It may be related, but speaking of ...",
+    "img-sub": "toieba01.png",
+    "example-ja": "A「(昨日:きのう)、(映画:えいが)を(見:み)たよ」 B「へえ、(映画:えいが)といえば、(最近:さいきん)、あの(監督:かんとく)の(新作:しんさく)が(公開:こうかい)されたね」",
+    "example-en": "A: I watched a movie yesterday. B: Oh, speaking of movies, that director's new work was released recently.",
+    "notes-ja": "...といえば、...」は、話し手がある話題から関連する別の話題に転換し、関連情報を提供したり、思い出を喚起したりする際に使う口語的な表現。「...といえば」は「speaking of ...」の意味で、特定の対象を指します。話し手は、相手に対して新しい話題を提示し、会話を広げています。",
+    "notes-en": "'... to ieba, ...' is a colloquial expression used when the speaker wants to shift from one topic to a related one, provide related information, or evoke memories. '... to ieba' means 'speaking of ...', referring to a specific object. The speaker introduces a new topic to the listener and expands the conversation."
+  },
+  {
     "date": "2026.01.21",
     "day": "Wed",
     "number": 651,
