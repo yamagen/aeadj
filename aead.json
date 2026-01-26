@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026.01.24",
+    "day": "Sat",
+    "number": 654,
+    "index": "sugokuzatsuni iukedo",
+    "title": "To put it very roughly,...",
+    "expression-ja": "すごく、(雑:ざつ)に(言:い)うけど、...",
+    "roman-ja": "sugoku, zatsu ni iu kedo, ...",
+    "expression-en": "To put it very roughly,...",
+    "variants-ja": [
+      "大まかに(言:い)うと、...",
+      "ざっくり(言:い)うと、...",
+      "簡単に(言:い)うと、..."
+    ],
+    "variants-en": [
+      "To put it very roughly,...",
+      "To say it broadly,...",
+      "To say it simply,..."
+    ],
+    "intent-ja": ["概要の提示", "情報の簡略化", "注意喚起"],
+    "intent-en": [
+      "presentation of overview",
+      "simplification of information",
+      "attention call"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "概要提示表現",
+      "情報簡略化表現",
+      "注意喚起表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of overview presentation",
+      "expression of information simplification",
+      "expression of attention call"
+    ],
+    "adjusted-expression-ja": "大まかに(言:い)うと、...",
+    "adjusted-expression-en": "To put it broadly,...",
+    "img-sub": "sugokuzatsuni iukedo01.png",
+    "example-ja": "A「この(計画:けいかく)、(詳:くわ)しく(説明:せつめい)して」 B「まずね、すごく(雑:ざつ)に(言:い)うけど、(要:よう)は(利益:りえき)を(最大化:さいだいか)することが(目的:もくてき)だよ」",
+    "example-en": "A: Please explain this plan in detail. B: First, to put it very roughly, the main point is to maximize profits.",
+    "notes-ja": "「すごく、雑に言うけど、...」は、話し手がある複雑な事柄や情報を簡略化して伝える際に使う口語的な表現。「すごく」は「very」の意味で、強調のニュアンスを持ちます。「雑に言うけど、...」は「to put it roughly,...」の意味で、詳細を省略して概要を伝えることを示します。"
+  },
+  {
     "date": "2026.01.23",
     "day": "Fri",
     "number": 653,
