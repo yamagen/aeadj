@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.01.25",
+    "day": "Sun",
+    "number": 655,
+    "index": "kekkyokujanai katte",
+    "title": "In the end, isn't it...?",
+    "expression-ja": "(結局:けっきょく)、...じゃないかって。",
+    "roman-ja": "kekkyoku, ... ja nai ka tte.",
+    "expression-en": "In the end, isn't it...?",
+    "variants-ja": [
+      "(最終的:さいしゅうてき)に、...じゃないかって。",
+      "(結局:けっきょく)のところ、...じゃないかって。",
+      "(要:よう)するに、...じゃないかって。"
+    ],
+    "variants-en": [
+      "In the end, isn't it...?",
+      "Ultimately, isn't it...?",
+      "In short, isn't it...?"
+    ],
+    "intent-ja": ["結論の表現", "要約の提示", "確認の意図"],
+    "intent-en": [
+      "expression of conclusion",
+      "presentation of summary",
+      "intention of confirmation"
+    ],
+    "tags-ja": ["即時文法", "口語", "結論表現", "要約提示表現", "確認表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of conclusion",
+      "expression of summary presentation",
+      "expression of confirmation"
+    ],
+    "adjusted-expression-ja": "(結局:けっきょく)、...ではないかと思います。",
+    "adjusted-expression-en": "In the end, I think it is ...",
+    "img-sub": "kekkyokujanai katte01.png",
+    "example-ja": "A「この(問題:もんだい)、(解決:かいけつ)できる？」 B「うーん、(結局:けっきょく)、(時間:じかん)が(掛:か)かるし、(費用:ひよう)も(高:たか)いから、(難:むずか)しいんじゃないかって」",
+    "example-en": "A: Can we solve this problem? B: Hmm, in the end, I think it's difficult because it takes time and costs a lot.",
+    "notes-ja": "「結局、...じゃないかって。」は、話し手がある議論や状況の最終的な結論を要約し、確認する際に使う口語的な表現。「結局」は「in the end」や「ultimately」の意味で、最終的な結果を示します。「...じゃないかって。」は「isn't it...?」の意味で、相手に対して確認を求めています。",
+    "notes-en": "'Kekkyoku, ... ja nai ka tte.' is a colloquial expression used when the speaker wants to summarize and confirm the final conclusion of a discussion or situation. 'Kekkyoku' means 'in the end' or 'ultimately', indicating the final result. '... ja nai ka tte.' means 'isn't it...?', seeking confirmation from the listener."
+  },
+  {
     "date": "2026.01.24",
     "day": "Sat",
     "number": 654,
