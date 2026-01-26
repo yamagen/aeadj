@@ -1,5 +1,48 @@
 [
   {
+    "date": "2026.01.23",
+    "day": "Fri",
+    "number": 653,
+    "index": "myouni",
+    "title": "Strangely,...",
+    "expression-ja": "(妙:みょう)に、...",
+    "roman-ja": "myou ni, ...",
+    "expression-en": "Strangely,...",
+    "variants-ja": [
+      "不思議:ふしぎ)に、...",
+      "変:へん)に、...",
+      "奇妙:きみょう)に、..."
+    ],
+    "variants-en": ["Strangely,...", "Wonderfully,...", "Oddly,..."],
+    "intent-ja": ["異常性の表現", "感覚の強調", "状況の説明"],
+    "intent-en": [
+      "expression of abnormality",
+      "emphasis of sensation",
+      "explanation of situation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "異常性表現",
+      "感覚強調表現",
+      "状況説明表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of abnormality",
+      "expression of sensation emphasis",
+      "expression of situation explanation"
+    ],
+    "adjusted-expression-ja": "(妙:みょう)に(感じ:かんじ)られるのですが、...",
+    "adjusted-expression-en": "It feels strange, but ...",
+    "img-sub": "myouni01.png",
+    "example-ja": "A「(最近:さいきん)、(疲:つか)れやすいなあ」 B「うん、(妙:みょう)に(体:からだ)が(重:おも)いし、(眠:ねむ)れないこともあるよね」",
+    "example-en": "A: I've been getting tired easily lately. B: Yeah, my body feels strangely heavy, and sometimes I can't sleep.",
+    "notes-ja": "「妙に、...」は、話し手がある感覚や状況が通常とは異なることを強調して表現する際に使う口語的な表現。「妙に」は「strangely」や「oddly」の意味で、異常性や違和感を示します。",
+    "notes-en": "'Myou ni, ...' is a colloquial expression used when the speaker wants to emphasize that a certain sensation or situation is different from the usual. 'Myou ni' means 'strangely' or 'oddly', indicating abnormality or discomfort."
+  },
+  {
     "date": "2026.01.22",
     "day": "Thu",
     "number": 652,
