@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.01.26",
+    "day": "Mon",
+    "number": 656,
+    "index": "tekurenai",
+    "title": "Could you...?",
+    "expression-ja": "...てくれない？",
+    "roman-ja": "... te kurenai?",
+    "expression-en": "Could you...?",
+    "variants-ja": [
+      "...てくれませんか？",
+      "...てもらえますか？",
+      "...ていただけますか？"
+    ],
+    "variants-en": [
+      "Could you...?",
+      "Would you mind...?",
+      "Could I ask you to...?"
+    ],
+    "intent-ja": ["依頼の表現", "丁寧なお願い", "協力の要請"],
+    "intent-en": [
+      "expression of request",
+      "polite request",
+      "solicitation of cooperation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "依頼表現",
+      "丁寧お願い表現",
+      "協力要請表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of request",
+      "expression of polite request",
+      "expression of solicitation of cooperation"
+    ],
+    "adjusted-expression-ja": "...ていただけますか？",
+    "adjusted-expression-en": "Could I ask you to...?",
+    "img-sub": "tekurenai01.png",
+    "example-ja": "A「(手伝:てつだ)ってくれる？」 B「うん、いいよ」",
+    "example-en": "A: Could you help me? B: Sure, no problem.",
+    "notes-ja": "...てくれない？は、話し手が相手に対して何かをしてもらいたいときに使うかなりカジュアルな依頼表現。「...てくれない？」は「could you...?」の意味で、相手に対してお願いしています。話し手は、相手に協力を求める際にこの表現を使い、親しみやすい雰囲気を作り出しています。",
+    "notes-en": "'... te kurenai?' is a fairly casual request expression used when the speaker wants the listener to do something for them. '... te kurenai?' means 'could you...?', making a request to the listener. The speaker uses this expression when seeking cooperation from the listener, creating a friendly atmosphere."
+  },
+  {
     "date": "2026.01.25",
     "day": "Sun",
     "number": 655,
