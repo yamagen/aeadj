@@ -1,4 +1,28 @@
 [
+- そこは切り替えて (sokowa kirikaete) - "Switch gears there"
+  {
+    "date": "2026.01.29",
+    "day": "Thu",
+    "number": 659,
+    "index": "kirikaete",
+    "title": "Switch gears there.",
+    "expression-ja": "そこは(切:き)り(替:か)えて。",
+    "roman-ja": "soko wa kirikaete.",
+    "expression-en": "Switch gears there.",
+    "variants-ja": ["そこは(変:か)えて。", "そこは(転換:てんかん)して。", "そこは(切替:きりか)しなさい。"],
+    "variants-en": ["Switch gears there.", "Change it there.", "Make a switch there."],
+    "intent-ja": ["行動の指示", "状況の変化の促進", "柔軟な対応の提案"],
+    "intent-en": ["instruction of action", "promotion of situation change", "suggestion of flexible response"],
+    "tags-ja": ["即時文法", "口語", "行動指示表現", "状況変化促進表現", "柔軟対応提案表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of action instruction", "expression of situation change promotion", "expression of flexible response suggestion"],
+    "adjusted-expression-ja": "そういうときは、(考:かんが)え(方:かた)を(柔軟:じゅうなん)にして(対応:たいおう)してください。",
+    "adjusted-expression-en": "In such cases, please think flexibly and respond accordingly.",
+    "img-sub": "kirikaete01.png",
+    "example-ja": "A「(仕事:しごと)が(忙:いそが)しくて、(疲:つか)れたよ」 B「そういうときは、そこは(切:き)り(替:か)えて、(気分:きぶん)を(変:か)えたほうがいいよ」",
+    "example-en": "A: I'm busy with work and tired. B: In such cases, switch gears there and change your mood.",
+    "notes-ja": "「そこは切り替えて。」は、話し手が相手に対して特定の状況や感情から別のものに意識や行動を変えるよう促す際に使う口語的な表現。「そこは」は「there」の意味で、特定の状況や感情を指します。「切り替えて。」は「switch gears」の意味で、意識や行動を変えることを示します。話し手は、相手に対して柔軟な対応を提案し、状況の変化を促しています。",
+    "notes-en": "'Soko wa kirikaete.' is a colloquial expression used when the speaker wants to encourage the listener to change their focus or actions from a specific situation or emotion to another. 'Soko wa' means 'there', referring to a specific situation or emotion. 'Kirikaete.' means 'switch gears', indicating a change in focus or actions. The speaker suggests a flexible response to the listener and promotes a change in the situation."
+  },
   {
     "date": "2026.01.28",
     "day": "Wed",
