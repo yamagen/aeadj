@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.01.28",
+    "day": "Wed",
+    "number": 658,
+    "index": "sorechigauyo",
+    "title": "That's wrong.",
+    "expression-ja": "それ、(違:ちが)うよ。",
+    "roman-ja": "sore, chigau yo.",
+    "expression-en": "That's wrong.",
+    "variants-ja": ["それ、(間違:まちが)ってるよ。", "それ、(違:ちが)いますよ。", "それ、(誤解:ごかい)だよ。"],
+    "variants-en": ["That's wrong.", "That's incorrect.", "That's a misunderstanding."],
+    "intent-ja": ["誤りの指摘", "訂正の表現", "理解の促進"],
+    "intent-en": ["pointing out mistakes", "expression of correction", "promotion of understanding"],
+    "tags-ja": ["即時文法", "口語", "誤り指摘表現", "訂正表現", "理解促進表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of mistake pointing out", "expression of correction", "expression of understanding promotion"],
+    "adjusted-expression-ja": "それは、(間違:まちが)っています。",
+    "adjusted-expression-en": "That is incorrect.",
+    "img-sub": "sorechigauyo01.png",
+    "example-ja": "A「これは、(私:わたし)がもらったもの」 B「ううん、それ、(違:ちが)うよ。みんながもらったものだよ」",
+    "example-en": "A: This is mine. I got this. B: No, that's wrong. Everyone got it.",
+    "notes-ja": "「それ、違うよ。」は、話し手が相手の発言や行動に対して誤りを指摘し、訂正を行う際に使う口語的な表現。「それ」は「that」の意味で、特定の対象を指します。「違うよ。」は「that's wrong」の意味で、相手の認識や行動が正しくないことを伝えています。話し手は、相手に対して正しい情報を提供し、理解を促進しています。",
+    "notes-en": "'Sore, chigau yo.' is a colloquial expression used when the speaker wants to point out a mistake in the listener's statement or action and make a correction. 'Sore' means 'that', referring to a specific object. 'Chigau yo.' means 'that's wrong', conveying that the listener's recognition or action is incorrect. The speaker provides the correct information to the listener and promotes understanding."
+  },
+  {
     "date": "2026.01.27",
     "day": "Tue",
     "number": 657,
