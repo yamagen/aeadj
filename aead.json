@@ -1,5 +1,27 @@
 [
-- そこは切り替えて (sokowa kirikaete) - "Switch gears there"
+  {
+    "date": "2026.01.30",
+    "day": "Fri",
+    "number": 660,
+    "index": "sonnakanjigasuru",
+    "title": "I have a feeling...",
+    "expression-ja": "そんな(感:かん)じがする。",
+    "roman-ja": "sonna kanji ga suru.",
+    "expression-en": "I have a feeling...",
+    "variants-ja": ["なんだか感じがする。", "どうも感じがする。", "妙な感じがする。"],
+    "variants-en": ["I have a feeling...", "Somehow, I feel...", "I have a strange feeling..."],
+    "intent-ja": ["直感の表現", "予感の共有", "感覚の伝達"],
+    "intent-en": ["expression of intuition", "sharing of premonition", "conveyance of sensation"],
+    "tags-ja": ["即時文法", "口語", "直感表現", "予感共有表現", "感覚伝達表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of intuition", "expression of premonition sharing", "expression of sensation conveyance"],
+    "adjusted-expression-ja": "なんとなくそんな(感:かん)じがします。",
+    "adjusted-expression-en": "Somehow, I have that kind of feeling.",
+    "img-sub": "sonnakanjigasuru01.png",
+    "example-ja": "A「(彼女:かのじょ)、(来:こ)ないかなあ？」 B「うん、そんな(感:かん)じがする。(来:き)たとして、ずいぶん(遅:おく)れて(来:く)るんじゃない？」",
+    "example-en": "A: I wonder if she won't come. B: Yes, I have a feeling that even if she comes, she'll be quite late.",
+    "notes-ja": "(そんな感じがする。)は、話し手がある状況や出来事に対して直感的な感覚を持っていることを伝える際に使う口語的な表現。「そんな」は「that kind of」の意味で、特定の状況や感覚を指します。「感じがする。」は「I have a feeling」の意味で、話し手の直感や予感を示します。話し手は、相手に対して自分の感覚を共有し、状況に対する直感的な理解を伝えています。",
+    "notes-en": "'Sonna kanji ga suru.' is a colloquial expression used when the speaker wants to convey that they have an intuitive feeling about a certain situation or event. 'Sonna' means 'that kind of', referring to a specific situation or sensation. 'Kanji ga suru.' means 'I have a feeling', indicating the speaker's intuition or premonition. The speaker shares their sensation with the listener and conveys their intuitive understanding of the situation."
+  },
   {
     "date": "2026.01.29",
     "day": "Thu",
@@ -14,7 +36,13 @@
     "intent-ja": ["行動の指示", "状況の変化の促進", "柔軟な対応の提案"],
     "intent-en": ["instruction of action", "promotion of situation change", "suggestion of flexible response"],
     "tags-ja": ["即時文法", "口語", "行動指示表現", "状況変化促進表現", "柔軟対応提案表現"],
-    "tags-en": ["immediate grammar", "spoken", "expression of action instruction", "expression of situation change promotion", "expression of flexible response suggestion"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of action instruction",
+      "expression of situation change promotion",
+      "expression of flexible response suggestion"
+    ],
     "adjusted-expression-ja": "そういうときは、(考:かんが)え(方:かた)を(柔軟:じゅうなん)にして(対応:たいおう)してください。",
     "adjusted-expression-en": "In such cases, please think flexibly and respond accordingly.",
     "img-sub": "kirikaete01.png",
