@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026.01.31",
+    "day": "Sat",
+    "number": 661,
+    "index": "a nanka hen na koto icchatte",
+    "title": "Ah, somehow, I said something weird,",
+    "expression-ja": "ああ、なんか、(変:へん)なこと、(言:い)っちゃって、",
+    "roman-ja": "ā, nanka, hen na koto, icchatte,",
+    "expression-en": "Ah, somehow, I said something weird,",
+    "variants-ja": [
+      "ああ、なんか、おかしなこと、(言:い)っちゃって、",
+      "ああ、なんか、(変:へん)なこと、(話:はな)しちゃって、",
+      "ああ、なんか、(変:へん)なこと、(言:い)ってしまって、"
+    ],
+    "variants-en": [
+      "Ah, somehow, I said something strange,",
+      "Ah, somehow, I talked about something weird,",
+      "Ah, somehow, I ended up saying something weird,"
+    ],
+    "intent-ja": ["謝罪の表現", "自己反省の共有", "会話の和らげ"],
+    "intent-en": ["expression of apology", "sharing of self-reflection", "softening of conversation"],
+    "tags-ja": ["即時文法", "口語", "謝罪表現", "自己反省共有表現", "会話和らげ表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of apology", "expression of self-reflection sharing", "expression of conversation softening"],
+    "adjusted-expression-ja": "(少々:しょうしょう)、(不適切:ふてきせつ)な(発言:はつげん)しまして、(申:もう)し(訳:わけ)ありませんでした。",
+    "adjusted-expression-en": "I made a slightly inappropriate remark, and I apologize.",
+    "img-sub": "anankahennakotoicchatte01.png",
+    "example-ja": "A「(昨日:きのう)、(会:あ)ったとき、(変:へん)なこと、(言:い)っちゃって、ごめんね」 B「ううん、(気:き)にしないで」",
+    "example-en": "A: Sorry for saying something weird when we met yesterday. B: No, don't worry about it.",
+    "notes-ja": "「ああ、なんか、変なこと、言っちゃって、」は、話し手が自分の発言が不適切または奇妙であったことを認識し、そのことについて謝罪や自己反省を表現する際に使う口語的な表現。「ああ」は驚きや気づきを示し、「なんか」は曖昧さを加えます。「変なこと、言っちゃって、」は「I said something weird」の意味で、話し手の発言に対する自己評価を示します。話し手は、相手に対して自分の発言について謝罪し、会話の雰囲気を和らげようとしています。",
+    "notes-en": "'Ā, nanka, hen na koto, icchatte,' is a colloquial expression used when the speaker recognizes that their statement was inappropriate or strange and wants to express an apology or self-reflection about it. 'Ā' indicates surprise or realization, while 'nanka' adds ambiguity. 'Hen na koto, icchatte,' means 'I said something weird', indicating the speaker's self-assessment of their statement. The speaker apologizes to the listener for their statement and tries to soften the atmosphere of the conversation."
+  },
+  {
     "date": "2026.01.30",
     "day": "Fri",
     "number": 660,
