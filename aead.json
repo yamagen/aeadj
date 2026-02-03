@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026.02.02",
+    "day": "Mon",
+    "number": 663,
+    "index": "sanpo shitari shiteru n desu kedo",
+    "title": "I take walks and do various things,...",
+    "expression-ja": "(散歩:さんぽ)したりしてるんですけど、",
+    "roman-ja": "sanpo shitari shiteru n desu kedo,",
+    "expression-en": "I take walks and do various things,...",
+    "variants-ja": [
+      "(散歩:さんぽ)したり、(買:か)い(物:もの)したりしてるんですけど、",
+      "(運動:うんどう)したりしてるんですけど、",
+      "(読書:どくしょ)したりしてるんですけど、"
+    ],
+    "variants-en": [
+      "I take walks and do shopping,...",
+      "I exercise and do various things,...",
+      "I read books and do various things,..."
+    ],
+    "intent-ja": ["活動の共有", "日常生活の説明", "会話の導入"],
+    "intent-en": ["sharing of activities", "explanation of daily life", "introduction to conversation"],
+    "tags-ja": ["即時文法", "口語", "活動共有表現", "日常生活説明表現", "会話導入表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of activity sharing", "expression of daily life explanation", "expression of conversation introduction"],
+    "adjusted-expression-ja": "たとえば、(散歩:さんぽ)、(読書:どくしょ)、(料理:りょうり)、などさまざまなことをしています。",
+    "adjusted-expression-en": "For example, I do various things such as taking walks, reading books, and cooking.",
+    "img-sub": "sanposhitari shiterun desukedo01.png",
+    "example-ja": "A「(最近:さいきん)、(暇:ひま)なの？」 B「うん、(散歩:さんぽ)したりしてるんですけど、(何:なに)かいい(趣味:しゅみ)があれば(教:おし)えてほしいな」",
+    "example-en": "A: Are you free lately? B: Yes, I take walks and do various things, but if you have any good hobbies, I'd like you to tell me.",
+    "notes-ja": "(散歩:さんぽ)したりしてるんですけど、は、さまざまなことをしていることを伝える際に使う口語的な表現。「したりしてるんですけど、」は「doing various things,...」の意味で、具体的な活動を列挙する前置きとして使われます。この場合の散歩は、いろいろなことの一例として挙げられています。",
+    "notes-en": "'(Sanpo) shitari shiteru n desu kedo,' is a colloquial expression used when the speaker wants to convey that they are doing various things. 'Shitari shiteru n desu kedo,' means 'doing various things,...', and is used as a prelude to listing specific activities. In this case, taking walks is mentioned as one example of various activities."
+  },
+  {
+    "date": "2026.02.01",
+    "day": "Sun",
+    "number": 662,
+    "index": "choudoii",
+    "title": "Just right.",
+    "expression-ja": "(丁度:ちょうど)いい。",
+    "roman-ja": "choudo ii.",
+    "expression-en": "Just right.",
+    "variants-ja": ["(ちょうど:丁度)いいね。", "(ぴったり)だね。", "(適切:てきせつ)だね。"],
+    "variants-en": ["Just right.", "It's perfect.", "It's appropriate."],
+    ;"intent-ja": ["適合性の表現", "満足感の共有", "評価の提示"],
+    "intent-en": ["expression of suitability", "sharing of satisfaction", "presentation of evaluation"],
+    "tags-ja": ["即時文法", "口語", "適合性表現", "満足感共有表現", "評価提示表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of suitability", "expression of satisfaction sharing", "expression of evaluation presentation"],
+    "adjusted-expression-ja": "(ちょうど:丁度)よいです。",
+    "adjusted-expression-en": "It is just right.",
+    "img-sub": "choudoii01.png",
+    "example-ja": "A「この(服:ふく)、(サイズ:さいず)、(丁度:ちょうど)いいね」 B「うん、(似合:にあ)ってるよ」",
+    "example-en": "A: This clothing is just right in size. B: Yes, it suits you.",
+    "notes-ja": "(丁度:ちょうど)いい。は、話し手がある物事や状況が適切であり、満足できる状態であることを伝える際に使う口語的な表現。「(丁度:ちょうど)いい。」は「just right」の意味で、適合性や満足感を示します。話し手は、相手に対してその対象が評価されていることを共有しています。",
+    "notes-en": "'(Choudo) ii.' is a colloquial expression used when the speaker wants to convey that a certain matter or situation is appropriate and satisfactory. '(Choudo) ii.' means 'just right', indicating suitability and satisfaction. The speaker shares with the listener that the object in question is being evaluated positively."
+  }
+  {
     "date": "2026.01.31",
     "day": "Sat",
     "number": 661,
