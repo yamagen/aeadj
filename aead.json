@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.02.03",
+    "day": "Tue",
+    "number": 664,
+    "index": "sugoi janai desu ka",
+    "title": "Isn't it amazing?",
+    "expression-ja": "すごいじゃないですか。",
+    "roman-ja": "sugoi ja nai desu ka.",
+    "expression-en": "Isn't it amazing?",
+    "variants-ja": ["(素晴:すば)らしいじゃないですか。", "(驚:おどろ)くべきじゃないですか。", "(感動:かんどう)的:てき)じゃないですか。"],
+    "variants-en": ["Isn't it wonderful?", "Isn't it surprising?", "Isn't it impressive?"],
+    "intent-ja": ["賞賛の表現", "感動の共有", "肯定的な評価"],
+    "intent-en": ["expression of praise", "sharing of emotion", "positive evaluation"],
+    "tags-ja": ["即時文法", "口語", "賞賛表現", "感動共有表現", "肯定的評価表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of praise", "expression of emotion sharing", "expression of positive evaluation"],
+    "adjusted-expression-ja": "それは、(素晴:すば)らしいですね。",
+    "adjusted-expression-en": "That's wonderful.",
+    "img-sub": "sugoijanai desuka01.png",
+    "example-ja": "A「(新:あたら)しい(車:くるま)、(買:か)ったんだ」 B「へえ、すごいじゃないですか。どんな(車:くるま)？」",
+    "example-en": "A: I bought a new car. B: Wow, isn't it amazing? What kind of car is it?",
+    "notes-ja": "「すごいじゃないですか。」は、話し手が相手の行動や成果に対して賞賛や感動を表現する際に使う口語的な表現。「すごい」は「amazing」や「wonderful」の意味で、肯定的な評価を示します。「じゃないですか。」は強調のニュアンスを持ち、話し手の感情を強く伝えます。話し手は、相手に対してその対象が高く評価されていることを共有しています。",
+    "notes-en": "'Sugoi ja nai desu ka.' is a colloquial expression used when the speaker wants to express praise or emotion towards the listener's actions or achievements. 'Sugoi' means 'amazing' or 'wonderful', indicating a positive evaluation. 'Ja nai desu ka.' carries a nuance of emphasis, strongly conveying the speaker's feelings. The speaker shares with the listener that the object in question is being highly evaluated."
+  },
+  {
     "date": "2026.02.02",
     "day": "Mon",
     "number": 663,
@@ -13,15 +36,17 @@
       "(運動:うんどう)したりしてるんですけど、",
       "(読書:どくしょ)したりしてるんですけど、"
     ],
-    "variants-en": [
-      "I take walks and do shopping,...",
-      "I exercise and do various things,...",
-      "I read books and do various things,..."
-    ],
+    "variants-en": ["I take walks and do shopping,...", "I exercise and do various things,...", "I read books and do various things,..."],
     "intent-ja": ["活動の共有", "日常生活の説明", "会話の導入"],
     "intent-en": ["sharing of activities", "explanation of daily life", "introduction to conversation"],
     "tags-ja": ["即時文法", "口語", "活動共有表現", "日常生活説明表現", "会話導入表現"],
-    "tags-en": ["immediate grammar", "spoken", "expression of activity sharing", "expression of daily life explanation", "expression of conversation introduction"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of activity sharing",
+      "expression of daily life explanation",
+      "expression of conversation introduction"
+    ],
     "adjusted-expression-ja": "たとえば、(散歩:さんぽ)、(読書:どくしょ)、(料理:りょうり)、などさまざまなことをしています。",
     "adjusted-expression-en": "For example, I do various things such as taking walks, reading books, and cooking.",
     "img-sub": "sanposhitari shiterun desukedo01.png",
@@ -41,7 +66,7 @@
     "expression-en": "Just right.",
     "variants-ja": ["(ちょうど:丁度)いいね。", "(ぴったり)だね。", "(適切:てきせつ)だね。"],
     "variants-en": ["Just right.", "It's perfect.", "It's appropriate."],
-    ;"intent-ja": ["適合性の表現", "満足感の共有", "評価の提示"],
+    "intent-ja": ["適合性の表現", "満足感の共有", "評価の提示"],
     "intent-en": ["expression of suitability", "sharing of satisfaction", "presentation of evaluation"],
     "tags-ja": ["即時文法", "口語", "適合性表現", "満足感共有表現", "評価提示表現"],
     "tags-en": ["immediate grammar", "spoken", "expression of suitability", "expression of satisfaction sharing", "expression of evaluation presentation"],
@@ -52,7 +77,7 @@
     "example-en": "A: This clothing is just right in size. B: Yes, it suits you.",
     "notes-ja": "(丁度:ちょうど)いい。は、話し手がある物事や状況が適切であり、満足できる状態であることを伝える際に使う口語的な表現。「(丁度:ちょうど)いい。」は「just right」の意味で、適合性や満足感を示します。話し手は、相手に対してその対象が評価されていることを共有しています。",
     "notes-en": "'(Choudo) ii.' is a colloquial expression used when the speaker wants to convey that a certain matter or situation is appropriate and satisfactory. '(Choudo) ii.' means 'just right', indicating suitability and satisfaction. The speaker shares with the listener that the object in question is being evaluated positively."
-  }
+  },
   {
     "date": "2026.01.31",
     "day": "Sat",
