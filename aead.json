@@ -1,4 +1,52 @@
 [
+- ...したばかりに、 (...shita bakari ni,) - "Just because I/you/we...,"
+  {
+    "date": "2026.02.06",
+    "day": "Fri",
+    "number": 667,
+    "index": "shita bakari ni",
+    "title": "Just because I/you/we...,",
+    "expression-ja": "...したばかりに、",
+    "roman-ja": "... shita bakari ni,",
+    "expression-en": "Just because I/you/we...,",
+    "variants-ja": [
+      "...しただけで、",
+      "...したせいで、",
+      "...したために、"
+    ],
+    "variants-en": [
+      "Just by doing...,",
+      "Because of doing...,",
+      "Due to doing...,"
+    ],
+    "intent-ja": ["原因の表現", "結果の説明", "状況の共有"],
+    "intent-en": [
+      "expression of cause",
+      "explanation of result",
+      "sharing of situation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "原因表現",
+      "結果説明表現",
+      "状況共有表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of cause",
+      "expression of result explanation",
+      "expression of situation sharing"
+    ],
+    "adjusted-expression-ja": "...したために、(悪:わる)い(結果:けっか)になってしまいました。",
+    "adjusted-expression-en": "Due to doing..., a bad result occurred.",
+    "img-sub": "shitabakari ni01.png",
+    "example-ja": "A「(昨日:きのう)、(夜遅:よるおそ)くまで(遊:あそ)んだばかりに、(眠:ねむ)くてたまらないよ」 B「それは(大変:たいへん)」",
+    "example-en": "A: Just because I played until late at night yesterday, I'm so sleepy. B: That's tough.",
+    "notes-ja": "「...したばかりに、」は、話し手がある行動や出来事が原因で特定の結果や状況が生じたことを説明する際に使う口語的な表現。",
+    "notes-en": "'... shita bakari ni,' is a colloquial expression used when the speaker wants to explain that a certain action or event caused a specific result or situation."
+  },
   {
     "date": "2026.02.05",
     "day": "Thu",
