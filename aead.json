@@ -1,5 +1,4 @@
 [
-- ...したばかりに、 (...shita bakari ni,) - "Just because I/you/we...,"
   {
     "date": "2026.02.06",
     "day": "Fri",
@@ -9,11 +8,7 @@
     "expression-ja": "...したばかりに、",
     "roman-ja": "... shita bakari ni,",
     "expression-en": "Just because I/you/we...,",
-    "variants-ja": [
-      "...しただけで、",
-      "...したせいで、",
-      "...したために、"
-    ],
+    "variants-ja": ["...しただけで、", "...したせいで、", "...したために、"],
     "variants-en": [
       "Just by doing...,",
       "Because of doing...,",
@@ -25,13 +20,7 @@
       "explanation of result",
       "sharing of situation"
     ],
-    "tags-ja": [
-      "即時文法",
-      "口語",
-      "原因表現",
-      "結果説明表現",
-      "状況共有表現"
-    ],
+    "tags-ja": ["即時文法", "口語", "原因表現", "結果説明表現", "状況共有表現"],
     "tags-en": [
       "immediate grammar",
       "spoken",
