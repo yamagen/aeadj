@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.02.07",
+    "day": "Sat",
+    "number": 668,
+    "index": "...o tsukai tsutsu,",
+    "title": "While using ...",
+    "expression-ja": "...を(使:つか)いつつ、",
+    "roman-ja": "...o tsukai tsutsu,",
+    "expression-en": "While using ...",
+    "variants-ja": [
+      "...を(利用:りよう)しつつ、",
+      "...を(活用:かつよう)しつつ、",
+      "...を(用:もち)いながら、"
+    ],
+    "variants-en": [
+      "While utilizing ...",
+      "While making use of ...",
+      "While employing ..."
+    ],
+    "intent-ja": ["同時進行の表現", "行動の説明", "状況の共有"],
+    "intent-en": [
+      "expression of simultaneous progression",
+      "explanation of action",
+      "sharing of situation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "同時進行表現",
+      "行動説明表現",
+      "状況共有表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of simultaneous progression",
+      "expression of action explanation",
+      "expression of situation sharing"
+    ],
+    "adjusted-expression-ja": "...を(使:つか)いながら、(作業:さぎょう)をしています。",
+    "adjusted-expression-en": "I am working while using ...",
+    "img-sub": "o tsukai tsutsu01.png",
+    "example-ja": "A「(新:あたら)しい(ソフト:そふと)、(使:つか)ってみた？」 B「うん、...(機能:きのう)、(使:つか)いつつ、(操作:そうさ)に(慣:な)れてるところ」",
+    "example-en": "A: Have you tried using the new software? B: Yes, I'm getting used to the operation while using its features.",
+    "notes-ja": "...を使いつつ、は、話し手がある行動や状況が同時に進行していることを説明する際に使う口語的な表現。「...を使いつつ、」は「while using ...」の意味で、特定の行動や状況を指します。",
+    "notes-en": "'... o tsukai tsutsu,' is a colloquial expression used when the speaker wants to explain that a certain action or situation is progressing simultaneously. '... o tsukai tsutsu,' means 'while using ...', referring to a specific action or situation."
+  },
+  {
     "date": "2026.02.06",
     "day": "Fri",
     "number": 667,
