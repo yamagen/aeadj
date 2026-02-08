@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.02.08",
+    "day": "Sun",
+    "number": 669,
+    "index": "kizuitarashitemashita",
+    "title": "Before I knew it, I was ... .",
+    "expression-ja": "(気:き)づいたら、...してました。",
+    "roman-ja": "kizuitara ... shitemashita.",
+    "expression-en": "Before I knew it, I was ... .",
+    "variants-ja": [
+      "(気:き)づいたときには、...していました。",
+      "(気:き)づかないうちに、...していました。",
+      "(気:き)づいた瞬間に、...していました。"
+    ],
+    "variants-en": [
+      "When I realized it, I was ... .",
+      "Without noticing, I was ... .",
+      "The moment I noticed, I was ... ."
+    ],
+    "intent-ja": ["無意識の行動の表現", "時間の経過の共有", "出来事の説明"],
+    "intent-en": [
+      "expression of unconscious actions",
+      "sharing of time passage",
+      "explanation of events"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "無意識行動表現",
+      "時間経過共有表現",
+      "出来事説明表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of unconscious actions",
+      "expression of time passage sharing",
+      "expression of event explanation"
+    ],
+    "adjusted-expression-ja": "(気:き)づいたときには、(仕事:しごと)を(終:お)えていました。",
+    "adjusted-expression-en": "When I realized it, I had finished my work.",
+    "img-sub": "kizuitara ... shitemashita01.png",
+    "example-ja": "A「(昨日:きのう)、(寝:ね)るつもりが、(気:き)づいたら、(朝:あさ)まで(映画:えいが)を(見:み)てしまってたよ」 B「それは(大変:たいへん)だね」",
+    "example-en": "A: I intended to sleep yesterday, but before I knew it, I ended up watching movies until morning. B: That's tough.",
+    "notes-ja": "(気:き)づいたら、...してました。は、話し手が無意識のうちにある行動をしてしまったことを伝える際に使う口語的な表現。「気づいたら」は「before I knew it」の意味で、時間の経過や出来事の突然の認識を示します。「...してました。」は「I was ...」の意味で、特定の行動を指します。",
+    "notes-en": "'Kizuitara, ... shitemashita.' is a colloquial expression used when the speaker wants to convey that they performed a certain action unconsciously. 'Kizuitara' means 'before I knew it', indicating the passage of time or sudden recognition of an event. '... shitemashita.' means 'I was ...', referring to a specific action."
+  },
+  {
     "date": "2026.02.07",
     "day": "Sat",
     "number": 668,
