@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.02.10",
+    "day": "Tue",
+    "number": 671,
+    "index": "tondemo nai apuri desu yo",
+    "title": "It's an incredible app.",
+    "expression-ja": "とんでもない(アプリ:あぷり)ですよ。",
+    "roman-ja": "tondemo nai apuri desu yo.",
+    "expression-en": "It's an incredible app.",
+    "variants-ja": [
+      "すごい(アプリ:あぷり)ですよ。",
+      "驚:おどろ)くべき(アプリ:あぷり)ですよ。",
+      "画期的:かっきてき)な(アプリ:あぷり)ですよ。"
+    ],
+    "variants-en": [
+      "It's an amazing app.",
+      "It's a surprising app.",
+      "It's a groundbreaking app."
+    ],
+    "intent-ja": ["賞賛の表現", "感動の共有", "肯定的な評価"],
+    "intent-en": [
+      "expression of praise",
+      "sharing of emotion",
+      "positive evaluation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "賞賛表現",
+      "感動共有表現",
+      "肯定的評価表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of praise",
+      "expression of emotion sharing",
+      "expression of positive evaluation"
+    ],
+    "adjusted-expression-ja": "それは、(素晴:すば)らしい(アプリ:あぷり)ですね。",
+    "adjusted-expression-en": "That's a wonderful app.",
+    "img-sub": "tondemonai apuri desuyo01.png",
+    "example-ja": "A「この(新:あたら)しい(アプリ:あぷり)、(使:つか)ってみた？」 B「うん、とんでもない(アプリ:あぷり)ですよ。すごく(便利:べんり)で(役立:やくだ)つ」",
+    "example-en": "A: Have you tried using this new app? B: Yes, it's an incredible app. It's very convenient and useful.",
+    "notes-ja": "「とんでもない...ですよ」は、話し手が特定の...に対して賞賛や感動を表現する際に使う口語的な表現。「とんでもない」は「incredible」や「amazing」の意味で、肯定的な評価を示します。",
+    "notes-en": "'Tondemo nai... desu yo' is a colloquial expression used when the speaker wants to express praise or amazement towards a specific ... . 'Tondemo nai' means 'incredible' or 'amazing', indicating a positive evaluation."
+  },
+  {
     "date": "2026.02.09",
     "day": "Mon",
     "number": 670,
