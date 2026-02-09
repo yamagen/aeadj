@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.02.09",
+    "day": "Mon",
+    "number": 670,
+    "index": "...toka arun desu yo",
+    "title": "There are things like ...",
+    "expression-ja": "...とか(ある:あ)んですよ。",
+    "roman-ja": "...toka arun desu yo.",
+    "expression-en": "There are things like ...",
+    "variants-ja": [
+      "...など(あります:あります)よ。",
+      "...とか(存在:そんざい)するんですよ。",
+      "...とか(見:み)かけるんですよ。"
+    ],
+    "variants-en": [
+      "There are things such as ...",
+      "There exist things like ...",
+      "You can find things like ..."
+    ],
+    "intent-ja": ["例示の表現", "情報の共有", "状況の説明"],
+    "intent-en": [
+      "expression of exemplification",
+      "sharing of information",
+      "explanation of situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "例示表現", "情報共有表現", "状況説明表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of exemplification",
+      "expression of information sharing",
+      "expression of situation explanation"
+    ],
+    "adjusted-expression-ja": "...などが(存在:そんざい)します。",
+    "adjusted-expression-en": "There exist things such as ...",
+    "img-sub": "toka arun desu yo01.png",
+    "example-ja": "A「(最近:さいきん)、(面白:おもしろ)い(本:ほん)、(読:よ)んだ？」 B「うん、今迄にあまり見掛けない(ジャンル:じゃんる)とか(ある:あ)んですよ」",
+    "example-en": "A: Have you read any interesting books lately? B: Yes, there are genres that I haven't seen much until now.",
+    "notes-ja": "...とかあるんですよ。は、話し手が特定の例や種類を挙げて情報を共有する際に使う口語的な表現。「...とか」は「things like ...」の意味で、具体的な例を示します。",
+    "notes-en": "'... toka arun desu yo.' is a colloquial expression used when the speaker wants to share information by providing specific examples or types. "
+  },
+  {
     "date": "2026.02.08",
     "day": "Sun",
     "number": 669,
