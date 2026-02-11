@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.02.11",
+    "day": "Wed",
+    "number": 672,
+    "index": "...ai ga afureru",
+    "title": "Overflowing with ... love",
+    "expression-ja": "...(愛:あい)があふれる。",
+    "roman-ja": "...ai ga afureru.",
+    "expression-en": "Overflowing with ... love",
+    "variants-ja": [
+      "...(愛情:あいじょう)があふれる。",
+      "...(思:おも)いやりがあふれる。",
+      "...(優:やさ)しさがあふれる。"
+    ],
+    "variants-en": [
+      "Overflowing with ... affection.",
+      "Overflowing with ... compassion.",
+      "Overflowing with ... kindness."
+    ],
+    "intent-ja": ["感情の表現", "愛情の共有", "肯定的な評価"],
+    "intent-en": [
+      "expression of emotion",
+      "sharing of affection",
+      "positive evaluation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "感情表現",
+      "愛情共有表現",
+      "肯定的評価表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of emotion",
+      "expression of affection sharing",
+      "expression of positive evaluation"
+    ],
+    "adjusted-expression-ja": "...には、(深:ふか)い(愛:あい)があります。",
+    "adjusted-expression-en": "There is deep ... love.",
+    "img-sub": "aigaaafureru01.png",
+    "example-ja": "A「この(映画:えいが)、(感動:かんどう)的:てき)だったね」 B「うん、...(愛:あい)があふれる(ストーリー:すとーりー)で、(心:こころ)に(響:ひび)いたよ」",
+    "example-en": "A: This movie was moving, wasn't it? B: Yes, the story overflowing with ... love resonated with my heart.",
+    "notes-ja": "...(愛:あい)があふれる。は、話し手が特定の対象や状況に対して深い愛情や感情が満ち溢れていることを表現する際に使う口語的な表現。「あふれる」は「overflowing」の意味で、感情の豊かさや強さを示します。",
+    "notes-en": "'... (ai) ga afureru.' is a colloquial expression used when the speaker wants to express that deep affection or emotion is overflowing towards a specific object or situation. 'Afureru' means 'overflowing', indicating the richness and intensity of emotions."
+  },
+  {
     "date": "2026.02.10",
     "day": "Tue",
     "number": 671,
