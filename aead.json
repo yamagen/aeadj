@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.02.14",
+    "day": "Sat",
+    "number": 675,
+    "index": "tokorodeshitayo",
+    "title": "I almost...",
+    "expression-ja": "...ところでしたよ。",
+    "roman-ja": "tokoro deshita yo.",
+    "expression-en": "I almost...",
+    "variants-ja": [
+      "(危:あぶ)ないところでしたよ。",
+      "(助:たす)かったところでしたよ。",
+      "(間一髪:かんいっぱつ)でしたよ。"
+    ],
+    "variants-en": [
+      "I was in a dangerous situation.",
+      "I was saved just in time.",
+      "It was a close call."
+    ],
+    "intent-ja": ["危険の表現", "救済の共有", "緊迫感の伝達"],
+    "intent-en": [
+      "expression of danger",
+      "sharing of rescue",
+      "conveyance of tension"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "危険表現",
+      "救済共有表現",
+      "緊迫感伝達表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of danger",
+      "expression of rescue sharing",
+      "expression of tension conveyance"
+    ],
+    "adjusted-expression-ja": "(危:あぶ)ない(状況:じょうきょう)でした。",
+    "adjusted-expression-en": "It was a dangerous situation.",
+    "img-sub": "tokorodeshitayo01.png",
+    "example-ja": "A「(車:くるま)に(轢:ひ)かれそうになったんだ」 B「ええ、(危:あぶ)ないところでしたよ」",
+    "example-en": "A: I almost got hit by a car. B: Wow, that was a close call.",
+    "notes-ja": "ところでしたよ。は、話し手がある出来事や状況が非常に危険だったことを伝える際に使う口語的な表現。「ところでしたよ。」は「I almost...」の意味で、特定の行動や出来事が起こりそうになったことを示します。",
+    "notes-en": "'Tokoro deshita yo.' is a colloquial expression used when the speaker wants to convey that a certain event or situation was very dangerous. 'Tokoro deshita yo.' means 'I almost...', indicating that a specific action or event was about to happen. The speaker shares with the listener that the situation was dangerous."
+  },
+  {
     "date": "2026.02.13",
     "day": "Fri",
     "number": 674,
