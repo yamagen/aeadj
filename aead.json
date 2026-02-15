@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.02.15",
+    "day": "Sun",
+    "number": 676,
+    "index": "sonnamoniranaiyo",
+    "title": "I don't need that kind of thing.",
+    "expression-ja": "そんなもん、いらないよ。",
+    "roman-ja": "sonna mon, iranai yo.",
+    "expression-en": "I don't need that kind of thing.",
+    "variants-ja": [
+      "そんなもの、いらないよ。",
+      "そんなこと、いらないよ。",
+      "そんなの、いらないよ。"
+    ],
+    "variants-en": [
+      "I don't need that kind of thing.",
+      "I don't need that kind of matter.",
+      "I don't need that kind of stuff."
+    ],
+    "intent-ja": ["否定の表現", "必要性の否定", "感情の共有"],
+    "intent-en": [
+      "expression of negation",
+      "denial of necessity",
+      "sharing of feelings"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "否定表現",
+      "必要性否定表現",
+      "感情共有表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of negation",
+      "expression of denial of necessity",
+      "expression of feelings sharing"
+    ],
+    "adjusted-expression-ja": "そんなものは、(必要:ひつよう)ありません。",
+    "adjusted-expression-en": "I don't need that kind of thing.",
+    "img-sub": "sonnamoniranaiyo01.png",
+    "example-ja": "A「(新:あたら)しい(ガジェット:がじぇっと)を(買:か)ったよ」 B「そんなもん、いらないよ」",
+    "example-en": "A: I bought a new gadget. B: I don't need that kind of thing.",
+    "notes-ja": "「そんなもん、いらないよ。」は、話し手がある物事や状況に対して否定的な感情を表現する際に使う口語的な表現。「そんなもん」は「that kind of thing」の意味で、特定の物事や状況を指します。「いらないよ」は「I don't need it」の意味で、必要性の否定を示します。",
+    "notes-en": "'Sonna mon, iranai yo.' is a colloquial expression used when the speaker wants to express a negative feeling towards a certain matter or situation. 'Sonna mon' means 'that kind of thing', referring to a specific matter or situation. 'Iranai yo' means 'I don't need it', indicating a denial of necessity."
+  },
+  {
     "date": "2026.02.14",
     "day": "Sat",
     "number": 675,
