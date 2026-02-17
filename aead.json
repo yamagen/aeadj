@@ -9,9 +9,9 @@
     "roman-ja": "ochitsuite.",
     "expression-en": "Calm down.",
     "variants-ja": [
-      "(落:おち)着いてください。",
-      "(落:おち)ち着いてください。",
-      "(落:おち)ち着いて。"
+      "(落:おち)ついてください。",
+      "(落:おち)つきましょう。",
+      "まあ、(落:おち)ついて。"
     ],
     "variants-en": ["Please calm down.", "Calm down, please.", "Calm down."],
     "intent-ja": ["安心の表現", "感情のコントロールの促し", "状況の共有"],
@@ -40,7 +40,7 @@
     "example-ja": "(落:おち)ついて。(大丈夫:だいじょうぶ)だから。",
     "example-en": "Calm down. It's going to be okay.",
     "notes-ja": "話し手が相手に対して安心感を与え、感情をコントロールするよう促す際に使う口語的な表現。「落ちつく」という複合動詞です。",
-    "notes-en": "'Ochitsuite.' is a colloquial expression used when the speaker wants to provide reassurance to the listener and encourage them to control their emotions. It is a compound verb formed from 'ochi' (fall) and 'tsuku' (atache), meaning 'to calm down' or 'to settle down'."
+    "notes-en": "'Ochitsuite.' is a colloquial expression used when the speaker wants to provide reassurance to the listener and encourage them to control their emotions. It is a compound verb formed from 'ochi' (to fall) and 'tsuku' (to attach), meaning 'to calm down' or 'to settle down'."
   },
   {
     "date": "2026.02.15",
