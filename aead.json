@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.02.20",
+    "day": "Fri",
+    "number": 681,
+    "index": "masuyone",
+    "title": "Isn't it...?",
+    "expression-ja": "ますよね。",
+    "roman-ja": "...masu yo ne.",
+    "expression-en": "Isn't it...?",
+    "variants-ja": ["ですよね。"],
+    "variants-en": ["Isn't it...?", "Right...?"],
+    "intent-ja": ["同意の表現", "確認の共有", "共感の表現"],
+    "intent-en": ["expression of agreement", "sharing of confirmation", "expression of empathy"],
+    "tags-ja": ["即時文法", "口語", "同意表現", "確認共有表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of agreement", "expression of confirmation sharing"],
+    "adjusted-expression-ja": "そうしますよね。",
+    "adjusted-expression-en": "That's right, isn't it?",
+    "img-sub": "masuyone01.png",
+    "example-ja": "(普通:ふつう)、こういうときは(簡単:かんたん)に(同意:どうい)します」 B「ますよね」",
+    "example-en": "A: Normally, in situations like this, we easily agree. B: That's right, isn't it?",
+    "notes-ja": "「...ますよね」は、聞き手がある発言に対して同意する際に使う口語的な表現。",
+    "notes-en": "'...masu yo ne.' is a colloquial expression used when the listener wants to agree with a certain statement."
+  },
+  {
     "date": "2026.02.19",
     "day": "Thu",
     "number": 680,
