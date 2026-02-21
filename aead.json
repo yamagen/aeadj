@@ -1,5 +1,44 @@
 [
   {
+    "date": "2026.02.22",
+    "day": "Sun",
+    "number": 683,
+    "index": "moshikashitara",
+    "title": "Perhaps, ...",
+    "expression-ja": "もしかしたら、...",
+    "roman-ja": "moshikashitara, ...",
+    "expression-en": "Perhaps, ...",
+    "variants-ja": ["もしかすると、...", "もしかして、..."],
+    "variants-en": ["Perhaps, ...", "Maybe, ..."],
+    "intent-ja": ["可能性の表現", "推測の共有", "不確実性の伝達"],
+    "intent-en": [
+      "expression of possibility",
+      "sharing of speculation",
+      "conveyance of uncertainty"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "可能性表現",
+      "推測共有表現",
+      "不確実性伝達表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of possibility",
+      "expression of speculation sharing",
+      "expression of uncertainty conveyance"
+    ],
+    "adjusted-expression-ja": "もしかしたら、それは、(本当:ほんとう)かもしれません。",
+    "adjusted-expression-en": "Perhaps that might be true.",
+    "img-sub": "moshikashitara01.png",
+    "example-ja": "A「もしかしたら、(今日:きょう)、(雨:あめ)が(降:ふ)るかもしれないね」 B「うん、(傘:かさ)を(持:も)っていったほうがいいかもね」",
+    "example-en": "A: Perhaps it might rain today. B: Yes, maybe you should take an umbrella.",
+    "notes-ja": "「もしかしたら、...」は、話し手がある事柄について可能性や推測を表現したいときに使う口語的な表現。「もしかしたら」は「perhaps」の意味で、不確実な状況や予測を示します。",
+    "notes-en": "'Moshikashitara, ...' is a colloquial expression used when the speaker wants to express possibility or speculation about a certain matter. 'Moshikashitara' means 'perhaps', indicating an uncertain situation or prediction."
+  },
+  {
     "date": "2026.02.21",
     "day": "Sat",
     "number": 682,
