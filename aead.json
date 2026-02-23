@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.02.23",
+    "day": "Mon",
+    "number": 684,
+    "index": "soredakedeiinonini",
+    "title": "That alone would be enough, but...",
+    "expression-ja": "それだけでいいのに...",
+    "roman-ja": "sore dake de ii no ni.",
+    "expression-en": "That alone would be enough, but...",
+    "variants-ja": [
+      "それだけで十分なのに。",
+      "それだけで満足なのに。",
+      "それだけで完璧なのに。"
+    ],
+    "variants-en": [
+      "That alone would be sufficient, but...",
+      "That alone would be satisfying, but...",
+      "That alone would be perfect, but..."
+    ],
+    "intent-ja": ["願望の表現", "理想の共有", "状況の説明"],
+    "intent-en": [
+      "expression of desire",
+      "sharing of ideal",
+      "explanation of situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "願望表現", "理想共有表現", "状況説明表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of desire",
+      "expression of ideal sharing",
+      "expression of situation explanation"
+    ],
+    "adjusted-expression-ja": "それだけで(:)十分です。",
+    "adjusted-expression-en": "That alone is sufficient.",
+    "img-sub": "soredakedeiinoni01.png",
+    "example-ja": "A「これに(新:あたら)しい(機能:きのう)を(追加:ついか)しておいたよ」 B「それだけでいいのに」",
+    "example-en": "A: I added a new feature to this. B: That alone would be enough.",
+    "notes-ja": "「それだけでいいのに。」は、特定の要素や条件があれば十分だと感じていることを伝える際に使う口語的な表現。「それだけ」は「that alone」の意味で、特定の要素や条件を指します。「いいのに」は「would be enough」の意味で、その要素や条件があれば十分だと感じていることを示します。",
+    "notes-en": "'Sore dake de ii no ni.' is a colloquial expression used when the speaker wants to convey that they feel a certain element or condition alone would be sufficient. 'Sore dake' means 'that alone', referring to a specific element or condition. 'Ii no ni' means 'would be enough', indicating that the speaker feels that if that element or condition is present, it would be sufficient."
+  },
+  {
     "date": "2026.02.22",
     "day": "Sun",
     "number": 683,
