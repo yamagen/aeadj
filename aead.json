@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.02.24",
+    "day": "Tue",
+    "number": 685,
+    "index": "maainnjanai",
+    "title": "Well, isn't it good?",
+    "expression-ja": "まあ、いいんじゃないですか。",
+    "roman-ja": "Maa, ii n janai desu ka.",
+    "expression-en": "Well, isn't it good?",
+    "variants-ja": [
+      "まあ、いいんじゃない？",
+      "まあ、いいんじゃないでしょうか？",
+      "まあ、いいんじゃないかな？"
+    ],
+    "variants-en": [
+      "Well, isn't it good?",
+      "Well, isn't it good, do you think?",
+      "Well, isn't it good, I wonder?"
+    ],
+    "intent-ja": ["同意の表現", "肯定的な評価の共有", "提案の表現"],
+    "intent-en": [
+      "expression of agreement",
+      "sharing of positive evaluation",
+      "expression of suggestion"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "同意表現",
+      "肯定的評価共有表現",
+      "提案表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of agreement",
+      "expression of positive evaluation sharing",
+      "expression of suggestion"
+    ],
+    "adjusted-expression-ja": "とりあえずは、それでよいのではないかと(思:おも)います。",
+    "adjusted-expression-en": "For now, I think that would be good enough.",
+    "img-sub": "maainnjanai01.png",
+    "example-ja": "A「この(アイデア:あいであ)、どう(思:おも)う？」 B「まあ、いいんじゃないですか」",
+    "example-en": "A: What do you think about this idea? B: Well, isn't it good?",
+    "notes-ja": "「まあ、いいんじゃないですか。」は、話し手がある事柄に対して同意や肯定的な評価を表現する際に使う口語的な表現。「まあ」は「well」の意味で、話し手がある程度の躊躇や控えめな態度を示すことがあります。「いいんじゃないですか」は「isn't it good?」の意味で、話し手がある事柄が良いと感じていることを伝えますが、同時に聞き手の意見も求めるニュアンスがあります。",
+    "notes-en": "'Mā, īn janai desu ka.' is a colloquial expression used when the speaker wants to express agreement or a positive evaluation about a certain matter. 'Mā' means 'well', indicating that the speaker may have some hesitation or a modest attitude. 'Iin janai desu ka' means 'isn't it good?', conveying that the speaker feels that a certain matter is good, but also has a nuance of seeking the listener's opinion."
+  },
+  {
     "date": "2026.02.23",
     "day": "Mon",
     "number": 684,
