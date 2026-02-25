@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.02.25",
+    "day": "Wed",
+    "number": 686,
+    "index": "souiufuuniwareruto",
+    "title": "When you put it that way, ...",
+    "expression-ja": "そういうふうに(言:い)われると、...",
+    "roman-ja": "sou iu fuu ni iwareru to, ...",
+    "expression-en": "When you put it that way, ...",
+    "variants-ja": [
+      "そういうふうに言われると、確かにそうですね。",
+      "そういうふうに言われると、考えさせられますね。",
+      "そういうふうに言われると、納得できますね。"
+    ],
+    "variants-en": [
+      "When you put it that way, that's certainly true.",
+      "When you put it that way, it makes me think.",
+      "When you put it that way, I can understand."
+    ],
+    "intent-ja": ["同意の表現", "考えの共有", "理解の促進"],
+    "intent-en": [
+      "expression of agreement",
+      "sharing of thoughts",
+      "encouragement of understanding"
+    ],
+    "tags-ja": ["即時文法", "口語", "同意表現", "考え共有表現", "理解促進表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of agreement",
+      "expression of thought sharing",
+      "expression of encouragement of understanding"
+    ],
+    "adjusted-expression-ja": "そういうふうに(言:い)われると、(確:たし)かにそうですね。",
+    "adjusted-expression-en": "When you put it that way, that's certainly true.",
+    "img-sub": "souiuhuuniwareruto01.png",
+    "example-ja": "A「この(問題:もんだい)、(複雑:ふくざつ)に(見:み)えるけど、ここに(線:せん)を(引:ひ)けば、(簡単:かんたん)だよね」 B「そういうふうに(言:い)われると、(確:たし)かにそうですね」",
+    "example-en": "A: This quiz looks complicated, but if you draw a line here, it's simple, right? B: When you put it that way, that's certainly true.",
+    "notes-ja": "「そういうふうに言われると、...」は、話し手がある発言や意見に対して同意や理解を示す際に使う口語的な表現。「そういうふうに」は「when you put it that way」の意味で、前の文や状況を受けて、相手の意見や考え方を尊重するニュアンスがあります。",
+    "notes-en": "'Sou iu fū ni iwareru to, ...' is a colloquial expression used when the speaker wants to show agreement or understanding towards a certain statement or opinion. 'Sou iu fū ni' means 'when you put it that way', indicating that the speaker is taking into account the previous sentence or situation and has a nuance of respecting the other person's opinion or way of thinking."
+  },
+  {
     "date": "2026.02.24",
     "day": "Tue",
     "number": 685,
