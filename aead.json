@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.02.28",
+    "day": "Sat",
+    "number": 689,
+    "index": "choudoiitokoronikita",
+    "title": "You came at just the right time.",
+    "expression-ja": "ちょうど、いいところに(来:き)た。",
+    "roman-ja": "choudo, ii tokoro ni kita.",
+    "expression-en": "You came at just the right time.",
+    "variants-ja": [
+      "ちょうど、いいところに来てくれたね。",
+      "ちょうど、いいところに来てくれてありがとう。",
+      "ちょうど、いいところに来てくれて助かったよ。"
+    ],
+    "variants-en": [
+      "You came at just the right time, thank you.",
+      "You came at just the right time, I appreciate it.",
+      "You came at just the right time, it was a great help."
+    ],
+    "intent-ja": ["歓迎の表現", "感謝の共有", "状況の説明"],
+    "intent-en": [
+      "expression of welcome",
+      "sharing of gratitude",
+      "explanation of situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "歓迎表現", "感謝共有表現", "状況説明表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of welcome",
+      "expression of gratitude sharing",
+      "expression of situation explanation"
+    ],
+    "adjusted-expression-ja": "ちょうど、いいところに(来:き)ましたね。",
+    "adjusted-expression-en": "Thank you for coming at just the right time.",
+    "img-sub": "chodoiitokoronikita01.png",
+    "example-ja": "A「ちょうど、いいところに来たね」 B「そう？(手伝:てつだ)おうか？」 A「うん、ありがとう」",
+    "example-en": "A: You came at just the right time. B: Really? Do you want me to help? A: Yes, thank you.",
+    "notes-ja": "「ちょうど、いいところに来たね。」は、「ちょうど」は「just」の意味で、ある状況やタイミングが非常に適していることを示します。だいたいは話し手にとってはいいかもしれませんが、言われた人にとってはよくないことのほうが多いです。",
+    "notes-en": "'Choudo, ii tokoro ni kita ne.' is a colloquial expression where 'choudo' means 'just', indicating that a certain situation or timing is very appropriate. It is often used when the situation may be good for the speaker but may not be good for the person being spoken to."
+  },
+  {
     "date": "2026.02.27",
     "day": "Fri",
     "number": 688,
