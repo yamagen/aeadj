@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.02.29",
+    "day": "Sun",
+    "number": 690,
+    "index": "kyuunikonnakotokikuarenandakedo",
+    "title": "It's a bit awkward to ask this suddenly, but...",
+    "expression-ja": "(急:きゅう)にこんなこと(聞:き)くのも、あれ、なんだけど、...",
+    "roman-ja": "kyū ni konna koto kiku no mo, are, nan da kedo, ...",
+    "expression-en": "It's a bit awkward to ask this suddenly, but...",
+    "variants-ja": [
+      "急にこんなこと聞くのも、あれ、なんだけど、ちょっと聞いてもいい？",
+      "急にこんなこと聞くのも、あれ、なんだけど、ちょっと質問してもいい？",
+      "急にこんなこと聞くのも、あれ、なんだけど、ちょっと相談してもいい？"
+    ],
+    "variants-en": [
+      "It's a bit awkward to ask this suddenly, but can I ask you something?",
+      "It's a bit awkward to ask this suddenly, but can I ask you a question?",
+      "It's a bit awkward to ask this suddenly, but can I consult with you about something?"
+    ],
+    "intent-ja": ["謝罪の表現", "質問の共有", "相談の表現"],
+    "intent-en": [
+      "expression of apology",
+      "sharing of question",
+      "expression of consultation"
+    ],
+    "tags-ja": ["即時文法", "口語", "謝罪表現", "質問共有表現", "相談表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of apology",
+      "expression of question sharing",
+      "expression of consultation"
+    ],
+    "adjusted-expression-ja": "(突然:とつぜん)こんなことを(聞:き)くのは、(申:もう)し(訳:わけ)ないんですが、...",
+    "adjusted-expression-en": "(Suddenly) asking something like this is a bit apologetic, but...",
+    "img-sub": "kyuunikonnakotokikuare01.png",
+    "example-ja": "(急:)にこんなことを(聞:き)くのは、あれなんですが、それって事実？",
+    "example-en": "It's a bit awkward to ask this suddenly, but is that true?",
+    "notes-ja": "「急にこんなこと聞くのも、あれ、なんだけど、...」は、話し手がある質問や相談をする際に、その質問や相談が突然であることを謝罪しつつ、相手に対して基礎的な質問や想定外の質問をするために使う口語的な表現。「急に」は「suddenly」の意味で、「あれ」は「a bit awkward」の意味で、その質問や相談が少し気まずいかもしれないことを示します。そもそも「あれ」って何のことを指すのかわかりませんよね。でも、こういうんですよ。",
+    "notes-en": "'Kyuu ni konna koto kiku no mo, are, nan da kedo, ...' is a colloquial expression used when the speaker wants to ask a certain question or consult about something, while apologizing for the suddenness of the question or consultation. 'Kyuu ni' means 'suddenly', and 'are' means 'a bit awkward', indicating that the question or consultation might be a little uncomfortable. It's not clear what 'are' refers to, but that's how it's said."
+  },
+  {
     "date": "2026.02.28",
     "day": "Sat",
     "number": 689,
