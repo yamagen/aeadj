@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026.03.05",
+    "day": "Thu",
+    "number": 694,
+    "index": "souiufoonikangaeruhitomoiruyone",
+    "title": "There are people who think that way, right?",
+    "expression-ja": "そういうふうに(考:かんが)える人もいるよね。",
+    "roman-ja": "sou iu fuu ni kangaeru hito mo iru yo ne.",
+    "expression-en": "There are people who think that way, right?",
+    "variants-ja": [
+      "そういうふうに考える人もいるよね、確かに。",
+      "そういうふうに考える人もいるよね、納得できる。",
+      "そういう見方があることは認める"
+    ],
+    "variants-en": [
+      "There are people who think that way, right? That's true.",
+      "There are people who think that way, right? I can see why."
+    ],
+    "intent-ja": ["同意の表現", "理解の共有", "多様な視点の認識"],
+    "intent-en": [
+      "expression of agreement",
+      "sharing of understanding",
+      "recognition of diverse perspectives"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "同意表現",
+      "理解共有表現",
+      "多様な視点認識表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of agreement",
+      "expression of understanding sharing",
+      "expression of recognition of diverse perspectives"
+    ],
+    "adjusted-expression-ja": "そういうふうに(考:かんが)える(人:ひと)もいますね。",
+    "adjusted-expression-en": "(There are) people who think that way, aren't there?",
+    "img-sub": "...souiufoonikangaeruhitomoiruyone01.png",
+    "example-ja": "A「この(問題:もんだい)って、(本当:ほんとう)に(複雑:ふくざつ)なの？」 B「そういうふうに(考:かんが)える人もいるよね」",
+    "example-en": "A: Is this problem really complicated? B: There are people who think that way, right?",
+    "notes-ja": "「そういうふうに考える人もいるよね」は、相手の疑問を否定せずに、一般的な考え方や傾向を理由にして、やわらかく否定する口語的な表現。",
+    "notes-en": "'Sou iu fuu ni kangaeru hito mo iru yo ne.' is a colloquial expression used to gently disagree with someone's question by citing general ways of thinking or tendencies without outright denying the question."
+  },
+  {
     "date": "2026.03.04",
     "day": "Wed",
     "number": 693,
