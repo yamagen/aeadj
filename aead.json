@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026.03.04",
+    "day": "Wed",
+    "number": 693,
+    "index": "mouchottokakarukana",
+    "title": "It might take a little longer.",
+    "expression-ja": "もうちょっとかかるかな。",
+    "roman-ja": "mou chotto kakaru kana.",
+    "expression-en": "It might take a little longer.",
+    "variants-ja": [
+      "もうちょっと時間がかかるかな。",
+      "もうちょっと手間がかかるかな。",
+      "もうちょっと時間が必要かな。"
+    ],
+    "variants-en": [
+      "It might take a little more time.",
+      "It might take a little more effort.",
+      "It might require a little more time."
+    ],
+    "intent-ja": ["予測の表現", "不確実性の共有", "状況の説明"],
+    "intent-en": [
+      "expression of prediction",
+      "sharing of uncertainty",
+      "explanation of situation"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "予測表現",
+      "不確実性共有表現",
+      "状況説明表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of prediction",
+      "expression of uncertainty sharing",
+      "expression of situation explanation"
+    ],
+    "adjusted-expression-ja": "もう(少:すこ)し、(時間:じかん)がかかるかもしれませんね。",
+    "adjusted-expression-en": "It might take a little more time, don't you think?",
+    "img-sub": "...mouchottokakarukana01.png",
+    "example-ja": "A「この(プロジェクト:ぷろじぇくと)、(完了:かんりょう)までどれくらい(時間:じかん)が(必要:ひつよう)ですか？」 B「うーん、もうちょっとかかるかな」",
+    "example-en": "A: How much time do we need to complete this project? B: Hmm, it might take a little longer.",
+    "notes-ja": "「もうちょっとかかるかな」は、話し手がある作業の完了までにもう少し時間が必要だと予測していることを伝える際に使う口語的な表現。「もうちょっと」は「a little more」の意味で、ある程度の追加の時間や努力が必要であることを示します。時間が長いか短かいかは述べていません。",
+    "notes-en": "'Mou chotto kakaru kana.' is a colloquial expression used when the speaker wants to convey that they predict that a certain task will require a little more time to complete. 'Mou chotto' means 'a little more', indicating that some additional time or effort is needed. It does not specify whether the time will be long or short."
+  },
+  {
     "date": "2026.03.03",
     "day": "Tue",
     "number": 692,
