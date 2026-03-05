@@ -4,46 +4,43 @@
     "day": "Thu",
     "number": 694,
     "index": "souiufoonikangaeruhitomoiruyone",
-    "title": "There are people who think that way, right?",
+    "title": "Some people think that way, you know.",
     "expression-ja": "そういうふうに(考:かんが)える(人:ひと)もいるよね。",
     "roman-ja": "sou iu fuu ni kangaeru hito mo iru yo ne.",
-    "expression-en": "There are people who think that way, right?",
+    "expression-en": "Some people think that way, you know.",
     "variants-ja": [
-      "そういうふうに考える人もいるよね、確かに。",
-      "そういうふうに考える人もいるよね、納得できる。",
-      "そういう見方があることは認める"
+      "そういうふうに考える人もいるね。",
+      "そういう考え方の人もいるよ。",
+      "そういう見方をする人もいるよね。"
     ],
     "variants-en": [
-      "There are people who think that way, right? That's true.",
-      "There are people who think that way, right? I can see why."
+      "Some people do think that way.",
+      "There are people who see it that way."
     ],
-    "intent-ja": ["同意の表現", "理解の共有", "多様な視点の認識"],
+    "intent-ja": [
+      "断定を避ける応答",
+      "一般化による返答",
+      "伝聞内容への控えめな応答"
+    ],
     "intent-en": [
-      "expression of agreement",
-      "sharing of understanding",
-      "recognition of diverse perspectives"
+      "non-committal response",
+      "answer by generalizing",
+      "reserved response to reported opinions"
     ],
-    "tags-ja": [
-      "即時文法",
-      "口語",
-      "同意表現",
-      "理解共有表現",
-      "多様な視点認識表現"
-    ],
+    "tags-ja": ["即時文法", "口語", "応答表現", "一般化表現"],
     "tags-en": [
       "immediate grammar",
       "spoken",
-      "expression of agreement",
-      "expression of understanding sharing",
-      "expression of recognition of diverse perspectives"
+      "response expression",
+      "generalization"
     ],
-    "adjusted-expression-ja": "そういうふうに(考:かんが)える(人:ひと)もいますね。",
-    "adjusted-expression-en": "(There are) people who think that way, aren't there?",
+    "adjusted-expression-ja": "そういうふうに(:)考える(:)人もいますね。",
+    "adjusted-expression-en": "There are people who think that way.",
     "img-sub": "...souiufoonikangaeruhitomoiruyone01.png",
-    "example-ja": "A「この(問題:もんだい)って、(本当:ほんとう)に(複雑:ふくざつ)なの？」 B「そういうふうに(考:かんが)える人もいるよね」",
-    "example-en": "A: Is this problem really complicated? B: There are people who think that way, right?",
-    "notes-ja": "「そういうふうに考える人もいるよね」は、相手の疑問を否定せずに、一般的な考え方や傾向を理由にして、やわらかく否定する口語的な表現。",
-    "notes-en": "'Sou iu fuu ni kangaeru hito mo iru yo ne.' is a colloquial expression used to gently disagree with someone's question by citing general ways of thinking or tendencies without outright denying the question."
+    "example-ja": "A「(都会:とかい)より(地方:ちほう)の(方:ほう)が(暮:く)らしやすいと(思:おも)うって、(本当:ほんとう)？」 B「そういうふうに(考:かんが)える(人:ひと)もいるよね」",
+    "example-en": "A: Is it true that some people say it's easier to live in the countryside than in the city? B: Some people think that way, you know.",
+    "notes-ja": "伝聞や一般的に言われていることを確認されたときに、「そういう見方をする人もいる」と一般化して答える表現。内容の真偽を断定せず、ある考え方の存在だけを認める言い方。",
+    "notes-en": "Used when responding to a question about something reportedly said or believed by others. The speaker does not confirm the truth of the statement but acknowledges that such a view exists."
   },
   {
     "date": "2026.03.04",
