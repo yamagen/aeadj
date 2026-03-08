@@ -1,5 +1,48 @@
 [
   {
+    "date": "2026.03.08",
+    "day": "Sun",
+    "number": 697,
+    "index": "atarimaejanai",
+    "title": "Isn't it natural?",
+    "expression-ja": "(当:あ)たり(前:まえ)じゃないですか。",
+    "roman-ja": "atarimae janai desu ka.",
+    "expression-en": "Isn't it natural?",
+    "variants-ja": [
+      "(当:あ)たり(前:まえ)じゃない？",
+      "(当然:とうぜん)じゃないですか？",
+      "もちろんですよ。"
+    ],
+    "variants-en": ["Isn't it natural?", "Isn't it obvious?", "Of course."],
+    "intent-ja": ["同意の表現", "当然の評価の共有", "提案の表現"],
+    "intent-en": [
+      "expression of agreement",
+      "sharing of obvious evaluation",
+      "expression of suggestion"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "同意表現",
+      "当然の評価共有表現",
+      "提案表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of agreement",
+      "expression of obvious evaluation sharing",
+      "expression of suggestion"
+    ],
+    "adjusted-expression-ja": "(当:あ)たり(前:まえ)だと(思:おも)います。",
+    "adjusted-expression-en": "I think it's natural.",
+    "img-sub": "...atarimaejanai01.png",
+    "example-ja": "(当:あ)たり(前:まえ)じゃないですか。そんなこと(言:い)われなくてもわかりますよね。",
+    "example-en": "Isn't it natural? You don't need to be told that, right?",
+    "notes-ja": "「当たり前」は「natural」の意味で、あることが当然であることを示します。「じゃないですか」は「isn't it?」の意味で、相手に同意を求める表現です。",
+    "notes-en": "'Atarimae janai desu ka.' means 'Isn't it natural?' in English. 'Atarimae' means 'natural', indicating that something is obvious or should be expected. 'Janai desu ka' is a way to ask for agreement from the listener, similar to 'isn't it?' in English."
+  },
+  {
     "date": "2026.03.07",
     "day": "Sat",
     "number": 696,
