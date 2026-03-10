@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.03.11",
+    "day": "Wed",
+    "number": 700,
+    "index": "mottohoshii",
+    "title": "Do you want more?",
+    "expression-ja": "もっとほしい？",
+    "roman-ja": "motto hoshii?",
+    "expression-en": "Do you want more?",
+    "variants-ja": [
+      "もっとほしいですか？",
+      "もっと欲しいと思いますか？",
+      "もっと欲しいですか？"
+    ],
+    "variants-en": [
+      "Do you want more?",
+      "Do you think you want more?",
+      "Do you want more, exactly?"
+    ],
+    "intent-ja": ["質問の表現", "欲求の共有", "情報収集の表現"],
+    "intent-en": [
+      "expression of question",
+      "sharing of desire",
+      "expression of information gathering"
+    ],
+    "tags-ja": ["即時文法", "口語", "質問表現", "欲求共有表現", "情報収集表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of question",
+      "expression of desire sharing",
+      "expression of information gathering"
+    ],
+    "adjusted-expression-ja": "もう(少:すこ)しいかがですか？",
+    "adjusted-expression-en": "Would you like a little more?",
+    "img-sub": "mottohoshii01.png",
+    "example-ja": "A「この(ケーキ:けーき)、(美味:おい)しいね」 B「うん、もっとほしい？まだ、あるよ」 A「うん、もうちょっと(食:た)べたいな」",
+    "example-en": "A: This cake is delicious, isn't it? B: Yes, do you want more? There's still some left. A: Yes, I want to eat a little more.",
+    "notes-ja": "「もっとほしい？」は、さらに欲しいかどうかを尋ねる際に使う表現。「もっと」は「more」の意味で、「ほしい？」は「do you want...?」の意味です。",
+    "notes-en": "'Motto hoshii?' is a colloquial expression used when asking if someone wants more of something. 'Motto' means 'more', and 'hoshii?' means 'do you want...?'."
+  },
+  {
     "date": "2026.03.10",
     "day": "Tue",
     "number": 699,
