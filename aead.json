@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026.03.13",
+    "day": "Fri",
+    "number": 702,
+    "index": "soredetariru",
+    "title": "Is that enough?",
+    "expression-ja": "それで(足:た)りる？",
+    "roman-ja": "sore de tariru?",
+    "expression-en": "Is that enough?",
+    "variants-ja": [
+      "それで足りますか？",
+      "それで十分ですか？",
+      "それで大丈夫ですか？"
+    ],
+    "variants-en": ["Is that enough?", "Is that sufficient?", "Is that okay?"],
+    "intent-ja": ["確認の表現", "十分性の共有", "質問の表現"],
+    "intent-en": [
+      "expression of confirmation",
+      "sharing of sufficiency",
+      "expression of question"
+    ],
+    "tags-ja": ["即時文法", "口語", "確認表現", "十分性共有表現", "質問表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of confirmation",
+      "expression of sufficiency sharing",
+      "expression of question"
+    ],
+    "adjusted-expression-ja": "それで(足:た)りますか？",
+    "adjusted-expression-en": "Is that enough?",
+    "img-sub": "soredetariru01.png",
+    "example-ja": "A「(割:わ)り(勘:かん)でいい？」 B「うん、じゃ、これ、(私:わたし)の(分:ぶん)、それで(足:た)りる？」 A「うん、ありがとう」",
+    "example-en": "A: Is it okay to split the bill? B: Yes, then, for my part, is that enough? A: Yes, thank you.",
+    "notes-ja": "「それで足りる？」は、話し手があるものや情報が十分であるかどうかを確認する際に使う口語的な表現。「それで」は「with that」の意味で、「足りる？」は「is it enough?」の意味です。「わりかん」は「split the bill」の意味で、食事の代金を人数で割ることを指します。",
+    "notes-en": "'Sore de tariru?' is a colloquial expression used when the speaker wants to confirm whether something or information is sufficient. 'Sore de' means 'with that', and 'tariru?' means 'is it enough?'. 'Warikan' means 'split the bill', referring to dividing the cost of a meal among the number of people."
+  },
+  {
     "date": "2026.03.12",
     "day": "Thu",
     "number": 701,
