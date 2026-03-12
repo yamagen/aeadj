@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026.03.12",
+    "day": "Thu",
+    "number": 701,
+    "index": "souiukoto",
+    "title": "Is that what you mean?",
+    "expression-ja": "そういうこと？",
+    "roman-ja": "sou iu koto?",
+    "expression-en": "Is that what you mean?",
+    "variants-ja": [
+      "そういうことですか？",
+      "そういう意味ですか？",
+      "そういうことなんですか？"
+    ],
+    "variants-en": [
+      "Is that what you mean?",
+      "Do you mean that?",
+      "Is that what you're saying?"
+    ],
+    "intent-ja": ["確認の表現", "理解の共有", "質問の表現"],
+    "intent-en": [
+      "expression of confirmation",
+      "sharing of understanding",
+      "expression of question"
+    ],
+    "tags-ja": ["即時文法", "口語", "確認表現", "理解共有表現", "質問表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of confirmation",
+      "expression of understanding sharing",
+      "expression of question"
+    ],
+    "adjusted-expression-ja": "それはそういうことですか？",
+    "adjusted-expression-en": "Is that what you mean?",
+    "img-sub": "souiukoto01.png",
+    "example-ja": "A「この(問題:もんだい)、(解決:かいけつ)するには、(新:あたら)しい(方法:ほうほう)が必要だと(思:おも)う」 B「そういうこと？」 A「うん、(今:いま)のやり(方:かた)じゃ、(時間:じかん)がかかりすぎるからね」",
+    "example-en": "A: I think we need a new method to solve this problem. B: Is that what you mean? A: Yes, because the current way takes too much time.",
+    "notes-ja": "「そういうこと？」は、相手の発言や意図を確認する際に使う口語的な表現。「そういう」は「that kind of」の意味で、「こと」は「thing」の意味です。",
+    "notes-en": "'Sou iu koto?' is a colloquial expression used when confirming someone's statement or intention. 'Sou iu' means 'that kind of', and 'koto' means 'thing'."
+  },
+  {
     "date": "2026.03.11",
     "day": "Wed",
     "number": 700,
