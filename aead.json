@@ -1,5 +1,44 @@
 [
   {
+    "date": "2026.03.15",
+    "day": "Sun",
+    "number": 704,
+    "index": "imawakoregameinnandesukedo",
+    "title": "This is the main thing right now, but...",
+    "expression-ja": "(今:いま)は、これが(メイン:めいん)なんですけど、...",
+    "roman-ja": "ima wa, kore ga mein nan desu kedo, ...",
+    "expression-en": "This is the main thing right now, but...",
+    "variants-ja": [
+      "今は、これがメインなんですが、...",
+      "今は、これが主なものなんですけど、..."
+    ],
+    "variants-en": [
+      "This is the main thing right now, but...",
+      "This is the primary thing right now, but..."
+    ],
+    "intent-ja": ["状況の説明", "主題の提示", "対比の表現"],
+    "intent-en": [
+      "explanation of situation",
+      "presentation of topic",
+      "expression of contrast"
+    ],
+    "tags-ja": ["即時文法", "口語", "状況説明表現", "主題提示表現", "対比表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of situation explanation",
+      "expression of topic presentation",
+      "expression of contrast"
+    ],
+    "adjusted-expression-ja": "(現在:げんざい)は、これが(主:おも)なものなんですが、...",
+    "adjusted-expression-en": "(Currently), this is the main thing, but...",
+    "img-sub": "...imawakoregameinnandesukedo01.png",
+    "example-ja": "(今:いま)は、これが(メイン:めいん)なんですけど、(将来:しょうらい)はもっと(大:おお)きな(プロジェクト:ぷろじぇくと)をやりたいと思っています。",
+    "example-en": "This is the main thing right now, but in the future, I want to work on a bigger project.",
+    "notes-ja": "「今は、これがメインなんですけど、...」は、現在の状況や主題を説明する表現。",
+    "notes-en": "'Ima wa, kore ga mein nan desu kedo, ...' is an expression used when explaining the current situation or topic."
+  },
+  {
     "date": "2026.03.14",
     "day": "Sat",
     "number": 703,
