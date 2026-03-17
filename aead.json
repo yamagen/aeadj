@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.03.17",
+    "day": "Tue",
+    "number": 706,
+    "index": "purasushite",
+    "title": "In addition,",
+    "expression-ja": "(プラス:ぷらす)して、...",
+    "roman-ja": "purasu shite, ...",
+    "expression-en": "In addition, ...",
+    "variants-ja": ["(さらに:さらに)加えて、...", "(それに:それに)加えて、..."],
+    "variants-en": ["In addition, ...", "Furthermore, ...", "Moreover, ..."],
+    "intent-ja": ["追加の情報の表現", "強調の共有", "説明の表現"],
+    "intent-en": [
+      "expression of additional information",
+      "sharing of emphasis",
+      "expression of explanation"
+    ],
+    "tags-ja": ["即時文法", "口語", "追加情報表現", "強調共有表現", "説明表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of additional information",
+      "expression of emphasis sharing",
+      "expression of explanation"
+    ],
+    "adjusted-expression-ja": "さらに(加:くわ)えると、...",
+    "adjusted-expression-en": "Furthermore, ...",
+    "img-sub": "purasushite01.png",
+    "example-ja": "(プラス:ぷらす)して、この(機能:きのう)は(ユーザー:ゆーざー)からも(好評:こうひょう)です。",
+    "example-en": "In addition, this feature is also popular among users.",
+    "notes-ja": "「プラスして、...」は、ある情報や意見にさらに追加の内容を付け加える際に使う表現。「プラス」は「plus」の意味で、「して」は「and」の意味です。",
+    "notes-en": "'Purasu shite, ...' is a colloquial expression used when adding additional information or opinions to something already mentioned. 'Purasu' means 'plus', and 'shite' means 'and'."
+  },
+  {
     "date": "2026.03.16",
     "day": "Mon",
     "number": 705,
