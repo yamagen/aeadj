@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026.03.18",
+    "day": "Wed",
+    "number": 707,
+    "index": "bokuwagyakudeshitakedo",
+    "title": "It was the opposite for me, but...",
+    "expression-ja": "(僕:ぼく)は(逆:ぎゃく)でしたけど、...",
+    "roman-ja": "boku wa gyaku deshita kedo, ...",
+    "expression-en": "It was the opposite for me, but...",
+    "variants-ja": [
+      "(私:わたし)は(逆:ぎゃく)でしたけど、...",
+      "(自分:じぶん)は(逆:ぎゃく)でしたけど、..."
+    ],
+    "variants-en": [
+      "It was the opposite for me, but...",
+      "I had the opposite experience, but..."
+    ],
+    "intent-ja": ["経験の共有", "対比の表現", "状況の説明"],
+    "intent-en": [
+      "sharing of experience",
+      "expression of contrast",
+      "explanation of situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "経験共有表現", "対比表現", "状況説明表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of experience sharing",
+      "expression of contrast",
+      "expression of situation explanation"
+    ],
+    "adjusted-expression-ja": "(私:わたし)は(逆:ぎゃく)でしたが、...",
+    "adjusted-expression-en": "(I had the opposite experience), but...",
+    "img-sub": "bokuwagyakudeshitakedo01.png",
+    "example-ja": "(僕:ぼく)は(逆:ぎゃく)でしたけど、この(方法:ほうほう)、(効果的:こうかてき)だと思います。",
+    "example-en": "It was the opposite for me, but I think this method is effective.",
+    "notes-ja": "「僕は逆でしたけど、...」は、話し手が自分の経験や意見が一般的なものとは異なることを伝える際に使う口語的な表現。「僕」は「I」の意味で、「逆」は「opposite」の意味です。"
+  },
+  {
     "date": "2026.03.17",
     "day": "Tue",
     "number": 706,
