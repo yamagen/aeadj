@@ -150,7 +150,7 @@
     ],
     "adjusted-expression-ja": "(現在:げんざい)は、これが(主:おも)なものなんですが、...",
     "adjusted-expression-en": "(Currently), this is the main thing, but...",
-    "img-sub": "...imawakoregameinnandesukedo01.png",
+    "img-sub": "imawakoregameinnandesukedo01.png",
     "example-ja": "(今:いま)は、これが(メイン:めいん)なんですけど、(将来:しょうらい)はもっと(大:おお)きな(プロジェクト:ぷろじぇくと)をやりたいと思っています。",
     "example-en": "This is the main thing right now, but in the future, I want to work on a bigger project.",
     "notes-ja": "「今は、これがメインなんですけど、...」は、現在の状況や主題を説明する表現。",
@@ -195,7 +195,7 @@
     ],
     "adjusted-expression-ja": "(全体的:ぜんたいてき)に(考:かんが)えると、...",
     "adjusted-expression-en": "When you think about it as a whole, ...",
-    "img-sub": "...totarudekangaeruto01.png",
+    "img-sub": "totarudekangaeruto01.png",
     "example-ja": "(トータル:とーたる)で(考:かんが)えると、この(プロジェクト:ぷろじぇくと)、(成功:せいこう)だと思います。",
     "example-en": "When you think about it in total, I think this project is a success.",
     "notes-ja": "「トータルで考えると、...」は、話し手がある事柄や状況を全体的に評価する際に使う口語的な表現。「トータル」は「total」の意味で、「考えると」は「when you think about it」の意味です。",
@@ -443,7 +443,7 @@
     ],
     "adjusted-expression-ja": "(当:あ)たり(前:まえ)だと(思:おも)います。",
     "adjusted-expression-en": "I think it's natural.",
-    "img-sub": "...atarimaejanai01.png",
+    "img-sub": "atarimaejanai01.png",
     "example-ja": "(当:あ)たり(前:まえ)じゃないですか。そんなこと(言:い)われなくてもわかりますよね。",
     "example-en": "Isn't it natural? You don't need to be told that, right?",
     "notes-ja": "「当たり前」は「natural」の意味で、あることが当然であることを示します。「じゃないですか」は「isn't it?」の意味で、相手に同意を求める表現です。",
@@ -490,7 +490,7 @@
     ],
     "adjusted-expression-ja": "むしろ、(見:み)ない(方:ほう)がいいですね。",
     "adjusted-expression-en": "Rather, it's better not to look, isn't it?",
-    "img-sub": "...mushirominaihoga01.png",
+    "img-sub": "mushirominaihoga01.png",
     "example-ja": "A「この(ヒント:ひんと)、(見:み)た(方:ほう)がいい？」 B「いや、むしろ、(見:み)ない(方:ほう)がいい。わかんなくなるから」",
     "example-en": "A: Should I look at this hint? B: No, rather, it's better not to look. It will just make it more confusing.",
     "notes-ja": "「むしろ、見ない方がいい。」は、ある行動や選択を避けることを提案する際に使う口語的な表現。「むしろ」は「rather」の意味で、「見ない方がいい」は「it's better not to look」の意味です。",
@@ -580,7 +580,7 @@
     ],
     "adjusted-expression-ja": "そういうふうに(考:かんが)える(人:ひと)もいますね。",
     "adjusted-expression-en": "There are people who think that way.",
-    "img-sub": "...souiufoonikangaeruhitomoiruyone01.png",
+    "img-sub": "souiufoonikangaeruhitomoiruyone01.png",
     "example-ja": "A「(都会:とかい)より(地方:ちほう)の(方:ほう)が(暮:く)らしやすいと(思:おも)うって、(本当:ほんとう)？」 B「そういうふうに(考:かんが)える(人:ひと)もいるよね」",
     "example-en": "A: Is it true that some people say it's easier to live in the countryside than in the city? B: Some people think that way, you know.",
     "notes-ja": "伝聞や一般的に言われていることを確認されたときに、「そういう見方をする人もいる」と一般化して答える表現。内容の真偽を断定せず、ある考え方の存在だけを認める言い方。",
@@ -627,7 +627,7 @@
     ],
     "adjusted-expression-ja": "もう(少:すこ)し、(時間:じかん)がかかるかもしれませんね。",
     "adjusted-expression-en": "It might take a little more time, don't you think?",
-    "img-sub": "...mouchottokakarukana01.png",
+    "img-sub": "mouchottokakarukana01.png",
     "example-ja": "A「この(プロジェクト:ぷろじぇくと)、(完了:かんりょう)までどれくらい(時間:じかん)が(必要:ひつよう)ですか？」 B「うーん、もうちょっとかかるかな」",
     "example-en": "A: How much time do we need to complete this project? B: Hmm, it might take a little longer.",
     "notes-ja": "「もうちょっとかかるかな」は、話し手がある作業の完了までにもう少し時間が必要だと予測していることを伝える際に使う口語的な表現。「もうちょっと」は「a little more」の意味で、ある程度の追加の時間や努力が必要であることを示します。時間が長いか短かいかは述べていません。",
@@ -666,7 +666,7 @@
     ],
     "adjusted-expression-ja": "(本当:ほんとう)に(楽:たの)しいですね。",
     "adjusted-expression-en": "(It's) really fun, isn't it?",
-    "img-sub": "...jitsunitanoshii01.png",
+    "img-sub": "jitsunitanoshii01.png",
     "example-ja": "A「この(ゲーム:げーむ)、すごいね」 B「うん、(実:じつ)に(楽:たの)しい」",
     "example-en": "A: This game is amazing, isn't it? B: Yes, it's really fun, isn't it?",
     "notes-ja": "「実にたのしい。」は、話し手がある事柄や状況が非常に楽しいと感じていることを認める際に使う口語的な表現。「ね」「よ」などの終助詞は使わない。直感的に自分の感想を言う表現です。",
@@ -1092,7 +1092,7 @@
     ],
     "adjusted-expression-ja": "そういうことを(言:い)っているわけではなくて、...",
     "adjusted-expression-en": "It's not that I'm saying that, ...",
-    "img-sub": "...sōiu koto o itteru n janakute01.png",
+    "img-sub": "souiukotooitterunjanakute01.png",
     "example-ja": "A 「つまり、この仕事、やりたくないんですね」 B 「いやいや、そういうことを(言:い)ってるんじゃなくて、(問題:もんだい)があるって、この(仕事:しごと)には」",
     "example-en": "A: So, you don't want to do this job, right? B: No, no, it's not that I'm saying that, but there are issues with this job.",
     "notes-ja": "「そういうことを言ってるんじゃなくて、...」は、話し手がある発言や意見に対して誤解が生じていると感じた際に、その誤解を訂正し、実際に伝えたいことを説明するために使う口語的な表現。",
@@ -1206,7 +1206,7 @@
     ],
     "adjusted-expression-ja": "...とは、(何:なん)のことですか？",
     "adjusted-expression-en": "What does ... mean?",
-    "img-sub": "...tte nani01.png",
+    "img-sub": "ttenani01.png",
     "example-ja": "A「この(機能:きのう)、(使:つか)ってみた？」 B「うん、それって、(何:なに)？」",
     "example-en": "A: Have you tried using this feature? B: Yes, what is that about?",
     "notes-ja": "「...って、何？」の「...って」は前の文や状況を受けて、「what about ...?」や「what is ...?」の意味を持ちます。「何？」は「what?」の意味です。説明を求める表現です。",
@@ -1567,7 +1567,7 @@
     ],
     "adjusted-expression-ja": "それは、(素晴:すば)らしい(アプリ:あぷり)ですね。",
     "adjusted-expression-en": "That's a wonderful app.",
-    "img-sub": "tondemonai apuri desuyo01.png",
+    "img-sub": "tondemonaiapuridesuyo01.png",
     "example-ja": "A「この(新:あたら)しい(アプリ:あぷり)、(使:つか)ってみた？」 B「うん、とんでもない(アプリ:あぷり)ですよ。すごく(便利:べんり)で(役立:やくだ)つ」",
     "example-en": "A: Have you tried using this new app? B: Yes, it's an incredible app. It's very convenient and useful.",
     "notes-ja": "「とんでもない...ですよ」は、話し手が特定の...に対して賞賛や感動を表現する際に使う口語的な表現。「とんでもない」は「incredible」や「amazing」の意味で、肯定的な評価を示します。",
@@ -1608,7 +1608,7 @@
     ],
     "adjusted-expression-ja": "...などが(存在:そんざい)します。",
     "adjusted-expression-en": "There exist things such as ...",
-    "img-sub": "toka arun desu yo01.png",
+    "img-sub": "tokaarundesuyo01.png",
     "example-ja": "A「(最近:さいきん)、(面白:おもしろ)い(本:ほん)、(読:よ)んだ？」 B「うん、(今迄:いままで)にあまり(見掛:みか)けない(ジャンル:じゃんる)とかあるんですよ」",
     "example-en": "A: Have you read any interesting books lately? B: Yes, there are genres that I haven't seen much until now.",
     "notes-ja": "...とかあるんですよ。は、話し手が特定の例や種類を挙げて情報を共有する際に使う口語的な表現。「...とか」は「things like ...」の意味で、具体的な例を示します。",
@@ -1655,7 +1655,7 @@
     ],
     "adjusted-expression-ja": "(気:き)づいたときには、(仕事:しごと)を(終:お)えていました。",
     "adjusted-expression-en": "When I realized it, I had finished my work.",
-    "img-sub": "kizuitara ... shitemashita01.png",
+    "img-sub": "kizuitarashitemashita01.png",
     "example-ja": "A「(昨日:きのう)、(寝:ね)るつもりが、(気:き)づいたら、(朝:あさ)まで(映画:えいが)を(見:み)てしまってたよ」 B「それは(大変:たいへん)だね」",
     "example-en": "A: I intended to sleep yesterday, but before I knew it, I ended up watching movies until morning. B: That's tough.",
     "notes-ja": "(気:き)づいたら、...してました。は、話し手が無意識のうちにある行動をしてしまったことを伝える際に使う口語的な表現。「気づいたら」は「before I knew it」の意味で、時間の経過や出来事の突然の認識を示します。「...してました。」は「I was ...」の意味で、特定の行動を指します。",
@@ -1702,7 +1702,7 @@
     ],
     "adjusted-expression-ja": "...を(使:つか)いながら、(作業:さぎょう)をしています。",
     "adjusted-expression-en": "I am working while using ...",
-    "img-sub": "o tsukai tsutsu01.png",
+    "img-sub": "otsukaitsutsu01.png",
     "example-ja": "A「(新:あたら)しい(ソフト:そふと)、(使:つか)ってみた？」 B「うん、...(機能:きのう)、(使:つか)いつつ、(操作:そうさ)に(慣:な)れてるところ」",
     "example-en": "A: Have you tried using the new software? B: Yes, I'm getting used to the operation while using its features.",
     "notes-ja": "...を使いつつ、は、話し手がある行動や状況が同時に進行していることを説明する際に使う口語的な表現。「...を使いつつ、」は「while using ...」の意味で、特定の行動や状況を指します。",
@@ -1739,7 +1739,7 @@
     ],
     "adjusted-expression-ja": "...したために、(悪:わる)い(結果:けっか)になってしまいました。",
     "adjusted-expression-en": "Due to doing..., a bad result occurred.",
-    "img-sub": "shitabakari ni01.png",
+    "img-sub": "shitabakarini01.png",
     "example-ja": "A「(昨日:きのう)、(夜遅:よるおそ)くまで(遊:あそ)んだばかりに、(眠:ねむ)くてたまらないよ」 B「それは(大変:たいへん)」",
     "example-en": "A: Just because I played until late at night yesterday, I'm so sleepy. B: That's tough.",
     "notes-ja": "「...したばかりに、」は、話し手がある行動や出来事が原因で特定の結果や状況が生じたことを説明する際に使う口語的な表現。",
@@ -1833,7 +1833,7 @@
     ],
     "adjusted-expression-ja": "まったく(問題:もんだい)ありませんよ。",
     "adjusted-expression-en": "There is absolutely no problem.",
-    "img-sub": "zenzenii desuyo01.png",
+    "img-sub": "zenzeniidesuyo01.png",
     "example-ja": "A「(遅:おく)れてごめんね」 B「ううん、ぜんぜんいいですよ」",
     "example-en": "A: Sorry for being late. B: No, it's totally fine.",
     "notes-ja": "「ぜんぜんいいですよ。」は、話し手が相手に対して安心感を与え、許容する意図を伝える際に使う口語的な表現。「ぜんぜん」は「totally」や「absolutely」の意味で、強調のニュアンスを持ちます。「いいですよ。」は「it's fine」の意味で、肯定的な応答を示します。話し手は、相手に対してその行動や状況が問題ないことを共有しています。",
@@ -1880,7 +1880,7 @@
     ],
     "adjusted-expression-ja": "それは、(素晴:すば)らしいですね。",
     "adjusted-expression-en": "That's wonderful.",
-    "img-sub": "sugoijanai desuka01.png",
+    "img-sub": "sugoijanaidesuka01.png",
     "example-ja": "A「(新:あたら)しい(車:くるま)、(買:か)ったんだ」 B「へえ、すごいじゃないですか。どんな(車:くるま)？」",
     "example-en": "A: I bought a new car. B: Wow, isn't it amazing? What kind of car is it?",
     "notes-ja": "「すごいじゃないですか。」は、話し手が相手の行動や成果に対して賞賛や感動を表現する際に使う口語的な表現。「すごい」は「amazing」や「wonderful」の意味で、肯定的な評価を示します。「じゃないですか。」は強調のニュアンスを持ち、話し手の感情を強く伝えます。話し手は、相手に対してその対象が高く評価されていることを共有しています。",
@@ -1927,7 +1927,7 @@
     ],
     "adjusted-expression-ja": "たとえば、(散歩:さんぽ)、(読書:どくしょ)、(料理:りょうり)、などさまざまなことをしています。",
     "adjusted-expression-en": "For example, I do various things such as taking walks, reading books, and cooking.",
-    "img-sub": "sanposhitari shiterun desukedo01.png",
+    "img-sub": "sanposhitarishiterundesukedo01.png",
     "example-ja": "A「(最近:さいきん)、(暇:ひま)なの？」 B「うん、(散歩:さんぽ)したりしてるんですけど、(何:なに)かいい(趣味:しゅみ)があれば(教:おし)えてほしいな」",
     "example-en": "A: Are you free lately? B: Yes, I take walks and do various things, but if you have any good hobbies, I'd like you to tell me.",
     "notes-ja": "(散歩:さんぽ)したりしてるんですけど、は、さまざまなことをしていることを伝える際に使う口語的な表現。「したりしてるんですけど、」は「doing various things,...」の意味で、具体的な活動を列挙する前置きとして使われます。この場合の散歩は、いろいろなことの一例として挙げられています。",
@@ -2277,7 +2277,7 @@
     ],
     "adjusted-expression-ja": "(結局:けっきょく)、...ではないかと思います。",
     "adjusted-expression-en": "In the end, I think it is ...",
-    "img-sub": "kekkyokujanai katte01.png",
+    "img-sub": "kekkyokujanaikatte01.png",
     "example-ja": "A「この(問題:もんだい)、(解決:かいけつ)できる？」 B「うーん、(結局:けっきょく)、(時間:じかん)が(掛:か)かるし、(費用:ひよう)も(高:たか)いから、(難:むずか)しいんじゃないかって」",
     "example-en": "A: Can we solve this problem? B: Hmm, in the end, I think it's difficult because it takes time and costs a lot.",
     "notes-ja": "「結局、...じゃないかって。」は、話し手がある議論や状況の最終的な結論を要約し、確認する際に使う口語的な表現。「結局」は「in the end」や「ultimately」の意味で、最終的な結果を示します。「...じゃないかって。」は「isn't it...?」の意味で、相手に対して確認を求めています。",
@@ -2322,9 +2322,9 @@
       "expression of information simplification",
       "expression of attention call"
     ],
-    "adjusted-expression-ja": "大まかに(言:い)うと、...",
+    "adjusted-expression-ja": "(大:おお)まかに(言:い)うと、...",
     "adjusted-expression-en": "To put it broadly,...",
-    "img-sub": "sugokuzatsuni iukedo01.png",
+    "img-sub": "sugokuzatsuniiukedo01.png",
     "example-ja": "A「この(計画:けいかく)、(詳:くわ)しく(説明:せつめい)して」 B「まずね、すごく(雑:ざつ)に(言:い)うけど、(要:よう)は(利益:りえき)を(最大化:さいだいか)することが(目的:もくてき)だよ」",
     "example-en": "A: Please explain this plan in detail. B: First, to put it very roughly, the main point is to maximize profits.",
     "notes-ja": "「すごく、雑に言うけど、...」は、話し手がある複雑な事柄や情報を簡略化して伝える際に使う口語的な表現。「すごく」は「very」の意味で、強調のニュアンスを持ちます。「雑に言うけど、...」は「to put it roughly,...」の意味で、詳細を省略して概要を伝えることを示します。"
@@ -2557,7 +2557,7 @@
     ],
     "adjusted-expression-ja": "それは、どういう(意味:いみ)でしょうか？",
     "adjusted-expression-en": "What does that mean?",
-    "img-sub": "soredouiu kotodesuka01.png",
+    "img-sub": "soredouiukotodesuka01.png",
     "example-ja": "A「(今日:きょう)は、(無料:むりょう)です」 B「それ、どういうことですか？」",
     "example-en": "A: Today is free of charge. B: What do you mean by that?",
     "notes-ja": "「それ、どういうことですか？」は、話し手が相手の発言や行動の意味を確認し、説明を求める際に使う口語的な表現。「それ」は「that」の意味で、特定の対象を指します。「どういうことですか？」は「what do you mean?」の意味で、相手の意図や意味を尋ねています。話し手は、相手の発言や行動の背後にある意図や意味を理解しようとしています。",
@@ -5153,7 +5153,7 @@
     "notes-en": "'Somosomo' is a colloquial expression used to indicate the fundamental cause or starting point of a matter. To explain the structure of this phrase in more detail, 'somosomo' means 'in the first place' or 'to begin with', and it is used to emphasize the starting point of a discussion or basic premise. However, this expression often carries a nuance that suggests something should be reconsidered from the ground up, and it is not always used in a positive context. For example, it is typically used in phrases like 'the whole thing was wrong from the start.'"
   },
   {
-    "datate": "2025.11.10",
+    "date": "2025.11.10",
     "day": "Mon",
     "number": 579,
     "index": "baii,tsukaerebaii",
@@ -10544,6 +10544,7 @@
     "notes-en": "\"Sore ga sa\" is a casual expression used to introduce an unexpected or contrasting development following the previous statement. It typically functions as a narrative pivot, drawing the listener's attention to a surprising or emotionally significant event that contradicts or complicates what came before. In English, it is similar to phrases like \"So, you know what?\" or \"But then...\" Unlike neutral topic shifts, this expression carries the speaker's emotional engagement and signals a moment worth listening to."
   },
   {
+    "date": "2025.05.13",
     "day": "Tue",
     "number": 398,
     "index": "dene",
@@ -10578,6 +10579,7 @@
     "notes-en": "\"De ne\" is a casual expression used to introduce a story or to show intimacy. It can be translated as \"So, you know...\" or \"So, like...\" This phrase is commonly used in informal conversations to indicate the beginning of a story or to create a sense of closeness with the listener."
   },
   {
+    "date": "2025.05.12",
     "day": "Mon",
     "number": 397,
     "index": "haihai",
@@ -17320,7 +17322,7 @@
     "day": "Sun",
     "number": 32,
     "index": "katteokimashouka",
-    "tille": "Shall I buy it?",
+    "title": "Shall I buy it?",
     "expression-ja": "じゃ、それ、ひとつ、(買:か)っておきましょうか。",
     "roman-ja": "Ja, sore, hitotsu, katte okimashou ka.",
     "expression-en": "All right then, shall I buy one?",
@@ -17888,5 +17890,172 @@
         "notes": "確認・信じられない気持ち"
       }
     ]
+  },
+  {
+    "review-policy": "aead-daily-review",
+    "title-ja": "aead 見直し運用メモ",
+    "title-en": "AEAD Daily Review Policy",
+    "description-ja": "aead は毎日 1 項目を追加しながら、過去の項目も毎日 1 項目ずつ見直していく。新規追加を止めずに、形式のゆれと記述の精度を少しずつ整えるための運用メモである。",
+    "description-en": "AEAD adds one new entry every day and reviews one past entry every day. This policy is intended to improve consistency and descriptive accuracy gradually without interrupting ongoing additions.",
+    "workflow": {
+      "daily-new-entry": 1,
+      "daily-review-entry": 1,
+      "review-order-ja": "原則として古い番号から順に 1 日 1 項目見直す。",
+      "review-order-en": "As a rule, review one older entry per day in numerical order.",
+      "goal-ja": "追加と整備を同時に続ける。",
+      "goal-en": "Continue expansion and maintenance at the same time."
+    },
+    "daily-review-checklist": [
+      {
+        "id": 1,
+        "item-ja": "基本情報",
+        "item-en": "Core fields",
+        "check-ja": "date, day, number, index, title があるか。項目名の typo がないか。",
+        "check-en": "Check whether date, day, number, index, and title are present, and whether there are any typos in field names."
+      },
+      {
+        "id": 2,
+        "item-ja": "表現本体",
+        "item-en": "Main expression fields",
+        "check-ja": "expression-ja, roman-ja, expression-en の対応が取れているか。表記のゆれがないか。",
+        "check-en": "Check whether expression-ja, roman-ja, and expression-en correspond properly and whether there are orthographic inconsistencies."
+      },
+      {
+        "id": 3,
+        "item-ja": "説明と例文",
+        "item-en": "Notes and examples",
+        "check-ja": "example-ja, example-en, notes-ja, notes-en が過不足なく入っているか。説明が現在の方針に合っているか。",
+        "check-en": "Check whether example-ja, example-en, notes-ja, and notes-en are present as needed and whether the explanations match the current policy."
+      },
+      {
+        "id": 4,
+        "item-ja": "分類情報",
+        "item-en": "Classification fields",
+        "check-ja": "tags-ja, tags-en, intent-ja, intent-en, adjusted-expression-ja, adjusted-expression-en が必要に応じて整っているか。",
+        "check-en": "Check whether tags-ja, tags-en, intent-ja, intent-en, adjusted-expression-ja, and adjusted-expression-en are properly maintained where needed."
+      },
+      {
+        "id": 5,
+        "item-ja": "ファイルと形式",
+        "item-en": "File and format consistency",
+        "check-ja": "img-sub などの補助情報に表記ゆれがないか。検索や整形で支障が出ない形になっているか。",
+        "check-en": "Check whether supporting fields such as img-sub are consistent and whether the entry remains safe for search and formatting."
+      }
+    ],
+    "review-priority": {
+      "high-ja": [
+        "field 名の typo 修正",
+        "date や notes-en などの欠落補完",
+        "検索に影響する表記ゆれの修正"
+      ],
+      "high-en": [
+        "fix typos in field names",
+        "fill missing fields such as date or notes-en",
+        "fix inconsistencies that affect search"
+      ],
+      "low-ja": ["英訳の細かな改善", "notes の言い回し調整", "説明の追加充実"],
+      "low-en": [
+        "minor improvements in English translation",
+        "stylistic adjustment of notes",
+        "additional explanatory enrichment"
+      ]
+    },
+    "editing-principle-ja": "全面改稿は行わず、その日の 1 項目だけを確実に整える。",
+    "editing-principle-en": "Do not attempt full-scale revision; make sure to refine only the one entry assigned for that day.",
+    "message-ja": "aead は完成品ではなく、継続の中で育つ辞典である。",
+    "message-en": "AEAD is not a finished product but a dictionary that grows through continuity."
+  },
+  {
+    "ai-review-instruction": "aead-daily-review-assistant",
+    "title-ja": "AI用 aead 1日1見直し指示",
+    "title-en": "AI Instruction for Daily AEAD Review",
+    "purpose-ja": "aeadj.json の過去項目を 1 日 1 件ずつ見直し、検索性と整合性を少しずつ高めるための AI 向け指示である。",
+    "purpose-en": "This instruction is for reviewing one past entry of aeadj.json per day so that searchability and consistency can be improved gradually.",
+    "basic-policy-ja": [
+      "対象はその日に指定された 1 項目だけとする。",
+      "aeadj.json 全体の全面改稿は行わない。",
+      "表現の意味や観察の核心は変えず、まず形式の整合を優先する。",
+      "不明な点は無理に補わず、推測で内容を作らない。"
+    ],
+    "basic-policy-en": [
+      "Review only the one entry specified for that day.",
+      "Do not rewrite the whole aeadj.json file.",
+      "Do not alter the core meaning or observation of the entry; prioritize formal consistency first.",
+      "Do not invent content when something is unclear."
+    ],
+    "review-priority-ja": [
+      "field 名の typo を直す。",
+      "date, day, number, index, title などの基本項目の欠落を確認する。",
+      "expression-ja, roman-ja, expression-en の対応を確認する。",
+      "notes-ja, notes-en, example-ja, example-en の有無と整合を確認する。",
+      "tags-ja, tags-en, intent-ja, intent-en, adjusted-expression-ja, adjusted-expression-en を必要に応じて整える。",
+      "img-sub など検索や整形に影響する表記ゆれを直す。"
+    ],
+    "review-priority-en": [
+      "Fix typos in field names.",
+      "Check whether core fields such as date, day, number, index, and title are present.",
+      "Check correspondence among expression-ja, roman-ja, and expression-en.",
+      "Check the presence and consistency of notes-ja, notes-en, example-ja, and example-en.",
+      "Adjust tags-ja, tags-en, intent-ja, intent-en, adjusted-expression-ja, and adjusted-expression-en where needed.",
+      "Fix inconsistencies in fields such as img-sub that may affect search or formatting."
+    ],
+    "must-preserve-ja": [
+      "number",
+      "index",
+      "その項目の基本的な観察内容",
+      "既存の表現の方向性"
+    ],
+    "must-preserve-en": [
+      "number",
+      "index",
+      "the core observation of the entry",
+      "the overall direction of the existing expression"
+    ],
+    "allowed-actions-ja": [
+      "field 名の修正",
+      "明らかな typo の修正",
+      "欠落 field の補完",
+      "英訳や notes の軽微な調整",
+      "配列 field の空配列化",
+      "表記ゆれの統一"
+    ],
+    "allowed-actions-en": [
+      "correct field names",
+      "fix obvious typos",
+      "supply missing fields",
+      "make minor adjustments to English translation or notes",
+      "convert missing array fields into empty arrays",
+      "unify inconsistent notation"
+    ],
+    "forbidden-actions-ja": [
+      "複数項目をまとめて書き換えること",
+      "理論的立場を別のものに置き換えること",
+      "証拠のない新解釈を追加すること",
+      "既存の内容を大幅に削除すること",
+      "JSON として壊れた形で返すこと"
+    ],
+    "forbidden-actions-en": [
+      "rewriting multiple entries at once",
+      "replacing the theoretical stance with a different one",
+      "adding a new interpretation without evidence",
+      "deleting substantial existing content",
+      "returning invalid JSON"
+    ],
+    "output-format-ja": {
+      "main": "修正版の 1 オブジェクトだけを JSON で返す。",
+      "secondary": "JSON の後に、修正点があれば 3 文以内で簡潔に述べる。",
+      "fallback": "補えない field がある場合は null または空配列を使い、その理由を短く述べる。"
+    },
+    "output-format-en": {
+      "main": "Return only the revised single object in JSON.",
+      "secondary": "After the JSON, briefly explain the revisions in no more than three sentences.",
+      "fallback": "If some fields cannot be supplied, use null or an empty array and briefly explain why."
+    },
+    "daily-prompt-template-ja": "aeadj.json の No.{number} を見直してください。対象はこの 1 項目だけです。意味や観察の核心は変えず、まず field 名の typo、基本項目の欠落、notes や example の整合、検索に影響する表記ゆれを確認してください。修正版の 1 オブジェクトだけを JSON で返し、必要なら修正点を 3 文以内で述べてください。",
+    "daily-prompt-template-en": "Please review No.{number} in aeadj.json. Review only this single entry. Do not change the core meaning or observation. First check field-name typos, missing core fields, consistency of notes and examples, and notation inconsistencies that may affect search. Return only the revised single object in JSON, and if necessary, explain the revisions in no more than three sentences.",
+    "short-prompt-ja": "aeadj.json の No.{number} を 1 件だけ見直してください。修正版の JSON オブジェクトだけ返してください。",
+    "short-prompt-en": "Please review only No.{number} in aeadj.json and return only the revised JSON object.",
+    "message-ja": "1日1件の追加と1日1件の見直しを両立させることで、aead は継続の中で整っていく。",
+    "message-en": "By combining one new entry a day with one reviewed entry a day, AEAD becomes more consistent through continuity."
   }
 ]
