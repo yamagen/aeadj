@@ -17752,15 +17752,35 @@
   },
   {
     "date": "2024.04.14",
+    "date-history": [20240414, 20260320],
     "day": "Sun",
     "number": 4,
     "index": "nobishiro",
-    "title": "You have potential.",
+    "title": "You Have Potential",
     "expression-ja": "(伸:の)び(代:しろ)がある。",
     "roman-ja": "Nobishiro ga aru.",
     "expression-en": "There is room for growth.",
-    "notes-en": "It means that there is a possibility of improvement. You can use this phrase when you want to encourage someone.",
-    "notes-ja": "これは、改善の可能性があることを意味します。 誰かを励ますときにこのフレーズを使用できます。"
+    "variants-ja": ["まだ上達する。", "まだ成長する。", "もっと上手になる。"],
+    "variants-en": [
+      "There is room for growth.",
+      "You can still improve.",
+      "You can get better."
+    ],
+    "intent-ja": ["成長の可能性", "改善の余地", "励まし"],
+    "intent-en": [
+      "potential for growth",
+      "room for improvement",
+      "encouragement"
+    ],
+    "tags-ja": ["表現", "日常会話", "励ましの表現"],
+    "tags-en": ["expression", "daily conversation", "encouraging expression"],
+    "adjusted-expression-ja": "(伸:の)び(代:しろ)があると(思:おも)います。",
+    "adjusted-expression-en": "I think there is room for growth.",
+    "img-sub": "nobishiro01.png",
+    "example-ja": "A「この記録だったら、まだまだ(伸:の)び(代:しろ)がある」 B「そうだね」",
+    "example-en": "A: With this record, there is still room for growth. B: Yeah, I know.",
+    "notes-en": "This expression means that there is still potential for improvement or development. It is often used to encourage someone by saying that they can grow further.",
+    "notes-ja": "まだ成長したり改善したりする余地があることを表す表現です。相手には、これからもっと伸びる可能性があると励ますように使われることがあります。"
   },
   {
     "date": "2024.04.13",
