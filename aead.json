@@ -17725,17 +17725,41 @@
   },
   {
     "date": "2024.04.16",
+    "date-history": [20240416, 20260320],
     "day": "Tue",
     "number": 6,
     "index": "goyoyaku",
     "title": "Reservation",
     "expression-ja": "ご(予約:よやく)",
-    "roman-ja": "go-yoyaku",
+    "roman-ja": "Go-yoyaku",
+    "expression-en": "reservation",
+    "variants-ja": [
+      "ご(予約:よやく)願います。",
+      "ご(予約:よやく)をお(願:おねが)いします。"
+    ],
+    "variants-en": [
+      "I would like to make a reservation.",
+      "I would like to make a reservation, please."
+    ],
+    "intent-ja": ["予約をしたい", "予約をお願いします", "予約をしたいのですが"],
+    "intent-en": [
+      "I want to make a reservation.",
+      "I would like to make a reservation, please.",
+      "I would like to make a reservation."
+    ],
+    "tags-ja": ["表現", "日常会話", "サービス業の表現"],
+    "tags-en": [
+      "expression",
+      "daily conversation",
+      "service industry expression"
+    ],
+    "adjusted-expression-ja": "ご(予約:よやく)をお(願:ねが)いします。",
+    "adjusted-expression-en": "I would like to make a reservation, please.",
+    "img-sub": "goyoyaku01.png",
     "example-ja": "(本日:ほんじつ)はご(予約:よやく)のお(客様:きゃくさま)のみの(営業:えいぎょう)とさせていただきます。",
-    "example-en": "Today, we will be open only for customers with reservations.",
-    "img": "goyoyaku01.png",
-    "notes-en": "This is a phrase that is often used in the restaurant business. But I do not know the restaurant really do not accept walk-in customers.",
-    "notes-ja": "これは、レストラン業界でよく使用されるフレーズです。 しかし、本当に歩いてきた顧客を受け入れないレストランがあるかどうかはわかりません。"
+    "example-en": "Today, we are open only to customers with reservations.",
+    "notes-en": "This word is commonly used in restaurants and other service businesses. In actual use, however, whether walk-in customers are accepted depends on the place.",
+    "notes-ja": "この語は、レストランなどのサービス業でよく使われます。ただし、実際に予約のない来店客を受け入れるかどうかは、その店によって異なります。"
   },
   {
     "date": "2024.04.15",
