@@ -17739,16 +17739,39 @@
   },
   {
     "date": "2024.04.15",
+    "date-history": [20240415, 20260320],
     "day": "Mon",
     "number": 5,
     "index": "nekojita",
-    "title": "Cats cannot eat hot foods",
-    "expression-ja": "(猫舌:ねこじた)",
+    "title": "I Can't Handle Hot Food",
+    "expression-ja": "(猫舌:ねこじた)。",
     "roman-ja": "Nekojita",
-    "expression-en": "cat tongue",
-    "img": "nekojita01.png",
-    "notes-en": "There is no such word in English, so English speakers simply say \"I don't like hot things\"; \"I dislike hot foods\"; or \"I cannot eat/drink hot things.\"",
-    "notes-ja": "英語にはこのような言葉はないので、英語話者は単に「熱いものが好きではない」、「熱い食べ物が嫌い」、「熱いものを食べられない」などと言います。"
+    "expression-en": "I can't handle hot food or drinks.",
+    "variants-ja": ["熱いものは苦手だ。", "少し冷めてからでないと無理だ。"],
+    "variants-en": [
+      "I can't handle hot food.",
+      "I can't drink hot drinks.",
+      "I need it to cool down first."
+    ],
+    "intent-ja": [
+      "熱い食べ物や飲み物が苦手",
+      "熱いものを口にできない",
+      "熱いものは避けたい"
+    ],
+    "intent-en": [
+      "dislike hot food or drinks",
+      "cannot comfortably eat or drink hot things",
+      "prefer to avoid hot things"
+    ],
+    "tags-ja": ["表現", "日常会話", "食べ物の表現"],
+    "tags-en": ["expression", "daily conversation", "food expression"],
+    "adjusted-expression-ja": "(熱:あつ)いものは(苦手:にがて)だと(思:おも)います。",
+    "adjusted-expression-en": "I think I can't handle hot food or drinks.",
+    "img-sub": "nekojita01.png",
+    "example-ja": "A「(猫舌:ねこじた)だから、(熱:あつ)いのはちょっと」 B「じゃ、(アイス:あいす)にする？」",
+    "example-en": "A: I can't handle hot things, so hot food is a bit... B: Then, how about cold things?",
+    "notes-en": "This expression refers to a person who cannot comfortably eat or drink very hot things. English does not have a single common word exactly like nekojita, so people usually say things like \"I can't handle hot food,\" \"I can't drink hot drinks,\" or \"I need it to cool down first.\"",
+    "notes-ja": "これは、熱い食べ物や飲み物をうまく口にできない人を表す表現です。英語には「猫舌」にぴったり当たる日常的な一語がないので、「熱いものは苦手だ」「少し冷めてからでないと無理だ」のように言うことが多いです。"
   },
   {
     "date": "2024.04.14",
