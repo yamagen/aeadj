@@ -17742,17 +17742,45 @@
   },
   {
     "date": "2024.04.21",
+    "date-history": [20240421, 20260321],
     "day": "Sun",
     "number": 11,
     "index": "odoroitakotoni",
-    "title": "verb-ta/adjective-i/adjective-na + koto ni..",
-    "expression-ja": "おどろいたことに、..",
-    "roman-ja": "odoroita koto ni,..",
-    "expression-en": "surprisingly,..",
-    "example-ja": "おどろいたことに、(彼:かれ)は(日本人:にほんじん)なみに(日本語:にほんご)を話す。",
-    "example-en": "Surprisingly, he speaks Japanese pretty as much as Japanese native speakers.",
-    "notes-en": "The phrase \"(emotional) verb-ta/adjective-i/adjective-na + koto ni..\" is used to add a viewpoint or a comment to a statement. You will notice that it is similar to the English phrase before long such as \"omoshiroi koto ni, ..\"(interestingly) \"odoroita koto ni...,\"(surprisingly/) \"bikkurishita koto ni..,\"(amazingly) etc. The word \"koto\" is a noun that means \"thing\" or \"matter.\" The word \"ni\" is a particle that indicates a purpose or a result. The phrase is used in the be beginning of a sentence.",
-    "notes-ja": "「(感情的)動詞-た/形容詞-い/形容詞-な + ことに..」というフレーズは、文に視点やコメントを追加するために使用されます。 「おもしろいことに、..」(interestingly) 「おどろいたことに、..」(surprisingly/) 「びっくりしたことに、..」(amazingly) などの英語のフレーズと似ていることに気づくでしょう。 「こと」は「もの」や「問題」を意味する名詞です。 「に」は目的や結果を示す助詞です。 このフレーズは文の最初に使用されます。"
+    "title": "Verb-ta / Adj-i / Adj-na + koto ni",
+    "expression-ja": "おどろいたことに、...",
+    "roman-ja": "Odoroita koto ni, ...",
+    "expression-en": "surprisingly, ...",
+    "variants-ja": [
+      "おもしろいことに、...",
+      "うれしいことに、...",
+      "残念なことに、..."
+    ],
+    "variants-en": [
+      "Interestingly, ...",
+      "Fortunately, ...",
+      "Unfortunately, ..."
+    ],
+    "intent-ja": ["評価の表現", "見方の表現", "反応の表現"],
+    "intent-en": [
+      "Expression of evaluation",
+      "Expression of viewpoint",
+      "Expression of reaction"
+    ],
+    "tags-ja": ["表現", "日常会話", "評価の表現", "見方の表現", "反応の表現"],
+    "tags-en": [
+      "expression",
+      "daily conversation",
+      "expression of evaluation",
+      "expression of viewpoint",
+      "expression of reaction"
+    ],
+    "adjusted-expression-ja": "(驚:おどろ)きの(事実:じじつ)とでも(言:い)いましょうか、",
+    "adjusted-expression-en": "How can I say it? It's a surprising fact that ...",
+    "img-sub": "odoroitakotoni01.png",
+    "example-ja": "(驚:おどろ)いたことに、(彼:かれ)は(日本人:にほんじん)なみに(日本語:にほんご)を(話:はな)す。",
+    "example-en": "Surprisingly, he speaks Japanese almost as well as a native Japanese speaker.",
+    "notes-en": "The pattern \"verb-ta / adjective-i / adjective-na + koto ni\" is used to add the speaker's evaluative comment at the beginning of a sentence. Expressions such as \"omoshiroi koto ni\" and \"odoroita koto ni\" work like sentence adverbs such as \"interestingly\" or \"surprisingly.\" Here, \"koto\" is a nominal element, and the whole pattern presents the speaker's reaction or viewpoint toward what follows.",
+    "notes-ja": "「動詞タ形 / 形容詞イ形 / 形容動詞 + ことに」は、文頭で話し手の評価や見方を添えるための言い方です。「おもしろいことに」「おどろいたことに」のような形は、英語の「interestingly」や「surprisingly」に近い働きをします。ここでの「ことに」は、続く内容に対する話し手の反応や視点を前置きする表現です。"
   },
   {
     "date": "2024.04.20",
