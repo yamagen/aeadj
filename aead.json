@@ -13577,17 +13577,35 @@
   },
   {
     "date": "2024.04.17",
+    "date-history": [20240417, 20260321],
     "day": "Wed",
     "number": 7,
     "index": "iitokodori",
-    "title": "Who will take only best parts?",
+    "title": "Taking the Best Parts",
     "expression-ja": "いいとこどり",
-    "roman-ja": "ii-toko-dori",
-    "expression-en": "skim the cream",
+    "roman-ja": "Ii-toko-dori",
+    "expression-en": "taking only the best parts",
+    "variants-ja": [
+      "(都会:とかい)と(田舎:いなか)のいいとこどり。",
+      "(仕事:しごと)のいいとこどりをする。",
+      "この(店:みせ)は(安:やす)いし、(美味:おい)しいし、(いいとこどり)だね。"
+    ],
+    "variants-en": [
+      "It takes the best parts of both city life and country life.",
+      "I take only the best parts of my job.",
+      "This restaurant is cheap, delicious, and it takes only the best parts."
+    ],
+    "intent-ja": ["いいとこどりをする", "いいとこどりの生活をする", "いいとこどりの店だね"],
+    "intent-en": ["to take only the best parts", "to live a life that takes only the best parts", "This restaurant takes only the best parts."],
+    "tags-ja": ["表現", "日常会話", "褒める表現", "批判的な表現"],
+    "tags-en": ["expression", "daily conversation", "praising expression", "critical expression"],
+    "adjusted-expression-ja": "(双方:そうほう)の(利点:りてん)を(同時:どうじ)に(取:と)り(入:い)れました。",
+    "adjusted-expression-en": "I took the advantages of both at the same time.",
+    "img-sub": "iitokodori01.png",
     "example-ja": "(都会:とかい)と(田舎:いなか)のいいとこどり。",
-    "example-en": "It's the selections of only the best parts of both city and countryside!",
-    "notes-en": "\"iitokodori\" can be decomposed with \"ii\"(good), \"toko or tokoro\" (part), and \"dori or tori\" (to take); someone will take only all of the best parts.",
-    "notes-ja": "「いいとこどり」は「いい」（良い）、 「とこ」または「ところ」（部分）、 「どり」または「とり」（取る）で構成されています。 誰かが最高の部分だけを取ることができます。"
+    "example-en": "It takes the best parts of both city life and country life.",
+    "notes-en": "This expression refers to taking or enjoying only the most favorable parts of something. It can be used positively, as in combining advantages, or critically, as in taking only what suits oneself.",
+    "notes-ja": "これは、何かの中で都合のよい部分や魅力的な部分だけを取ることを表す表現です。長所をうまく組み合わせるという前向きな言い方にも、自分に都合のよいところだけ取るという批判的な言い方にも使われます。"
   },
   {
     "date": "2024.04.16",
