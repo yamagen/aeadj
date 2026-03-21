@@ -17713,21 +17713,59 @@
   },
   {
     "date": "2024.04.23",
+    "date-history": [20240423, 20260322],
     "day": "Tue",
     "number": 13,
     "index": "isshokemmei",
-    "title": "Do one's best",
+    "title": "Doing One's Best",
     "expression-ja": "(一所懸命:いっしょけんめい)",
-    "roman-ja": "issho-kemmei",
-    "expression-en": "Put one's life in one place.",
+    "roman-ja": "Issho-kemmei",
+    "expression-en": "doing one's very best",
+    "variants-ja": [
+      "(一所懸命:いっしょけんめい)",
+      "(全力:ぜんりょく)で",
+      "(精一杯:せいいっぱい)"
+    ],
+    "variants-en": [
+      "doing one's very best",
+      "with all one's effort",
+      "to the best of one's ability"
+    ],
+    "intent-ja": [
+      "物事に全力で取り組むことを表す表現",
+      "努力や頑張りを表す表現",
+      "仕事や勉強などに対する姿勢を表す表現"
+    ],
+    "intent-en": [
+      "Expression to indicate doing something with all one's effort",
+      "Expression to indicate effort and hard work",
+      "Expression to indicate attitude towards work or study"
+    ],
+    "tags-ja": [
+      "表現",
+      "日常会話",
+      "努力の表現",
+      "頑張りの表現",
+      "仕事や勉強の姿勢の表現"
+    ],
+    "tags-en": [
+      "expression",
+      "daily conversation",
+      "expression of effort",
+      "expression of hard work",
+      "expression of attitude towards work or study"
+    ],
+    "adjusted-expression-ja": "(一所懸命:いっしょけんめい)に(勉強:べんきょう)する",
+    "adjusted-expression-en": "to study with all one's effort",
+    "img-sub": "isshokemmei01.png",
     "example-ja": "(一所懸命:いっしょけんめい)、がんばります。",
-    "example-en": "I will do my best.",
-    "notes-en": "The expression \"issho-kemmei\"  means \"put your life  in one place.\" The word \"issho\" means \"one place\" or \"one location.\" The word \"kemmei\" means \"put spend all one's life\" or \"do your/my best.\" This expression is used to describe someone who is working very hard or doing their best.",
-    "notes-ja": "「一所懸命」は「一か所に命をかける」という意味です。 「一所」は「一か所」や「一か所」を意味します。 「懸命」は「命をかける」という意味で、「最善を尽くす」という意味です。 この表現は、非常に一生懸命働いている人や最善を尽くしている人を表すために使用されます。"
+    "example-en": "I will do my very best.",
+    "notes-en": "The expression \"issho-kemmei\" means to do something with all one's effort. Historically, it literally referred to staking one's life on a single place or holding, but in modern Japanese it is commonly used to mean \"doing one's very best\" or \"working as hard as possible.\"",
+    "notes-ja": "「一所懸命」は、力を尽くして物事に取り組むことを表す表現です。もともとは一つの所領に命をかけるという文字どおりの意味をもっていましたが、現代日本語では「全力で取り組む」「精いっぱいがんばる」という意味で広く使われます。"
   },
   {
     "date": "2024.04.22",
-    "date-history": [20240422, 20260321],
+    "date-history": [20240422, 20260322],
     "day": "Mon",
     "number": 12,
     "index": "ichiryu",
@@ -17766,7 +17804,7 @@
   },
   {
     "date": "2024.04.21",
-    "date-history": [20240421, 20260321],
+    "date-history": [20240421, 20260322],
     "day": "Sun",
     "number": 11,
     "index": "odoroitakotoni",
