@@ -17727,18 +17727,42 @@
   },
   {
     "date": "2024.04.22",
+    "date-history": [20240422, 20260321],
     "day": "Mon",
     "number": 12,
     "index": "ichiryu",
-    "title": "Highest, top-class",
+    "title": "Top-Class",
     "expression-ja": "(一流:いちりゅう)",
-    "roman-ja": "ichi-ryu",
-    "expression-en": "first-class",
-    "img": "chef01.png",
+    "roman-ja": "Ichi-ryu",
+    "expression-en": "top-class",
+    "variants-ja": [
+      "(一流:いちりゅう)",
+      "(最高位:さいこうい)",
+      "(トップクラス:とっぷくらす)"
+    ],
+    "variants-en": ["top-class", "the highest level", "first-rate"],
+    "intent-ja": ["人の評価", "技術の評価", "製品の評価", "仕事ぶりの評価"],
+    "intent-en": [
+      "Evaluation of a person",
+      "Evaluation of skill",
+      "Evaluation of product",
+      "Evaluation of performance"
+    ],
+    "tags-ja": ["表現", "日常会話", "評価", "トップクラス", "最上位"],
+    "tags-en": [
+      "expression",
+      "daily conversation",
+      "evaluation",
+      "top-class",
+      "the highest level"
+    ],
+    "adjusted-expression-ja": "(一流:いちりゅう)の(料理人:りょうりにん)",
+    "adjusted-expression-en": "a top-class chef",
+    "img-sub": "chef01.png",
     "example-ja": "(中村:なかむら)さんは(一流:いちりゅう)の(料理人:りょうりにん)です。",
-    "example-en": "Mr. Nakamura is a first-class chef.",
-    "notes-en": "The word \"ichi-ryu\" means \"first-class\" or \"top-notch.\" The word \"ichi\" means \"one\" or \"first.\" The word \"ryu\" means \"class\" or \"category.\"  The word \"ichi-ryu\" is used to describe something that is of the highest quality or the best in its class. The word \"ichi-ryu\" is used as a noun.",
-    "notes-ja": "「一流」は「一流」や「最高の」を意味します。 「一」は「一」や「最初」を意味します。 「流」は「クラス」や「カテゴリー」を意味します。 「一流」は、最高の品質やそのクラスで最高のものを表すために使用されます。 「一流」は名詞として使用されます。"
+    "example-en": "Mr. Nakamura is a top-class chef.",
+    "notes-en": "The word \"ichi-ryu\" means \"top-class,\" \"first-rate,\" or \"of the highest level.\" It is used to describe a person, skill, product, or performance that is regarded as outstanding in its field.",
+    "notes-ja": "「一流」は、その分野で特にすぐれていて、水準が高いことを表す語です。人、技術、製品、仕事ぶりなどについて、「最高級だ」「第一級だ」という評価を表すときに使われます。"
   },
   {
     "date": "2024.04.21",
