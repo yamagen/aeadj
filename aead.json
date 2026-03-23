@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026.03.23",
+    "day": "Mon",
+    "number": 712,
+    "index": "ketsuronkara iuto",
+    "title": "To get to the point,",
+    "expression-ja": "(結論:けつろん)から(言:い)うと、...",
+    "roman-ja": "ketsuron kara iu to, ...",
+    "expression-en": "To get to the point, ...",
+    "variants-ja": [
+      "(要点:ようてん)から(言:い)うと、...",
+      "(結論:けつろん)を(先:さき)に(言:い)うと、..."
+    ],
+    "variants-en": [
+      "To get to the point, ...",
+      "To summarize, ...",
+      "In conclusion, ..."
+    ],
+    "intent-ja": ["結論の提示", "要点の共有", "説明の表現"],
+    "intent-en": [
+      "presentation of conclusion",
+      "sharing of key points",
+      "expression of explanation"
+    ],
+    "tags-ja": ["即時文法", "口語", "結論提示表現", "要点共有表現", "説明表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of conclusion presentation",
+      "expression of key points sharing",
+      "expression of explanation"
+    ],
+    "adjusted-expression-ja": "(結論:けつろん)から(先:さき)に(申:もう)しますと、...",
+    "adjusted-expression-en": "To mention the conclusion first, ...",
+    "img-sub": "ketsuronkaraiuto01.png",
+    "example-ja": "(結論:けつろん)から(言:い)うと、この(方法:ほうほう)が、(最:もっと)も(効果的:こうかてき)だということがわかりました。",
+    "example-en": "To get to the point, we found that this method is the most effective.",
+    "notes-ja": "「結論から言うと、...」は、意見や評価を最初に伝える際に使う口語的な表現。「結論」は「conclusion」の意味で、「から」は「from」の意味です。",
+    "notes-en": "'Ketsuron kara iu to, ...' is a colloquial expression used when you want to convey your opinion or evaluation at the beginning. 'Ketsuron' means 'conclusion', and 'kara' means 'from'."
+  },
+  {
     "date": "2026.03.22",
     "day": "Sun",
     "number": 711,
