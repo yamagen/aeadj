@@ -17697,15 +17697,30 @@
   },
   {
     "date": "2024.04.30",
+    "date-history": [20240430, 20260324],
     "day": "Tue",
     "number": 20,
     "index": "doumokurokodairu",
-    "title": "Thank you, my crocodile!",
+    "title": "Thanks, Crocodile!",
     "expression-ja": "どうも、(クロコダイル:くろこだいる)！",
-    "roman-ja": "doumo kurokodairu!",
-    "expression-en": "Thank you, my crocodile!",
-    "notes-en": "This is a phrase that is used to express gratitude in a humorous way. The word \"arigatou\" means \"thank you.\" The word \"kurokodairu\" means \"crocodile.\" One day, someone could not remember how to say \"thank you\" in Japanese, so he had an idea to use the similar sound in English and he practiced to say the word, \"alligator\" when a chance came to him. When he thought it was when he should have said, he said \"crocodile!\" It was a mistake. He should have said the word \"alligator\" for \"arigatou.\" Based on the fact that he selected the word, alligator as \"arigatou,\" it is obvious that Japanese 'r' sound is very close to 'l' sound in English.",
-    "notes-ja": "これは、ユーモラスな方法で感謝を表現するために使用されるフレーズです。 「ありがとう」は「ありがとう」を意味します。 「クロコダイル」は「クロコダイル」を意味します。 ある日、誰かが日本語で「ありがとう」と言う方法を覚えられなかったので、彼は英語で似た音を使うことを思いつき、機会が訪れたときに「ワニ」を言うことを練習しました。 彼が言うべきだったと思ったときに言ったのは「クロコダイル」でした。 それは間違いでした。 彼は「ありがとう」のために「ワニ」という言葉を選んだことから、日本語の「r」の音が英語の「l」の音に非常に近いことが明らかです。"
+    "roman-ja": "Doumo, kurokodairu!",
+    "expression-en": "Thanks, crocodile!",
+    "variants-ja": [
+      "どうも、(アリゲーター:ありげーたー)！",
+      "どうも、(クロコダイル:くろこだいる)！"
+    ],
+    "variants-en": ["Thanks, alligator!", "Thanks, crocodile!"],
+    "intent-ja": ["感謝", "ユーモア", "語呂合わせ"],
+    "intent-en": ["gratitude", "humor", "sound-based association"],
+    "tags-ja": ["ユーモア表現", "発音連想", "言いまちがい"],
+    "tags-en": ["humorous expression", "sound association", "speech mistake"],
+    "adjusted-expression-ja": "「ありがとう」と言おうとして、まちがって「クロコダイル」と言ってしまいました。",
+    "adjusted-expression-en": "I tried to say \"arigatou\" but mistakenly said \"crocodile.\"",
+    "img-sub": 
+    "example-ja": "「ありがとう」と(言:い)おうとして、「(クロコダイル:くろこだいる)」って(言:い)っちゃった",
+    "example-en": "I tried to say \"arigatou\" but ended up saying \"crocodile.\"",
+    "notes-en": "This expression is used humorously as a mistaken or playful substitute for \"arigatou.\" In the anecdote behind it, someone tried to remember \"arigatou\" by linking it to a similar-sounding English word such as \"alligator,\" but ended up saying \"crocodile\" instead. The point is not correctness but the amusing sound association across languages.",
+    "notes-ja": "これは、「ありがとう」の代わりに、ユーモラスに使われる言いまちがい的な表現です。もとの逸話では、「ありがとう」を思い出すために「alligator」のような音の似た英語を手がかりにしようとして、実際には「クロコダイル」と言ってしまった、というおかしさがあります。大事なのは正しさよりも、言語をまたいだ音の連想のおもしろさです。"
   },
   {
     "date": "2024.04.29",
@@ -17721,29 +17736,67 @@
   },
   {
     "date": "2024.04.28",
+    "date-history": [20240428, 20260324],
     "day": "Sun",
     "number": 18,
     "index": "ro-ma",
-    "title": "Who did build Rome?",
-    "expression-ja": "(ローマ:ろーま)は(１日:いちにち)にして(成:な)らず",
-    "roman-ja": "ro-ma wa ichi-nichi ni shite nara zu",
-    "expression-en": "Rome was not built in a day",
-    "notes-en": "This is one of the world-wide famous proverb. It means that it takes time to build something great. The word \"Rome\" is the name of the capital city of Italy. The word \"ichi-nichi\" means \"one day.\"  The word \"nara zu\" is the negative form of the verb \"naru\" which means \"to become/established.\" The word \"nara zu\" is used to indicate that something does not happen. The word \"shite nara zu\" is used to indicate that something does not happen even if you do something. It is used to describe a situation in which it takes time to build something great.",
-    "notes-ja": "これは世界的に有名なことわざの一つです。 それは偉大なものを作るのに時間がかかることを意味します。 「ローマ」はイタリアの首都の名前です。 「一日」は「一日」を意味します。 「ならず」は「なる」の否定形で、「なる」とは「なる」を意味します。 「ならず」は何かが起こらないことを示すために使用されます。 「してならず」は、何かをしても何も起こらないことを示すために使用されます。 それは偉大なものを作るのに時間がかかる状況を表すために使用されます。"
+    "title": "Rome Wasn't Built in a Day",
+    "expression-ja": "(ローマ:ろーま)は(一日:いちにち)にして(成:な)らず",
+    "roman-ja": "Roma wa ichinichi ni shite narazu",
+    "expression-en": "Rome wasn't built in a day.",
+    "variants-ja": [
+      "(大:おお)きなことを(成:な)し(遂:と)げるには、(時間:じかん)がかかります。",
+      "(千里:せんり)の(道:みち)も(一歩:いっぽ)から",
+      "(石:いし)の(上:うえ)にも(三年:さんねん)"
+    ],
+    "variants-en": [
+      "Great things take time to achieve.",
+      "A journey of a thousand miles begins with a single step.",
+      "Perseverance prevails even on a stone for three years."
+    ],
+    "intent-ja": ["教訓", "励まし", "時間感覚"],
+    "intent-en": ["lesson", "encouragement", "sense of time"],
+    "tags-ja": ["ことわざ", "努力表現", "時間表現"],
+    "tags-en": ["proverb", "expression of effort", "expression of time"],
+    "adjusted-expression-ja": "(大:おお)きなことを(成:な)し(遂:と)げるには、(時間:じかん)がかかります。",
+    "adjusted-expression-en": "Great things take time to achieve.",
+    "img-sub": "romehaichinichi.png",
+    "example-ja": "(ローマ:ろーま)は(一日:いちにち)にして(成:な)らず、(努力:どりょく)と(忍耐:にんたい)が(必要:ひつよう)です。",
+    "example-en": "Rome wasn't built in a day. It takes effort and patience.",
+    "notes-en": "This is a well-known proverb meaning that great things cannot be accomplished quickly. It is used to remind someone that important work, growth, or achievement takes time.",
+    "notes-ja": "これは、立派なことや大きな仕事は短い時間では成し遂げられない、という意味のよく知られたことわざです。人の成長や仕事の完成には時間がかかることを言うときに使われます。"
   },
   {
     "date": "2024.04.27",
+    "date-history": [20240427, 20260324],
     "day": "Sat",
     "number": 17,
     "index": "ichikabachika",
-    "title": "All or nothing",
+    "title": "All or Nothing",
     "expression-ja": "(一:いち)か(八:ばち)か",
-    "roman-ja": "ichika-bachika",
+    "roman-ja": "Ichi ka bachi ka",
     "expression-en": "all or nothing",
+    "variants-ja": [
+      "(運:うん)を(天:てん)に(任:まか)せる",
+      "(賭:か)けに(出:で)る"
+    ],
+    "variants-en": ["take a gamble", "leave it to chance", "go all in"],
+    "intent-ja": ["決断", "危険", "挑戦"],
+    "intent-en": ["decision", "risk", "challenge"],
+    "tags-ja": ["即時文法", "口語", "賭けの表現", "決断表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "gambling-related expression",
+      "decision expression"
+    ],
+    "adjusted-expression-ja": "(成功:せいこう)する(保証:ほしょう)はありませんが、(思:おも)い(切:き)ってやってみましょう。",
+    "adjusted-expression-en": "There is no guarantee of success, but let's take a chance and try it.",
+    "img-sub": null,
     "example-ja": "(一:いち)か(八:ばち)かやってみよう。",
-    "example-en": "Let's go for broke!",
-    "notes-en": "Literally, the utterance means \"one or eight.\" The word \"ichi\" means \"one\" and the word \"hachi\" means \"eight.\" The word \"ka\" is a particle that is used to indicate a choice between two options. The word \"ichika-bachika\" is used to describe a situation in which there are only two options: all or nothing. I do not know why one and eight are chosen for this expression. It is a gambling term.",
-    "notes-ja": "文字通り、この発言は「一か八か」を意味します。 「一」は「一」を意味し、「八」は「八」を意味します。 「か」は、二つの選択肢の間の選択を示すために使用される助詞です。 「一か八か」は、全てか何もかの2つの選択肢しかない状況を表すために使用されます。 なぜこの表現に1と8が選ばれたのかはわかりません。 これは賭博用語です。"
+    "example-en": "Let's take a chance and try it.",
+    "notes-en": "\"Ichi ka bachi ka\" is an expression used when someone decides to take a risky chance without knowing whether the result will be a great success or a total failure. It is often associated with gambling in tone or background, and it conveys a do-or-die attitude.",
+    "notes-ja": "「一か八か」は、成功するか大失敗するかわからないまま、危険を承知で思い切ってやってみるときの表現です。語感としては賭け事を思わせるところがあり、当たるか外れるかの覚悟をこめた言い方です。"
   },
   {
     "date": "2024.04.26",
