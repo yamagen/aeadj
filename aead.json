@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.03.27",
+    "day": "Fri",
+    "number": 716,
+    "index": "kangaetoku",
+    "title": "I'll think about it.",
+    "expression-ja": "(考:かんが)えとく。",
+    "roman-ja": "Kangae toku.",
+    "expression-en": "I'll think about it.",
+    "variants-ja": ["考えておきます。", "考えておくね。"],
+    "variants-en": ["I'll think about it.", "I'll consider it.", "I'll keep it in mind."],
+    "intent-ja": ["検討の表現", "保留の共有", "口語的な表現"],
+    "intent-en": ["expression of consideration", "sharing of reservation", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "検討表現", "保留共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of consideration", "expression of reservation sharing", "colloquial expression"],
+    "adjusted-expression-ja": "(考:かんが)えておきます。",
+    "adjusted-expression-en": "I'll think about it.",
+    "img-sub": "kangaetoku01.png",
+    "example-ja": "A「(来週:らいしゅう)、(木曜:もくよう)、(来:き)てくれる？」 B「うん、(考:かんが)えとくね」",
+    "example-en": "A: Can you come next Thursday? B: Yeah, I'll think about it.",
+    "notes-ja": "「考えとく」は、検討することを伝える口語的な表現。「考える」は「to think about」の意味で、「とく」は「ておく」の口語的な短縮形で、あらかじめ何かをすることを意味します。しかしながら、「考えとく」は必ずしも実際に考えることを意味するわけではなく、単にその場での返答を保留するための表現として使われることもあります。だから、可能性としては低いかもしれませんし、実際には考えないこともあります。",
+    "notes-en": "'Kangae toku.' is a colloquial expression used to convey that the speaker will consider something. 'Kangaeru' means 'to think about', and 'toku' is a colloquial contraction of 'te oku', which means to do something in advance. However, 'kangae toku' does not necessarily mean that the speaker will actually think about it; it can also be used as an expression to simply defer a response in the moment. Therefore, it may be less likely that the speaker will actually consider it, and they might not think about it at all."
+  },
+  {
     "date": "2026.03.26",
     "day": "Thu",
     "number": 715,
