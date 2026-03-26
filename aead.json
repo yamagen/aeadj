@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.03.26",
+    "day": "Thu",
+    "number": 715,
+    "index": "kinishinaide",
+    "title": "Don't worry about it.",
+    "expression-ja": "(気:き)にしないで。",
+    "roman-ja": "Ki ni shinaide.",
+    "expression-en": "Don't worry about it.",
+    "variants-ja": ["気にしないでください。", "気にしないでね。"],
+    "variants-en": ["Don't worry about it.", "Please don't worry about it.", "Don't worry about it, okay?"],
+    "intent-ja": ["安心の表現", "励ましの共有", "口語的な表現"],
+    "intent-en": ["expression of reassurance", "sharing of encouragement", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "安心表現", "励まし共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of reassurance", "expression of encouragement sharing", "colloquial expression"],
+    "adjusted-expression-ja": "どうぞお(気:き)になさらないでください。",
+    "adjusted-expression-en": "Please don't worry about it.",
+    "img-sub": "kinishinaide01.png",
+    "example-ja": "A「ごめん、(遅:おそ)くなって」 B「(大丈夫:だいじょうぶ)、(気:き)にしないで」",
+    "example-en": "A: Sorry for being late. B: It's okay, don't worry about it.",
+    "notes-ja": "「気にしないで」は、相手に対して心配や不安を感じさせないようにするための口語的な表現。「気にする」は「to worry about」の意味で、「ないで」は「don't」の意味です。",
+    "notes-en": "'Ki ni shinaide.' is a colloquial expression used to reassure someone and prevent them from feeling worried or anxious. 'Ki ni suru' means 'to worry about', and 'naide' means 'don't'."
+  },
+  {
     "date": "2026.03.25",
     "day": "Wed",
     "number": 714,
