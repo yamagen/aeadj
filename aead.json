@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.03.28",
+    "day": "Sat",
+    "number": 717,
+    "index": "doyattano",
+    "title": "How did you do it?",
+    "expression-ja": "どうやったの？",
+    "roman-ja": "Dou yatta no?",
+    "expression-en": "How did you do it?",
+    "variants-ja": ["どうやってやったの？", "どうやってそれをしたの？"],
+    "variants-en": ["How did you do it?", "How did you manage to do that?"],
+    "intent-ja": ["方法の質問", "驚きの表現", "口語的な表現"],
+    "intent-en": ["question about method", "expression of surprise", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "方法質問表現", "驚き表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of method question", "expression of surprise", "colloquial expression"],
+    "adjusted-expression-ja": "どのようにしてやったのですか？",
+    "adjusted-expression-en": "How did you do it?",
+    "img-sub": "doyattano01.png",
+    "example-ja": "A「この(プロジェクト:ぷろじぇくと)、(成功:せいこう)させたのはすごいね！どうやったの？」 B「ありがとう！まあ、大したことしてないんだけどね」",
+    "example-en": "A: It's amazing that you made this project a success! How did you do it? B: Thanks! Well, I didn't do anything special.",
+    "notes-ja": "「どうやったの？」は、相手が何かを成し遂げたことに対して、その方法や手段を尋ねる口語的な表現。「どうやって」は「how」の意味で、「やったの」は「did it」の意味です。",
+    "notes-en": "'Dou yatta no?' is a colloquial expression used to ask about the method or means by which someone accomplished something. 'Dou yatte' means 'how', and 'yatta no' means 'did it'."
+  },
+  {
     "date": "2026.03.27",
     "day": "Fri",
     "number": 716,
