@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.03.31",
+    "day": "Tue",
+    "number": 720,
+    "index": "yattetemiteii",
+    "title": "Can I try it?",
+    "expression-ja": "やってみていい？",
+    "roman-ja": "Yatte mite ii?",
+    "expression-en": "Can I try it?",
+    "variants-ja": ["やってみてもいい？", "やってみてもいいですか？"],
+    "variants-en": ["Can I try it?", "Is it okay if I try it?"],
+    "intent-ja": ["許可の表現", "試行の共有", "口語的な表現"],
+    "intent-en": ["expression of permission", "sharing of attempt", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "許可表現", "試行共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of permission", "expression of attempt sharing", "colloquial expression"],
+    "adjusted-expression-ja": "(やっ:やっ)て(み:み)てもいいですか？",
+    "adjusted-expression-en": "Is it okay if I try it?",
+    "img-sub": "yattetemiteii01.png",
+    "example-ja": "A「この(ゲーム:げーむ)、(面白:おもしろ)そうだね。やってみていい？」 B「うん、いいよ！」",
+    "example-en": "A: This game looks fun. Can I try it? B: Yeah, go ahead!",
+    "notes-ja": "「やってみていい？」は、何かを試してみたいときに使う口語的な表現。「やってみる」は「to try doing something」の意味で、「いい？」は「is it okay?」の意味です。",
+    "notes-en": "'Yatte mite ii?' is a colloquial expression used when you want to try something. 'Yatte miru' means 'to try doing something', and 'ii?' means 'is it okay?'."
+  },
+  {
     "date": "2026.03.30",
     "day": "Mon",
     "number": 719,
