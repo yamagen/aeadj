@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.02",
+    "day": "Thu",
+    "number": 722,
+    "index": "sousurudesune",
+    "title": "So, you see,",
+    "expression-ja": "そうするとですね、",
+    "roman-ja": "Sou suru desu ne,",
+    "expression-en": "So, you see,",
+    "variants-ja": ["そうするとですね、", "そうすると、"],
+    "variants-en": ["So, you see,", "So,"],
+    "intent-ja": ["説明の導入", "話の展開", "口語的な表現"],
+    "intent-en": ["introduction of explanation", "development of story", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "説明導入表現", "話展開表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of explanation introduction", "expression of story development", "colloquial expression"],
+    "adjusted-expression-ja": "(そう:そう)するとですね、",
+    "adjusted-expression-en": "(So,) you see,",
+    "img-sub": "sousurudesune01.png",
+    "example-ja": "そうするとですね、この(方法:ほうほう)が(最適:さいてき)だと(言:い)うことですか。",
+    "example-en": "So, you see, are you saying that this method is the best?",
+    "notes-ja": "「そうするとですね、...」は、説明を始めるときや話を展開するときに使う口語的な表現。「そうする」は「to do so」の意味で、「ですね」は話し手が聞き手に同意を求めるための終助詞です。",
+    "notes-en": "'Sou suru desu ne, ...' is a colloquial expression used when starting an explanation or developing a story. 'Sō suru' means 'to do so', and 'desu ne' is a sentence-ending particle used to seek agreement from the listener."
+  },
+  {
     "date": "2026.04.01",
     "day": "Wed",
     "number": 721,
