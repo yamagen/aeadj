@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.04.04",
+    "day": "Sat",
+    "number": 724,
+    "index": "eesonnna",
+    "title": "Eh, no way...",
+    "expression-ja": "えぇ、そんなぁ...",
+    "roman-ja": "Ee, sonna...",
+    "expression-en": "Eh, no way...",
+    "variants-ja": ["えぇ、そんなぁ...", "えぇ、そんな..."],
+    "variants-en": ["Eh, no way...", "Eh, that's..."],
+    "intent-ja": ["驚きの表現", "否定の共有", "口語的な表現"],
+    "intent-en": [
+      "expression of surprise",
+      "sharing of negation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "驚き表現", "否定共有表現", "口語的表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of surprise",
+      "expression of negation sharing",
+      "colloquial expression"
+    ],
+    "adjusted-expression-ja": "えぇ、それはちょっと...",
+    "adjusted-expression-en": "Eh, that's a bit...",
+    "img-sub": "eesonnna01.png",
+    "example-ja": "A「ここの(支払:しはら)い、よろしく！」 B「えぇ、そんなぁ...」",
+    "example-en": "A: You're paying for this one. B: Oh, no way...",
+    "notes-ja": "「えぇ、そんなぁ...」は、何かに対して驚いたり、否定的な感情を共有したりする口語的な表現。「えぇ」は驚きを表す感嘆詞で、「そんなぁ」は「that's...」の意味で、何かが予想外だったり、受け入れがたいと感じたりするときに使われます。",
+    "notes-en": "'Ee, sonna...' is a colloquial expression used to convey surprise or share a negative emotion about something. 'Ee' is an interjection that expresses surprise, and 'sonna' means 'that's...' and is used when something is unexpected or feels unacceptable."
+  },
+  {
     "date": "2026.04.03",
     "day": "Fri",
     "number": 723,
