@@ -17637,45 +17637,115 @@
   },
   {
     "date": "2024.06.02",
+    "date-history": [20240602, 20260403],
     "day": "Sun",
     "number": 53,
     "index": "yattemimasu",
-    "title": "I'll try it.",
+    "title": "I'll Give It a Try",
     "expression-ja": "やってみます。",
-    "roman-ja": "yattemimasu.",
-    "expression-en": "I'll try it.",
-    "img": "yattemimasu01.png",
-    "example-ja": "A「(料理:りょうり)、(作:つく)ってみる？」 B「やってみます」",
-    "example-en": "A: \"Do you want to try cooking?\" B: \"I'll try it.\"",
-    "notes-en": "The phrase \"yattemimasu\" is used to express that you will try something. It is used to indicate that you will try something new or challenging. It is often used when you want to show your willingness to try something new or when you want to show your enthusiasm for something. It is also used when you want to show your willingness to try something new or when you want to show your enthusiasm for something.",
-    "notes-ja": "「やってみます」は、何かを試してみることを表現するために使用されます。新しいことや挑戦的なことを試してみることを示すために使用されます。新しいことに挑戦する意欲を示したいときや、何かに対する熱意を示したいときによく使われます。"
+    "roman-ja": "Yatte mimasu.",
+    "expression-en": "I'll give it a try.",
+    "variants-ja": [
+      "やってみます。",
+      "ちょっとやってみます。",
+      "まずはやってみます。"
+    ],
+    "variants-en": [
+      "I'll give it a try.",
+      "I'll try it.",
+      "I'll go ahead and try."
+    ],
+    "intent-ja": ["試行", "意欲", "前向きな応答"],
+    "intent-en": ["trying", "willingness", "positive response"],
+    "tags-ja": ["即時文法", "口語", "応答表現", "試行表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "response expression",
+      "trial expression"
+    ],
+    "adjusted-expression-ja": "まずは一度、試しにやってみます。",
+    "adjusted-expression-en": "First, I will try doing it once and see how it goes.",
+    "img-sub": "yattemimasu01.png",
+    "example-ja": "A「この(料理:りょうり)、(作:つく)ってみる？」 B「ええ、やってみます」",
+    "example-en": "A: \"Do you want to try making this dish?\" B: \"Yes, I'll give it a try.\"",
+    "notes-en": "\"Yatte mimasu\" is used when the speaker expresses a willingness to try doing something. It often appears as a positive response to a suggestion, invitation, or challenge. Rather than guaranteeing success, it conveys a readiness to attempt something and see how it goes.",
+    "notes-ja": "「やってみます」は、何かを試しにやってみようという気持ちを表す表現です。提案や誘い、ちょっとした挑戦に対して前向きに応じるときによく使われます。うまくいくことを断言するのではなく、まずはやってみようという姿勢を示す言い方です。"
   },
   {
     "date": "2024.06.01",
+    "date-history": [20240601, 20260403],
     "day": "Sat",
     "number": 52,
-    "index": "nanigananndaka",
-    "title": "I don't understand what's what.",
+    "index": "naniganandaka",
+    "title": "I Can't Make Sense of It",
     "expression-ja": "(何:なに)が(何:なん)だかわからない。",
-    "roman-ja": "naniganandaka wakaranai.",
-    "expression-en": "I don't understand what's what.",
-    "img": "naniganandaka01.png",
+    "roman-ja": "Nani ga nan da ka wakaranai.",
+    "expression-en": "I can't make sense of what's what.",
+    "variants-ja": [
+      "(何:なに)が(何:なん)だかわからない。",
+      "もう(何:なに)が(何:なん)だかわからない。",
+      "(何:なに)がどうなっているのかわからない。"
+    ],
+    "variants-en": [
+      "I can't make sense of what's what.",
+      "I have no idea what's going on.",
+      "I can't tell what's what anymore."
+    ],
+    "intent-ja": ["混乱", "理解困難", "状況把握の失敗"],
+    "intent-en": [
+      "confusion",
+      "difficulty in understanding",
+      "failure to grasp the situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "混乱表現", "理解困難表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "confusion expression",
+      "difficulty-understanding expression"
+    ],
+    "adjusted-expression-ja": "(状況:じょうきょう)が(複雑:ふくざつ)で、(何:なに)がどうなっているのか理解できません。",
+    "adjusted-expression-en": "The situation is so complicated that I cannot understand what is going on.",
+    "img-sub": "naniganandaka01.png",
     "example-ja": "(彼:かれ)が(説明:せつめい)してくれるけど、あまりにも(速:はや)すぎて、(何:なに)が(何:なん)だかわからない。",
-    "example-en": "He explains it to me, but it's too fast, so I don't understand what's what.",
-    "notes-en": "The phrase \"naniganandaka wakaranai\" is used to express that you don't understand what's going on. It can also be used when you are not satisfied with the situation, even though you understand what is happening.",
-    "notes-ja": "「何が何だかわからない」は、何が起こっているのかわからないことを表現するために使用されます。だいたいはわかってはいるけれども、状況が気にくわないときにも表現できます。"
+    "example-en": "He explains it to me, but he speaks so fast that I can't make sense of what's what.",
+    "notes-en": "\"Nani ga nan da ka wakaranai\" is used when the speaker feels confused and cannot sort out what is what in the situation. It often appears when too many things are happening at once, when an explanation is hard to follow, or when the speaker feels mentally overwhelmed. Rather than a calm statement of non-understanding, it often carries the feeling of immediate confusion.",
+    "notes-ja": "「何が何だかわからない」は、物事が入り組んでいて、何がどうなっているのか頭の中で整理できないときに使う表現です。説明が速すぎるとき、情報が多すぎるとき、状況が複雑すぎるときなどに出やすく、単に理解していないというだけでなく、その場で混乱している感じを伴いやすい言い方です。"
   },
   {
     "date": "2024.05.31",
+    "date-history": [20240531, 20260403],
     "day": "Fri",
     "number": 51,
     "index": "soudeshitaka",
-    "title": "I really newly know that!",
+    "title": "Oh, I Didn't Know That",
     "expression-ja": "そうでしたか。",
-    "roman-ja": "soudeshitaka.",
-    "expression-en": "I see",
-    "notes-en": "The phrase \"soudeshitaka\" is used to express understanding or realization. It is used to indicate that you have learned something new or unexpected. Please note that it is in the past tense.",
-    "notes-ja": "「そうでしたか」は理解や認識を表現するために使用される間投詞です。 何か今迄に知らなかったことを知らされたときに、少々驚きを伴う気持ちが表わせます。過去形であることに注意してください。"
+    "roman-ja": "Sou deshita ka.",
+    "expression-en": "Oh, I didn't know that.",
+    "variants-ja": ["そうだったんですか。", "そうですか。", "そうでしたか。"],
+    "variants-en": ["Oh, I didn't know that.", "I see.", "Oh, is that so?"],
+    "intent-ja": ["理解", "気づき", "軽い驚き", "丁寧な反応"],
+    "intent-en": [
+      "understanding",
+      "realization",
+      "mild surprise",
+      "polite response"
+    ],
+    "tags-ja": ["即時文法", "口語", "反応表現", "丁寧表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "reaction expression",
+      "polite expression"
+    ],
+    "adjusted-expression-ja": "それは知りませんでした。",
+    "adjusted-expression-en": "I did not know that.",
+    "img-sub": "soudeshitaka01.png",
+    "example-ja": "A「(先生:せんせい)、(来週:らいしゅう)は(休講:きゅうこう)です。」 B「そうでしたか。」",
+    "example-en": "A: The class will be canceled next week. B: Oh, I didn't know that.",
+    "notes-en": "\"Sou deshita ka\" is a polite reaction expression used when the speaker has just learned something new and responds with understanding, mild surprise, or acknowledgment. The past form gives it a reflective nuance, as if the speaker is taking in what has just been explained. It is often softer and more polite than a casual response such as \"sokka.\"",
+    "notes-ja": "「そうでしたか」は、今はじめて知ったことに対して、理解や軽い驚きをこめて返す丁寧な反応表現です。過去形になっていることで、相手の説明を受けて、そういうことだったのかと受け止める感じが出ます。「そっか」のようなくだけた反応よりも、やわらかく丁寧な響きを持つ表現です。"
   },
   {
     "date": "2024.05.30",
