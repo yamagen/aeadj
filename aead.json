@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.04.05",
+    "day": "Sun",
+    "number": 725,
+    "index": "jaikoushiyou",
+    "title": "Well, let's do it this way.",
+    "expression-ja": "じゃ、こうしよう。",
+    "roman-ja": "Ja, kou shiyou.",
+    "expression-en": "Well, let's do it this way.",
+    "variants-ja": ["じゃ、こうしよう。", "じゃ、これでいこう。"],
+    "variants-en": ["Well, let's do it this way.", "Well, let's go with this."],
+    "intent-ja": ["提案の表現", "決定の共有", "口語的な表現"],
+    "intent-en": [
+      "expression of suggestion",
+      "sharing of decision",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "提案表現", "決定共有表現", "口語的表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of suggestion",
+      "expression of decision sharing",
+      "colloquial expression"
+    ],
+    "adjusted-expression-ja": "では、このようにしましょう。",
+    "adjusted-expression-en": "Well, let's do it this way.",
+    "img-sub": "jaikoushiyou01.png",
+    "example-ja": "A「この(問題:もんだい)、どう(解決:かいけつ)する？」 B「じゃ、こうしよう。まずは(原因:げんいん)を(調査:ちょうさ)してみて、それから(対策:たいさく)を(考:かんが)えよう」",
+    "example-en": "A: How should we solve this problem? B: Well, let's do it this way. First, let's investigate the cause, and then we can think about the countermeasures.",
+    "notes-ja": "「じゃ、こうしよう」は、何かを提案したり、決定を共有したりする口語的な表現。「じゃ」は「well」の意味で、「こうしよう」は「let's do it this way」の意味です。",
+    "notes-en": "'Ja, kou shiyou.' is a colloquial expression used to make a suggestion or share a decision. 'Ja' means 'well', and 'kou shiyou' means 'let's do it this way'."
+  },
+  {
     "date": "2026.04.04",
     "day": "Sat",
     "number": 724,
