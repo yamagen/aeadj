@@ -17570,59 +17570,151 @@
   },
   {
     "date": "2024.06.09",
+    "date-history": [20240609, 20260405],
     "day": "Sun",
     "number": 60,
-    "index": "minnagenkisiteruyo",
-    "title": "How is everybody?",
+    "index": "minnagenkishiteruyo",
+    "title": "Everyone's Doing Fine",
     "expression-ja": "みんな、(元気:げんき)してるよ。",
     "roman-ja": "Minna, genki shiteru yo.",
-    "expression-en": "Everybody is fine.",
-    "example-ja": "A「(元気:げんき)してる？」 B「みんな、(元気:げんき)してるよ」",
-    "example-en": "A: \"Is everybody fine?\" B: \"Everybody is fine.\"",
-    "notes-en": "The phrase \"minna, genki shiteru yo\" is used to express that everyone is fine. It is a common greeting used when you meet someone or talk to someone on the phone. Depending on the dialect, it may be said as \"genki shitoru?\" or \"genki shitoru yo.\", hence, use 'toru' instead of 'teru'. Once you try using a dialect, you may find it fun.",
-    "notes-ja": "「みんな、元気してるよ」は、電話口で交される挨拶の表現のひとつ。方言によっては「元気してる？」だけでなく「元気しとる？しとるよ」などとも言われる。一度、方言を使ってみると、楽しいかもしれない。"
+    "expression-en": "Everyone's doing fine.",
+    "variants-ja": [
+      "みんな、(元気:げんき)してるよ。",
+      "みんな(元気:げんき)だよ。",
+      "みんな(元気:げんき)にしてるよ。"
+    ],
+    "variants-en": [
+      "Everyone's doing fine.",
+      "Everyone's fine.",
+      "They're all doing well."
+    ],
+    "intent-ja": ["近況報告", "応答", "気づかいへの返答"],
+    "intent-en": [
+      "reporting how people are doing",
+      "response",
+      "reply to concern"
+    ],
+    "tags-ja": ["口語", "近況表現", "応答表現", "あいさつ表現"],
+    "tags-en": [
+      "spoken",
+      "well-being expression",
+      "response expression",
+      "greeting-related expression"
+    ],
+    "adjusted-expression-ja": "みんな(元気:げんき)にしていますよ。",
+    "adjusted-expression-en": "Everyone is doing well.",
+    "img-sub": "minnagenkishiteruyo01.png",
+    "example-ja": "A「みんな、(元気:げんき)してる？」 B「みんな、(元気:げんき)してるよ」",
+    "example-en": "A: How's everyone doing? B: Everyone's doing fine.",
+    "notes-en": "\"Minna, genki shiteru yo\" is a casual way to say that everyone is doing well. It often appears as a response when someone asks about family members, friends, or people back home. In some dialects, \"shiteru\" may appear as \"shitoru,\" as in \"genki shitoru?\" or \"genki shitoru yo.\"",
+    "notes-ja": "「みんな、元気してるよ」は、家族や友人など、身近な人たちの様子をたずねられたときに、「みんな元気にしている」と気軽に答える口語表現です。あいさつそのものというより、近況をたずねられたときの返答として使われやすい表現です。方言によっては、「してる」が「しとる」になり、「元気しとる？」「元気しとるよ」のようにも言われます。"
   },
   {
     "date": "2024.06.08",
+    "date-history": [20240608, 20260405],
     "day": "Sat",
     "number": 59,
-    "index": "dochirani shitemo",
-    "title": "To avoid a boring meeting",
+    "index": "dochiranishitemo",
+    "title": "Either Way",
     "expression-ja": "どちらにしても",
-    "roman-ja": "dochirani shitemo",
+    "roman-ja": "Dochira ni shitemo",
     "expression-en": "either way",
-    "example-ja": "「(どちらに:どちらに)しても、(確認:かくにん)が(必要:ひつよう)です。」",
-    "example-en": "Either way, confirmation is necessary.",
-    "notes-en": "The phrase \"dochirani shitemo\" is used to express that no matter what the situation is, something is true or must happen. It can be used to summarize a discussion that has been going on for a long time. There are boring meetings everywhere. Some people try to decide unimportant things in a discussion. In such cases, you can suggest, \"Either way, why don't you leave it to the chairperson?\"",
-    "notes-ja": "「どちらにしても」は、状況に関係なく何かが真実であるか、起こることやしなくてはならないことを表現するために使用されます。議論が長く続いている場合に、話をまとめるために使えます。どこでもつまらない会議があります。重要でもないことを議論で決めようとする人もいます。こういうときは、「どちらにしても、それは議長にお任せしてみてはどうでしょうか」と提案すればよいのです。"
+    "variants-ja": ["どちらにしても", "どっちにしても", "いずれにしても"],
+    "variants-en": ["either way", "in any case", "whichever way it goes"],
+    "intent-ja": ["状況整理", "結論の提示", "議論の収束"],
+    "intent-en": [
+      "sorting out the situation",
+      "stating a conclusion",
+      "bringing discussion to a close"
+    ],
+    "tags-ja": ["即時文法", "口語", "結論提示表現", "議論整理表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "conclusion-marking expression",
+      "discussion-organizing expression"
+    ],
+    "adjusted-expression-ja": "いずれにしても、確認が必要です。",
+    "adjusted-expression-en": "In any case, confirmation is necessary.",
+    "img-sub": "dochiranishitemo01.png",
+    "example-ja": "「どちらにしても、(確認:かくにん)が(必要:ひつよう)です」",
+    "example-en": "Either way, we need to confirm it.",
+    "notes-en": "\"Dochira ni shitemo\" is used when the speaker wants to say that the same point holds regardless of which option is chosen. It is useful for summarizing a discussion, narrowing the focus, or moving people away from unproductive back-and-forth. In meetings, for example, it can help cut through a long and boring discussion by shifting attention to what still needs to be done anyway.",
+    "notes-ja": "「どちらにしても」は、どちらを選んでも結局同じ点が成り立つことを示す表現です。話をまとめたり、論点を絞ったり、だらだら続くやり取りを切り上げたりするときに便利です。会議などでも、長くてつまらない議論を、結局何が必要なのかという点に引き戻す働きをすることがあります。"
   },
   {
     "date": "2024.06.07",
+    "date-history": [20240607, 20260405],
     "day": "Fri",
     "number": 58,
     "index": "saishuutekiniwa",
-    "title": "\"In the end\" does not mean that everyone agrees.",
+    "title": "Ultimately / In the End",
     "expression-ja": "(最終的:さいしゅうてき)には",
-    "roman-ja": "saishuutekiniwa",
-    "expression-en": "in the end",
+    "roman-ja": "Saishuuteki ni wa",
+    "expression-en": "ultimately / in the end",
+    "variants-ja": [
+      "(最終的:さいしゅうてき)には",
+      "(結局:けっきょく)",
+      "(最後:さいご)には"
+    ],
+    "variants-en": ["ultimately", "in the end", "after all"],
+    "intent-ja": ["結論の提示", "結果のまとめ", "決定の表現"],
+    "intent-en": [
+      "stating a conclusion",
+      "summing up a result",
+      "expression of decision"
+    ],
+    "tags-ja": ["即時文法", "口語", "結論提示表現", "結果表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "conclusion-marking expression",
+      "result expression"
+    ],
+    "adjusted-expression-ja": "(最終的:さいしゅうてき)な(判断:はんだん)としては、そのように(決:き)まりました。",
+    "adjusted-expression-en": "As the final decision, that is what was decided.",
+    "img-sub": "saishuutekiniwa01.png",
     "example-ja": "「(最終的:さいしゅうてき)には、みんな(賛成:さんせい)しました。」",
     "example-en": "In the end, everyone agreed.",
-    "notes-en": "The phrase \"saishuutekiniwa\" is used to indicate that something happened or was decided after a series of events or discussions. However, even if this expression is used, it does not necessarily mean that everyone agrees. In most cases, it means that a person with a strong voice has forcibly decided.",
-    "notes-ja": "「最終的には」は、一連の出来事や議論の後に何かが起こったり決定されたりしたことを示すために使用されます。 しかしながら、この表現を使っても、必ずしも全員が賛成しているわけではありません。大方において、発言力の大きい人が無理矢理、決めたということです。"
+    "notes-en": "\"Saishuuteki ni wa\" is used when the speaker presents the final outcome after a process, discussion, or series of events. However, this expression by itself does not guarantee that everyone agreed willingly. In actual situations, it may simply mean that a decision was reached, sometimes because someone with stronger influence pushed it through.",
+    "notes-ja": "「最終的には」は、いろいろな経過や議論のあとで、最後にどうなったかを示す表現です。ただし、この表現だけで、全員が納得して賛成したことまでは意味しません。実際には、何らかの形で決着がついたことを示すだけで、発言力の強い人の判断が通っただけという場合もあります。"
   },
   {
     "date": "2024.06.06",
+    "date-history": [20240606, 20260405],
     "day": "Thu",
     "number": 57,
     "index": "dounimonaranai",
-    "title": "There's nothing I can do.",
+    "title": "There's Nothing We Can Do",
     "expression-ja": "どうにもならない。",
-    "roman-ja": "dounimo naranai.",
-    "expression-en": "There's nothing I can do.",
-    "example-ja": "A「(雨:あめ)が(降:ふ)っているから、(洗濯:せんたく)が(干:ほ)せない」 B「どうにもならないね」",
-    "example-en": "A: \"It's raining, so I can't dry the laundry.\" B: \"I can't help it.\"",
-    "notes-en": "The phrase \"dounimo naranai\" is used to express helplessness or resignation. It is used to indicate that there is nothing you can do to change the situation.",
-    "notes-ja": "「どうにもならない」は無力感や諦めを表現するために使用されます。 それは、状況を変えるために何もできないことを示すために使用されます。"
+    "roman-ja": "Dou ni mo naranai.",
+    "expression-en": "There's nothing we can do.",
+    "variants-ja": [
+      "どうにもならない。",
+      "もうどうにもならない。",
+      "どうしようもない。"
+    ],
+    "variants-en": [
+      "There's nothing we can do.",
+      "There's nothing I can do.",
+      "It can't be helped."
+    ],
+    "intent-ja": ["無力感", "あきらめ", "状況受容"],
+    "intent-en": ["helplessness", "resignation", "accepting the situation"],
+    "tags-ja": ["即時文法", "口語", "あきらめの表現", "無力感の表現"],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "expression of resignation",
+      "expression of helplessness"
+    ],
+    "adjusted-expression-ja": "この状況では、今のところどうすることもできません。",
+    "adjusted-expression-en": "In this situation, there is nothing we can do for now.",
+    "img-sub": "dounimonaranai01.png",
+    "example-ja": "A「(雨:あめ)が(降:ふ)っているから、(洗濯:せんたく)が(干:ほ)せない」 B「こればかりは、どうにもならないね」",
+    "example-en": "A: It's raining, so I can't hang out the laundry. B: In this case, there's nothing we can do.",
+    "notes-en": "\"Dou ni mo naranai\" is used when the speaker feels that the situation cannot be changed no matter what they do. It expresses helplessness, resignation, or the sense that things are beyond one's control. In conversation, it often appears as an immediate reaction to an unpleasant but unavoidable situation. \"kore bakari wa\" can be added at the beginning to emphasize that this is a situation where nothing can be done.",
+    "notes-ja": "「どうにもならない」は、何をしても状況を変えられないと感じるときに使う表現です。無力感、あきらめ、自分の力では及ばないという気持ちを表します。会話では、困ったことが起きているが、今は受け入れるしかないという即時的な反応として出やすい表現です。「こればかりは」を文頭に付けると、どうにもならない状況であることを強調できます。"
   },
   {
     "date": "2024.06.05",
