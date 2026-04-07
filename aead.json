@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.07",
+    "day": "Tue",
+    "number": 727,
+    "index": "imanannteitta",
+    "title": "What did you just say?",
+    "expression-ja": "(今:いま)、(何:なん)て(言:い)った？",
+    "roman-ja": "Ima, nan te itta?",
+    "expression-en": "What did you just say?",
+    "variants-ja": ["今、何て言った？", "今、何て言いました？"],
+    "variants-en": ["What did you just say?", "What did you just say? (polite)"],
+    "intent-ja": ["確認の表現", "驚きの共有", "口語的な表現"],
+    "intent-en": ["expression of confirmation", "sharing of surprise", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "確認表現", "驚き共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of confirmation", "expression of surprise sharing", "colloquial expression"],
+    "adjusted-expression-ja": "(今:いま)、(何:なん)とおっしゃいましたか？",
+    "adjusted-expression-en": "What did you just say? (polite)",
+    "img-sub": "imanannteitta01.png",
+    "example-ja": "A「この(映画:えいが)、(面白:おもしろ)かった！」 B「(今:いま)、(何:なん)て(言:い)った？(本当:ほんとう)にそう(思:おも)うの？」",
+    "example-en": "A: This movie looks interesting! B: What did you just say?",
+    "notes-ja": "「今、何て言った？」は、相手の発言に対して驚いたり、確認したりする口語的な表現。「今」は「just now」の意味で、「何て言った？」は「what did you say?」の意味です。",
+    "notes-en": "'Ima, nan te itta?' is a colloquial expression used to express surprise or seek confirmation about what someone just said. 'Ima' means 'just now', and 'nan te itta?' means 'what did you say?'."
+  },
+  {
     "date": "2026.04.06",
     "day": "Mon",
     "number": 726,
