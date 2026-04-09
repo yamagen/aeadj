@@ -32,45 +32,6 @@
     "notes-en": "'Sore tte nan tte iu no?' is a strategic expression used when asking for the name of something or a concept, especially when the speaker is unsure of the appropriate term or noun to use. This is a way to continue the conversation while asking questions on the spot, rather than stopping because you don't know something. Moreover, this is not just a strategy used by language learners; native Japanese speakers also use it commonly. 'Nan tte iu no?' means 'what is it called?'. The phrase 'ichiban nori' means 'first in line', referring to being at the front of a line. However, in many cases, being first in line does not necessarily mean getting a special discount, yet many people aim to be first in line. Additionally, sometimes people will join a line simply because there are many people already lined up, even if they don't know what is being offered."
   },
   {
-    "date": "2026.04.09",
-    "day": "Thu",
-    "number": 729,
-    "index": "sorettenantteiunno",
-    "title": "What is that called?",
-    "expression-ja": "それって(何:なん)っていうの？",
-    "roman-ja": "Sore tte nan tte iu no?",
-    "expression-en": "What is that called?",
-    "variants-ja": ["それって何っていうの？", "それは何と呼ばれているの？"],
-    "variants-en": ["What is that called?", "What is that referred to as?"],
-    "intent-ja": ["名称の質問", "説明の共有", "口語的な表現"],
-    "intent-en": [
-      "question about name",
-      "sharing of explanation",
-      "colloquial expression"
-    ],
-    "tags-ja": [
-      "即時文法",
-      "口語",
-      "名称質問表現",
-      "説明共有表現",
-      "口語的表現"
-    ],
-    "tags-en": [
-      "immediate grammar",
-      "spoken",
-      "expression of name question",
-      "expression of explanation sharing",
-      "colloquial expression"
-    ],
-    "adjusted-expression-ja": "それは(何:なん)と(呼:よ)ばれているのですか？",
-    "adjusted-expression-en": "(What) is that called?",
-    "img-sub": "sorettenantteiunno01.png",
-    "example-ja": "(昨日:きのう)、(開店前:かいてんまえ)、(店:みせ)の(前:まえ)にみんな(並:なら)んでて、それって(何:なん)て(言:い)うの？(一番乗:いちばんの)りっていうの？すごい(行列:ぎょうれつ)でね、(驚:おどろ)いたよ。",
-    "example-en": "Yesterday, before the store opened, there were people lined up in front of the store, and I was like, what is that called? Is it called 'first in line'? It was such a long line, I was surprised.",
-    "notes-ja": "「それって何っていうの？」は、普通は、物や概念の名前を尋ねる表現ですが、適切な呼び方や名詞がわからない、あるいは自身がないときに使う戦略的な表現です。「それ」は「that」の意味で、「何っていうの？」は「what is it called?」の意味です。「一番乗り」というのは、「first in line」の意味で、何かの先頭にいることを指します。しかし、大体において、一番乗りで買っても特別に安くなるわけではないのに、一番乗りを目指す人が多い。また、何があるのかわからないけれども、大勢並んでいるから、並んでいる人も時々います。",
-    "notes-en": "'Sore tte nan tte iu no?' is a strategic expression used when asking for the name of something or a concept, especially when the speaker is unsure of the appropriate term or noun to use. 'Sore' means 'that', and 'nan tte iu no?' means 'what is it called?'. The phrase 'ichiban nori' means 'first in line', referring to being at the front of a line. However, in many cases, being first in line does not necessarily mean getting a special discount, yet many people aim to be first in line. Additionally, sometimes people will join a line simply because there are many people already lined up, even if they don't know what is being offered."
-  },
-  {
     "date": "2026.04.08",
     "day": "Wed",
     "number": 728,
