@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.14",
+    "day": "Tue",
+    "number": 734,
+    "index": "ni kanzen ni tokka shiteru",
+    "title": "Completely specialized in ...",
+    "expression-ja": "...に(完全:かんぜん)に(特化:とっか)してる",
+    "roman-ja": "...ni kanzen ni tokka shiteru",
+    "expression-en": "Completely specialized in ...",
+    "variants-ja": ["...に完全に特化してる", "...のためだけに作られている"],
+    "variants-en": ["Completely specialized in ...", "Made just for ...", "Totally focused on ..."],
+    "intent-ja": ["専門性の表現", "強調の共有", "口語的な表現"],
+    "intent-en": ["expression of specialization", "sharing of emphasis", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "専門性表現", "強調共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of specialization", "expression of emphasis sharing", "colloquial expression"],
+    "adjusted-expression-ja": "...に(完全:かんぜん)に(特化:とっか)しています。",
+    "adjusted-expression-en": "...is completely specialized in ...",
+    "img-sub": "nikanzennitokkashiteru01.png",
+    "example-ja": "この(サイト:さいと)はこの(分野:ぶんや)に(完全:かんぜん)に(特化:とっか)してるから、(他:ほか)のことはあまり(説明:せつめい)していないんだよね。",
+    "example-en": "This site is completely specialized in this field, so it doesn't explain much about other things.",
+    "notes-ja": "「...に完全に特化してる」は、ある分野や領域に対して非常に専門的であることを表す口語的な表現。「完全に」は「completely」の意味で、「特化してる」は「is specialized」の意味です。",
+    "notes-en": "'...ni kanzen ni tokka shiteru' is a colloquial expression used to indicate that something is very specialized in a certain field or area. 'Kanzen ni' means 'completely', and 'tokka shiteru' means 'is specialized'."
+  },
+  {
     "date": "2026.04.13",
     "day": "Mon",
     "number": 733,
@@ -20,7 +43,7 @@
     "example-ja": "A「この(順番:じゅんばん)、(入:い)れ(替:か)えた(方:ほう)が、(効率:こうりつ)よくないですか？」 B「そうできればいいんだけど、この(日:ひ)はまだ(材料:ざいりょう)が(届:とど)いていなくてね」",
     "example-en": "A: Wouldn't it be more efficient if we switched the order? B: It would be nice if we could do that, but the materials haven't arrived yet by that day.",
     "notes-ja": "「そうできればいいんだけど」は、何かをしたいけれども、それが難しい事情があることを示す表現。「そうできるといいんだけど」とも(言:い)います。",
-    "notes-en": "'Sou dekireba ii n da kedo.' is a colloquial expression used to indicate that you want to do something, but there are circumstances that make it difficult. It can also be said as 'Sou dekiru to ii n da kedo.'"
+    "notes-en": "'Sou dekireba ii n da kedo' is a colloquial expression used when you would like to do something, but there are circumstances that make it difficult. It can also be said as 'Sou dekiru to ii n da kedo.'"
   },
   {
     "date": "2026.04.12",
