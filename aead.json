@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.15",
+    "day": "Wed",
+    "number": 735,
+    "index": "chinaminichotto",
+    "title": "Related to that, ...",
+    "expression-ja": "ちなみに、...",
+    "roman-ja": "Chinami ni, ...",
+    "expression-en": "Related to that, ...",
+    "variants-ja": ["ちなみに、...", "ちなみにね、...", "ちなみにさ、..."],
+    "variants-en": ["Related to that, ...", "This is a bit related, but..."],
+    "intent-ja": ["関連情報の追加", "補足の共有", "口語的な表現"],
+    "intent-en": ["adding related information", "sharing additional information", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "関連情報の追加", "補足の追加", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression for adding related information", "colloquial expression"],
+    "adjusted-expression-ja": "(少:すこ)し、(関連:かんれん)する(話:はなし)なんですが、...",
+    "adjusted-expression-en": "This is a bit related, but...",
+    "img-sub": "chinaminichotto01.png",
+    "example-ja": "A「今日はバレンタインデーですね！」 B「そうですね。ちなみに、もうチョコ買いました？」",
+    "example-en": "A: Today is Valentine's Day, isn't it? B: Yes, it is. Related to that, have you bought chocolate yet?",
+    "notes-ja": "「ちなみに」は、話題転換の言葉のように見えて、実際には完全に別の話題には使いにくい表現です。前の話と少しでもつながりがないと不自然に聞こえます。つまり「ちなみに」は、関係ない話を始める合図ではなく、前の話に関連する情報を添える合図です。",
+    "notes-en": "The phrase 'chinami ni' may look like a way to change the topic, but it is actually difficult to use it for a completely unrelated topic. It sounds unnatural if there is no connection to the previous topic. In other words, 'chinami ni' is not a signal for starting an unrelated topic, but a signal for adding information related to the previous topic."
+  },
+  {
     "date": "2026.04.14",
     "day": "Tue",
     "number": 734,
