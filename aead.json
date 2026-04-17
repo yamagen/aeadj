@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.18",
+    "day": "Sat",
+    "number": 738,
+    "index": "kikoeru",
+    "title": "Can you hear me?",
+    "expression-ja": "(聞:き)こえる？",
+    "roman-ja": "Kikoeru?",
+    "expression-en": "Can you hear me?",
+    "variants-ja": ["聞こえる？", "聞こえてる？"],
+    "variants-en": ["Can you hear me?", "Can you hear me? (casual)"],
+    "intent-ja": ["確認の表現", "コミュニケーションの共有", "口語的な表現"],
+    "intent-en": ["expression of confirmation", "sharing of communication", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "確認表現", "コミュニケーション共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of confirmation", "expression of communication sharing", "colloquial expression"],
+    "adjusted-expression-ja": "(私:わたし)の(声:こえ)が(聞:き)こえますか？",
+    "adjusted-expression-en": "Can you hear my voice?",
+    "img-sub": "kikoeru01.png",
+    "example-ja": "(オンライン会議:おんらいんかいぎ)で、(相手:あいて)に(声:こえ)が(聞:き)こえるかどうかを(確認:かくにん)するときに(使:つか)います。",
+    "example-en": "This is used when confirming whether the other person can hear your voice during an online meeting.",
+    "notes-ja": "「聞こえる？」は、相手が自分の声を聞いているかどうかを確認するための口語的な表現。「聞こえてる？」も同じ意味で使われます。",
+    "notes-en": "'Kikoeru?' is a colloquial expression used to confirm whether the other person can hear your voice. 'Kikoeteru?' is also used with the same meaning."
+  },
+  {
     "date": "2026.04.17",
     "day": "Fri",
     "number": 737,
