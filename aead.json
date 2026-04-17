@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.17",
+    "day": "Fri",
+    "number": 737,
+    "index": "mouikanakucha",
+    "title": "I have to go now.",
+    "expression-ja": "もう、(行:い)かなくっちゃ。",
+    "roman-ja": "Mou, ikanakucha.",
+    "expression-en": "I have to go now.",
+    "variants-ja": ["もう、行かなくっちゃ。", "もう、行かなきゃ。"],
+    "variants-en": ["I have to go now.", "I gotta go now."],
+    "intent-ja": ["必要性の表現", "時間の共有", "口語的な表現"],
+    "intent-en": ["expression of necessity", "sharing of time", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "必要性表現", "時間共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of necessity", "expression of time sharing", "colloquial expression"],
+    "adjusted-expression-ja": "もう、行かなくてはなりません。",
+    "adjusted-expression-en": "I have to go now.",
+    "img-sub": "mouikanakucha01.png",
+    "example-ja": "もう、(行:い)かなくっちゃ。(次:つぎ)の(予定:よてい)があるからね。",
+    "example-en": "I have to go now. I have another appointment.",
+    "notes-ja": "「もう、行かなくっちゃ。」は、今すぐに行かなければならないことを表す口語的な表現。「もう」は「now」の意味で、「行かなくっちゃ」は「I have to go」の意味です。",
+    "notes-en": "'Mou, ikanakucha.' is a colloquial expression used to indicate that you have to go right now. 'Mou' means 'now', and 'ikanakucha' means 'I have to go'."
+  },
+  {
     "date": "2026.04.16",
     "day": "Thu",
     "number": 736,
