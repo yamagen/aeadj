@@ -1,0 +1,72 @@
+{
+  "title": {
+    "ja": "AEAD 見直し原則",
+    "en": "AEAD Revision Principles"
+  },
+  "core_statement": {
+    "ja": "AEAD の revise では、元の観察を壊さず、構造を整え、必要最小限だけ直す。",
+    "en": "In AEAD revision, preserve the original observation, refine the structure, and make only minimal corrections."
+  },
+  "principles": [
+    {
+      "id": 1,
+      "description": {
+        "ja": "元の観察の核心を変えない。notes やエピソード、主観的コメントも記録の本体として扱い、無難な説明へ置き換えない。",
+        "en": "Do not alter the core of the original observation. Notes, episodes, and subjective comments are part of the record and should not be neutralized."
+      }
+    },
+    {
+      "id": 2,
+      "description": {
+        "ja": "直すべきものと残すべきものを分ける。typo や field の不整合など構造的な問題は修正するが、観察内容はできるだけ保持する。",
+        "en": "Distinguish between what should be corrected and what should be preserved. Fix typos and structural issues, but retain observational content."
+      }
+    },
+    {
+      "id": 3,
+      "description": {
+        "ja": "教育的に平らにしすぎない。辞書的・平均的な説明に勝手に置き換えず、その場での実際の運用を優先する。",
+        "en": "Avoid flattening into neutral, textbook-like explanations. Prioritize actual usage observed in context."
+      }
+    },
+    {
+      "id": 4,
+      "description": {
+        "ja": "tags と intent は積極的に補う。本文を変えずに、構造側で検索性と分類精度を高める。",
+        "en": "Actively enrich tags and intents. Improve classification and retrieval via structure rather than rewriting content."
+      }
+    },
+    {
+      "id": 5,
+      "description": {
+        "ja": "adjusted-expression は無理に付けない。即時的表現そのものが本体である場合は null とする。",
+        "en": "Do not force adjusted expressions. If the immediate expression is the core, leave it as null."
+      }
+    },
+    {
+      "id": 6,
+      "description": {
+        "ja": "examples や notes のエピソードを重視する。語義と場面は切り離さず保持する。",
+        "en": "Preserve episodes in examples and notes. Meaning and context should remain integrated."
+      }
+    },
+    {
+      "id": 7,
+      "description": {
+        "ja": "主観的記述を排除しない。観察に結びついた主観は価値として残す。",
+        "en": "Do not remove subjective descriptions. Observational subjectivity is valuable."
+      }
+    },
+    {
+      "id": 8,
+      "description": {
+        "ja": "変更の優先順位は本文より構造。date-history, img-sub, tags などを先に整える。",
+        "en": "Prioritize structural updates over textual rewriting. Normalize fields such as date-history, img-sub, and tags first."
+      }
+    }
+  ],
+  "workflow": {
+    "ja": "まず構造を整え、その後必要最小限だけ本文を調整する。",
+    "en": "First normalize structure, then minimally adjust the text if necessary."
+  }
+}
