@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.19",
+    "day": "Sun",
+    "number": 739,
+    "index": "umakuikutoiine",
+    "title": "I hope it goes well.",
+    "expression-ja": "うまく(行:い)くといいね。",
+    "roman-ja": "Umaku iku to ii ne.",
+    "expression-en": "I hope it goes well.",
+    "variants-ja": ["うまく行くといいね。", "うまくいくといいな。"],
+    "variants-en": ["I hope it goes well.", "Hope it goes well."],
+    "intent-ja": ["願望の表現", "応援の共有", "口語的な表現"],
+    "intent-en": ["expression of desire", "sharing of support", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "願望表現", "応援共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of desire", "expression of support sharing", "colloquial expression"],
+    "adjusted-expression-ja": "うまく(行:い)くといいですね。",
+    "adjusted-expression-en": "I hope it goes well.",
+    "img-sub": "umakuikutoiine01.png",
+    "example-ja": "A「(明日:あす)の(試験:しけん)、(大丈夫:だいじょうぶ)かな？」B「うまく(行:い)くといいね！」",
+    "example-en": "A: Do you think I'll be okay on tomorrow's exam? B: I hope it goes well!",
+    "notes-ja": "「うまく行くといいね」は、何かが順調に進んだり、よい結果になったりすることを願うときに使う口語的な表現です。相手を軽く応援したり、気持ちを共有したりするときにも自然に使われます。",
+    "notes-en": "'Umaku iku to ii ne.' is a colloquial expression used when you hope that something will go well or turn out well. It is also naturally used to lightly encourage someone or to share a supportive feeling."
+  },
+  {
     "date": "2026.04.18",
     "day": "Sat",
     "number": 738,
@@ -7333,7 +7356,7 @@
     "adjusted-expression-en": "For example, one might consider it this way.",
     "img-sub": "tatoeba01.png",
     "example-ja": "A「(何:なに)か(例:れい)をあげてみて」B「うーん、たとえば、(映画:えいが)とか？」",
-    "example-en": "A: \"Can you give me an example?\" B: \"Hmm, for example, movies?\"",
+    "example-en": "A: Can you give me an example? B: Hmm, for example, movies?",
     "notes-ja": "「たとえば」は、何かを説明するときに具体的な例を挙げるためのカジュアルな表現です。「For example」と訳されます。カジュアルな会話でよく使われ、相手に対して具体的なイメージを提供する役割があります。しかし、厳密な表現が頭に思い浮かばないときに使われることもあります。たとえば、何かを説明しようとしているが、具体的な例が思い浮かばないのだから、抽象的な話になっているわけで、そこでなんでもかんでも「たとえば...」と繰り返し質問すると、あなたは嫌われるかもしれませんね。",
     "notes-en": "\"Tatoeba\" is a casual expression used to provide specific examples when explaining something. It can be translated as \"For example.\" This phrase is commonly used in informal conversations to give the listener a concrete image of what is being discussed. However, it is also used when a precise expression does not come to mind. For instance, when trying to explain something but struggling to think of a specific example, the conversation may become abstract. Repeatedly asking \"For example...\" in such situations might lead to you being disliked."
   },
@@ -7355,7 +7378,7 @@
     "adjusted-expression-ja": "今日はうまくいかないことが多かったけれど、そういう日もあるものです。",
     "adjusted-expression-en": "Today didn't go well in many ways, but there are days like that.",
     "example-ja": "「あー、なんか(全然:ぜんぜん)だめだった...」「うん、そんな(日:ひ)もあるよ」",
-    "example-en": "\"Ugh, nothing went right today...\" \"Yeah, some days are like that.\"",
+    "example-en": "Ugh, nothing went right today... Yeah, some days are like that.",
     "img-sub": "sonnahi01.png",
     "notes-ja": "「そんな日もある」は、思いどおりにならない状況を受け入れる姿勢を表すカジュアルな表現である。「そんな日ってどんな日？」と聞かれると実際には困る。言語を使うと何でも具体的に言えるわけではない。具体的に言えない場合には、「そんな」「こんな」「こういう」という実際に見ている、体験していることを差してコミュニケーションをすすめることも必要である。",
     "notes-en": "\"Sonna hi mo aru\" is a casual expression that conveys an attitude of acceptance towards situations that do not go as planned. When asked, \"What kind of day is that?\" it can be difficult to provide a specific answer. Language does not always allow for concrete descriptions, and in cases where specifics cannot be provided, using terms like \"sonna\" (that kind of) or \"konna\" (this kind of) based on what one has seen or experienced can be necessary for effective communication."
@@ -7378,7 +7401,7 @@
     "adjusted-expression-ja": "その(件:けん)はさておき、(次:つぎ)の(問題:もんだい)に(入:はい)りましょう。",
     "adjusted-expression-en": "Setting that matter aside, let us move on to the next issue.",
     "example-ja": "「まあ、それはそれとして、(今日:きょう)の(予定:よてい)どうする？」",
-    "example-en": "\"Anyway, putting that aside, what's the plan for today?\"",
+    "example-en": "Anyway, putting that aside, what's the plan for today?",
     "img-sub": "sorehasoretoshite01.png",
     "notes-ja": "「それはそれとして」は、ある話題を一旦脇に置いて別の話題に移るときに使われるカジュアルな表現です。「That being said」や「Putting that aside」と訳されます。カジュアルな会話でよく使われ、相手に対して話題を切り替える役割があります。しかし、自分の都合が悪くなるとこの表現を使いたがる人もいますので、注意が必要です。特に、自分の不都合な話題を摩り替えたいのでしょう。",
     "notes-en": "\"Sore wa sore to shite\" is a casual expression used to set aside a topic and shift to another one. It can be translated as \"That being said\" or \"Putting that aside.\" This phrase is commonly used in informal conversations to indicate a change of topic. However, some people tend to use this expression when they want to avoid discussing something inconvenient for them, so caution is advised. It is particularly used when they want to divert attention from an unfavorable topic."
@@ -7402,7 +7425,7 @@
     "adjusted-expression-en": "Not everything can necessarily be said to be bad.",
     "img-sub": "zenbugazenbu01.png",
     "example-ja": "A「(人:ひと)は(みんな:みんな)そうだよね？」B「いや、ぜんぶがぜんぶそうってわけじゃないよ」",
-    "example-en": "A: \"People are all like that, right?\" B: \"No, not everyone is like that.\"",
+    "example-en": "A: People are all like that, right? B: No, not everyone is like that.",
     "notes-ja": "「ぜんぶがぜんぶ」は、すべての事例や人が同じではないことを強調するカジュアルな表現です。「Not everything」や「Not all of it」と訳されます。カジュアルな会話でよく使われ、相手に対して慎重な態度を示す役割があります。特に、一般化や偏見を避けるために使われることが多いです。",
     "notes-en": "\"Zenbu ga zenbu\" is a casual expression used to emphasize that not all cases or people are the same. It can be translated as \"Not everything\" or \"Not all of it.\" This phrase is commonly used in informal conversations to indicate a cautious attitude towards generalizations or stereotypes, often serving to avoid bias."
   },
@@ -7425,7 +7448,7 @@
     "adjusted-expression-en": "Although the situation may be difficult, I believe that things will eventually be resolved.",
     "img-sub": "dounikanaru.png",
     "example-ja": "A「(締切:しめきり)に(間:ま)に(合:あ)うかな…」B「(大丈夫:だいじょうぶ)、どうにかなるよ。」",
-    "example-en": "A: \"Do you think we'll make the deadline...?\" B: \"Don't worry, it'll be fine.\"",
+    "example-en": "A: Do you think we'll make the deadline...? B: Don't worry, it'll be fine.",
     "notes-ja": "「どうにかなる」は、状況が厳しいときでも、最終的には何とかなるという楽観的な気持ちを表すカジュアルな表現です。「It'll work out somehow」や「It'll be fine」と訳されます。カジュアルな会話でよく使われ、相手に対して安心感を与える役割があるかもしれませんが、根拠もないのに、「どうにかなる」というと無責任に思われるかもしれません。私の友人に口癖でこういう人がいますが、だいたい「どうにもならない」ことのようです。",
     "notes-en": "\"Dounika naru\" is a casual expression that conveys an optimistic feeling that things will work out in the end, even in difficult situations. It can be translated as \"It'll work out somehow\" or \"It'll be fine.\" This phrase is commonly used in informal conversations to provide reassurance to the listener. However, saying \"Dounika naru\" without any basis may come across as irresponsible. I have a friend who often uses this phrase, but it usually turns out that things do not work out as expected."
   },
@@ -7448,7 +7471,7 @@
     "adjusted-expression-en": "Regardless of the reason, ...",
     "img-sub": "nandeare.png",
     "example-ja": "A「(結果:けっか)が(何:なん)であれ、もう(終:お)わったことだ」",
-    "example-en": "A: \"Whatever the result is, it's already over.\"",
+    "example-en": "A: Whatever the result is, it's already over.",
     "notes-ja": "「...は何であれ」は、条件や状況に関係なく、何かを包括的に述べる表現です。「whatever ... is」や「no matter what ... is」と訳されます。「あれ」は、めずらしい形で、こういう定型表現のときに使われますが、単独ではあまり使われません。",
     "notes-en": "\"... wa nan de are\" is an expression that describes something inclusively, regardless of conditions or situations. It can be translated as \"whatever ... is\" or \"no matter what ... is.\" The term \"are\" is used in this fixed expression but is not commonly used on its own."
   },
@@ -7471,7 +7494,7 @@
     "adjusted-expression-en": "I can finally relax.",
     "img-sub": "hotto.suru01.png",
     "example-ja": "A「(試験:しけん)が(終:お)わった。ほっとした」B「うん、(結果:けっか)が(良:よ)かったらいいね」",
-    "example-en": "A: \"The exam is over. I feel relieved.\" B: \"Yeah, I hope the results are good.\"",
+    "example-en": "A: The exam is over. I feel relieved. B: Yeah, I hope the results are good.",
     "notes-ja": "「ほっとする」は、緊張や不安が解消されて安心することを表すカジュアルな表現です。「feel relieved」や「what a relief」と訳されます。カジュアルな会話でよく使われ、相手に対して安心感を伝える役割があります。",
     "notes-en": "\"Hotto suru\" is a casual expression used to convey the feeling of relief when tension or anxiety is released. It can be translated as \"feel relieved\" or \"what a relief.\" "
   },
@@ -7493,7 +7516,7 @@
     "adjusted-expression-ja": "さて、始めましょうか。",
     "adjusted-expression-en": "Well then, shall we begin?",
     "example-ja": "A「さあ、(始:はじ)めよう」B「うん、でも、(何:なに)を？」",
-    "example-en": "A: \"Alright, let's get started.\" B: \"Sure, but what should we do?\"",
+    "example-en": "A: Alright, let's get started. B: Sure, but what should we do?",
     "img-sub": "hajimeyou01.png",
     "notes-ja": "「さあ、始めよう」は、何かを始めるときの決意や勢いを表すカジュアルな表現です。「Alright, let's get started」や「Okay, let's begin」と訳されます。カジュアルな会話でよく使われ、相手に対して行動を促す役割があります。",
     "notes-en": "\"Saa, hajimeyou\" is a casual expression used to convey determination or momentum when starting something. It can be translated as \"Alright, let's get started\" or \"Okay, let's begin.\""
@@ -7517,7 +7540,7 @@
     "adjusted-expression-en": "After repeating it over and over, I finally understood.",
     "img-sub": "kurikaeshikurikaeshi01.png",
     "example-ja": "A「(同:おな)じことを(繰:く)り(返:かえ)し(言:い)ってるね」B「うん、(何度:なんど)も(繰:く)り(返:かえ)し(言:い)うのが(大事:だいじ)なんだよ」",
-    "example-en": "A: \"You keep saying the same thing.\" B: \"Yeah, it's important to repeat it over and over.\"",
+    "example-en": "A: You keep saying the same thing. B: Yeah, it's important to repeat it over and over.",
     "notes-ja": "「繰り返し繰り返し」は、何かを何度も行うことを強調するカジュアルな表現です。「repeatedly」や「over and over」と訳されます。カジュアルな会話でよく使われ、相手に対して反復的な行動や状況を伝える役割があります。",
     "notes-en": "\"Kurikaeshi kurikaeshi\" is a casual expression used to emphasize doing something repeatedly. It can be translated as \"repeatedly\" or \"over and over.\" This phrase is commonly used in informal conversations to convey repetitive actions or situations to the listener. "
   },
@@ -7586,7 +7609,7 @@
     "adjusted-expression-en": "It doesn't go well at all.",
     "img-sub": "sappari01.png",
     "example-ja": "A「(今日:きょう)の(成果:せいか)は？」B「さっぱり」",
-    "example-en": "A: \"How was today's result?\" B: \"Not at all.\"",
+    "example-en": "A: How was today's result? B: Not at all.",
     "notes-ja": "「さっぱり」は、何かが全くうまくいかない、または理解できないことを表すカジュアルな表現です。「Not at all」や「Not in the least」と訳されます。カジュアルな会話でよく使われ、相手に対して否定的な感情を伝える役割があります。",
     "notes-en": "\"Sappari\" is a casual expression used to indicate that something is not going well at all or that one does not understand something. It can be translated as \"Not at all\" or \"Not in the least.\" ."
   },
@@ -7678,7 +7701,7 @@
     "adjusted-expression-en": "I have caught a cold.",
     "img-sub": "kazehiita01.png",
     "example-ja": "A「(風邪:かぜ)ひいた」B「大丈夫？(薬:くすり)飲んだ？」",
-    "example-en": "A: \"I caught a cold.\" B: \"Are you okay? Did you take medicine?\"",
+    "example-en": "A: I caught a cold. B: Are you okay? Did you take medicine?",
     "notes-ja": "「風邪ひいた」は、病気や体調不良をカジュアルに伝える表現です。「I caught a cold」や「I got a cold」と訳されます。カジュアルな会話でよく使われ、相手に対して体調の悪さを伝える役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
     "notes-en": "\"Kaze hiita\" is a casual expression used to convey illness or poor health. It can be translated as \"I caught a cold\" or \"I got a cold.\" This phrase is commonly used in informal conversations to inform the listener about feeling unwell. It is not too formal and is often used among close friends."
   },
@@ -7701,7 +7724,7 @@
     "adjusted-expression-en": "What are you doing right now?",
     "img-sub": "naniyattenno01.png",
     "example-ja": "A「(何:なに)やってんの？」B「(勉強:べんきょう)してるよ」",
-    "example-en": "A: \"What are you doing?\" B: \"I'm studying.\"",
+    "example-en": "A: What are you doing? B: I'm studying.",
     "notes-ja": "「何やってんの？」は、相手の行動や状況に対する疑問をカジュアルに尋ねる表現です。「What are you doing?」や「What are you up to?」と訳されます。カジュアルな会話でよく使われ、相手に対して関心を示す役割があります。",
     "notes-en": "\"Nani yatten no?\" is a casual expression used to ask about someone's actions or situation. It can be translated as \"What are you doing?\" or \"What are you up to?\" This phrase is commonly used in informal conversations to show interest in the listener's activities."
   },
@@ -7724,7 +7747,7 @@
     "adjusted-expression-en": "It's delicious!",
     "img-sub": "uma01.png",
     "example-ja": "A「(食:た)べてみて」B「うま！」",
-    "example-en": "A: \"Try it!\" B: \"Delicious!\"",
+    "example-en": "A: Try it! B: Delicious!",
     "notes-ja": "「うま！」は、食べ物が美味しいときに使うカジュアルな表現です。「Delicious!」や「Tasty!」と訳されます。カジュアルな会話でよく使われ、相手に対して感情を表現する役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。反射的に感情が口に出てしまう場面には、イ形容詞の「うまい」の「い」を発音せずに「うま！」と短縮して使うことが多いです。",
     "notes-en": "\"Uma!\" is a casual expression used to indicate that food is delicious. It can be translated as \"Delicious!\" or \"Tasty!\" This phrase is commonly used in informal conversations to express emotions to the listener. It is not too formal and is often used among close friends. In spontaneous emotional reactions, the adjective 'umai' is often shortened to 'uma!' without pronouncing the 'i'."
   },
@@ -7747,7 +7770,7 @@
     "adjusted-expression-en": "I have done ... unintentionally.",
     "img-sub": "tsuiteshimatta01.png",
     "example-ja": "A「おいしいんで、つい、いっぱい(食:た)べちゃった」",
-    "example-en": "A: \"It was so delicious, I ended up eating a lot.\"",
+    "example-en": "A: It was so delicious, I ended up eating a lot.",
     "notes-ja": "「つい、...してしまった」は、注意不足や軽い後悔を表すカジュアルな表現です。「accidentally ...」や「I accidentally ...」と訳されます。カジュアルな会話でよく使われ、相手に対して失敗を伝える役割があります。",
     "notes-en": "\"Tsui ... shite shimatta\" is a casual expression used to convey a lack of attention or light regret. It can be translated as \"accidentally ...\" or \"I ended up ...\""
   },
@@ -7770,7 +7793,7 @@
     "adjusted-expression-en": "I neglected to pay attention.",
     "img-sub": "ukkari01.png",
     "example-ja": "A「(うっかり)して、(傘:かさ)、(忘:わす)れちゃった」B「それ、(安物:やすもの)でしょ？」",
-    "example-en": "A: \"I accidentally forgot my umbrella.\" B: \"That was a cheap one, right?\"",
+    "example-en": "A: I accidentally forgot my umbrella. B: That was a cheap one, right?",
     "notes-ja": "「うっかり」は、注意不足や軽い後悔を表すカジュアルな表現です。「Oops」や「I accidentally」と訳されます。カジュアルな会話でよく使われ、相手に対して失敗を伝える役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
     "notes-en": "\"Ukkari\" is a casual expression used to convey a lack of attention or light regret. It can be translated as \"Oops\" or \"I accidentally.\" This phrase is commonly used in informal conversations to inform the listener about a mistake. It is not too formal and is often used among close friends."
   },
@@ -7793,7 +7816,7 @@
     "adjusted-expression-en": "I'm thinking about what to do.",
     "img-sub": "dousuru01.png",
     "example-ja": "A「(明日:あした)、(雨:あめ)だって。どうする？」B「(雨:あめ)でも、行かなくちゃ」",
-    "example-en": "A: \"Tomorrow, they say it's going to rain. What should we do?\" B: \"Even if it rains, we have to go.\"",
+    "example-en": "A: Tomorrow, they say it's going to rain. What should we do? B: Even if it rains, we have to go.",
     "notes-ja": "「どうする？」は、選択や決断を求めるカジュアルな表現です。「What should I do?」や「What will I do?」と訳されます。カジュアルな会話でよく使われ、相手に対して選択肢を提示する役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
     "notes-en": "\"Dousuru?\" is a casual expression used to ask for choices or decisions. It can be translated as \"What should I do?\" or \"What will I do?\" This phrase is commonly used in informal conversations to present options to the listener. It is not too formal and is often used among close friends."
   },
@@ -7815,7 +7838,7 @@
     "adjusted-expression-ja": "おいしいのに、誰も食べてくれません。",
     "adjusted-expression-en": "Although it's delicious, nobody eats it.",
     "example-ja": "A「(納豆:なっとう)、きらい」B「え、おいしいのに...」",
-    "example-en": "A: \"Natto(fermented soybeans) is gross.\" B: \"Huh, but it's delicious...\"",
+    "example-en": "A: Natto(fermented soybeans) is gross. B: Huh, but it's delicious...",
     "img-sub": "oishiinoni01.png",
     "notes-ja": "「おいしいのに」は、感情の矛盾や切なさを表現するカジュアルな表現です。「It's delicious, but...」や「It was so good, but...」と訳されます。カジュアルな会話でよく使われ、相手に対して感情を共有する役割があります。「けれども」と違うのは、状況的に相手の意見に対して「そうではない」と否定的な意味合いを持つことです。",
     "notes-en": "\"Oishii noni\" is a casual expression used to convey emotional conflict or bittersweet feelings. It can be translated as \"It's delicious, but...\" or \"It was so good, but...\" This phrase is commonly used in informal conversations to share emotions with the listener. Unlike the word \"keredomo,\" it carries a more negative connotation, suggesting that the speaker disagrees with the listener's opinion."
@@ -7862,7 +7885,7 @@
     "adjusted-expression-en": "I think that's true.",
     "img-sub": "yappari01.png",
     "example-ja": "A「(明日:あした)は(晴:は)れるかな？」B「やっぱり(晴:は)れないよ」",
-    "example-en": "A: \"Will it be sunny tomorrow?\" B: \"As expected, it won't be.\"",
+    "example-en": "A: Will it be sunny tomorrow? B: As expected, it won't be.",
     "notes-ja": "「やっぱり」は、相手の言葉に対して軽く同意するカジュアルな表現です。「As expected」や「Just as I thought」と訳されます。カジュアルな会話でよく使われ、相手に対して軽い同意を示す役割があります。この表現は、あまり本気ではないが、相手の言葉を受け入れるときに使われます。",
     "notes-en": "\"Yappari\" is a casual expression used to lightly agree with someone. It can be translated as \"As expected\" or \"Just as I thought.\" This phrase is commonly used in informal conversations to show a light agreement with the speaker. It is often used when you don't take the statement too seriously but still want to acknowledge it."
   },
@@ -7885,7 +7908,7 @@
     "adjusted-expression-en": "I have to eat.",
     "img-sub": "tabenakucha01.png",
     "example-ja": "A「(食:た)べなくちゃ」B「(食:た)べなきゃいけないよ」",
-    "example-en": "A: \"I have to eat.\" B: \"You need to eat.\"",
+    "example-en": "A: I have to eat. B: You need to eat.",
     "notes-ja": "「...なくちゃ」は、義務や必要性を表すカジュアルな表現です。「...なきゃ」や「...なければならない」と訳されます。カジュアルな会話でよく使われ、相手に対して義務や必要性を伝える役割があります。この表現は、あまり堅苦しくなく、親しい友人同士の会話でよく使われます。",
     "notes-en": "\"...nakucha\" is a casual expression used to convey obligation or necessity. It can be translated as \"I have to...\" or \"I need to...\" This phrase is commonly used in informal conversations to express the speaker's obligation or necessity. It is not too formal and is often used among close friends."
   },
@@ -7908,7 +7931,7 @@
     "adjusted-expression-en": "That is certain / There is no mistake about it",
     "img-sub": "machigainai01.png",
     "example-ja": "A「(明日:あした)は(晴:は)れるかな？」B「(間違:まちが)いないよ」",
-    "example-en": "A: \"Will it be sunny tomorrow?\" B: \"No doubt about it.\"",
+    "example-en": "A: Will it be sunny tomorrow? B: No doubt about it.",
     "notes-ja": "「間違いない」は、直感的な確信や経験に基づく判断を即時に表現する形式で、友人同士の親密な会話で多用される。末尾に「って」「よ」「から」などを加えることで、柔らかさや共感の度合いを調整する。",
     "notes-en": "'Machigai nai' expresses immediate certainty based on intuition or past experience. Common in casual or intimate conversations, it often ends with particles like 'tte', 'yo', or 'kara' to adjust tone and seek agreement."
   },
@@ -7931,7 +7954,7 @@
     "adjusted-expression-en": "I'll talk about that later.",
     "img-sub": "sorehamataatode01.png",
     "example-ja": "A「どんな(問題:もんだい)が(試験:しけん)に出るんですか」B「それはまたあとで」",
-    "example-en": "A: \"What kind of questions will be on the exam?\" B: \"We'll talk about that later.\"",
+    "example-en": "A: What kind of questions will be on the exam? B: We'll talk about that later.",
     "notes-ja": "「それはまたあとで」は、話の導入や親密さを示すカジュアルな表現です。「So, about that later...」や「We'll talk about that later」と訳されます。カジュアルな会話でよく使われ、相手に対して話の導入を示す役割があります。",
     "notes-en": "\"Sore wa mata ato de\" is a casual expression used to introduce a topic or to show intimacy. It can be translated as \"So, about that later...\" or \"We'll talk about that later.\" This phrase is commonly used in informal conversations to indicate the beginning of a story or to create a sense of closeness with the listener."
   },
@@ -7954,7 +7977,7 @@
     "adjusted-expression-en": "So, the story is ...",
     "img-sub": "soregasa01.png",
     "example-ja": "A「(無理:むり)だって(思:おも)ってたんだけど、それがさ、やってみた(案外:あんがい)らうまくいったんだよね」B「え、ほんとに？」",
-    "example-en": "A: \"I thought it was impossible, but you know what? When I tried it, it actually went surprisingly well.\" B: \"Oh, really?\"",
+    "example-en": "A: I thought it was impossible, but you know what? When I tried it, it actually went surprisingly well. B: Oh, really?",
     "notes-ja": "「それがさ、」は、直前に語られた内容とは異なる展開や、予想外の事実を切り出すときに使われるカジュアルな話し言葉です。前提となる内容（たとえば「無理だよと言われた」など）に対して、それを覆すような展開や、意外性を含んだ事実を語る導入句として機能します。英語では \"So, you know what?\" や \"“But then...\" のような語り出しに近く、相手の注意を引きつける語用効果があります。単なる話題転換ではなく、「聞いて！意外なことが起きたの」という語り手の感情や態度が表現されるのが特徴です。",
     "notes-en": "\"Sore ga sa\" is a casual expression used to introduce an unexpected or contrasting development following the previous statement. It typically functions as a narrative pivot, drawing the listener's attention to a surprising or emotionally significant event that contradicts or complicates what came before. In English, it is similar to phrases like \"So, you know what?\" or \"But then...\" Unlike neutral topic shifts, this expression carries the speaker's emotional engagement and signals a moment worth listening to."
   },
@@ -7977,7 +8000,7 @@
     "adjusted-expression-en": "So, the story is ...",
     "img-sub": "denene01.png",
     "example-ja": "A「きのう、(買:か)い(物:もの)に(行:い)ったの、でね、そこで、(誰:だれ)に(会:あ)ったと(思:おも)う？」",
-    "example-en": "A: \"Yesterday, I went shopping, and you know what? I met someone there.\"",
+    "example-en": "A: Yesterday, I went shopping, and you know what? I met someone there.",
     "notes-ja": "「でね」は、話の導入や親密さを示すカジュアルな表現です。「So, you know...」や「So, like...」と訳されます。カジュアルな会話でよく使われ、相手に対して話の導入を示す役割があります。",
     "notes-en": "\"De ne\" is a casual expression used to introduce a story or to show intimacy. It can be translated as \"So, you know...\" or \"So, like...\" This phrase is commonly used in informal conversations to indicate the beginning of a story or to create a sense of closeness with the listener."
   },
@@ -8000,7 +8023,7 @@
     "adjusted-expression-en": "Yes, I understand.",
     "img-sub": "haihai01.png",
     "example-ja": "A「(明日:あした)こそ、やってよ」B「はいはい、わかりました」",
-    "example-en": "A: \"Tomorrow, you have to do it.\" B: \"Yeah, yeah, I got it.\"",
+    "example-en": "A: Tomorrow, you have to do it. B: Yeah, yeah, I got it.",
     "notes-ja": "「はいはい」は、相手の言葉に対して軽く同意するカジュアルな表現です。「Yeah, yeah」や「Okay, okay」と訳されます。カジュアルな会話でよく使われ、相手に対して軽い同意を示す役割があります。この表現は、あまり本気ではないが、相手の言葉を受け入れるときに使われます。",
     "notes-en": "\"Hai hai\" is a casual expression used to lightly agree with someone. It can be translated as \"Yeah, yeah\" or \"Okay, okay.\" This phrase is commonly used in informal conversations to show a light agreement with the speaker. It is often used when you don't take the statement too seriously but still want to acknowledge it."
   },
@@ -8023,7 +8046,7 @@
     "adjusted-expression-en": "If I were to express it more formally, ...",
     "img-sub": "aeteiunara01.png",
     "example-ja": "A「どっちが(好:す)き？」B「(あえて言:い)うなら、どちらも(好:す)きじゃない」",
-    "example-en": "A: \"Which do you like?\" B: \"If I had to say, I don't like either.\"",
+    "example-en": "A: Which do you like? B: If I had to say, I don't like either.",
     "notes-ja": "「あえて言うなら」は、あえて自分の意見や気持ちを伝えるための表現です。「If I had to say」や「If I had to put it that way」と訳されます。カジュアルな会話でよく使われ、相手に対して自分の気持ちを率直に伝える役割があります。この表現は言いにくいこと、否定的なことをどうしても言わなければならないときに使えばよいでしょう。一方で、どちらも良くて選びにくいときに、無理に一方を選ぶ場合には、「どちらかと言えば、」と言うとやわらかい印象になります。",
     "notes-en": "\"Aete iu nara\" is an expression used to convey one's opinion or feelings in a frank manner. It can be translated as \"If I had to say\" or \"If I had to put it that way.\" This phrase is commonly used in casual conversations to express one's feelings openly to the listener. It is particularly useful when you need to say something difficult or negative. Conversely, if you are in a situation where both options are good and you find it hard to choose, you can use \"dochira ka to ieba\" to soften the impression."
   },
@@ -8046,7 +8069,7 @@
     "adjusted-expression-en": "frankly speaking, I think so.",
     "img-sub": "shoujiki01.png",
     "example-ja": "A「(正直:しょうじき)、あまり(好:す)きじゃない」B「え、そうなの？」",
-    "example-en": "A: \"To be honest, I don't really like it.\" B: \"Oh, really?\"",
+    "example-en": "A: To be honest, I don't really like it. B: Oh, really?",
     "notes-ja": "「正直」は、率直に自分の気持ちや意見を伝えるための表現です。「To be honest」や「Honestly speaking」と訳されます。カジュアルな会話でよく使われ、相手に対して自分の気持ちを率直に伝える役割があります。",
     "notes-en": "\"Shoujiki\" is an expression used to convey one's feelings or opinions frankly. It can be translated as \"to be honest\" or \"honestly speaking.\" This phrase is commonly used in casual conversations to express one's feelings openly to the listener. "
   },
@@ -8069,7 +8092,7 @@
     "adjusted-expression-en": "To put it simply, that's how it is.",
     "img-sub": "ketsuronkaraieba01.png",
     "example-ja": "A「(結論:けつろん)から(言:い)えば、それはできないということ」B「じゃ、これまでは何だったの？」",
-    "example-en": "A: \"To put it simply, that means it can't be done.\" B: \"Then what was all this about?\"",
+    "example-en": "A: To put it simply, that means it can't be done. B: Then what was all this about?",
     "notes-ja": "「結論から言えば」は、話の要点を先に伝えるための表現です。カジュアルな会話でよく使われ、相手に対して要点を明確に伝える役割があります。「結論から言うと」や「一言で言えば」といった意味合いも含まれますが、あきらかに「今、すぐに」という意味ではありません。だいたい、「結論から言えば、...」と聞けば、すべてがすべてではありませんが、あまり良いことが待っているようには思えませんね。",
     "notes-en": "\"Ketsuron kara ieba\" is an expression used to convey the main point of a conversation or discussion first. It is commonly used in casual conversations to clarify the main point for the listener. This phrase can also imply meanings like \"to sum it up\" or \"to make a long story short,\" but it does not necessarily mean \"right now.\" Generally, when you hear \"ketsuron kara ieba, ...\", it doesn't always mean something good is coming."
   },
@@ -8092,7 +8115,7 @@
     "adjusted-expression-en": "I think I don't care anymore.",
     "img-sub": "doudemoii01.png",
     "example-ja": "A「お(好:す)きなものを(買:か)ってきましょうね」B「もう、どうでもいい」",
-    "example-en": "A: \"Let's buy what you like.\" B: \"I don't care anymore.\"",
+    "example-en": "A: Let's buy what you like. B: I don't care anymore.",
     "notes-ja": "「もう、どうでもいい」は、状況を軽く受け入れることを伝えるカジュアルな表現です。「I don't care anymore」や「I don't care about it anymore」と訳されます。意にそぐわないことを妥協して受け入れる状況でよく使えます。",
     "notes-en": "\"Mou, dou demo ii\" is a casual expression used to convey a sense of resignation or acceptance of a situation, often in a light-hearted or humorous way. It can be translated as \"I don't care anymore\" or \"I don't care about it anymore.\" This phrase is commonly used in informal conversations when someone is faced with an unexpected or undesirable situation but chooses to accept it anyway. "
   },
@@ -8115,7 +8138,7 @@
     "adjusted-expression-en": "After that, we all had a meal and went home.",
     "img-sub": "arekara01.png",
     "example-ja": "A「きのう、あれから、どうした？」B「うん、(財布:さいふ)も、(カード:かーど)も、(現金:げんきん)も、(全部:ぜんぶ)、いっしょに(見:み)つかったよ」",
-    "example-en": "A: \"So, what happened after that yesterday?\" B: \"Yeah, I found my wallet, card, and cash all together.\"",
+    "example-en": "A: So, what happened after that yesterday? B: Yeah, I found my wallet, card, and cash all together.",
     "notes-ja": "「あれから」は、過去の出来事を思い出して話し始めるときに使う表現です。この表現は、会話の中で相手に対して親密さや共感を示す役割も果たします。「あれ」というのは会話をしている両者が共通して知っていることを指します。たとえば、AさんとBさんが「昨日、あれからどうした？」と話している場合、「あれ」は「昨日の出来事」を指しています。つまり、AさんとBさんは「昨日の出来事」を共通の認識として持っているということです。",
     "notes-en": "\"Are kara\" is used to begin recalling a past event in conversation. It also serves to express a sense of closeness or shared memory with the listener. The term \"are\" refers to something that both speakers are aware of, such as a shared experience or event. For example, if A and B are talking about \"what happened after that yesterday,\" \"are\" refers to \"yesterday's event.\" This means that A and B share a common understanding of \"yesterday's event.\""
   },
@@ -8138,7 +8161,7 @@
     "adjusted-expression-en": "I will start from now.",
     "img-sub": "korekara01.png",
     "example-ja": "A「ねえ、いつやるの？」B「これから」",
-    "example-en": "A: \"Hey, when are you doing it?\" B: \"From now on.\"",
+    "example-en": "A: Hey, when are you doing it? B: From now on.",
     "notes-ja": "「これから」は、これからの行動や出来事を示す表現です。未来の意志や計画を伝える際に使われます。カジュアルな会話でよく使われ、相手に対して行動の開始を伝える役割があります。「すぐに」や「今から」といった意味合いも含まれますが、あきらかに「今、すぐに」という意味ではありませんね。",
     "notes-en": "\"Kore kara\" is an expression that indicates actions or events that will happen from now on. It is used to convey future intentions or plans. This phrase is commonly used in casual conversations to inform the listener about the start of an action. It can also imply meanings like \"immediately\" or \"from now,\" but it does not necessarily mean \"right now.\""
   },
@@ -8160,7 +8183,7 @@
     "adjusted-expression-ja": "あのときのことを思い出しました。",
     "adjusted-expression-en": "I remembered what happened back then.",
     "example-ja": "A「けがしたの？」B「うん、(駅:えき)で」A「ああ、あのときね」",
-    "example-en": "A: \"Did you get hurt?\" B: \"Yeah, at the station.\" A: \"Oh, that time, right?\"",
+    "example-en": "A: Did you get hurt? B: Yeah, at the station. A: Oh, that time, right?",
     "notes-ja": "「あのときね」は、過去の出来事を思い出して話し始めるときに使う表現です。この表現は、会話の中で相手に対して親密さや共感を示す役割も果たします。",
     "notes-en": "\"Ano toki ne\" is used to begin recalling a past event in conversation. It also serves to express a sense of closeness or shared memory with the listener."
   },
@@ -8205,7 +8228,7 @@
     "adjusted-expression-en": "Are you serious?",
     "img-sub": "maji01.png",
     "example-ja": "A「(明日:あした)、(試験:しけん)、あるよ」B「(マジ:まじ)？」",
-    "example-en": "A: \"There's an exam tomorrow.\" B: \"Seriously?\"",
+    "example-en": "A: There's an exam tomorrow. B: Seriously?",
     "notes-en": "\"Maji\" is a casual expression used to convey surprise or seriousness about something. It can be translated as \"seriously\" or \"for real,\" and is often used in informal conversations to express disbelief or to emphasize the truth of a statement. This phrase is commonly used among friends or peers, and can also imply a sense of intimacy or closeness in the conversation. In more formal situations, one might use phrases like \"hontou ni\" or \"hontou desu ka\" instead, which are more polite ways to express a similar sentiment.",
     "notes-ja": "「マジ」は、何かに対する驚きや真剣さを伝えるカジュアルな表現です。「seriously」や「for real」と訳され、カジュアルな会話で信じられないことを表現したり、発言の真実性を強調したりするためによく使われます。このフレーズは友人や仲間の間でよく使われ、会話の中で親密さや近さを示すこともあります。よりフォーマルな場面では「本当に」や「本当ですか」と言うことが一般的です。"
   },
@@ -8228,7 +8251,7 @@
     "adjusted-expression-en": "Please lend me that.",
     "img-sub": "kashite01.png",
     "example-ja": "A「これ、(貸:か)して」B「(貸:か)してあげるよ」",
-    "example-en": "A: \"Can you lend me this?\" B: \"Sure, I'll lend it to you.\"",
+    "example-en": "A: Can you lend me this? B: Sure, I'll lend it to you.",
     "notes-en": "\"Kashite\" is a casual expression used to request someone to lend or borrow something. It can be translated as \"lend me\" or \"let me borrow,\" and is often used in informal conversations to express a desire to use something temporarily. This phrase is commonly used in everyday situations, such as when asking for a favor or borrowing an item from a friend.",
     "notes-ja": "「貸して」は、誰かに何かを貸したり借りたりするように頼むカジュアルな表現です。「lend me」や「let me borrow」と訳され、カジュアルな会話で一時的に何かを使いたいという気持ちを表すためによく使われます。このフレーズは、友人からアイテムを借りるときなど、日常的な状況でよく使われます。"
   },
@@ -8251,7 +8274,7 @@
     "adjusted-expression-en": "For now, let's do it that way.",
     "img-sub": "maikka01.png",
     "example-ja": "A「(今日:きょう)は(カレー:かれー)よ」B「え、(今日:きょう)も？ま、いっか」",
-    "example-en": "A: \"It's curry today.\" B: \"Oh, again? Oh well.\"",
+    "example-en": "A: It's curry today. B: Oh, again? Oh well.",
     "notes-en": "\"Maikka\" is a casual expression used to convey a sense of resignation or acceptance of a situation, often in a light-hearted or humorous way. It can be translated as \"Oh well\" or \"Never mind.\" This phrase is commonly used in informal conversations when someone is faced with an unexpected or undesirable situation but chooses to accept it anyway. It can also imply a sense of compromise or self-acceptance, indicating that the speaker is willing to let go of their initial expectations. In more formal situations, one might use phrases like \"sore de ii desu\" or \"sore de kamawanai\" instead, which are more polite ways to express a similar sentiment.",
     "notes-ja": "「ま、いっか」は、状況を軽く受け入れることを伝えるカジュアルな表現です。「Oh well」や「Never mind」と訳されます。意にそぐわないことを妥協して受け入れる状況でよく使えます。このフレーズは、予期しない状況や望ましくない状況に直面したときに使われますが、あえて受け入れることを選ぶときによく使われます。妥協や自己納得の感覚を示すこともあります。よりフォーマルな場面では「それでいいです」や「それで構わない」と言うことが一般的です。"
   },
@@ -8274,7 +8297,7 @@
     "adjusted-expression-en": "Almost all of it is done.",
     "img-sub": "daitai01.png",
     "example-ja": "A「(宿題:しゅくだい)は、(終:お)わった？」B「うん、だいたい」",
-    "example-en": "A: \"Did you finish your homework?\" B: \"Yeah, almost all of it.\"",
+    "example-en": "A: Did you finish your homework? B: Yeah, almost all of it.",
     "notes-en": "\"Daitai\" is a casual expression used to indicate an approximation or a rough estimate of something. It can be translated as \"almost all,\" \"mostly,\" or \"roughly,\" and is often used in informal conversations to convey a general idea without being too specific. This phrase is common in everyday situations, such as when discussing time, quantity, or degree. In another way, saying \"daitai\" can also imply that something is \"not finished yet.",
     "notes-ja": "「だいたい」は、何かの概算やおおよその見積もりを示すカジュアルな表現です。「almost all」や「mostly」、「roughly」と訳され、カジュアルな会話であまり具体的に言わずに一般的な考えを伝えるためによく使われます。このフレーズは、時間、数量、程度について話す日常的な状況でよく使われます。「だいたい」ということは別の見方をすれば、「まだ終わっていない」ということですね。"
   },
@@ -8297,7 +8320,7 @@
     "adjusted-expression-en": "What do you mean?",
     "img-sub": "douiu01.png",
     "example-ja": "A「(予定:よてい)は、中止」B「え、どういうこと？」",
-    "example-en": "A: \"The plan is canceled.\" B: \"Huh? What do you mean?\"",
+    "example-en": "A: The plan is canceled. B: Huh? What do you mean?",
     "notes-en": "\"Dou iu koto?\" is a casual expression used to ask for clarification or explanation about something. It can be translated as \"What do you mean?\" or \"What does that mean?\" This phrase is often used in informal conversations when someone is confused or needs more information about a statement or situation. In more formal situations, one might use \"dou iu imi desu ka?\" instead, which is a more polite way to ask the same question.",
     "notes-ja": "「どういうこと？」は、何かについての説明や明確化を求めるカジュアルな表現です。「What do you mean?」や「What does that mean?」と訳され、発言や状況についての詳細を知りたいときによく使われます。よりフォーマルな場面では「どういう意味ですか？」と言います。"
   },
@@ -8320,7 +8343,7 @@
     "adjusted-expression-en": ["I had planned to do ～.", "I intended to do ～.", "I had the intention to do ～."],
     "img-sub": "tsumoridatta01.png",
     "example-ja": "A「(行:い)くつもりだったの？」B「(行:い)くつもりだったけど、(行:い)けなかった」",
-    "example-en": "A: \"Were you going to go?\" B: \"I meant to go, but I couldn't.\"",
+    "example-en": "A: Were you going to go? B: I meant to go, but I couldn't.",
     "notes-en": "\"Tsumoridatta\" is a casual expression used to indicate a past intention or plan that was not fulfilled. It combines the word \"tsumori\" (meaning \"intention\" or \"plan\") with the past tense form \"datta.\" This phrase is often used in informal conversations to express regret or disappointment about being unable to carry out a previous intention. The most important thing to note is that this \"tsumori\" can only express the first-person intention. For example, if you say \"iku tsumori datta,\" the other person can ask back, \"iku tsumori datta no?\" This is a question to confirm the other person's intention.",
     "notes-ja": "「つもりだった」は、実行されなかった過去の意図や計画を示すカジュアルな表現です。「つもり」は「intention」や「plan」を意味し、「だった」は過去形を表します。このフレーズは、以前の意図を果たせなかったことに対する後悔や失望を表現するためによく使われます。重要なことは、この「つもり」は第1人称の意図しか表せないことです。たとえば、「行くつもりだった」と言った場合、相手は「行くつもりだったの？」と聞き返すことができます。これは、相手の意図を確認するための質問です。"
   },
@@ -8351,7 +8374,7 @@
     "adjusted-expression-en": "I intend to do so.",
     "img-sub": "sonotsumori01.png",
     "example-ja": "A「(明日:あす)も(練習:れんしゅう)する？」 B「ええ、そのつもり。」",
-    "example-en": "A: \"Will you practice tomorrow too?\" B: \"Yeah, I will.\"",
+    "example-en": "A: Will you practice tomorrow too? B: Yeah, I will.",
     "notes-en": "\"Sono tsumori\" is a casual, real-time expression to affirm one's intent to act. \"Sono\" means \"that,\" and \"tsumori\" means \"intention\" or \"plan.\"",
     "notes-ja": "「そのつもり」は、行動の意図を即時的に肯定するカジュアルな表現です。「その」は「that」を、「つもり」は「意図」や「計画」を意味します。"
   },
@@ -8374,7 +8397,7 @@
     "adjusted-expression-en": "Next, please?",
     "img-sub": "kiminobandayo01.png",
     "example-ja": "A「(君:きみ)の(番:ばん)だよ」B「(分:わ)かってるよ」",
-    "example-en": "A: \"It's your turn.\" B: \"I know.\"",
+    "example-en": "A: It's your turn. B: I know.",
     "notes-en": "\"Kimi no ban da yo\" is a casual expression used to indicate that it is someone's turn to do something. It combines the word \"kimi\" (meaning \"you\") with \"ban\" (meaning \"turn\" or \"order\"). ",
     "notes-ja": "「君の番だよ」は、誰かが何かをする番であることを示すカジュアルな表現です。「君」は「you」を意味し、「番」は「turn」や「order」を意味します。"
   },
@@ -8397,7 +8420,7 @@
     "adjusted-expression-en": "Although this time was unfortunate, there will be another opportunity.",
     "img-sub": "tsugigaaru01.png",
     "example-ja": "A「(失敗:しっぱい)しちゃった」B「(次:つぎ)があるよ」",
-    "example-en": "A: \"I failed.\" B: \"You'll still have another chance.\"",
+    "example-en": "A: I failed. B: You'll still have another chance.",
     "notes-en": "\"Tsugi ga aru\" is a casual expression used to convey the idea that there will be another opportunity or chance in the future. It can be translated as \"there's always next time\" or \"you can try again,\" and is often used in informal conversations to provide encouragement or comfort after a setback or disappointment. ",
     "notes-ja": "「次がある」は、将来に別の機会やチャンスがあることを伝えるカジュアルな表現です。「次があるさ」や「またチャンスあるよ」と訳され、カジュアルな会話で失敗や落胆の後に励ましや慰めを提供するためによく使われます。"
   },
@@ -8420,7 +8443,7 @@
     "adjusted-expression-en": "Please show me that.",
     "img-sub": "misete01.png",
     "example-ja": "A「これ、(新:あたら)しい(本:ほん)？ちょっと(見:み)せて？」",
-    "example-en": "A: \"Is this a new book? Let me see it?\"",
+    "example-en": "A: Is this a new book? Let me see it?",
     "notes-en": "\"Misete\" is a casual expression used to request someone to show or display something. It can be translated as \"show me\" or \"let me see,\" and is often used in informal conversations to express curiosity or interest in something. ",
     "notes-ja": "「見せて」は、誰かに何かを見せたり、表示したりするように頼むカジュアルな表現です。「show me」や「let me see」と訳され、カジュアルな会話で何かに対する好奇心や関心を表すためによく使われます。"
   },
@@ -8443,7 +8466,7 @@
     "adjusted-expression-en": "All's well that ends well.",
     "img-sub": "kekkaorai01.png",
     "example-ja": "A「いろいろ(大変:たいへん)だったね」B「(結果:けっか)、(オーライ:おーらい)ですよ」",
-    "example-en": "A: \"It was tough, wasn't it?\" B: \"All right, even if we got some troubles.\"",
+    "example-en": "A: It was tough, wasn't it? B: All right, even if we got some troubles.",
     "notes-en": "\"Kekka, o-rai\" is a casual expression used to indicate that despite difficulties or challenges, everything turned out well in the end. It combines the word \"kekka\" (meaning \"result\" or \"outcome\") with \"o-rai\" (meaning \"all right\" or \"okay\"). This phrase is often used in informal conversations to express relief or satisfaction after overcoming obstacles. It can also imply a sense of acceptance or resignation to the situation. Sometimes, I saw people using this phrase even when they didn't face any difficulties, but those people are called optimists.",
     "notes-ja": "「結果、オーライ」は、困難や課題があったにもかかわらず、最終的にすべてがうまくいったことを示すカジュアルな表現です。「結果」は「result」や「outcome」を意味し、「オーライ」は「all right」や「okay」を意味します。このフレーズは、障害を克服した後の安堵感や満足感を表現するためによく使われます。途中での困難も何もない人が時に使っているのを見ますが、こういう人のことを楽天家というんですよ。"
   },
@@ -8466,7 +8489,7 @@
     "adjusted-expression-en": "However,...",
     "img-sub": "demo01.png",
     "example-ja": "A「おいしいね」B「でも、あまり、(見:み)た(目:め)がきれいじゃない」",
-    "example-en": "A: \"It's delicious.\" B: \"But it doesn't look very good.\"",
+    "example-en": "A: It's delicious. B: But it doesn't look very good.",
     "notes-en": "\"Demo\" is a casual expression used to introduce a contrasting idea or to express disagreement. It can be translated as \"but\" or \"however,\" and it is often used in informal conversations to indicate a change in direction or to present an opposing viewpoint. The phrase is commonly used in everyday situations, such as when discussing opinions or making suggestions. In more formal situations, one might use \"shikashi\" instead, which is a more polite way to express the same idea. Additionally, \"demo\" is often used in a light-hearted or humorous context, making it a versatile expression in casual conversations. It is typically two syllables long, making it easier to say than the more formal alternatives.",
     "notes-ja": "「でも」は、対照的な考えを導入したり、反論を表現したりするためのカジュアルな表現です。「but」や「however」と訳され、カジュアルな会話で方向転換や反対意見を示すためによく使われます。このフレーズは、意見を述べたり提案をしたりする日常的な状況でよく使われます。よりフォーマルな場面では「しかし」と言うことが一般的です。2音節ですから、「でも」の方が言いやすいですね。"
   },
@@ -8489,7 +8512,7 @@
     "adjusted-expression-en": "I think I can do it.",
     "img-sub": "ikeru01.png",
     "example-ja": "A「(行:い)ける？」B「(行:い)ける、(行:い)ける」",
-    "example-en": "A: \"Can you do it?\" B: \"I can do it, I can do it.\"",
+    "example-en": "A: Can you do it? B: I can do it, I can do it.",
     "notes-en": "\"Ikeru, ikeru\" is a casual expression used to convey the idea of being able to do something or to express encouragement. It can be translated as \"I can do it\" or \"Go for it,\" and is often used in informal conversations to show confidence in someone's ability. This phrase is common in everyday situations, such as when encouraging a friend or colleague to take on a challenge. In more formal situations, one might use \"dekimasu\" instead, which is a more polite way to express the same idea, typically with a clearer subject or object. Additionally, depending on context, \"ikeru\" can also mean \"It's okay\" or even \"It's so good I could eat a lot of it.\"",
     "notes-ja": "「行ける、行ける」は、何かをすることができるという考えを伝えたり、励ましの気持ちを表現したりするカジュアルな表現です。「行ける」は「I can do it」や「Go for it」と訳され、カジュアルな会話で他人の能力に自信を持っていることを表すためによく使われます。このフレーズは、友人や同僚に挑戦するように励ます日常的な状況でよく使われます。よりフォーマルな場面では「できます」と言うことが一般的ですが、そういうときには、具体的に何ができるかを述べた方がいいですね。他にも、「行ける」と言うときは、「大丈夫」とか「おいしくていくつでも食べられる」などの意味でも使われます。"
   },
@@ -8512,7 +8535,7 @@
     "adjusted-expression-en": "I spoke without thinking about the consideration.",
     "img-sub": "omowazu01.png",
     "example-ja": "A「(思:おも)わず、(本当:ほんとう)のこと、(言:い)っちゃった」",
-    "example-en": "A: \"I said the truth without thinking.\"",
+    "example-en": "A: I said the truth without thinking.",
     "notes-ja": "「思わず」は、意図せずに、咄嗟に反応してしまうことを表す表現です。「考えるより先に行動が出る」ような瞬間に使われ、英語では「without thinking」や「instinctively」と訳されます。\n\nたとえば、「思わず本当のことを言ってしまった」という場合、本人にとっては後から「言わなければよかった」と思うような場面かもしれません。周囲の人が口にしない本音を代弁する形になったのでしょう。皆も内心では同じことを思っていたかもしれません。\n\nですが、「思わず言ってしまった」ことは、気にしても仕方ありません。こうした即時的な反応は、誰にでもあることです。",
     "notes-en": "\"Omowazu\" refers to an action or reaction that occurs instinctively or unintentionally, often before any conscious thought. It conveys a sense of doing something before realizing it, and is typically translated as \"without thinking\" or \"instinctively.\"\n\nFor example, in the phrase \"I said the truth without thinking,\" the speaker might later regret having spoken. Perhaps they voiced what others were thinking but dared not say aloud. In that case, while it might have been better to stay silent, it’s already done.\n\nSince such instinctive reactions are common and natural, there's no point in worrying too much. It happens to everyone."
   },
@@ -8555,7 +8578,7 @@
     "adjusted-expression-en": "Oh no, that's not true at all.",
     "img-sub": "ieiemadamada01.png",
     "example-ja": "A「(ピアノ:ぴあの)、お(上手:じょうず)ですね」B「いえいえ、まだまだ...」",
-    "example-en": "A: \"You're good at piano.\" B: \"Oh no, not at all...\"",
+    "example-en": "A: You're good at piano. B: Oh no, not at all...",
     "notes-en": "\"Ie ie, mada mada\" is a casual expression used to express humility or modesty in response to a compliment. It combines the word \"ie\" (meaning \"no\") with \"mada\" (meaning \"not yet\" or \"still\"). This phrase is often used in informal conversations to downplay one's abilities or achievements. The phrase can also be used in a joking manner, depending on the context. In more formal situations, one might use \"ie, sonna koto wa nai desu\" instead, which is a more polite way to express the same idea. In Japan, it is considered a virtue to be humble, and even if someone is truly skilled, they might say \"ie ie, mada mada\" to express modesty. However, there are always some people who, while saying \"ie ie, mada mada,\" immediately show off their amazing skills.",
     "notes-ja": "「いえいえ、まだまだ」は、褒められたときに謙遜や控えめな気持ちを表現するカジュアルな表現です。「いえ」は「no」を意味し、「まだ」は「not yet」や「still」を意味します。このフレーズは、カジュアルな会話で自分の能力や業績を控えめに表現するためによく使われます。文脈によって冗談として使われることもあります。よりフォーマルな場面では「いえ、そんなことはないです」と言うことが一般的です。だいたい、本当に上手であったとしても「いえいえ、まだまだ」と謙遜するのが日本人の美徳です。しかし、図々しい人はどこにでもいるもので、「いえいえ、まだまだ」と言いながら、そのあとすぐ、すごいテクニックを見せ付ける人がいます。"
   },
@@ -8578,7 +8601,7 @@
     "adjusted-expression-en": "Well, let's move on to the next one.",
     "img-sub": "sate01.png",
     "example-ja": "A「さて、まずはじめに、(問題:もんだい)です」",
-    "example-en": "A: \"Well, first of all, here's a question.\"",
+    "example-en": "A: Well, first of all, here's a question.",
     "notes-en": "\"Sate\" is a casual expression used to transition to a new topic or to introduce something. It can be translated as \"well\" or \"now,\" and it is often used in informal conversations to signal a change in focus or to prepare the listener for what is coming next. The phrase is commonly used in everyday situations, such as when starting a presentation or introducing a new subject. In more formal situations, one might use \"soredewa\" instead, which is a more polite way to express the same idea.",
     "notes-ja": "「さて」は、新しい話題に移るときや、何かを紹介するときに使われるカジュアルな表現です。「well」や「now」と訳され、カジュアルな会話で焦点を変えたり、次に来ることに備えてリスナーを準備させたりするためによく使われます。このフレーズは、プレゼンテーションを始めたり、新しいテーマを紹介したりする日常的な状況でよく使われます。フォーマルな場面では「それでは」と言うことが多いかもしれません。"
   },
@@ -8601,7 +8624,7 @@
     "adjusted-expression-en": "That's very thoughtful of you.",
     "img-sub": "kigakiteru01.png",
     "example-ja": "A「あ、(コーヒー:こーひー)に(チョコレート:ちょこれーと)がついてる！」B「ちょっと、(気:き)が(利:き)いてるね」",
-    "example-en": "A: \"A piece of chocolate is on the side of the coffee!\" B: \"Oh, that was thoughtful!\"",
+    "example-en": "A: A piece of chocolate is on the side of the coffee! B: Oh, that was thoughtful!",
     "notes-en": "\"Kigakiteru\" is a casual expression used to praise someone for their thoughtfulness or consideration. It combines the word \"ki\" (meaning \"spirit\" or \"mind\") with \"kiteru\" (meaning \"to be attentive\" or \"to be considerate\"). This phrase is often used in informal settings to express appreciation for someone's actions or behavior that show care and attention to others. It can also be used when someone does something small but thoughtful. But it's more effective to say this expression in a way that the person can hear it rather than directly to her. After all, isn't that how human relationships work?",
     "notes-ja": "「気が利いてる」は、誰かの思いやりや配慮を称賛するためのカジュアルな表現です。「気」は「spirit」や「mind」を意味し、「利いてる」は「to be attentive」や「to be considerate」を意味します。このフレーズは、他人を思いやる行動や振る舞いだけでなく、ちょっとした小さなサービスに感心したときに、思わず発する表現です。でも、この表現は「気が利いている」人に直接言わず、聞こえるように言った方が効果的ですよ。人間関係ってそんなもんじゃないですか？",
     "column-ja": "ベルギーを旅行したとき、コーヒーを頼むと必ずといっていいほど小さなチョコレートが添えられてきました。ちょっとした心遣いなのですが、それが嬉しくて『気が利いてるなあ』と毎回思ったものです。この表現を聞くと、あの香ばしいコーヒーとチョコの香りを思い出します。",
@@ -8626,7 +8649,7 @@
     "adjusted-expression-en": "It ended in the blink of an eye.",
     "img-sub": "attoiumani01.png",
     "example-ja": "A「おいしかった？」B「(あっ:あっ)という(間:ま)に、(食:た)べちゃった」",
-    "example-en": "A: \"Was it delicious?\" B: \"In the blink of an eye, I ate it.\"",
+    "example-en": "A: Was it delicious? B: In the blink of an eye, I ate it.",
     "notes-en": "\"Atto iu mani\" is a casual expression used to describe something that happens very quickly or unexpectedly. The word \"atto\" means the sound of a person saying something, which implies a very short time, and \"iu mani\" means \"a moment to say ...\" This phrase is often used in everyday situations to talk about events or experiences that occurred suddenly. Depending on the context, it can also be used jokingly.",
     "notes-ja": "「あっという間に」は、非常に早く、または予期せぬ出来事を表現するカジュアルな表現です。「あっ」は人が言語を1つ発する音、すなわち、とても短い時間を意味し、「いう間」は「a moment to say ...」を意味します。このフレーズは、日常的な状況で、突然起こった出来事や経験について話すときに使われます。文脈によって冗談として使われることもあります。"
   },
@@ -8672,7 +8695,7 @@
     "adjusted-expression-en": "Or rather, I should say, there just aren't many opportunities...",
     "img-sub": "teiuka01.png",
     "example-ja": "A「いい(仕事:しごと)がないの？」B「て(言:い)うか、そもそも(チャンス:ちゃんす)(自体:じたい)がないっていうか、...」",
-    "example-en": "A: \"Is there no good job?\" B: \"I mean, there are no chances at all, ...\"",
+    "example-en": "A: Is there no good job? B: I mean, there are no chances at all, ...",
     "notes-en": "\"Te iu ka\" is a casual expression to guide the conversation or to correct the previous statement. It can be translated as \"I mean\" or \"rather,\" and it is often used in informal conversations to clarify or emphasize a point. The phrase is commonly used in everyday situations, such as when discussing plans or making guesses. In more formal situations, one might use \"to iimasu ka\" instead, which is a more polite way to express the same idea.\n\nRelated expressions include \"somosomo\" (meaning \"in the first place\") which allows the speaker to question or reset the premise of the current conversation. Another is \"jitai\" (meaning \"itself\"), which is used to highlight the very essence of a subject, often in negative contexts like \"There’s no chance itself.\" Both phrases function as immediate, real-time focus operators that support impromptu corrections or emphasis in conversation.",
     "notes-ja": "「て言うか」は、相手の表現が核心から外れていて、それを修正し、自分の言いたいことを表現するフレーズです。「言う」は「to say」を意味し、「か」は疑問や説明のニュアンスを加える助詞です。このフレーズは、友人や家族などのカジュアルな場面で使われることが多く、追加の文脈を提供したり、ポイントを強調したりするために使われます。よりフォーマルな場面では「と言いますか、...」と言うことが一般的です。\n\n関連語句として、「そもそも」は話の前提に立ち返る際に用いられる語で、現在の話題の前提そのものを問い直す働きがあります。「自体」は主語や主題の中の焦点を強調する語で、特に否定文において「◯◯ですらない」ような語感を伴います。これらはいずれも即時的な焦点調整に関わる語句であり、会話の中で素早く文脈を調整するのに役立ちます。"
   },
@@ -8695,7 +8718,7 @@
     "adjusted-expression-en": "I think it's surely the answer.",
     "img-sub": "kitto01.png",
     "example-ja": "A「(正解:せいかい)は、きっと、これだ」B「きっと、そうだね」",
-    "example-en": "A: \"Surely, the answer is this.\" B: \"Surely, that's right.\"",
+    "example-en": "A: Surely, the answer is this. B: Surely, that's right.",
     "notes-en": "\"Kitto\" is a casual expression used to convey certainty or strong belief about something. It can be translated as \"surely\" or \"probably,\" and it is often used in informal conversations to express confidence in a prediction or assumption. The phrase is commonly used in everyday situations, such as when discussing plans or making guesses. \"Seikai\" means \"answer,\" but it can also be used to express the feeling of having made the right choice after being uncertain.",
     "notes-ja": "「きっと」は、何かに対する確信や強い信念を表現するカジュアルな表現です。「きっと」は「surely」や「probably」と訳され、カジュアルな会話で予測や仮定に自信を持っていることを表すためによく使われます。このフレーズは、計画を話し合ったり、推測したりする日常的な状況でよく使われます。「正解」は「answer」を意味しますが、問題の答という意味以外にも、「迷っていたけれどもそれを選んでよかった」と思うときに使えます。"
   },
@@ -8718,7 +8741,7 @@
     "adjusted-expression-en": "I don't think that's the case.",
     "img-sub": "nawakenaidesho01.png",
     "example-ja": "A「あの(人:ひと)、(実:じつ)は(宇宙人:うちゅうじん)なんじゃない？」B「な(訳:わけ)ないでしょ！(漫画:まんが)の(読:よ)みすぎ！」",
-    "example-en": "A: \"That person is actually an alien, right?\" B: \"Don't be silly! You're reading too many comics!\"",
+    "example-en": "A: That person is actually an alien, right? B: Don't be silly! You're reading too many comics!",
     "notes-en": "\"Nawakenaidesho\" is a casual expression used to deny something or express disbelief. It combines the word \"nawa\" (meaning \"that kind of thing\") with the negative form \"kenai\" (meaning \"not possible\") and the particle \"desho,\" which adds emphasis or emotion to the statement. This phrase is often used in informal settings, such as among friends or family, to express surprise or disbelief at a situation. The phrase can also be used in a joking manner, depending on the context. In more formal situations, one might use \"sonna koto wa nai deshou\" instead, which is a more polite way to express disbelief.",
     "notes-ja": "「な訳ないでしょ」は、何かを否定したり、信じられないことを表現するカジュアルな表現です。「な訳」は「that kind of thing」を意味し、「ない」は否定形、「でしょ」は強調や感情を加える助詞です。このフレーズは、友人や家族などのカジュアルな場面で使われることが多く、状況に対する驚きや疑念を表現します。文脈によっては冗談として使われることもあります。よりフォーマルな場面では「そんなことはないでしょう」と言うことが一般的です。"
   },
@@ -8787,7 +8810,7 @@
     "adjusted-expression-en": "Please don't say such things.",
     "img-sub": "yameteyo01.png",
     "example-ja": "A「(今日:きょう)は(髪型:かみがた)、すてきだね」B「ちょっと、やめてよ」",
-    "example-en": "A: \"Your hairstyle looks great today.\" B: \"Oh, no, cut it out.\"",
+    "example-en": "A: Your hairstyle looks great today. B: Oh, no, cut it out.",
     "notes-en": "\"Yamete yo\" is a casual expression used to ask someone to stop doing something. It combines the verb \"yameru\" (to stop) in the te-form \"yamete\" with the informal particle \"yo,\" which adds emphasis or emotion to the request. This phrase is often used in informal settings, such as among friends or family, and can convey a sense of embarrassment or playfulness. The phrase can also be used in a joking manner, depending on the context. In more formal situations, one might use \"yamete kudasai\" instead, which is a more polite way to make a sincere request for someone to stop.",
     "notes-ja": "「やめてよ」は、誰かに何かをやめてほしいと頼むカジュアルな表現です。「やめる」の連用形「やめて」と、感情を強調するための口語的な助詞「よ」を組み合わせたものです。このフレーズは、友人や家族などのカジュアルな場面でよく使われ、照れくささや遊び心を伝えることができます。文脈によっては冗談として使われることもあります。よりフォーマルな場面では「やめてください」と言うことが一般的で、本当に止めてほしいときに使います。"
   },
@@ -8808,7 +8831,7 @@
     "adjusted-expression-en": "Thank you for coming.",
     "img-sub": "kurete01.png",
     "example-ja": "A「(来:き)てくれてありがとう」B「いえいえ、呼んでくれてありがとう」",
-    "example-en": "A: \"Thank you for coming.\" B: \"No, thank you for inviting me.\"",
+    "example-en": "A: Thank you for coming. B: No, thank you for inviting me.",
     "notes-en": "\"Kite kurete arigatou\" is a casual expression used to express gratitude for someone's presence or participation. It combines the verb \"kuru\" (to come) in the te-form \"kite\" with \"kurete,\" which indicates that the action was done for the speaker's benefit. This phrase is commonly used in casual settings, such as among friends or family, to express appreciation for someone's attendance at an event or gathering. The phrase \"~te kurete arigatou\" or its more polite form \"~te kudasari, arigatou gozaimasu\" conveys that the speaker is pleased with the action taken by the other person. It is generally used in formal situations with people other than friends or family.",
     "notes-ja": "「来てくれてありがとう」は、誰かの存在や参加に感謝するためのカジュアルな表現です。「来る」の連用形「来て」と「くれて」を組み合わせたもので、話し手の利益のために行われた行動を示します。このフレーズは、友人や家族などのカジュアルな場面で、イベントや集まりに来てくれたことへの感謝を表すためによく使われます。「～てくれてありがとう」あるいはその丁寧「～てくださり、ありがとうございます」は、相手の行動が話し手にとって嬉しいことを伝える文型です。友達、家族以外には「～てくださり、ありがとうございます」と言うのが一般的です。"
   },
@@ -8829,7 +8852,7 @@
     "adjusted-expression-en": "Basically, I agree.",
     "img-sub": "kousoriga01.png",
     "example-ja": "A「(基本的:きほんてき)には、(賛成:さんせい)です」B「ということは、何か問題でも？」",
-    "example-en": "A: \"Basically, I agree.\" B: \"So, is there a problem?\"",
+    "example-en": "A: Basically, I agree. B: So, is there a problem?",
     "notes-en": "\"Kihonteki ni wa\" is a phrase used to express a basic or foundational perspective. \"Kihonteki\" means \"basic\" or \"fundamental,\" and \"ni wa\" is a grammatical structure that indicates the speaker's stance or viewpoint. This phrase is often used to frame an evaluation or opinion, providing context for the following statement. It serves as an extrasyntactic premodifier, setting the stage for the main clause. By saying \"kihonteki ni wa,\" the speaker suggests that there may be some issues or nuances to consider. It can imply a nuance of not being entirely opposed to something, but rather providing a framework for discussion. The term \"extrasyntactic premodifier\" is not widely established in linguistic terminology, but it effectively describes the function of this phrase in immediate grammar.",
     "notes-ja": [
       {
@@ -8883,7 +8906,7 @@
     "adjusted-expression-en": "Let's take a detour and go home.",
     "img-sub": "yorimichishite01.png",
     "example-ja": "A「(寄:よ)り(道:みち)して、(帰:かえ)ろ」B「いいね」",
-    "example-en": "A: \"Let's take a detour and go home.\" B: \"Sounds good!\"",
+    "example-en": "A: Let's take a detour and go home. B: Sounds good!",
     "notes-en": "\"Yorimichi shite kaero\" is a casual phrase used to suggest taking a detour on the way home. \"Yorimichi\" means \"detour,\" \"shite\" is the te-form of the verb \"suru\" (\"to do\"), and \"kaerou\" is the volitional form of \"kaeru\" (\"to go home\"). This expression is commonly used in everyday conversation to propose a spontaneous change of plans or to make the journey more enjoyable. The volitional form adds a nuance of suggestion or gentle invitation. It's a familiar phrase even in pop culture, for example, in the lyrics of Kazuyoshi Saito's song \"Aruite Kaerou.\"",
     "notes-ja": "「寄り道して帰ろう」は、帰る途中で寄り道をすることを提案する表現です。「寄り道」は「detour」を、「して」は動詞「する」（to do）の連用形、「帰ろ」は動詞「帰る」の意向形です。このフレーズは、カジュアルな会話で使われることが多く、計画の変更や旅を楽しむための提案として使われます。意向形を使うことで、提案や誘いのニュアンスが強まります。斎藤和義の「歩いて帰ろう」などの歌詞にも使われている表現です。"
   },
@@ -8904,7 +8927,7 @@
     "adjusted-expression-en": "Shall we go home?",
     "img-sub": "kaero01.png",
     "example-ja": "A「いっしょに(帰:かえ)ろ」B「うん、(帰:かえ)ろう」",
-    "example-en": "A: \"Let's go home together.\" B: \"Yeah, let's go.\"",
+    "example-en": "A: Let's go home together. B: Yeah, let's go.",
     "notes-en": "\"Kaero\" is a casual way to suggest going home. It is the volitional form of the verb \"kaeru\" (to go home), and in formal situations, it would be \"kaerou.\" However, in casual conversations, it is often shortened to \"kaero.\" This phrase is commonly used in conversations with friends or family. By using the volitional form, it gives a more direct and casual impression.",
     "notes-ja": "「帰ろ」は、帰ることを提案するカジュアルな表現です。「帰ろ」は動詞「帰る」の意向形で、正式には「帰ろう」ですが、カジュアルな会話では「帰ろ」と省略されることが多いです。このフレーズは、友達や家族との会話でよく使われます。意向形を使うことで、より直接的でカジュアルな印象を与えます。"
   },
@@ -8925,7 +8948,7 @@
     "adjusted-expression-en": "Would you like to have a relaxing coffee together sometime?",
     "img-sub": "nonbiri.png",
     "example-ja": "A「(今度:こんど)、のんびり、(コーヒー:こーひー)でもどう？」B「いいね」",
-    "example-en": "A: \"How about taking it easy with a coffee next time?\" B: \"Sounds good!\"",
+    "example-en": "A: How about taking it easy with a coffee next time? B: Sounds good!",
     "notes-en": "\"Nonbiri\" is a phrase used to express a relaxed or leisurely state. It means \"take it easy\" or \"relax,\" and it is often used in casual conversations to suggest a laid-back attitude. The use of the word \"dou\" at the end of the sentence indicates that the speaker is making a suggestion or invitation. When a close friend says this, it is better not to refuse too strongly, considering the other person's feelings. For example, if someone asks, \"How about taking it easy with a coffee next time?\" saying \"I can't this time\" might be a bit rude. Instead, it would be better to say something like, \"I can't this time, but please invite me again.\" Also, just because you're invited like this doesn't mean you have to go. The other person may not really want to go together. This is what we call 'shakoujirei' in Japanese, what might be called 'an empty promise disguised as a courteous remark' in English. In such cases, instead of asking, \"So when should we do it?\" just respond with \"Sure, let's do it!\"",
     "notes-ja": "「のんびり」は、リラックスしたり、ゆったりとした状態を表現するためのフレーズです。「のんびり」は「take it easy」や「relax」を意味し、カジュアルな会話で使われることが多いです。このフレーズは、誰かに休憩を取ったり、一緒にゆったりとした時間を楽しむことを提案するときによく使われます。文末の「どう」は、提案や招待を示す表現です。本当に親しい人から、このように言われたときには、相手の気持ちを考えて、あまり強く断らない方が良いでしょう。たとえば、「今度、のんびり、コーヒーでもどう？」と聞かれたときに、「今度は無理」とだけ言うのは少し失礼です。相手の気持ちを考えて、「また誘ってね」と添えると、やわらかく断ることができます。また、こうした誘いは社交辞令であることも多く、必ずしも実行を前提にしていない場合もあります。そんなときは、「じゃ、いつにする？」などと詰めずに、「ええ、ぜひ」と返しておくのがスマートです。"
   },
@@ -8946,7 +8969,7 @@
     "adjusted-expression-en": "Is that so? I didn't know.",
     "img-sub": "sounano01.png",
     "example-ja": "A「(明日:あす)、(試験:しけん)だよね」B「そうなの？じゃないと(思:おも)うけど」",
-    "example-en": "A: \"The exam is tomorrow, right?\" B: \"Is that so? I don't think so.\"",
+    "example-en": "A: The exam is tomorrow, right? B: Is that so? I don't think so.",
     "notes-en": "\"Sou nano?\" is a phrase used to express surprise or confirmation. \"Sou\" means \"like that\" or \"is that so,\" and \"nano\" is a colloquial form of the question particle \"no.\" This phrase is often used in casual conversations to confirm information or express disbelief. The use of the question particle \"no\" adds a sense of inquiry or curiosity. The phrase \"ja nai to omou kedo\" is a light denial expression, indicating that the speaker thinks it is not the case. This allows for a shorter expression by omitting the word before \"ja nai,\" making it sound more natural and fluent, as native speakers often do.",
     "notes-ja": "「そうなの？」は、驚きや確認を表現するためのフレーズです。「そう」は「like that」や「is that so」を意味し、「なの」は疑問の助詞「の」の口語的な形です。このフレーズは、カジュアルな会話で情報を確認したり、信じられないことを表現するためによく使われます。疑問の助詞「の」を使うことで、問いかけや好奇心を感じさせる効果があります。「じゃないと思うけど」は、軽く否定する表現で、相手の発言を受けて「そうではない」と思うことを伝えています。このように、「じゃない」の前のことばを省略して短く表現することで、母語話者のような自然な発話になります。"
   },
@@ -8967,7 +8990,7 @@
     "adjusted-expression-en": "Finally, the homework is done.",
     "img-sub": "yattodayo01.png",
     "example-ja": "A「(宿題:しゅくだい)、もう(終:お)わったの？」B「もう、じゃなくて、やっと、だよ」",
-    "example-en": "A: \"You done with your homework already?\" B: \"Not already, finally!\"",
+    "example-en": "A: You done with your homework already? B: Not already, finally!",
     "notes-en": "\"Yatto da yo\" is a phrase used to express a sense of achievement or relief upon completion. \"Yatto\" means \"finally,\" \"da\" is the plain form of the verb \"to be\" (like \"is\"), and \"yo\" is a sentence-final particle that indicates the speaker is presenting new or important information to the listener. This expression is commonly used when something has taken a long time or much effort to complete. The use of \"yatto\" highlights the speaker's feeling of relief or satisfaction.",
     "notes-ja": "「やっとだよ」は、達成感や物事が完了したことによる安堵感を伝える表現です。「やっと」は「finally」、「だ」は「〜です」「〜だ」といった断定の表現、「よ」は相手にとって新規の情報を表す終助詞です。このフレーズは、長い時間や努力を要してようやく何かを終えたときによく使われます。「やっと」によって、話し手の安心感や満足感が強調されます。"
   },
@@ -8988,7 +9011,7 @@
     "adjusted-expression-en": "I sleep, eat, and so on.",
     "img-sub": "taritari01.png",
     "example-ja": "A「(休:やす)みの(日:ひ)は、(何:なに)してるの？」B「(寝:ね)たり、(食:た)べたりしてる」",
-    "example-en": "A: \"What do you do on your days off?\" B: \"I sleep, eat, and so on.\"",
+    "example-en": "A: What do you do on your days off? B: I sleep, eat, and so on.",
     "notes-en": "\"Neta ri, tabe tari\" is a phrase used to list multiple actions or activities. The verb in the te-form is repeated with \"tari\" to indicate that there are other similar actions or activities. This phrase is often used to express a non-exhaustive list of actions or activities. To form the \"...tari\" sentence structure, you combine the verb in the past tense with \"tari.\" For example, you combine the past tense of the verb \"neru\" (to sleep) with \"tari.\" This expression suggests that you are doing various representative actions and implies that you are doing other similar actions as well, without listing all of them.",
     "notes-ja": "「V1-たり、V2-たりします」は、複数の行動や活動を列挙するためのフレーズです。V1の動詞が1つの行動を示し、V2の動詞が別の行動を示します。このフレーズは、網羅的でない一連の行動や活動を表現するためによく使われます。「...たり」の文形を作るためには、たとえば、動詞「寝る」の過去形「寝た」を「...たり」と組み合わせます。この表現は、いくつかの代表的な行動をとりあげて、それらのようなことをしていることを示します。すべての行動を網羅するのではなく、例として挙げた行動から、それ以外の同種の行動も行っていることをほのめかすような用法です。"
   },
@@ -9009,7 +9032,7 @@
     "adjusted-expression-en": "While listening to music...",
     "img-sub": "ongakukinagara01.png",
     "example-ja": "A「(音楽:おんがく)、(聞:き)ながら、(勉強:べんきょう)してる」B「いいね」",
-    "example-en": "A: \"I'm studying while listening to music.\"",
+    "example-en": "A: I'm studying while listening to music.",
     "notes-en": "\"V1 nagara, V2\" is a phrase used to express that two actions are happening simultaneously. The verb V1 indicates the accompanying or background action, and the verb V2 indicates the main action. This phrase is often used to express multiple actions or activities happening concurrently. To form the \"...nagara\" sentence structure, you combine the verb in the te-form with \"nagara.\" For example, you combine the te-form of the verb \"kiku\" (to listen) with \"nagara.\"",
     "notes-ja": "「V1-しながら、V2」は、2つの行動が同時に行われていることを表すフレーズです。V1の動詞が随伴的・背景的な行動を示し、V2の動詞が主要な行動を示します。このフレーズは、複数の行動や並行して行われている活動を表現するためによく使われます。「...しながら」の文形を作るためには、たとえば、動詞「聞く」の連用形「聞き」を「...しながら」と組み合わせます。"
   },
@@ -9030,7 +9053,7 @@
     "adjusted-expression-en": "Any of them will be fine.",
     "img-sub": "nandemoiiyo01.png",
     "example-ja": "A「(何:なに)がいい？」B「なんでもいいよ」",
-    "example-en": "A: \"What would you like?\" B: \"Anything is fine.\"",
+    "example-en": "A: What would you like? B: Anything is fine.",
     "notes-en": "\"Nandemo iiyo\" is a phrase used to express that you are okay with anything. \"Nandemo\" means \"anything,\" \"ii\" is the adjective \"ii\" (good), and \"yo\" is a sentence-final particle that seeks agreement. This phrase is often used to show flexibility or give permission when someone asks for your preference. By saying \"nandemo iiyo,\" you can convey that you are open to any option. However, in reality, not all options may be acceptable, so it is important to use this phrase appropriately depending on the context. Particularly dangerous is when you say \"nandemo iiyo\" to your girlfriend or boyfriend. When you say \"nandemo iiyo,\" the other person may ask, \"Do you really mean anything?\" Or when you say \"nandemo iiyo,\" the other person may feel that you are not interested in them. This could lead to the worst-case scenario.",
     "notes-ja": "「なんでもいいよ」は、何でも受け入れられることを表現するフレーズです。「なんでも」は「anything」を、「いい」は形容詞「いい」（good）を、「よ」は同意を求める文末の助詞です。このフレーズは、誰かが好みを尋ねたときに、柔軟性を示したり、許可を与えたりするときによく使われます。\"なんでもいいよ\"を使うことで、どの選択肢にも対応できることを伝えることができます。しかし、実際には、どの選択肢も受け入れられるわけではない場合もありますので、文脈によって使い分けることが重要です。特に危険なのは、ガールフレンドやボーイフレンドに対して「なんでもいいよ」と言った場合です。あなたが「なんでもいいよ」と言ったとき、相手は「本当になんでもいいの？」と聞いてくるかもしれません。あるいは、あなたが「なんでもいいよ」と言ったとき、相手はあなたが自分に興味がないと感じるかもしれません。これはもしかしたら、最悪の事態をひき起こすかもしれません。"
   },
@@ -9055,7 +9078,7 @@
     "grammar-type-en": ["Negative question", "Emotion-sharing construction"],
     "img-sub": "sugokunai01.png",
     "example-ja": "A「(世界新記録:せかいしんきろく)、(凄:すご)くない？これ」",
-    "example-en": "A: \"It's a world record. Isn't this amazing?\"",
+    "example-en": "A: It's a world record. Isn't this amazing?",
     "notes-en": "\"Sugoku nai? Kore\" is an expression used to express amazement or surprise. \"Sugoku\" is the adverbial form of the adjective \"sugoi\" (amazing), \"nai\" is the negative form of the verb \"aru\" (to be), and \"kore\" means \"this.\" Although the phrase uses the negative form, it is not denying anything. The negative form of question words used in questions has the function of expressing surprise or amazement.",
     "notes-ja": "「すごくない？これ」は、驚きや感動を表現するための表現です。「すごく」は形容詞「すごい」の副詞形で「amazing」や「incredible」を、「ない」は動詞「ある」（to be）の否定形、「これ」は「this」を意味します。この表現は、「ない」を使っていますが、否定しているわけではありません。疑問文で使われる特徴を表わすことばの否定形は、否定を表すだけでなく、驚きや感動を表すときにも使われます。"
   },
@@ -9076,7 +9099,7 @@
     "adjusted-expression-en": "Ah, I'm tired.",
     "img-sub": "tsukaretaa01.png",
     "example-ja": "A「(今日:きょう)は(忙:いそが)しかったね」B「あー、(疲:つか)れた」",
-    "example-en": "A: \"You had a busy day today.\" B: \"I'm tired.\"",
+    "example-en": "A: You had a busy day today. B: I'm tired.",
     "notes-en": "\"Aa, tsukareta\" is a phrase used to express that you are tired. \"Aa\" is an interjection expressing emotions, and \"tsukareta\" is the past tense of the verb \"tsukareru\" (to get tired). This phrase is often used at the end of a long day or after intense activity. Although the subject is omitted, the meaning is clearly understood from the context.",
     "notes-ja": "「あー、疲れた」は、疲れたことを表現するためのフレーズです。「あー」は感情を表す単語の前に使用する感動詞で、「疲れた」は動詞「疲れる」（to get tired）の過去形です。このフレーズは、長い一日の終わりや激しい活動の後によく使われます。主語が省略されていますが、文脈から意味が明確に理解されます。",
     "significance-ja": "感動詞「あー」によって、感情と状態が即時的に結びついて表出される典型的な即時文法表現。主語や補足説明がなくても、状況と語気から意味が成立する。",
@@ -9099,7 +9122,7 @@
     "adjusted-expression-en": "How have you been lately?",
     "img-sub": "saikindou01.png",
     "example-ja": "A「(最近:さいきん)、どう？」B「(元気:げんき)だよ、ありがとう」",
-    "example-en": "A: \"How's it going?\" B: \"I'm good, thanks.\"",
+    "example-en": "A: How's it going? B: I'm good, thanks.",
     "notes-en": "\"Saikin, dou?\" is a casual way to ask how someone is doing. \"Saikin\" means \"lately\" or \"recently,\" and \"dou\" is a question word that means \"how.\" This phrase is often used in casual conversations among friends or family. It is a typical example of immediate grammar, as the verb is omitted but the meaning is clearly understood from context.",
     "notes-ja": "「最近、どう？」は、誰かの近況を尋ねるカジュアルな表現です。「最近」は「lately」や「recently」を、「どう」は「how」を意味します。このフレーズは友達や家族とのカジュアルな会話でよく使われます。即時文法の典型的な例であり、動詞が省略されていますが、文脈から意味が明確に理解されます。"
   },
@@ -9117,7 +9140,7 @@
     "adjusted-expression-ja": "それは、(:)結局、どこにも(:)訴えることはできません。",
     "adjusted-expression-en": "In the end, there was no legal recourse available.",
     "example-ja": "A「(銀行:ぎんこう)(振:ふ)り(込:こ)みで(商品:しょうひん)が(送:おく)ってこなくて、(相手:あいて)の(住所:じゅうしょ)もわからないんです」B「それは、(結局:けっきょく)のところ、(泣:な)き(寝入:ねい)りですね」",
-    "example-en": "A: \"I transferred the money to their account, but the product never came, and I don't even know where they are.\" B: \"Well... sounds like you're just going to have to suffer in silence.\"",
+    "example-en": "A: I transferred the money to their account, but the product never came, and I don't even know where they are. B: Well... sounds like you're just going to have to suffer in silence.",
     "notes-en": "\"Naki-ne-iri desu ne\" is an expression used to describe a situation where someone has no choice but to endure silently. \"Naki\" is the continuative form of the verb \"naku\" (to cry), \"ne\" is the noun form of \"neru\" (to sleep), \"iri\" comes from \"iru\" (to enter), and \"desu ne\" is a sentence-final particle that seeks agreement. The phrase implies resignation or powerlessness, often used when someone is left without recourse.",
     "notes-ja": "「泣き寝入り」は、黙って耐えるしかない状況を表す表現です。「泣き」は動詞「泣く」のマス形（「泣きます」の「ます」を取り除いた形で、連用形とも言う）、「寝」は「sleep」、「入り」は「enter」、「ですね」は「isn't it」を意味します。その人が文句を言わず、助けを求めずに状況に耐えるしかないことを暗示しています。",
     "variation": [
@@ -9173,7 +9196,7 @@
     "adjusted-expression-en": "Oh! The car is approaching.",
     "img-sub": "terua01.png",
     "example-ja": "A「あ！(車:くるま)、(来:き)てる！」B「(危:あぶ)ない！」",
-    "example-en": "A: \"Watch out! The car is coming!\" B: \"Be careful!\"",
+    "example-en": "A: Watch out! The car is coming! B: Be careful!",
     "notes-en": "\"A! Kuruma, kiteru!\" is an expression used to warn someone immediately of danger. \"A\" is an interjection expressing surprise or warning, \"kuruma\" means \"car,\" \"kiteru\" is the contracted form of \"kite iru\" (is coming). This phrase is used when you need to warn someone immediately, for example, when a car is approaching or someone is about to bump into something. By contracting the verb \"kite iru\" to \"kiteru,\" the expression becomes more concise and suitable for real-time communication.",
     "notes-ja": "「あ！車、来てる！」は、危険をすぐに知らせるための表現です。「あ」は驚きや警告を表す間投詞で、「車」は「car」、「来てる」は「来ている」の縮約形です。このフレーズは、車が近づいてきたり、誰かが何かにぶつかりそうな状況など、すぐに誰かに警告する必要がある場面でよく使われます。動詞「来ている」を「来てる」に縮約することで、表現がより簡潔になり、リアルタイムのコミュニケーションに適しています。"
   },
@@ -9192,7 +9215,7 @@
     "adjusted-expression-en": "When will you be returning?",
     "img-sub": "itsumodottekuruno01.png",
     "example-ja": "A「(何時:いつ)、(戻:もど)ってくるの？」B「(夕方:ゆうがた)には(戻:もど)るよ」",
-    "example-en": "A: \"When are you coming back?\" B: \"I'll be back in the evening.\"",
+    "example-en": "A: When are you coming back? B: I'll be back in the evening.",
     "notes-en": "\"Itsu, modotte kuru no\" is a casual way to ask when someone will return. \"Itsu\" means \"when,\" \"modotte\" is the te-form of the verb \"modoru\" (to return), \"kuru\" is the present form of the verb \"kuru\" (to come), and \"no\" is a question particle. The particle \"no\" adds an inquisitive tone, often used in casual speech to seek information or ask for reasons.",
     "notes-ja": "「いつ、戻って来るの」は、いつ戻るか尋ねるためのカジュアルな表現です。「いつ」は「when」、「戻って」は動詞「戻る」（to return）のテ形、「来る」は動詞「来る」（to come）の現在形、「の」は疑問を示す助詞です。疑問を示す助詞「の」は、カジュアルな会話で情報を求めたり、理由を尋ねる際にも使われます。"
   },
@@ -9218,7 +9241,7 @@
     "adjusted-expression-en": "That is why I mentioned it before.",
     "img-sub": "dakaraittajan01.png",
     "example-ja": "A「この道は通れないね」B「だから、(言:い)ったじゃん、(行:い)き(止:ど)まりだって」A「ごめんごめん」",
-    "example-en": "A: \"We can't go through this road.\" B: \"I told you so. It's a dead end.\" A: \"Sorry, sorry.\"",
+    "example-en": "A: We can't go through this road. B: I told you so. It's a dead end. A: Sorry, sorry.",
     "notes-en": "\"Dakara ittajan\" is a phrase used to express that you were right about something you said earlier. The word \"dakara\" means \"therefore\" or \"so,\" \"itta\" is the past tense of the verb \"iu\" (to say), and \"jan\" is a colloquial contraction of \"desu\" (to be). This phrase confirms that what you said earlier was correct and is commonly used in casual conversations among friends or family. It is a typical example of immediate grammar, as the specific details of what was said earlier are omitted, but the meaning is clearly understood from context.",
     "notes-ja": "「だから言ったじゃん」は、以前に言ったことが正しかったことを表現するフレーズです。「だから」は「therefore」や「so」を、「言った」は動詞「言う」（to say）の過去形、「じゃん」は「です」の口語的な形です。このフレーズは、友達や家族とのカジュアルな会話でよく使われます。即時文法の典型的な例であり、話し手が以前に何を言ったのかは省略されていますが、文脈から意味が明確に理解されます。"
   },
@@ -9237,7 +9260,7 @@
     "adjusted-expression-en": "Which one would it be?",
     "img-sub": "doredore01.png",
     "example-ja": "A「これ、(見:み)て」B「どれどれ」",
-    "example-en": "A: \"Look at this.\" B: \"Let me see.\"",
+    "example-en": "A: Look at this. B: Let me see.",
     "notes-en": "\"Dore dore\" is an expression used when you want to take a look at something that someone is showing or referring to. The phrase consists of \"dore\" (which one) repeated twice, creating a more natural and immediate reaction. This phrase is often used when you approach a child looking at toys, but it can also be used in casual conversations when someone is showing you something and you want to take a closer look. It is a typical example of immediate grammar, as the verb is omitted but the meaning is clearly understood from context.",
     "notes-ja": "「どれどれ」は、誰かが何かを見せているときに、それを確認しようとする即時的な反応を示す表現です。「どれ」は「which one」を意味し、これを繰り返すことで、より自然なリアルタイムの反応になります。この表現では動詞が省略されていますが、文脈によって「見せて」「確認しよう」という意図が明確に伝わります。例えば、子供が何かを見せようとしているときに親しみを持って使うこともできますが、大人同士の会話でも「どれどれ？」と言って何かを確認するときに使えます。"
   },
@@ -9252,7 +9275,7 @@
     "expression-en": "Look at this",
     "img-sub": "mitemitekore01.png",
     "example-ja": "A「(見:み)て(見:み)て、これ」B「(何:なに)？」",
-    "example-en": "A: \"Look at this.\" B: \"What?\"",
+    "example-en": "A: Look at this. B: What?",
     "notes-en": "\"Mite mite, kore\" is an expression used to draw someone's attention to something. \"Mite\" is the te-form of the verb \"miru\" (to see), and \"kore\" means \"this.\" This expression is used when you want to show someone something or share something interesting. Japanese is an SOV language, meaning that verbs are usually placed at the end in formal speech. However, in casual conversation, you can say \"Mite! Kore!\" to create a sense of immediacy or excitement. You can say the key word first, depending on what you want to emphasize.",
     "notes-ja": "「見て見て、これ」は、誰かの注意を何かに向けさせるための表現です。「見て」は動詞「見る」（to see）のテ形で、「これ」は「this」を意味します。この表現は、誰かに何かを見せたいときや、興味深いものを共有したいときに使われます。日本語はSOV（主語-目的語-動詞）言語なので、動詞を文末に置くのが基本ですが、カジュアルな会話では「見て！これ！」のように語順を変えることで、臨場感や驚きを表現できます。言いたい語を先に言うことで、強調したい部分を目立たせることができます。"
   },
@@ -9267,7 +9290,7 @@
     "expression-en": "Where are you?",
     "img-sub": "dokoniiruno01.png",
     "example-ja": "A「(今:いま)、どこにいるの？」B「(図書館:としょかん)にいるよ」",
-    "example-en": "A: \"Where are you now?\" B: \"I'm at the library.\"",
+    "example-en": "A: Where are you now? B: I'm at the library.",
     "notes-en": "\"Doko ni iru no\" is a phrase used to ask where someone is. The word \"doko\" means \"where,\" \"ni\" is a particle that indicates the location, \"iru\" is the verb \"iru\" (to be) in the present tense, and \"no\" is a particle that seeks confirmation. This phrase is used when asking someone's location over the phone or when looking for someone.",
     "notes-ja": "「どこにいるの」は、誰かがどこにいるか尋ねるためのフレーズです。「どこ」は「where」を、「に」は場所を示す助詞を、「いる」は現在形の動詞「いる」（to be）を、「の」は確認を求める助詞を意味します。これは電話で相手の場所を尋ねるときや、誰かを探しているときに使われます。"
   },
@@ -9282,7 +9305,7 @@
     "expression-en": "would have done",
     "img-sub": "noni01.png",
     "example-ja": "A「え、(歩:ある)いて来たの？」B「うん」A「(電話:でんわ)してくれれば、(迎:むか)えに(行:い)ったのに」",
-    "example-en": "A: \"Huh? You walked here?\" B: \"Yeah.\" A: \"If you had called me, I would've picked you up.\"",
+    "example-en": "A: Huh? You walked here? B: Yeah. A: If you had called me, I would've picked you up.",
     "notes-en": "\"Noni\" is a conjunction used to express regret or disappointment about something that did not happen. The word \"noni\" means \"although\" or \"despite.\" The verb before \"noni\" is in the past tense, and the verb after it is in the past or conditional form. In Japanese, you can easily express a hypothetical situation with just one word, \"noni.\" On the other hand, in English, you need a complex grammar structure like \"would have done.\" Considering this point, Japanese is more intuitive and easier to use.",
     "notes-ja": "「のに」は、起こらなかったことに対する後悔や失望を表現するための接続詞です。「のに」は「although」や「despite」を意味します。「のに」の前の動詞は過去形で、後の動詞は過去形や仮定形です。「～たのに」は日本語では たった一語「のに」 を付けるだけで、仮定のニュアンスを簡単に表現できます。一方で、英語では \"would have done\" という複雑な文法構造が必要になります。この点を考えると、日本語のほうが直感的で使いやすいとも言えますね。"
   },
@@ -9297,7 +9320,7 @@
     "expression-en": "No way for it",
     "img-sub": "shikataganai01.png",
     "example-ja": "A「(雨:あめ)、(降:ふ)ってきた」B「(仕方:しかた)がないね」",
-    "example-en": "A: \"It's raining.\" B: \"No way for it.\"",
+    "example-en": "A: It's raining. B: No way for it.",
     "notes-en": "\"Shikata ga nai\" is a phrase used to express that there is no way to change a situation or that something cannot be helped. The word \"shikata\" means \"way\" or \"method,\" \"ga\" is a particle that indicates the subject of the sentence, and \"nai\" is the negative form of the verb \"aru\" (to be). This phrase is used to express that you have no choice but to accept a situation as it is. It is often used when something happens that is beyond your control, such as bad weather or a delay in public transportation.",
     "notes-ja": "「仕方がない」は、状況を変える方法がないことや、どうしようもないことを表現するためのフレーズです。「仕方」は「way」や「method」を、「が」は文の主語を示す助詞、「ない」は動詞「ある」（to be）の否定形です。このフレーズは、状況を受け入れるしかないことを表現するために使われます。コントロールできないことが起こったとき、例えば悪天候や公共交通機関の遅延など、よく使われます。"
   },
@@ -9312,7 +9335,7 @@
     "expression-en": "I thought that you wouldn't come.",
     "img-sub": "konainokatoomottayo01.png",
     "example-ja": "A「(遅:おそ)くなって、(ごめん)」B「(来:こ)ないのかと(思:おも)ったよ」",
-    "example-en": "A: \"I'm sorry I'm late.\" B: \"I thought that you wouldn't come.\"",
+    "example-en": "A: I'm sorry I'm late. B: I thought that you wouldn't come.",
     "notes-en": "\"Konai no ka to omottayo\" is a phrase used to express that you thought something would not happen, but it did. The word \"konai\" is the negative form of the verb \"kuru\" (to come), \"no\" is a particle that indicates the subject of the sentence, \"ka\" is a question particle, \"to\" is a conjunction that means \"and,\" and \"omottayo\" is the past tense of the verb \"omou\" (to think). Expressions of time when something happened differently from what you thought may vary depending on the language, so be sure to check.",
     "notes-ja": "「来ないのかと思ったよ」は、何かが起こらないと思っていたが、実際に起こったことを表現するためのフレーズです。「来ない」は動詞「来る」（to come）の否定形、「の」は文の主語を示す助詞、「か」は疑問を示す助詞、「と」は接続詞で「and」を意味し、「思ったよ」は動詞「思う」（to think）の過去形です。この例のように思っていたことと違う結果になったときの時間に関する表現は、言語によって異なることがあるので、確認しておきましょう。"
   },
@@ -9327,7 +9350,7 @@
     "expression-en": "You know what?",
     "img-sub": "anone01.png",
     "example-ja": "A「あのね、ママ、(大好:だいす)きだよ」B「ありがとう」",
-    "example-en": "A: \"You know what, Mom, I love you so much.\" B: \"Thank you.\"",
+    "example-en": "A: You know what, Mom, I love you so much. B: Thank you.",
     "notes-en": "\"Ano ne\" is a phrase used to start a conversation or emphasize what you want to say. \"Ano\" is similar to \"that\" or \"um,\" and \"ne\" is a particle that seeks agreement or understanding. \"suki\" means \"love\" or \"like.\" \"daisuki\" means \"love so much.\" This phrase is used to draw attention to what you want to say. It is often used when you want to share something important or express your feelings. It is also used when you want to talk about something difficult.",
     "notes-ja": "「あのね」は、会話を始めるときや、言いたいことを強調するためのフレーズです。「あの」は「that」や「um」を、「ね」は同意や理解を求める助詞です。「好き」は「love」や「like」を、「大好き」は「love so much」を意味します。このフレーズは、言いたいことに注意を引くために使われます。大切なことを共有したり、気持ちを表現したりしたいときによく使われます。難しい話をしたいときにも使われます。"
   },
@@ -9342,7 +9365,7 @@
     "expression-en": "I'll leave it to you",
     "img-sub": "omakaseshimasu01.png",
     "example-ja": "A「どこで(晩:ばん)ご(飯:はん)、(食:た)べる？」B「お(任:まか)せします」",
-    "example-en": "A: \"Where do you want to eat dinner?\" B: \"I'll leave it to you.\"",
+    "example-en": "A: Where do you want to eat dinner? B: I'll leave it to you.",
     "notes-en": "\"Omakase shimasu\" is a phrase used to leave a decision or task to someone else. The word \"omakase\" means \"entrust\" or \"leave it to you,\" and \"shimasu\" is the polite form of the verb \"suru\" (to do). This phrase is a set expression and is used politely even among friends and family, similar to phrases like \"good night\" and \"itadakimasu.\" Saying \"makaseru\" sounds a bit rough or condescending. It might be used in tense situations, such as during a sports game when a player says, \"I'll leave it to you\" before a penalty kick in soccer. \"Omakase\" also has another meaning: it refers to leaving the menu selection to the chef at a sushi restaurant.",
     "notes-ja": "「お任せします」は、決定を他の人に委ねるときに使うフレーズです。「お任せ」は「entrust」や「leave it to you」という意味があり、「します」は動詞「する」（to do）の丁寧形です。このフレーズは決まり文句として、友だちや家族との関係でも「お休みなさい」や「いただきます」と同じように丁寧な表現のまま使います。「任せる」と言うと、やや乱暴な印象や上から目線のニュアンスがあります。使うとすれば、例えばサッカーの試合でペナルティーキックを任せる場面など、緊張感のある状況で「おまえに任せる」と言うことが考えられます。また、「お任せ」には別の意味もあります。寿司屋で料理長にメニューの選択を任せることを指します。"
   },
@@ -9372,7 +9395,7 @@
     "expression-en": "I can't believe it",
     "img-sub": "shinjirarenai01.png",
     "example-ja": "A「お(待:ま)たせ」B「(信:しん)じられない。1(時間:じかん)も(遅:おく)れて」",
-    "example-en": "A: \"Sorry to keep you waiting.\" B: \"I can't believe it. You're an hour late.\"",
+    "example-en": "A: Sorry to keep you waiting. B: I can't believe it. You're an hour late.",
     "notes-en": "\"Shinjirarenai\" is a phrase used to express disbelief or surprise. The word \"shinjirarenai\" is the negative potential form of the verb \"shinjiru\" (to believe). The negative potential form is used to express that something is impossible or difficult to do. This phrase is used to express that you are surprised or shocked by something that is hard to believe.",
     "notes-ja": "「信じられない」は、不信や驚きを表現するためのフレーズです。「信じられない」は動詞「信じる」（to believe）の否定可能形です。否定可能形は、何かができないか、難しいことを表現するために使われます。このフレーズは、信じがたいことに驚いたりショックを受けたりすることを表現するために使われます。"
   },
@@ -9387,7 +9410,7 @@
     "expression-en": "I'm into it",
     "img-sub": "muchuudesu01.png",
     "example-ja": "A「(最近:さいきん)、(何:なに)に(夢中:むちゅう)？」B「(読書:どくしょ)に(夢中:むちゅう)です」",
-    "example-en": "A: \"What are you into lately?\" B: \"I'm into reading.\"",
+    "example-en": "A: What are you into lately? B: I'm into reading.",
     "notes-en": "\"Muchuu\" is a noun that means \"absorption\" or \"obsession.\" The particle \"ni\" indicates the object of the action, and \"desu\" is the polite form of the copula \"da\" (to be). This phrase is used to express that you are absorbed in something and have a strong interest in it. Saying \"I'm into reading\" can give the impression that you are eager to learn. Manga is also one of the things you can read.",
     "notes-ja": "「夢中になっています」は、「absorbed in」や「obsessed with」を意味する名詞「夢中」に、「に」は動作の対象を示す助詞、「です」は丁寧形の判定詞「だ」（to be）です。このフレーズは、何かに夢中であり、非常に興味を持っていることを表現するために使われます。だいたい「読書に夢中です」と言っておけば、勉強熱心な印象を与えることができます。マンガも読書の一つです。"
   },
@@ -9402,7 +9425,7 @@
     "expression-en": "I'm sorry to hear that",
     "img-sub": "okinodoku01.png",
     "example-ja": "A「(昨日:きのう)、(メガネ:めがね)、なくした」B「それは、お(気:き)の(毒:どく)さま。で、(見:み)つかった？」",
-    "example-en": "A: \"I lost my glasses yesterday.\" B: \"I'm sorry to hear that. Did you find them?\"",
+    "example-en": "A: I lost my glasses yesterday. B: I'm sorry to hear that. Did you find them?",
     "notes-en": "\"O-ki no doku sama\" is an expression used to show sympathy when someone has experienced an unfortunate event. \"O-ki\" is a polite prefix with \"ki\" meaning \"heart\" or \"mind.\" \"No\" is a possessive particle, \"doku\" means \"poison\" or \"misfortune,\" and \"sama\" is an honorific suffix.",
     "notes-ja": "「お気の毒さま」は、誰かが不運な出来事に遭ったときに同情を示すフレーズです。「お気」は丁寧な接頭辞で、「気」は「心」や「気持ち」を意味します。「の」は所有を示す助詞、「毒」は「毒」や「不運」を意味し、「さま」は敬意を示す接尾辞です。"
   },
@@ -9417,7 +9440,7 @@
     "expression-en": "Kinda like a...",
     "img-sub": "mitaina01.png",
     "example-ja": "A「(懐:なつ)かしい(気持:きも)ちになるよね」B「うん、(懐かしい:なつかしい)けど、(ワクワク:わくわく)する、みたいな」",
-    "example-en": "A: \"It makes me feel nostalgic.\" B: \"Yeah, it's kind a like... nostalgic but also exciting.\"",
+    "example-en": "A: It makes me feel nostalgic. B: Yeah, it's kind a like... nostalgic but also exciting.",
     "notes-en": "\"Mitai na\" is a phrase used when you want to express that something is similar to something else but cannot find the exact word to describe it. \"Mitai\" means \"like\" or \"similar to,\" and \"na\" is a particle that connects it to a noun. This phrase allows you to express similarity in an informal and slightly ambiguous way, without making a direct statement. In Japanese, \"...mitai na...\" is often used when you want to convey resemblance without giving a precise explanation. It is also common to blur the sentence ending with phrases like \"...mitai na kanji\" (like this feeling) or \"...mitai na mono\" (like this thing).",
     "notes-ja": "「みたいな」は、何かが他の何かに似ていることを表現するフレーズですが、多くの場合、適切な語句が見つからないときや、直接的な表現を避けたいときに使われます。「みたい」は「like」や「similar to」を意味し、「な」は名詞と接続するための助詞です。このフレーズを使うことで、類似性を曖昧に表現することができ、はっきりと断定せずに伝えることができます。日本語の「...みたいな...」は、具体的な説明を避けつつ何かに似ていることを伝えるときによく使われ、やや曖昧なニュアンスを含んでいます。また、「～みたいな感じ」「～みたいなもの」などの表現を用いることで、語尾をぼかすこともできます。",
     "idea notes": "「みたいな」を表す画像を作るとしたら、1.吹き出しの会話シーン：「A: 懐かしい気持ちになるよね」「B: うん、懐かしいけど、ワクワクする、みたいな」と言っているキャラクター。ぼんやりした輪郭のイラスト：「A = B」ではなく、「A ≈ B」のように、似ているけど完全には一致しないことを表現ふわっとした雰囲気の手書き風文字：「...みたいな？」とちょっと考えながら話している感じ。英語と日本語の対比：「kind a like a...」と「みたいな」を並べて書いたシンプルなデザインなど。"
@@ -9433,7 +9456,7 @@
     "expression-en": "Younger brother",
     "img-sub": "otoutosan01.png",
     "example-ja": "A「(弟:おとうと)さん、(確:たし)かお(医者:いしゃ)さんでしたよね？」B「ええ、(弟:おとうと)は(今:いま)、NPO(法人:ほうじん)で(働:はたら)いていますよ」",
-    "example-en": "A: \"Your younger brother was a doctor, wasn't he?\" B: \"Yes, my younger brother is working for an NPO now.\"",
+    "example-en": "A: Your younger brother was a doctor, wasn't he? B: Yes, my younger brother is working for an NPO now.",
     "notes-en": "\"Otoutosan\" is a polite way to refer to someone else's younger brother. When referring to your own younger brother in conversation, you should use \"otouto.\" You cannot refer to your own younger brother as either \"otoutosan\" or just \"otouto\" when addressing him directly, you should call him by his name. This example confirms that the other person's younger brother was once a doctor and recalls that fact. \"Deshita\" is the past tense of \"desu,\" but it is used to confirm something you knew in the past. It does not mean that the younger brother is no longer a doctor.",
     "notes-ja": "一般的に「弟さん」は、他人の弟を丁寧に指すことばです。自分の弟について話すときは「弟」を使います。また、自分の弟を直接呼ぶときには、「弟さん」や「弟」のどちらも使えません。名前で呼びましょう。この例文は、相手の弟さんが医者だということをかつて聞き、それを思い出したことを確認しています。「お医者さんでした」の「でした」は「です」の過去形ですが、これは過去に知ったことを確認するときに使う表現です。弟さんがもう医者ではないということではありません。"
   },
@@ -9448,7 +9471,7 @@
     "expression-en": "Older sister",
     "img-sub": "oneesan01.png",
     "example-ja": "A「(お姉:ねえ)さん、(何:なに)、(飲:の)んでるの？」B「(コーヒー:こーひー)」",
-    "example-en": "A: \"What are you drinking, older sister?\" B: \"Coffee.\"",
+    "example-en": "A: What are you drinking, older sister? B: Coffee.",
     "notes-en": "\"Oneesan\" is a polite way to refer to someone else's older sister. It is also used when talking to your own older sister. However, when you use it to address someone who is not your older sister, it becomes very rude.",
     "notes-ja": "一般的に「お姉さん」は、他人の姉を丁寧に呼ぶ言葉です。自分の姉に話しかけるときに使います。あなたのお姉さんでもない女の人に呼びかけるときは、非常に下品なことば遣いになります。"
   },
@@ -9463,7 +9486,7 @@
     "expression-en": "Father or Sir",
     "img-sub": "otousan01.png",
     "example-ja": "A「ちょっと、そこの(お父:とう)さん、(節税:せつぜい)してますか？」B「ええ、してますよ」",
-    "example-en": "A: \"Excuse me, sir, are you doing tax planning?\" B: \"Yes, I am.\"",
+    "example-en": "A: Excuse me, sir, are you doing tax planning? B: Yes, I am.",
     "notes-en": "\"Otousan\" is a polite way to refer to someone else's father. It is also used when talking to your own father. However, in this case, it is a word used to address a middle-aged man passing by, and it is not known whether he is really someone's father.",
     "notes-ja": "一般的に「おとうさん」は、他人の父親を丁寧に呼ぶ言葉です。自分の父親に話しかけるときにも使います。しかし、この場合は、通りがかりの中年男性に呼びかけるときのことばで、その人が本当に誰かの父親であるかどうかはわかりません。"
   },
@@ -9478,7 +9501,7 @@
     "expression-en": "How come it's not good?",
     "img-sub": "doushitedamenano01.png",
     "example-ja": "A「これしちゃだめ」B「どうしてだめなの？」",
-    "example-en": "A: \"Don't do this.\" B: \"Why not?\"",
+    "example-en": "A: Don't do this. B: Why not?",
     "notes-en": "\"Doushite dame na no?\" is a phrase used to ask why something is not good or why something is not allowed. The word \"doushite\" means \"why,\" \"dame\" means \"no good\" or \"not allowed,\" \"na\" is a particle that indicates an adjective, and \"no\" is a particle that indicates the reason. This phrase is used to ask why something is not good or why something is not allowed. Of course, you can also use just \"doushite?\".",
     "notes-ja": "「どうしてだめなの？」は、何かがよくない理由や何かが許されない理由を尋ねるためのフレーズです。「どうして」は「why」を、「だめ」は「no good」や「not allowed」を、「な」は形容詞を示す助詞、「の」は理由を示す助詞です。このフレーズは、何かがよくない理由や何かが許されない理由を尋ねるために使われます。もちろん、「どうして？」だけでも使えます。"
   },
@@ -9493,7 +9516,7 @@
     "expression-en": "What happened?",
     "img-sub": "doukashitano01.png",
     "example-ja": "A「(急:きゅう)に(顔色:かおいろ)が(悪:わる)くなったね。どうかしたの？」B「(うん)、(頭:あたま)が(痛:いた)いの」",
-    "example-en": "A: \"You suddenly look pale. What happened?\" B: \"Yes, I have a headache.\"",
+    "example-en": "A: You suddenly look pale. What happened? B: Yes, I have a headache.",
     "notes-en": "\"Douka shita no?\" is a phrase used to ask someone what happened when you notice a change in their appearance or behavior. The word \"doukashita\" means \"what happened\" or \"what's wrong,\" \"shita\" is the past tense of the verb \"suru\" (to do). The particle \"no\" has various meanings, but here it is explaining the reason. It can also be used at the end of a sentence to ask a question or give a reason.",
     "notes-ja": "「どうかしたの？」は、誰かの外見や行動の変化に気づいたときに、何が起こったのか尋ねるためのフレーズです。「どうかした」は「what happened」や「what's wrong」を、「した」は動詞「する」（to do）の過去形です。「の」はいろいろな意味があるのですが、ここでは理由を述べています。他にも文末で使うと疑問や理由を尋ねる文が表現できます。"
   },
@@ -9508,7 +9531,7 @@
     "expression-en": "I can't get through",
     "img-sub": "tsunagaranai01.png",
     "example-ja": "A「(電話:でんわ)、(繋:つな)がらない」B「(携帯:けいたい)、(電池:でんち)、(切:き)れてるかも」",
-    "example-en": "A: \"I can't get through on the phone.\" B: \"Your cell phone battery may be dead.\"",
+    "example-en": "A: I can't get through on the phone. B: Your cell phone battery may be dead.",
     "notes-en": "\"Tsunagaranai\" is a phrase used to indicate that you cannot connect to someone by phone or email. The word \"denwa\" means \"phone,\" \"tsunagaranai\" is the negative form of the verb \"tsunagaru\" (to connect), \"keitai\" means \"cell phone\" or \"mobile phone,\" \"denchi\" means \"battery,\" and \"kireteru\" is the present state of the verb \"kireru\" (to be cut off). \"...te iru\" is a construction that indicates the current state of something.",
     "notes-ja": "「つながらない」は、電話やメールで誰かと連絡が取れないことを示すためのフレーズです。「電話」は「phone」を、「つながらない」は自動詞「つながる」（to connect）の否定形、「携帯」は「cell phone」や「mobile phone」を、「電池」は「battery」を、「切れてる」は自動詞「切れる」（to be cut off）の現在の状況を示す「...ている」の構文です。"
   },
@@ -9523,7 +9546,7 @@
     "expression-en": "I have allergies",
     "img-sub": "arerugii01.png",
     "example-ja": "A「(花粉:かふん)、(大丈夫:だいじょうぶ)？」B「ちょっと、(アレルギー:あれるぎー)があって、(目:め)が(痒:かゆ)くて」",
-    "example-en": "A: \"Are you okay with pollen?\" B: \"I have allergies, so my eyes are itchy.\"",
+    "example-en": "A: Are you okay with pollen? B: I have allergies, so my eyes are itchy.",
     "notes-en": "\"Kafun\" means \"pollen\" and \"arerugii\" means \"allergy.\" The word \"daijoubu\" means \"okay\" or \"fine.\" The word \"me\" means \"eye\" and \"kayui\" means \"itchy.\" The phrase \"arerugii ga arimasu\" is used to indicate that someone has allergies. The word \"ga\" is a particle that indicates the subject of the sentence and \"arimasu\" is the polite form of the verb \"aru\" (to have). In Japan, when spring comes, cedar pollen flies around, and many people have allergy symptoms. This condition is called \"kafunshou.\"",
     "notes-ja": "「花粉」は「pollen」を、「アレルギー」は「allergy」を意味します。「大丈夫」は「okay」や「fine」、「目」は「eye」、「かゆい」は「itchy」という意味です。「アレルギーがあります」は、アレルギーを持っていることを示すためのフレーズです。日本では春先になると杉の花粉が飛び交い、アレルギー症状が出る人が多いです。この症状のことを「花粉症」といいます。"
   },
@@ -9538,7 +9561,7 @@
     "expression-en": "Just now, it's done.",
     "img-sub": "choudoimadekitatokoro01.png",
     "example-ja": "A「(何:なに)、(作:つく)ってるの？」B「ちょうど(今:いま)、(カレー:かれー)うどん、できたところ」",
-    "example-en": "A: \"What are you making?\" B: \"Just now, I finished making curry udon.\"",
+    "example-en": "A: What are you making? B: Just now, I finished making curry udon.",
     "notes-en": "\"Choudo ima, dekita tokoro\" is a phrase used to indicate that something has just been completed. The word \"choudo\" means \"just\" or \"exactly,\" \"ima\" means \"now,\" \"dekita\" is the past tense of the verb \"dekiru\" (to complete cooking or making), and \"tokoro\" means \"place\" or \"point.\" This phrase is used to indicate that something has just been completed. It means that it is a very good timing.",
     "notes-ja": "「ちょうど今、出来たところ」は、何かがちょうど完成したことを示すためのフレーズです。「ちょうど」は「just」や「exactly」を、「今」は「now」を、「出来た」は動詞「できる」（to complete cooking or making）の過去形、「ところ」は「place」や「point」を意味します。このフレーズは、何かがちょうど完成したことを示すために使われます。とてもよいタイミングであることを意味します。"
   },
@@ -9553,7 +9576,7 @@
     "expression-en": "From now on",
     "img-sub": "korekara01.png",
     "example-ja": "A「(仕事:しごと)、(終:お)わった？」B「うん、これから、(友達:ともだち)と(食事:しょくじ)」",
-    "example-en": "A: \"Is work over?\" B: \"Yes, from now on, I'm going to have dinner with my friends.\"",
+    "example-en": "A: Is work over? B: Yes, from now on, I'm going to have dinner with my friends.",
     "notes-en": "\"Kore kara\" means \"from now on\" and you can use it to indicate that something will happen in the future. The word \"kore\" means \"this\" and \"kara\" is a particle that indicates the beginning of an action or event. Many people know that \"kore\" means \"this,\" but \"kore\" often means \"now\" in conversation. In writing, it can also be used to mean \"in the future\".",
     "notes-ja": "「これから」は、今後何かが起こることを示すためのフレーズです。「これ」は「this」を、「から」は行動や出来事の始まりを示す助詞です。「これ」は「this」の意味を知っている人は多いと思いますが、会話では「これから」が「今から」の意味で使われることが多いのです。文章でも「将来」という意味で使われることもあります。"
   },
@@ -9573,7 +9596,7 @@
 
     "img-sub": "kuwashikuhakono01.png",
     "example-ja": "A「これ、(プレゼント:ぷれぜんと)？」B「ええ、(詳:くわ)しくは、この(曲:きょく)のあと」",
-    "example-en": "A: \"Is this a present?\" B: \"Yes, let me explain this in detail after this song.\"",
+    "example-en": "A: Is this a present? B: Yes, let me explain this in detail after this song.",
     "notes-en": "\"Kuwashiku ha, kono kyoku no ato\" is used to indicate that you will explain something in detail after something else. The word \"kuwashiku\" means \"in detail,\" \"ha\" is a particle that indicates the topic of the sentence, \"kono\" means \"this,\" \"kyoku\" means \"song,\" and \"ato\" means \"after.\" This expression omits the verb at the end, making it concise yet understandable in context. Japanese allows flexible word order and omission in spoken language.",
     "notes-ja": "「詳しくは、この曲の後」は、何かの後に詳しく説明することを示すために使われる表現です。この表現では、通常の文であれば「詳しくは、この曲が終わった後にご説明いたします。」のように動詞が入るはずですが、ここでは動詞が省略されています。それでも文脈から意味が伝わるのは、即時文法の特徴です。言語は、文法を厳密に守らなくても、話し手の意図を伝えることができます。"
   },
@@ -9588,7 +9611,7 @@
     "expression-en": "That's good...and so much.",
     "img-sub": "iidesunesugoku01.png",
     "example-ja": "A「この(絵:え)、どう」B「いいですね、すごく」",
-    "example-en": "A: \"How about this painting?\" B: \"That's good...and so much.\"",
+    "example-en": "A: How about this painting? B: That's good...and so much.",
     "notes-en": "\"Ii desu ne, sugoku\" is a phrase used to express that something is good or impressive. The word \"ii\" means \"good\" or \"nice,\" \"desu\" is the polite form of the copula \"da\" (to be), \"ne\" is a sentence-ending particle that seeks agreement or confirmation, and \"sugoku\" is an adverb that means \"so much\" or \"very.\" You should not use this word order when writing. This phrase is suitable for emphasizing something very impressive and wonderful.",
     "notes-ja": "「いいですね、すごく」は、何かが良いか印象的であることを表現するためのフレーズです。「いい」は「good」や「nice」を、「です」は丁寧形の判定詞「だ」（to be）、「ね」は同意や確認を求める文末の助詞、「すごく」は副詞で「so much」や「very」を意味します。このフレーズは、話しているときに、まず「いい」ということを言って、その後、それが「すごい」ことを言う形式です。書くときにはこの語順は使いません。とても印象的で素晴しいことを強調して表現するときに適しています。"
   },
@@ -9603,7 +9626,7 @@
     "expression-en": "Even if you do it",
     "img-sub": "shitatoshitemo01.png",
     "example-ja": "A「(一生懸命:いっしょうけんめい)、(勉強:べんきょう)したとしても、(合格:ごうかく)できなんじゃ意味がないよ」B「やってもみないのにそんなことわからないよ」",
-    "example-en": "A: \"Even if you study hard, it's meaningless if you can't pass.\" B: \"You don't know that if you don't try.\"",
+    "example-en": "A: Even if you study hard, it's meaningless if you can't pass. B: You don't know that if you don't try.",
     "notes-en": "\"Shita to shite mo\" is a phrase used to express a hypothetical situation or condition. The word \"shita\" is the past tense of the verb \"suru\" (to do), \"to\" is a particle that indicates the condition, and \"shite mo\" is a phrase that means \"even if.\" This phrase is used to express that something is possible, but unlikely to happen.",
     "notes-ja": "「したとしても」は、仮定の状況や条件を表現するためのフレーズです。「した」は動詞「する」（to do）の過去形、「と」は条件を示す助詞、「しても」は「even if」を意味するフレーズです。このフレーズは、実現可能性が低いわけではないが、仮に起こり得ることを表現するために使われます。"
   },
@@ -9618,7 +9641,7 @@
     "expression-en": "I finally got used to it",
     "img-sub": "youyakunaremashita01.png",
     "example-ja": "A「(日本:にほん)の(生活:せいかつ)、(慣:な)れましたか？」B「うん、(ようやく)、(慣:な)れました」",
-    "example-en": "A: \"Have you gotten used to life in Japan?\" B: \"Yes, I finally got used to it.\"",
+    "example-en": "A: Have you gotten used to life in Japan? B: Yes, I finally got used to it.",
     "notes-en": "\"Youyaku naremashita\" is a phrase used to express that someone has finally gotten used to something. The word \"youyaku\" is an adverb that means \"it took a long time but finally...\" and \"naremashita\" is the past tense of the verb \"nareru\" (to be accustomed to).",
     "notes-ja": "「ようやく慣れました」は、誰かがついに何かに慣れたことを表現するためのフレーズです。「ようやく」は副詞で、「it took long time but finally...」という意味です。「慣れました」は動詞「慣れる」（to be accustomed to）の過去形です。"
   },
@@ -9633,7 +9656,7 @@
     "expression-en": "This time, it's special/exceptional",
     "img-sub": "konkaitokubetsune01.png",
     "example-ja": "A「ママ、もう一つ、食べてもいい？」B「(今回:こんかい)、(特別:とくべつ)ね」",
-    "example-en": "A: \"Mom, can I have one more?\" B: \"This time, it's special.\"",
+    "example-en": "A: Mom, can I have one more? B: This time, it's special.",
     "notes-en": "\"Konkai, tokubetsu ne\" is a phrase used to indicate that something is special or exceptional this time. The word \"konkai\" means \"this time,\" \"tokubetsu\" means \"special\" or \"exceptional,\" and \"ne\" is a sentence-ending particle that seeks agreement or confirmation. This expression acknowledges that the current situation is an exceptional measure.",
     "notes-ja": "「今回、特別ね」は、今回のことが特別であることを示すためのフレーズです。「今回」は「this time」を、「特別」は「今回だけ」や「例外」を、「ね」は同意や確認を求める文末の助詞です。この表現は、今回限りの例外的措置であることを認める表現になります。"
   },
@@ -9648,7 +9671,7 @@
     "expression-en": "Let me think about it for a moment.",
     "img-sub": "chottokangaesasetekudasai01.png",
     "example-ja": "A「(今:いま)、(決:き)めるのは(早:はや)いですか？」B「ちょっと(考:かんが)えさせてください」",
-    "example-en": "A: \"Is it too early to decide now?\" B: \"Let me think about it for a moment.\"",
+    "example-en": "A: Is it too early to decide now? B: Let me think about it for a moment.",
     "notes-en": "\"Chotto kangaesasete kudasai\" is a phrase used to ask someone to give you a moment to think about something. The word \"chotto\" means \"a little\" or \"a bit,\" \"kangaesasete\" is the causative form of the verb \"kangaeru\" (to think), and \"kudasai\" is a polite request form of the verb \"kureru\" (to give). When asking someone to give you time to think about something, use the causative form of the verb. This is similar to many languages.",
     "notes-ja": "「ちょっと考えさせてください」は、誰かに何かを考える時間を与えてもらうように頼むためのフレーズです。「ちょっと」は「a little」や「a bit」を、「考えさせて」は動詞「考える」（to think）の使役形で、「ください」は動詞「くれる」（to give）の丁寧な依頼形です。自分が何かしたいときにお願いするときにはこのように使役の形を使います。多くの言語で同様の表現があると思います。"
   },
@@ -9693,7 +9716,7 @@
     "expression-en": "I thought you weren't coming",
     "img-sub": "konainokatoomotta01.png",
     "example-ja": "A「(遅:おそ)いね」B「ごめん、(道:みち)が(混:こ)んでたから、(遅:おく)れちゃった」A「(ああ)、(来:こ)ないのかと(思:おも)った」",
-    "example-en": "A: \"You're late.\" B: \"Sorry, the road was congested, so I'm late.\" A: \"Oh, I thought you weren't coming.\"",
+    "example-en": "A: You're late. B: Sorry, the road was congested, so I'm late. A: Oh, I thought you weren't coming.",
     "notes-en": "\"Konai no ka to omotta\" is a phrase used to express that someone thought someone else might not come. The word \"konai\" is the negative form of the verb \"kuru\" (to come), \"no\" is a particle that indicates the subject of the sentence, \"ka\" is a particle that indicates a question, \"to\" is a particle that indicates the speaker's thoughts, and \"omotta\" is the past tense of the verb \"omou\" (to think).",
     "notes-ja": "「来ないのかと思った」は、誰かが来ないかもしれないと思ったことを表現するためのフレーズです。「来ない」は動詞「来る」（to come）の否定形、「の」は文の主語を示す助詞、「か」は疑問を示す助詞、「と」は話者の思考を示す助詞、「思った」は動詞「思う」（to think）の過去形です。"
   },
@@ -9723,7 +9746,7 @@
     "expression-en": "I have a class today",
     "img-sub": "kyouwajugyougaaru01.png",
     "example-ja": "A「(今日:きょう)、(授業:じゅぎょう)ある？」B「うん、(午後:ごご)から」",
-    "example-en": "A: \"Do you have a class today?\" B: \"Yes, in the afternoon.\"",
+    "example-en": "A: Do you have a class today? B: Yes, in the afternoon.",
     "notes-en": "\"Kyou wa jugyou ga aru\" is a phrase used to indicate that someone has a class or lesson on a particular day. The word \"kyou\" means \"today,\" \"wa\" is a particle that indicates the subject of the sentence, \"jugyou\" means \"class\" or \"lesson,\" \"ga\" is a particle that something is specific, and \"aru\" is a phrase that means \"to have.\"",
     "notes-ja": "「今日は授業がある」は、特定の日に誰かが授業やレッスンがあることを示すためのフレーズです。「今日」は「today」を、「は」はそれが特定であることを意味する助詞、「授業」は「class」や「lesson」を、「がある」は「to have」を意味するフレーズです。"
   },
@@ -9738,7 +9761,7 @@
     "expression-en": "It could happen.",
     "img-sub": "sonnakotomoaruyo01.png",
     "example-ja": "A「(実験:じっけん)、(失敗:しっぱい)」B「そんなこともあるよ」",
-    "example-en": "A: \"The experiment failed.\" B: \"It could happen.\"",
+    "example-en": "A: The experiment failed. B: It could happen.",
     "notes-en": "\"Sonna koto mo aru yo\" is a phrase used to express that something unwanted or unfortunate could happen in daily life and is used to change someone's or one's own feelings. The word \"sonna\" means \"such,\" \"koto\" means \"thing,\" \"mo\" means \"also,\" \"aru\" means \"to exist,\" but in this case, it means \"could happen,\" and \"yo\" is a sentence-ending particle that provides new information.",
     "notes-ja": "「そんなこともあるよ」は、日常生活で望ましくないことや不運なことが起こる可能性があることを表現し、誰かや自分の気持ちを変えるために使われるフレーズです。「そんな」は「such」を、「こと」は「thing」を、「も」は「also」を、「ある」は動詞「ある」（to exist）ですが、この時は「起こりうる」という意味、「よ」は新しい情報を提供する文末の助詞です。"
   },
@@ -9753,7 +9776,7 @@
     "expression-en": "Can you fix this?",
     "img-sub": "sorenaoseru01.png",
     "example-ja": "A「(携帯:けいたい)、(壊:こわ)れた。これ、(直:なお)せる？」B「(直:なせ)るよ」A「(本当:ほんとう)！」B「うん、お(金:かね)を(出:だ)せば」",
-    "example-en": "A: \"My phone is broken. Is it possible to fix this?\" B: \"It can be fixed.\" A: \"Really?\" B: \"Yes, if you pay.\"",
+    "example-en": "A: My phone is broken. Is it possible to fix this? B: It can be fixed. A: Really? B: Yes, if you pay.",
     "notes-en": "\"Naoru\" is a verb that means \"to repair\" or \"to fix.\" The word \"keitai\" means \"cell phone\" or \"mobile phone.\" The word \"kowareta\" is the past tense of the verb \"kowareru\" (to break). The word \"kore\" means \"this,\" and the word \"naoseru\" is the potential form of the verb \"naosu\" (to fix). The phrase \"kore, naoseru?\" is used to ask if someone can fix something that is broken or damaged. The word \"daseba\" is the conditional form of the verb \"dasu\" (to pay).",
     "notes-ja": "「直せる」は「to repair」や「to fix」を意味する動詞です。「携帯」は「cell phone」や「mobile phone」を、「壊れた」は動詞「壊れる」（to break）の過去形です。「これ」は「this」を、「直せる」は動詞「直す」（to fix）の可能形です。「これ、直せる？」は、壊れたり損傷したものを修理できるかどうか尋ねるためのフレーズです。「出せば」は動詞「出す」（to pay）の条件形です。"
   },
@@ -9768,7 +9791,7 @@
     "expression-en": "Let's try to see it.",
     "img-sub": "choottomitemiyouyo01.png",
     "example-ja": "A「これ、(何:なに)？」B「ちょっと(見:み)てみようよ」",
-    "example-en": "A: \"What's this?\" B: \"Let's try to see it.\"",
+    "example-en": "A: What's this? B: Let's try to see it.",
     "notes-en": "\"Chotto mite miyou yo\" is a expression used to suggest trying something or looking at something. The word \"chotto\" means \"a little\" or \"a bit,\" \"mite\" is the te-form of the verb \"miru\" (to see), and \"miyou\" is the volitional form of the verb \"miru\" (to see). The word \"yo\" is a particle that emphasizes the statement.",
     "notes-ja": "「ちょっと見てみようよ」は、何かを試したり、何かを見たりすることを提案するためのフレーズです。「ちょっと」は「a little」や「a bit」を、「見て」は動詞「見る」（to see）のて形で、「見よう」は動詞「見る」（to see）の意向形です。助詞「よ」は文を強調する助詞です。"
   },
@@ -9783,7 +9806,7 @@
     "expression-en": "If you need help, let me know",
     "img-sub": "moshitetsudattehoshiikotogaattaraittene01.png",
     "example-ja": "A「もし、(手伝:てつだ)ってほしいことがあったら(言:い)ってね」B「ありがとう、(今:いま)のところ、(大丈夫:だいじょうぶ)」",
-    "example-en": "A: \"If you need help, let me know.\" B: \"Thank you, I'm good for now.\"",
+    "example-en": "A: If you need help, let me know. B: Thank you, I'm good for now.",
     "notes-en": "\"Moshi, tetsudatte hoshii koto ga attara itte ne\" is a phrase used to offer help or assistance to someone. The word \"moshi\" means \"if,\" \"tetsudatte\" is the te-form of the verb \"tetsudau\" (to help), \"verb + te hoshii\" means \"want me to do,\"",
     "notes-ja": "「もし、手伝ってほしいことがあったら言ってね」は、誰かに手助けや援助を申し出るためのフレーズです。「もし」は「if」、「手伝って」は動詞「手伝う」（to help）のて形、「てほしい」は「動詞＋てほしい」でyou want me to doという意味です。"
   },
@@ -9798,7 +9821,7 @@
     "expression-en": "Who are you waiting for?",
     "img-sub": "dareomatteiruno01.png",
     "example-ja": "A「(誰:だれ)を(待:ま)っているの？」B「(友:とも)だち」",
-    "example-en": "A: \"Who are you waiting for?\" B: \"My friend.\"",
+    "example-en": "A: Who are you waiting for? B: My friend.",
     "notes-en": "\"Dare o matte iru no?\" is a phrase used to ask who someone is waiting for. The word \"dare\" means \"who,\" \"o\" is a particle that indicates the object of the verb, \"matte iru\" is the progressive form of the verb \"matsu\" (to wait), and \"no\" is not possessive but a soft ending particle used when asking gently. In casual conversation, avoid using \"ka\" in the casual form, as it can sound rude. Use \"no\" in casual conversation to form a question, and \"desu ka\" or \"masu ka\" in formal conversation. The reason for using \"wo\" as in \"dare wo\" is to distinguish this question from asking who is waiting for whom. In context, these two relationships can be understood without using particles.",
     "notes-ja": "「誰を待っているの？」は、誰かが誰を待っているか尋ねるためのフレーズです。「誰」は「who」を、「を」は動詞の目的を示す助詞を、「待っている」は動詞「待つ」（to wait）の進行形で、「の」は所有ではなくて、柔らかく尋ねる時の終助詞です。会話でカジュアル体で「か」を使うと乱暴な問い掛けになるので使わないようにしましょう。カジュアルの会話で疑問文を作るときは「の」、フォーマルの会話で疑問文を作るときは「ですか」「ますか」が適切です。この文で「誰を」のように「を」を使う理由は、動作の主体「誰が」を尋ねる文と区別するためです。文脈からこの2つの関係がわかる場合には、助詞を使わなくても意味はわかります。"
   },
@@ -9813,7 +9836,7 @@
     "expression-en": "What a heck!",
     "img-sub": "sorenani01.png",
     "example-ja": "A「(昨日:きのう)、(彼:かれ)、(突然:とつぜん)、(辞:や)めたんだって」B「それ(何:なに)！」",
-    "example-en": "A: \"I heard he quit yesterday.\" B: \"What a heck!\"",
+    "example-en": "A: I heard he quit yesterday. B: What a heck!",
     "notes-en": "\"Sore nani!\" is a phrase used to express surprise, disbelief, or shock about something unexpected or unusual. The word \"sore\" means \"that,\" \"nani\" means \"what,\" and the exclamation mark emphasizes the speaker's strong reaction. Of course, it also means \"What is that?\" in a normal context.",
     "notes-ja": "「それ何！」は、予期せぬことや異常なことに対する驚き、不信、またはショックを表現するためのフレーズです。「それ」は「that」を、「何」は「what」を意味し、感嘆符は話者の強い反応を強調します。もちろん、同じ表現で普通に「それは何ですか」という意味でもあります。"
   },
@@ -9828,7 +9851,7 @@
     "expression-en": "Anytime is fine",
     "img-sub": "itsudemoiidesuyo01.png",
     "example-ja": "A「(明日:あした)、(会議:かいぎ)は(午後:ごご)でも(大丈夫:だいじょうぶ)ですか？」B「はい、いつでもいいですよ」",
-    "example-en": "A: \"Is it okay to have the meeting in the afternoon tomorrow?\" B: \"Yes, anytime is fine.\"",
+    "example-en": "A: Is it okay to have the meeting in the afternoon tomorrow? B: Yes, anytime is fine.",
     "notes-en": "\"Itsudemo ii desu yo\" is a phrase used to indicate that something is acceptable or convenient at any time. The word \"itsudemo\" means \"anytime\" or \"whenever,\" \"ii\" means \"good\" or \"fine,\" \"desu\" is a polite form of the copula \"da\" (to be), and \"yo\" is a particle that emphasizes the statement. ",
     "notes-ja": "「いつでもいいですよ」は、何かがいつでも受け入れられるか、都合がいいことを示すためのフレーズです。「いつでも」は「anytime」や「whenever」を、「いい」は「good」や「fine」を、「です」は丁寧形の判定詞「だ」（to be）で、「よ」は文を強調する助詞です。"
   },
@@ -9873,7 +9896,7 @@
     "expression-en": "Did you hear that?",
     "img-sub": "imanokikoeta01.png",
     "example-ja": "A「(ドア:どあ)の(音:おと)、(今:いま)の(聞:き)こえた？」B「うん、(何:なに)か(人:ひと)が(入:はい)ってきたみたい」",
-    "example-en": "A: \"Did you hear the sound of the door just now?\" B: \"Yeah, it seems like someone came in.\"",
+    "example-en": "A: Did you hear the sound of the door just now? B: Yeah, it seems like someone came in.",
     "notes-en": "\"Ima no kikoeta?\" is a phrase used to ask if someone heard a sound or noise that occurred just now. The word \"ima\" means \"now,\" \"kikoeta\" is the past tense of the verb \"kikoeru\" (to hear). The difference between \"kiku\" and \"kikoeru\" is that \"kiku\" refers to actively listening, while \"kikoeru\" refers to hearing something by chance. Since \"kikoeru\" is a phenomenon, it does not have a potential form. Therefore, the negative form is used as \"kikoenai.\"",
     "notes-ja": "「今の聞こえた？」は、ちょうど今起こった音や騒音を聞いたかどうか尋ねるためのフレーズです。「今」は「now」、「聞こえた」は動詞「聞こえる」（to hear）の過去形です。「聞く」と「聞こえる」の違いは、「聞く」は意識的に聞くことを指し、「聞こえる」は偶然聞こえることを指します。「聞こえる」は現象ですから、この動詞の可能形はありません。したがって、否定形は「聞こえない」のように使います。"
   },
@@ -9888,7 +9911,7 @@
     "expression-en": "Do you want a little?",
     "img-sub": "sukoshihoshii01.png",
     "example-ja": "A「(コーヒー:こーひー)、(少:すこ)しほしい？」B「いいえ、(大丈夫:だいじょうぶ)です」",
-    "example-en": "A: \"Do you want a little coffee?\" B: \"No, I'm good.\"",
+    "example-en": "A: Do you want a little coffee? B: No, I'm good.",
     "notes-en": "\"Sukoshi hoshii?\" is a phrase used to ask if someone wants a small amount of something, such as food, drink, or assistance. The word \"sukoshi\" means \"a little\" or \"a few,\" \"hoshii\" is the adjective form of the verb \"hoshii\" (to want).",
     "notes-ja": "「少しほしい？」は、食べ物、飲み物、または援助など、何かの少量を欲しいかどうか尋ねるためのフレーズです。「少し」は「a little」や「a few」を、「ほしい」は動詞「ほしい」（to want）の形容詞形です。"
   },
@@ -9948,7 +9971,7 @@
     "expression-en": "That's right",
     "img-sub": "sonotoori01.png",
     "example-ja": "A「つまり、(日本語:にほんご)では(主語:しゅご)を(省略:しょうりゃく)することが(多:おお)いんですね？」 B「その(通:とお)り！」",
-    "example-en": "A: \"So, in Japanese, it's common to omit the subject, isn't that right?\" B: \"That's right!\"",
+    "example-en": "A: So, in Japanese, it's common to omit the subject, isn't that right? B: That's right!",
     "notes-en": "\"Sono toori\" is not just a simple agreement but an acknowledgment that the other person's logically derived inference is correct. It is a concise and clear way to affirm their reasoning. In this sense, it differs from a simple agreement like \"Yes, that's right.\" The word \"sono\" means \"that,\" and \"toori\" means \"way\" or \"manner,\" implying correctness or accuracy.",
     "notes-ja": "「その通り」は、単なる同意ではなく、相手が論理的に導き出した正しい推論を認める表現であり、短く明確に答えられるのが特徴です。そのため、単なる同意の「ええ、そうですね」とは意味が異なります。「その」は「that」を、「通り」は「道」や「やり方」という意味で、そこから「正しいこと」「正確であること」を示します。"
   },
@@ -9963,7 +9986,7 @@
     "expression-en": "Do you want more?",
     "img-sub": "mouchottoirimasuka01.png",
     "example-ja": "A「(コーヒー:こーひー)、もうちょっと(要:い)りますか？」B「いいえ、どうも」",
-    "example-en": "A: \"Do you want more coffee?\" B: \"No, I'm good.\"",
+    "example-en": "A: Do you want more coffee? B: No, I'm good.",
     "notes-en": "\"Mou chotto irimasuka\" is a phrase used to ask if someone wants more of something, such as food, drink, or assistance. The word \"mou\" means \"more\" or \"another,\" \"chotto\" means \"a little\" or \"a bit,\" \"irimasuka\" is a polite form of the verb \"iru\" (to need or want). ",
     "notes-ja": "「もうちょっといりますか」は、食べ物、飲み物もう一つほしいかどうかを尋ねるためのフレーズです。「もう」は「more」や「another」を、「ちょっと」は「a little」や「a bit」を、「いりますか」は動詞「いる」（to need or want）の丁寧形です。"
   },
@@ -10008,7 +10031,7 @@
     "expression-en": "How was it?",
     "img-sub": "doudatta01.png",
     "example-ja": "A「(映画:えいが)、どうだった？」B「(面白:おもしろ)かったよ」",
-    "example-en": "A: \"How was the movie?\" B: \"It was interesting.\"",
+    "example-en": "A: How was the movie? B: It was interesting.",
     "notes-en": "\"Dou datta\" is a phrase used to ask about someone's experience, impression, or opinion of something. The word \"dou\" means \"how,\" \"datta\" is the past form of the verb \"da\" (to be). Such as \"dou datta\" is one of the fundamental techniques to improve your Japanese skills. It is recommended to use many short, simple phrases that can be said in one breath.",
     "notes-ja": "「どうだった」は、誰かの経験、印象、または何かについての意見を尋ねるためのフレーズです。「どう」は「how」を、「だった」は動詞「だ」（to be）の過去形です。このように短かく簡単で一息で言えるフレーズをたくさん使ってみることが上達の定石です。"
   },
@@ -10023,7 +10046,7 @@
     "expression-en": "Whose is that?",
     "img-sub": "sorehadareno01.png",
     "example-ja": "A「この(傘:かさ)、(誰:だれ)の？」B「あ、それ、(私:わたし)の」",
-    "example-en": "A: \"Whose umbrella is this?\" B: \"Oh, that's mine.\"",
+    "example-en": "A: Whose umbrella is this? B: Oh, that's mine.",
     "notes-en": "\"Sore wa dare no\" is a phrase used to ask who something belongs to or who is responsible for something. The word \"sore\" means \"that,\" \"wa\" is a particle that marks the topic of the sentence, \"dare\" means \"who,\" and \"no\" is a particle that indicates possession or association. ",
     "notes-ja": "「それは誰の」は、何かが誰のものであるか、または誰が何かに責任を持っているかを尋ねるためのフレーズです。「それ」は「that」を、「は」は文の主題を示す助詞を、「誰」は「who」を、「の」は所有や関連を示す助詞です。"
   },
@@ -10053,7 +10076,7 @@
     "expression-en": "What do you think?",
     "img-sub": "douomou01.png",
     "example-ja": "A「この(問題:もんだい)、どう(思:おも)いますか？」B「(難:むずか)しいですね」",
-    "example-en": "A: \"What do you think about this problem?\" B: \"It's difficult.\"",
+    "example-en": "A: What do you think about this problem? B: It's difficult.",
     "notes-en": "\"Dou omou\" is a phrase used to ask for someone's opinion, thoughts, or feelings about a particular topic or situation. The word \"dou\" means \"how\" or \"what,\" and \"omou\" means \"to think\" or \"to feel.\" This expression is commonly used to inquire about someone's perspective, viewpoint, or reaction to a specific matter or issue. You can ask someone close to you with a short \"dou omou.\"",
     "notes-ja": "「どう思う」は、特定のトピックや状況について誰かの意見、考え、または感情を尋ねるためのフレーズです。「どう」は「how」や「what」を、「思う」は「to think」や「to feel」を意味します。この表現は、特定の問題や問題に対する誰かの視点、視点、または反応について尋ねるためによく使われます。親しい人には「どう思う」と短かく尋ねることができます。"
   },
@@ -10083,7 +10106,7 @@
     "expression-en": "In my own way",
     "img-sub": "bokuhabokunarini01.png",
     "example-ja": "A「(この問題:このもんだい)、(どう:どう)やって(解:と)く？」B「ぼくはぼくなりに(考:かんが)えてみるよ」",
-    "example-en": "A: \"How do you solve this problem?\" B: \"I'll think about it in my own way.\"",
+    "example-en": "A: How do you solve this problem? B: I'll think about it in my own way.",
     "notes-en": "\"Boku wa boku nari ni\" is a phrase used to express that one does things according to their own beliefs, values, or preferences. The word \"boku\" means \"I\" or \"me,\" \"wa\" is a particle that marks the topic of the sentence, \"nari\" is a particle that means \"in one's own way,\" and \"ni\" is a particle that indicates the method or manner of doing something. This expression is commonly used to convey that one has their own unique approach or perspective on a particular matter or situation. \"Boku\" is the meaning of \"I\" or \"me\" used. In the case of females, use \"watashi\".",
     "notes-ja": "「僕は僕なりに」は、自分の信念、価値観、または好みに従って物事を行うことを表現するためのフレーズです。「僕」は「I」や「me」を、「は」は文の主題を示す助詞を、「なり」は「in one's own way」を意味し、「に」は何かを行う方法や方法を示す助詞です。この表現は、特定の問題や状況に対する独自のアプローチや視点を持っていることを伝えるためによく使われます。「ぼく」は男性が使う「I」や「me」の意味です。女性の場合は「わたし」を使います。"
   },
@@ -10098,7 +10121,7 @@
     "expression-en": "What do you think from your standpoint?",
     "img-sub": "santekiniwadoudesuka01.png",
     "example-ja": "A「この(提案:ていあん)、(賛成:さんせい)ですか？」B「(田中:たなか)さん(的:てき)にはどうですか」",
-    "example-en": "A: \"Do you agree with this proposal?\" B: \"What do you think from your standpoint, Tanaka-san?\"",
+    "example-en": "A: Do you agree with this proposal? B: What do you think from your standpoint, Tanaka-san?",
     "notes-en": "\"Teki ni wa dou desuka\" is a phrase used to ask for someone's opinion or perspective on a particular topic or situation. The word \"teki\" means \"-like\" or \"-ish,\" \"ni\" is a particle that indicates the target or recipient of an action, \"wa\" is a particle that marks the topic of the sentence, and \"dou desuka\" is a phrase that means \"how is it?\" or \"what do you think?\" This expression is commonly used to inquire about someone's thoughts, feelings, or reactions based on their personal viewpoint or standpoint.",
     "notes-ja": "「的にはどうですか」は、特定のトピックや状況についての誰かの意見や視点を尋ねるためのフレーズです。「的」は「-like」や「-ish」を、「に」は行動の対象や受取人を示す助詞で、「は」は文の主題を示す助詞で、「どうですか」は「how is it?」や「what do you think?」を意味するフレーズです。この表現は、個人の視点や立場に基づいて、誰かの考えや感情、反応について尋ねるためによく使われます。"
   },
@@ -10113,7 +10136,7 @@
     "expression-en": "I can't anymore",
     "img-sub": "moumuri01.png",
     "example-ja": "A「もう(一杯:いっぱい)、いかがですか？」B「もう(無理:むり)、どうもありがとう。これ(以上:いじょう)(飲:の)んだら(明日:あした)が(大変:たいへん)だから」",
-    "example-en": "A: \"How about one more drink?\" B: \"I can't anymore, thank you. If I drink any more, tomorrow's going to be rough.\"",
+    "example-en": "A: How about one more drink? B: I can't anymore, thank you. If I drink any more, tomorrow's going to be rough.",
     "notes-en": "\"Mou muri\" is a phrase used to express that one has reached their limit or cannot continue due to exhaustion, fatigue, or difficulty. The word \"mou\" means \"already\" or \"anymore,\" and \"muri\" means \"impossible\" or \"unbearable.\"",
     "notes-ja": "「もう無理」は、疲労、疲労、または困難により、限界に達したか、続けることができないことを表現するためのフレーズです。「もう」は「already」や「anymore」を、「無理」は「impossible」や「unbearable」を意味します。"
   },
@@ -10158,7 +10181,7 @@
     "expression-en": "It'll be all right",
     "img-sub": "kitto-daijoubu01.png",
     "example-ja": "A「(大丈夫:だいじょうぶ)かな？」B「きっと(大丈夫:だいじょうぶ)だよ」",
-    "example-en": "A: \"I wonder if it's okay?\" B: \"I'm sure it'll be fine.\"",
+    "example-en": "A: I wonder if it's okay? B: I'm sure it'll be fine.",
     "notes-en": "\"Daijoubu\" is a versatile Japanese word that can be used in various situations to express that everything is okay, fine, or safe. It can be used to reassure someone, confirm that something is acceptable, or indicate that there is no problem. ",
     "notes-ja": "「大丈夫」は、すべてが大丈夫、問題ない、安全であることを表現するためにさまざまな状況で使われる日本語の汎用語です。誰かを安心させるために使われたり、何かが受け入れられることを確認したり、問題がないことを示したりするために使われます。"
   },
@@ -10173,7 +10196,7 @@
     "expression-en": "If you think you can do it, give it a try",
     "img-sub": "yarerumononarayattemiro01.png",
     "example-ja": "A「(今日:きょう)こそ(俺:おれ)たちが(勝:か)つからな！」B「ふん、やれるものなら、やってみろ！」",
-    "example-en": "A: \"Today, we're going to win!\" B: \"Hmph, if you think you can do it, give it a try!\"",
+    "example-en": "A: Today, we're going to win! B: Hmph, if you think you can do it, give it a try!",
     "notes-en": "\"Yareru mono nara, yatte miro\" is a phrase used to encourage someone to take action or make an attempt if they believe they are capable of doing so. The word \"yareru\" means \"to be able to do,\" \"mono\" means \"thing,\" \"nara\" is a conditional form that means \"if,\" and \"yatte miro\" is a phrase that means \"give it a try.\" This expression is commonly used to motivate or challenge someone to test their abilities or skills.",
     "notes-ja": "「やれるものなら、やってみろ」は、自分がそれをできると思うなら、行動を起こしたり、試みたりすることを奨励するためのフレーズです。「やれる」は「to be able to do」を、「もの」は「thing」を、「なら」は「if」を意味し、「やってみろ」は「give it a try」を意味します。この表現は、誰かが自分の能力やスキルを試すために誰かを励ましたり、挑戦したりするためによく使われます。"
   },
@@ -10188,7 +10211,7 @@
     "expression-en": "Is that on purpose?",
     "img-sub": "wazatodesuka01.png",
     "example-ja": "A「プリン、(間違:まちが)えて(食:た)べちゃった」B「それ、わざとですか？」",
-    "example-en": "A: \"I accidentally ate the pudding.\" B: \"Did you do that on purpose?\"",
+    "example-en": "A: I accidentally ate the pudding. B: Did you do that on purpose?",
     "notes-en": "\"Wazato desuka\" is a phrase used to ask if someone did something intentionally or deliberately. The word \"wazato\" means \"on purpose\" or \"intentionally,\" and \"desuka\" is a polite ending that forms a question. This expression is commonly used to clarify someone's intentions or motives when their actions or words seem suspicious or unusual. In most cases, it's on purpose. Normally, you wouldn't eat someone else's pudding by mistake if you didn't buy it yourself.",
     "notes-ja": "「わざとですか」は、誰かが意図的に何かをしたかどうかを尋ねるためのフレーズです。「わざと」は「on purpose」や「intentionally」を、「ですか」は丁寧な終わり方で質問を形成します。この表現は、行動や言葉が怪しいか異常な場合に、相手の意図や動機を明確にするためによく使われます。こういう時は、だいたいわざとですね。自分で買ってもいないのに、普通、他人のプリンを間違えて食べません。"
   },
@@ -10203,7 +10226,7 @@
     "expression-en": "I'll leave it up to you",
     "img-sub": "omakaseshimasu01.png",
     "example-ja": "A「(今日:きょう)の(晩御飯:ばんごはん)、(何:なに)にしようかな」B「おまかせします」",
-    "example-en": "A: \"What should we have for dinner tonight?\" B: \"I'll leave it up to you.\"",
+    "example-en": "A: What should we have for dinner tonight? B: I'll leave it up to you.",
     "notes-en": "\"Omakase shimasu\" is a phrase used to express that one is entrusting a decision or task to someone else. The word \"omakase\" means \"to entrust\" or \"to leave it up to someone,\" and \"shimasu\" is the polite form of the verb \"suru\" (to do). This expression is commonly used to delegate responsibility or decision-making to another person and is often used in situations where one is unsure or has no preference.",
     "notes-ja": "「おまかせします」は、他の人に決定やタスクを任せることを表現するためのフレーズです。「おまかせ」は「to entrust」や「to leave it up to someone」を意味し、「します」は動詞「する」（to do）の丁寧形です。この表現は、責任や意思決定を他の人に委ねるためによく使われ、自信がない場合や好みがない場合によく使われます。"
   },
@@ -10218,7 +10241,7 @@
     "expression-en": "Either is fine",
     "img-sub": "docchidemoii01.png",
     "example-ja": "A「(寿司:すし)にしますか、(中華:ちゅうか)にしますか」B「どっちでもいいですよ」",
-    "example-en": "A: \"Would you like sushi or Chinese food?\" B: \"Either is fine.\"",
+    "example-en": "A: Would you like sushi or Chinese food? B: Either is fine.",
     "notes-en": "\"Docchi demo ii\" is a phrase used to express that either option is acceptable or suitable. The word \"docchi\" means \"which\" or \"either,\" \"demo\" is a particle that means \"or,\" and \"ii\" means \"good\" or \"fine.\" This expression is commonly used to indicate that one has no preference between two or more options or that both options are equally acceptable.",
     "notes-ja": "「どっちでもいい」は、どちらの選択肢も受け入れ可能または適していることを表現するためのフレーズです。「どっち」は「which」や「either」を、「でも」は「or」を意味し、「いい」は「good」や「fine」を意味します。この表現は、2つ以上の選択肢の間に好みがないことを示したり、両方の選択肢が同じくらい受け入れられることを示すためによく使われます。"
   },
@@ -10233,7 +10256,7 @@
     "expression-en": "Let's just try it for now",
     "img-sub": "toriaezuyattemimashou01.png",
     "example-ja": "A「この(料理:りょうり)、(難:むずか)しそうですね」B「とりあえず、(作:つく)ってみましょうか」",
-    "example-en": "A: \"This dish looks difficult.\" B: \"Let's just try making it for now.\"",
+    "example-en": "A: This dish looks difficult. B: Let's just try making it for now.",
     "notes-en": "\"Toriaezu yatte mimashou\" is a phrase used to suggest trying something as a first step or temporarily without worrying about the outcome. The word \"toriaezu\" means \"for now\" or \"first of all,\" \"yatte\" is the te-form of the verb \"yaru\" (to do), and \"mimashou\" is the volitional form of the verb \"miru\" (to see or try). This expression is commonly used to encourage taking action or making an attempt without overthinking or hesitating.",
     "notes-ja": "「とりあえずやってみましょう」は、何かを最初の一歩として、結果を気にせずに一時的に試してみることを提案するためのフレーズです。「とりあえず」は「for now」や「first of all」を、「やって」は動詞「やる」（to do）のテ形を、「みましょう」は動詞「見る」（to see or try）の意向形を意味します。この表現は、行動を起こすことやためらいや過度な考え込みをせずに試みることを奨励するためによく使われます。"
   },
@@ -10323,7 +10346,7 @@
     "expression-en": "I have no idea",
     "img-sub": "mattakuwakarimasen01.png",
     "example-ja": "A「(問題:もんだい)、(解:と)けそうですか？」B「まったくわかりません。どこから(始:はじ)めればいいのか」",
-    "example-en": "A: \"Do you think you can solve the problem?\" B: \"I have no idea. I don't know where to start.\"",
+    "example-en": "A: Do you think you can solve the problem? B: I have no idea. I don't know where to start.",
     "notes-en": "\"Mattaku wakarimasen\" is a phrase used to express complete lack of understanding or knowledge about a particular topic or situation. The word \"mattaku\" means \"completely\" or \"totally,\" \"wakarimasen\" is the negative form of the verb \"wakaru\" (to understand), and it means \"I don't understand.\"",
     "notes-ja": "「まったくわかりません」は、理解が全然できないがくないことを表現するフレーズです。「まったく」は「completely」や「totally」を意味し、「わかりません」は動詞「わかる」（理解する）の否定形で、「I don't understand」を意味します。"
   },
@@ -10338,7 +10361,7 @@
     "expression-en": "Do you think so?",
     "img-sub": "souomouno01.png",
     "example-ja": "A「この(映画:えいが)、(結構:けっこう)(面白:おもしろ)かったよね」B「そう(思:おも)うの？ (私:わたし)はちょっと(退屈:たいくつ)だったな」",
-    "example-en": "A: \"This movie was pretty interesting, wasn't it?\" B: \"Do you think so? I found it a bit boring.\"",
+    "example-en": "A: This movie was pretty interesting, wasn't it? B: Do you think so? I found it a bit boring.",
     "notes-en": "\"Sou omou no?\" is a phrase used to ask for confirmation with someone's opinion or statement. The word \"sou\" means \"that way.\" \"omou\" is the verb \"to think,\" and \"no\" is a sentence-ending particle that seeks confirmation or agreement. This expression is commonly used in conversations to check if the listener shares the speaker's perspective or to prompt further discussion about differing opinions.",
     "notes-ja": "「そう思うの？」は、相手の意見や発言に確認を求めるためのフレーズです。「そう」は「that way」を、「思う」は「to think」を意味し、「の」は確認や同意を求める文末の助詞です。この表現は、異なる意見についてさらに議論を促したりするために、会話でよく使われます。"
   },
@@ -10353,7 +10376,7 @@
     "expression-en": "A little too much",
     "img-sub": "chottoiisugi01.png",
     "example-ja": "A「あなたって、いつも何も考えてないよね」B「え、それはちょっと言いすぎじゃない？ちゃんと考えてるよ」",
-    "example-en": "A: \"You never think about anything, do you?\" B: \"Huh, isn't that a little too much? I do think things through.\"",
+    "example-en": "A: You never think about anything, do you? B: Huh, isn't that a little too much? I do think things through.",
     "notes-en": "\"Chotto ii sugi\" is an expression used to indicate that a statement or action is slightly exaggerated or overly extreme. The word \"chotto\" means \"a little\" or \"slightly,\" \"iisugi\" is the masu-form of the verb \"iu (to say)\" with the  masu-form of \"sugiru (to exceed),\" meaning \"too much to say.\" It can be used in both negative and positive contexts.",
     "notes-ja": "「ちょっと言い過ぎ」は、発言や行動がやや誇張されているか、あるいは過度に過激であることを表現するためのフレーズです。「ちょっと」は\"a little\"や\"slightly\"を意味し、「言い過ぎ」は「言う」のマス形に「過ぎる」のマス形を付けた名詞で、\"too much to say\"という意味になります。この表現は悪い評価でも良い評価でも使えます。"
   },
@@ -10368,7 +10391,7 @@
     "expression-en": "I don't mind at all",
     "img-sub": "mattakukininaranai01.png",
     "example-ja": "A「ちょっと(髪型:かみがた)(失敗:しっぱい)しちゃったかも」B「いやいや、(全然:ぜんぜん)(似合:にあ)ってるし、まったく(気:き)にならないよ」",
-    "example-en": "A: \"I might have messed up my hairstyle a bit.\" B: \"No way, it looks great on you, I don't mind at all.\"",
+    "example-en": "A: I might have messed up my hairstyle a bit. B: No way, it looks great on you, I don't mind at all.",
     "notes-en": "\"Mattaku ki ni naranai\" is a phrase used to express that one doesn't mind or is not bothered by something. The word \"mattaku\" means \"completely\" or \"totally,\" \"ki ni naranai\" means \"not to mind\" or \"not to be concerned.\" It may be a complete failure, but if you don't say it, it may not be noticed. If you say, \"I might have messed up my hairstyle,\" others might notice it, In general, people don't care about others as much as they think they do.",
     "notes-ja": "「まったく気にならない」は、何かに気になったり、気にすることがないことを表現するためのフレーズです。「まったく」は「completely」や「totally」を意味し、「気にならない」は「not to mind」や「not to be concerned」を意味します。本当は目立つほど失敗作だけれども、言わないだけかもしれません。「髪型失敗しちゃったかも」と言わなければ、気がつかなかったのに、逆に言ったので、気づいてしまうこともあります。だいたいは、他人は自分が思っているほど、他人のことを気にしていないものです。"
   },
@@ -10398,7 +10421,7 @@
     "expression-en": "I do remember it",
     "img-sub": "wasureruwakenai01.png",
     "example-ja": "A「(明日:あす)、(会議:かいぎ)だよね？」B「わすれるわけないでしょ！っていうか、もう(準備:じゅんび)できてるし」",
-    "example-en": "A: \"We have a meeting tomorrow, right?\" B: \"There's no way I'd forget! Besides, I'm already prepared.\"",
+    "example-en": "A: We have a meeting tomorrow, right? B: There's no way I'd forget! Besides, I'm already prepared.",
     "notes-en": "\"Wasureru wake nai\" is a phrase used to express certainty or confidence that one has not forgotten something. The word \"wasureru\" means \"to forget,\" and \"wake nai\" is a phrase that indicates the absence of a reason or cause.",
     "notes-ja": "「忘れるわけない」は、何かをしっかり覚えていて、忘れていないことを意味します。「忘れる」は「to forget」を意味し、「わけない」は理由や原因がないことを示すフレーズです。"
   },
@@ -10413,7 +10436,7 @@
     "expression-en": "Is it okay later?",
     "img-sub": "atodemoii01.png",
     "example-ja": "A「(食器:しょっき)(洗:あら)ってくれた？」B「うーん、あとでもいい？(今:いま)、(犬:いぬ)と(遊:あそ)んでるところなんだ」",
-    "example-en": "A: \"Did you wash the dishes?\" B: \"Hmm, is it okay later? I'm playing with the dog right now.\"",
+    "example-en": "A: Did you wash the dishes? B: Hmm, is it okay later? I'm playing with the dog right now.",
     "notes-en": "\"Ato demo ii?\" is a phrase used to ask if something can be done at a different time. \"Ato\" means \"later\" or \"after,\" and \"demo\" is a particle that indicates a conditional or alternative situation. This expression is commonly used in casual conversations to check if delaying a task or changing a schedule would cause inconvenience or confusion. However, people who say this often don't do it later.",
     "notes-ja": "「あとでもいい？」は、後でまた別の時間にできるかどうかを尋ねるためのフレーズです。「あと」は「later」や「after」を意味します。この表現は、タスクを遅らせたり予定を変更したりしても不便や混乱を引き起こさないかどうかを確認するために、カジュアルな会話でよく使われます。とはいえ、こういう人はだいたいあとになってもしないことが多いですね。"
   },
@@ -10428,7 +10451,7 @@
     "expression-en": "Better than nothing",
     "img-sub": "shinaiyorimashi01.png",
     "example-ja": "A「(今:いま)から(試験:しけん)(勉強:べんきょう)ですか？」B「ええ、しないよりまし」",
-    "example-en": "A: \"Are you going to study for the exam now?\" B: \"Yes, better than nothing.\"",
+    "example-en": "A: Are you going to study for the exam now? B: Yes, better than nothing.",
     "notes-en": "\"Shinai yori mashi\" is a phrase used to express that doing something is better than doing nothing at all. The word \"shinai\" is the negative form of the verb \"suru\" (to do), and \"mashi\" is the comparative form of the adjective \"ii\" (good). It conveys the idea that taking action is preferable to inaction. In many cases, such people may be well-prepared.",
     "notes-ja": "「しないよりまし」は、何もしないよりも何かをする方が良いということを表現するためのフレーズです。「しない」は動詞「する」（to do）の否定形で、「まし」は形容詞「いい」（good）の比較形です。大方において、こういう人はしっかり準備をしているのかもしれません。"
   },
@@ -10443,7 +10466,7 @@
     "expression-en": "My pleasure",
     "img-sub": "yorokonde01.png",
     "example-ja": "A「(手伝:てつだ)ってくれませんか？」B「よろこんで」",
-    "example-en": "A: \"Can you help me?\" B: \"My pleasure.\"",
+    "example-en": "A: Can you help me? B: My pleasure.",
     "notes-en": "\"Yorokonde\" is a phrase used to express willingness or joy in helping or assisting someone. It is the te-form of the verb \"yorokobu\" (to be pleased or delighted) and is used in this context to convey a sense of joy or satisfaction in helping others. However, it can also be used in situations where one may not be able to help with joy but is willing to assist. If the help can be done in a moment and is unavoidable, one might say this. If someone is asking for help while you are busy working, that is their problem.",
     "notes-ja": "「よろこんで」は、誰かを手伝ったり助けたりすることに対する意欲や喜びを表現するためのフレーズです。「よろこんで」は動詞「よろこぶ」（喜ぶ、楽しむ）のテ形で、この文脈で使われると、他人を助けることに喜びや満足感を表現します。しかし、ちょっと忙しく手伝っていられない場合、喜んで手伝える場合ではなくてもこのように言うことがあります。一瞬手伝うことで終りにできるなら、少しぐらいの時間の貢献は止むなしと言ったところでしょうか。忙しく仕事をしているのに頼んでくる人がいるならその人の問題です。"
   },
@@ -10458,7 +10481,7 @@
     "expression-en": "I brought everything",
     "img-sub": "zenbumottara01.png",
     "example-ja": "A「(忘:わす)れ(物:もの)、ない？」B「ぜんぶもった」",
-    "example-en": "A: \"Got everything?\" B: \"I brought everything.\"",
+    "example-en": "A: Got everything? B: I brought everything.",
     "notes-en": "\"Zenbu motta\" is a phrase used to indicate that one has brought or obtained everything that is needed or required. \"Zenbu\" means \"everything\" or \"all,\" and \"motta\" is the past tense of the verb \"motteru\" (to have or to bring). In Japanese, the past tense can be used to describe a current state or situation. This expression is commonly used to convey that one has all the necessary items or has completed a task by bringing everything required.",
     "notes-ja": "「全部持った」は、必要なものや必要なものをすべて持ってきたことを示すためのフレーズです。「全部」は「everything」や「all」を意味し、「持った」は動詞「持ってる」（持つ、持っている）の過去形です。日本語では過去形を使っても現在の状況を表現することができます。"
   },
@@ -10473,7 +10496,7 @@
     "expression-en": "Is it a big deal?",
     "img-sub": "sonnanisawagukotodesuka01.png",
     "example-ja": "A「(何:なに)か(問題:もんだい)が(起:お)きたのかな」B「そんなにさわぐことですか。ただ(疲:つか)れているだけです」",
-    "example-en": "A: \"I wonder if something happened.\" B: \"Is it a big deal? I'm just tired.\"",
+    "example-en": "A: I wonder if something happened. B: Is it a big deal? I'm just tired.",
     "notes-en": "\"Sonnani sawagu koto desuka\" is a phrase used to question the importance or necessity of making a big fuss about something. \"Sonnani\" means \"to that extent\" or \"so much,\" and \"sawagu\" means \"to make noise\" or \"to cause a disturbance.\" By combining these elements, the phrase conveys a sense of questioning the significance or need to make excessive noise or fuss about something. This expression is often used to express skepticism about excessive criticism or overblown claims made by others.",
     "notes-ja": "「そんなに騒ぐことですか」は、何かについて大騒ぎすることの重要性や必要性を問うためのフレーズです。「そんなに」は「to that extent」や「so much」を意味し、「騒ぐ」は「to make noise」や「to cause a disturbance」を意味します。これらの要素を組み合わせることで、過度の非難や他者の主張の言い過ぎを疑問視している感覚を伝えます。"
   },
@@ -10488,7 +10511,7 @@
     "expression-en": "That seems to be the case",
     "img-sub": "sonoyoudesune01.png",
     "example-ja": "A「この(カフェ:かふぇ)、(最近:さいきん)(人気:にんき)みたいですね」B「そのようですね、いつも(混:こ)んでいる(気:き)がします」",
-    "example-en": "A: \"This cafe seems to be popular lately.\" B: \"That seems to be the case; it always seems crowded.\"",
+    "example-en": "A: This cafe seems to be popular lately. B: That seems to be the case; it always seems crowded.",
     "notes-en": "\"Sonoyoudesune\" is a phrase used to acknowledge or agree with a statement made by someone else. It is often used to express agreement or confirmation with the speaker's observation, opinion, or assessment. The phrase \"sono you\" means \"that way\" or \"like that,\" and \"desu ne\" is a polite ending that adds a sense of agreement or affirmation. By combining these elements, the phrase conveys a sense of understanding or recognition of the situation described by the other person. This expression is commonly used in conversations to show attentiveness, agreement, or shared perception with the speaker.",
     "notes-ja": "「そのようですね」は、他の人が述べた発言を認めたり同意したりするためのフレーズです。話し手の観察、意見、評価に同意や確認を表現する際によく使われます。「そのよう」は「that way」や「like that」を意味し、「ですね」は同意や肯定の意味を加える丁寧な終わり方です。これらの要素を組み合わせることで、他の人が説明した状況を理解したり認識したりする感覚を伝えます。この表現は、会話で話し手との注意深さ、同意、共有された認識を示すためによく使われます。"
   },
@@ -10518,7 +10541,7 @@
     "expression-en": "Anxious",
     "img-sub": "soudatoiikedo01.png",
     "example-ja": "A「(試験:しけん)、うまくいくといいね」 B「そうだといいけど、(勉強:べんきょう)してないから(不安:ふあん)だよ」",
-    "example-en": "A: \"I hope the exam goes well.\" B: \"I hope so too, but I'm anxious because I haven't studied.\"",
+    "example-en": "A: I hope the exam goes well. B: I hope so too, but I'm anxious because I haven't studied.",
     "notes-en": "\"Souda to iikedo\" is a phrase used to express hope or wish for a positive outcome while acknowledging the possibility of uncertainty or anxiety. Literally meaning \"it would be good if that's the case,\" the phrase combines the conditional form \"souda to ii\" of the verb \"sou da\" (it is so) with \"kedo\" (but), creating a nuanced expression that balances optimism with realism. This phrase is often used in conversations to convey a mix of hope and concern, reflecting the speaker's desire for a favorable result while recognizing the potential for doubt or unease.",
     "notes-ja": "「そうだといいけど」は、ポジティブな結果に対する希望や願いを表現する一方で、不確実性や不安の可能性を認識するためのフレーズです。文字通り「そうだといい」という意味で、動詞「そうだ」（それはそうだ）の条件形「そうだといい」と「けど」（しかし）が結びついており、楽観主義と現実主義をバランスよく表現しています。このフレーズは、希望と懸念の両方を伝えるために会話でよく使われ、好ましい結果を望む一方で、疑念や不安の可能性を認識する話し手の気持ちを反映しています。"
   },
@@ -10548,7 +10571,7 @@
     "expression-en": "may not look it, but...",
     "img-sub": "aamiete01.png",
     "example-ja": "ああ(見:み)えて、(彼:かれ)は(会社:かいしゃ)で「Excelの(魔術師:まじゅつし)」って(呼:よ)ばれてるらしい。",
-    "example-en": "He may not look it, but at work, they call him the \"Wizard of Excel.\"",
+    "example-en": "He may not look it, but at work, they call him the Wizard of Excel.",
     "notes-en": "\"Aamiete\" is a phrase used to introduce surprising or unexpected facts or revelations about someone or something that may not be immediately apparent from their appearance or behavior. Literally meaning \"may not look like that,\" the phrase is followed by statements that contradict or cast doubt on the initial impression. This expression is often used to highlight hidden talents, unexpected skills, or surprising qualities that are not immediately obvious.",
     "notes-ja": "「ああ見えて」は、外見や行動からはすぐにはわからない、誰かや何かについての驚くべき事実や予想外の事実を紹介するためのフレーズです。「ああ見えて」は文字通り「見えないかもしれない」という意味で、最初の印象と矛盾するか、最初の印象に疑問を投げかけるような発言が続きます。"
   },
@@ -10593,7 +10616,7 @@
     "expression-en": "Somehow it will work out",
     "img-sub": "nankatokanaru01.png",
     "example-ja": "(財布:さいふ)が(空:から)なのに「(明日:あす)はなんとかなる！」って(能天気:のうてんき)だな。",
-    "example-en": "Even though his wallet is empty, he is so optimistic saying, \"Somehow it will work out tomorrow!\"",
+    "example-en": "Even though his wallet is empty, he is so optimistic saying, Somehow it will work out tomorrow!",
     "notes-en": "\"Nantoka naru\" is a phrase used to express optimism or hope that things will work out somehow, even in difficult or uncertain situations. The word \"nantoka\" means \"somehow\" or \"in some way,\" and \"naru\" means \"to become\" or \"to work out.\" By combining these words, the phrase conveys a sense of confidence that things will eventually fall into place, despite the current challenges or obstacles. This expression is often used to encourage oneself or others to stay positive and hopeful, even when facing adversity or uncertainty.",
     "notes-ja": "「なんとかなる」は、困難な状況や不確実な状況でも、何とかうまくいくという楽観的な考えを表現するためのフレーズです。「なんとか」は「somehow」や「in some way」を意味し、「なる」は「to become」や「to work out」を意味します。これらの言葉を組み合わせることで、現在の課題や障害にもかかわらず、最終的には物事がうまくいくという自信を表現します。この表現は、自分自身や他者に、逆境や不確実性に直面しても前向きで希望を持ち続けるよう励ますためによく使われます。"
   },
@@ -10713,7 +10736,7 @@
     "expression-en": "that reminds me",
     "img-sub": "souieba01.png",
     "example-ja": "A「(最近:さいきん)、(寒:さむ)くなってきたね」 B「そういえば、(明日:あす)、(雪:ゆき)、(降:ふ)るって(天気予報:てんきよほう)、(言:い)ってたよ」",
-    "example-en": "A: \"It's getting cold recently.\" B: \"That reminds me, the weather forecast says it will snow tomorrow.\"",
+    "example-en": "A: It's getting cold recently. B: That reminds me, the weather forecast says it will snow tomorrow.",
     "notes-en": "\"Souieba\" means \"that reminds me\" or \"speaking of which,\" and is used to introduce a thought or information related to the current topic. In contrast, \"Tokorode\" means \"by the way\" and is used to introduce a completely new topic that is unrelated to the ongoing conversation. The key difference is that \"souieba\" builds a connection to the previous topic, while \"tokorode\" shifts the conversation to an entirely different subject.",
     "notes-ja": "「そういえば」は、現在の話題に関連する考えや情報を導入する際に使われます。一方、「ところで」は、現在の会話とは無関係の、完全に新しい話題を導入するために使われます。この違いは、「そういえば」が前の話題と関連性を持たせるのに対し、「ところで」は会話の流れを別の話題に移す点にあります。"
   },
@@ -10758,7 +10781,7 @@
     "expression-en": "Fun",
     "img-sub": "tanoshii01.png",
     "example-ja": "A「(昨日:きのう)の(パーティー:ぱーてぃ)、(楽:たの)しかったね」 B「うん、(楽:たの)しかった」",
-    "example-en": "A: \"Yesterday's party was fun.\" B: \"Yeah, it was fun.\"",
+    "example-en": "A: Yesterday's party was fun. B: Yeah, it was fun.",
     "notes-en": "\"Tanoshii\" is an i-adjective meaning \"fun\" or \"enjoyable.\" I-adjectives are primarily used to express one's own feelings, and it is unnecessary to make such expressions polite. For this reason, adding the polite auxiliary verb \"desu\" makes the expression sound childish. It is also uncommon to ask someone, \"Tanoshii desu ka?\" If it is asked, it is typically in a context where you are questioning, \"Is this really fun?\"---perhaps implying doubt about whether the person is genuinely having fun. In such cases, you might also confirm your assumption by saying, \"It's not fun, is it?\" to suggest that the other person might not be enjoying themselves either.",
     "notes-ja": "「楽しい」は「楽しいこと」や「愉快なこと」を表すイ形容詞です。イ形容詞は基本的に自分の気持ちを表現することばなので、丁寧に言う必要はありません。そのため、文末に「です」を付けると幼稚に聞こえます。また、「楽しいですか」と人に尋ねることもほとんどありません。もし尋ねる場合は、「本当にこれ、楽しいですか？」というように、その人が本当に楽しんでいるのか疑問を持っている場面で使われます。この場合、「楽しくありませんよね」と確認することで、相手も楽しんでいないのではないかと問いかける意味になります。"
   },
@@ -10773,7 +10796,7 @@
     "expression-en": "Become",
     "img-sub": "mononinaru01.png",
     "example-ja": "A「(フランス語:ふらんすご)、(物:もの)になった？」 B「いや、ぜんぜん」",
-    "example-en": "A: \"Did your french become something?\" B: \"No, not at all.\"",
+    "example-en": "A: Did your french become something? B: No, not at all.",
     "notes-en": "\"Mononinaru\" means that your skills or abilities have become practical and useful. The word \"mononinaru\" is a verb that means \"become.\"",
     "notes-ja": "\"物になる\"は、自分が鍛錬してきた技術、技能が十分実務的に使えるようになるという意味です。"
   },
@@ -10803,7 +10826,7 @@
     "expression-en": "Perfect",
     "img-sub": "kannpeki01.png",
     "example-ja": "A「(今日:きょう)の(プレゼン:ぷれぜん)、(完璧:かんぺき)だったね」 B「ありがとう」",
-    "example-en": "A: \"Today's presentation was perfect.\" B: \"Thank you.\"",
+    "example-en": "A: Today's presentation was perfect. B: Thank you.",
     "notes-en": "\"Kannpeki\" is used to express that something is perfect or flawless. The word \"kannpeki\" is an adjective that means \"perfect\" or \"flawless.\" It is used to express that something is without any mistakes or flaws. If you look closely at the kanji for \"kannpeki,\" you will see that the character \"完\" means \"complete\" and \"璧\" means \"without flaws.\" When you observe the character \"璧\" closely, you will see that there is a \"玉\" at the bottom. This is the \"玉\" used in the word \"gyokuseki\" (jewel), which has a beautiful surface without any flaws. Be careful not to confuse the character \"璧\" with the character \"壁\" (kabe), which means \"wall.\" The character \"壁\" has \"土\" at the bottom, so be careful not to make a mistake. You won't be perfect.",
     "notes-ja": "\"完璧\"は、何かが完璧であることを表現するために使用されます。漢字の「完」は「完全」、「璧」は「欠点がない」という意味です。何かが間違いや欠点がないことを表現するときに使われます。「璧」の字をよく観察すると、下に「玉」があります。これは「玉石」という言葉にも使われる「玉」で、玉石には、瑕ひとつない綺麗な表面をしていて、欠点がないという意味があります。「璧」に似ている漢字で「壁」がありますが、よく見ると下は「土」になっていますので、間違えないようにしましょう。完璧にならなくなりますよ。"
   },
@@ -10817,7 +10840,7 @@
     "roman-ja": "Nee, honshinn ha?",
     "expression-en": "What is your true intention?",
     "example-ja": "A「(君:きみ)が(必要:ひつよう)です」 B「ねぇ、(本心:ほんしん)は？」",
-    "example-en": "A: \"I need you.\" B: \"What is true intention? (You don't really think so, do you?)\"",
+    "example-en": "A: I need you. B: What is true intention? (You don't really think so, do you?)",
     "notes-en": "\"Honnshinn ha?\" is used to ask what the other person really thinks. The word \"honnshinn\" is a noun that means \"true feelings\" or \"real intention.\" Even if someone says \"I love you\" or \"I need you,\" it may not always be sincere. This question, \"Honnshinn ha?\" asks for their genuine feelings, often suggesting doubt or skepticism.",
     "notes-ja": "\"本心は？\"は、相手が本当に何を考えているのか知りたいときに使われます。「好きだ」とか「必要だ」と言っても、本当はそうではないかもしれません。「本心は？」という質問は、「利用したいだけでしょ」という意図を聞くことになりますね。"
   },
@@ -10847,7 +10870,7 @@
     "expression-en": "I'm tired of it",
     "img-sub": "akita01.png",
     "example-ja": "A「(毎日:まいにち)、(同:おな)じこと、ばっかしていると、(飽:あ)きたよね」 B「うん、(新:あたら)しいこと、(始:はじ)めたい」",
-    "example-en": "A: \"Doing the same thing every day gets boring.\" B: \"Yeah, I want to start something new.\"",
+    "example-en": "A: Doing the same thing every day gets boring. B: Yeah, I want to start something new.",
     "example-ja-2": "(毎日:まいにち)、(フルコース:ふるこーす)、(食:た)べ(飽:あ)きた。",
     "example-en-2": "I'm tired of eating a full course meal every day.",
     "example-ja-3": "おまえの「がんばります」はもう(聞:き)き(飽:あ)きた。",
@@ -10866,7 +10889,7 @@
     "expression-en": "Not that much...",
     "img-sub": "sorehododemo01.png",
     "example-ja": "A「(君:きみ)は(記憶力:きおくりょく)がいいねぇ」 B「いいえ、それほどでも」",
-    "example-en": "A: \"You have a good memory.\" B: \"Not that much.\"",
+    "example-en": "A: You have a good memory. B: Not that much.",
     "notes-en": "The phrase \"sore hodo demo\" is used to express that something is not as much as expected or mentioned. It is also used to modestly respond when you are praised. In Japanese, you cannot say \"Yes, that's right\" when you are praised, so you use a humble expression. However, the inner thoughts of student B who is praised by teacher A are certainly happy. If you think it's a lie, try answering \"Yes, that's right\" once. You may become popular, but I think it's better not to say that.",
     "notes-ja": "「それほどでも」は、何かが期待されたり、言及されたほどではないことを表現するために使用されます。自分がそのレベルには至っていないことを言うことで、謙遜していることを意味します。しかし、このように先生に褒められた学生の内心は嬉しいに決まっています。「それほどでも」は、褒めてもらった時に謙遜して答える表現です。「上手ですね」と褒めてもらった時に、「ええ、そうですね」と自分で自分の優れていることを認めるのは図々しいので、謙遜のことばを使います。謙遜せずに、一度「ええ、そうですね」と答えてみてください。人気者になれるかもしれませんが、やはり、そう言わないほうがよいと思います。"
   },
@@ -10906,7 +10929,7 @@
     "expression-en": "Do you really mean that?",
     "img-sub": "sokomadeiu01.png",
     "example-ja": "A「その(服:ふく)、(趣味:しゅみ)悪いよ」 B「そこまで(言:い)う？」",
-    "example-en": "A: \"That outfit is in bad taste.\" B: \"Do you really mean that?\"",
+    "example-en": "A: That outfit is in bad taste. B: Do you really mean that?",
     "notes-en": "\"Soko made iu?\" is used to express feelings of surprise or being hurt by something. It is a concise yet effective phrase for conveying mild astonishment or a light protest. The particle made indicates a range or limit. Used in this way, it suggests that the other person's words were unexpected or felt a bit harsh, effectively conveying the sense of \"going too far.\"",
     "notes-ja": "「そこまで言う？」は、何かに驚いたり傷ついたりしたときに使われます。また、簡潔ですが、「驚き」や「軽い抗議」のニュアンスをしっかり伝えられる表現です。\"まで\"は、範囲や限度を表す助詞です。このように使うと、相手の言葉が自分にとっては予想外だったり、自分にとっては少し厳しい言葉だったりすること、すなわち、「言いすぎ」を表現します。"
   },
@@ -10921,7 +10944,7 @@
     "expression-en": "Oh! no, that sucks",
     "img-sub": "soryanaiyo01.png",
     "example-ja": "A「ごめん、(約束:やくそく)してたけど(今日:きょう)(行:い)けなくなった」 B「えー、そりゃないよ！(楽:たの)しみにしてたのに」",
-    "example-en": "A: \"Sorry, I can't go today even though I promised.\" B: \"Oh! no, that sucks! I was looking forward to it.\"",
+    "example-en": "A: Sorry, I can't go today even though I promised. B: Oh! no, that sucks! I was looking forward to it.",
     "notes-en": "\"Sorya naiyo\" is used to express that you are disappointed or surprised by something. The word \"sorya\" is a contraction of the phrase \"sore wa,\" which means \"that is.\" The word \"naiyo\" is a contraction of the phrase \"nai yo,\" which means \"no.\"",
     "notes-ja": "\"そりゃないよ\"は、何かにがっかりしたり驚いたりするときに使われます。"
   },
@@ -10936,7 +10959,7 @@
     "expression-en": "That's true",
     "img-sub": "sorehasouda01.png",
     "example-ja": "A「やっぱり健康が一番大事だと思うよ」 B「それはそうだ。健康がなければ何も始まらないよね」",
-    "example-en": "A: \"I think health is the most important thing after all.\" B: \"That's true. Without health, nothing can start.\"",
+    "example-en": "A: I think health is the most important thing after all. B: That's true. Without health, nothing can start.",
     "notes-en": "\"Soreha souda\" is used to express that you totally agree with what the other person said. The word \"sore\" is a pronoun that means \"that.\" The word \"ha\" is a particle that is used to indicate the topic of a sentence. The word \"souda\" is a contraction of the phrase \"sou da,\" which means \"that's true.\"",
     "notes-ja": "\"それはそうだ\"は、相手の言ったことに全面的に同意するときに使われます。"
   },
@@ -10951,7 +10974,7 @@
     "expression-en": "No way",
     "img-sub": "masaka01.png",
     "example-ja": "A「明日、雪が降るらしいよ」 B「まさかぁ」",
-    "example-en": "A: \"It seems like it's going to snow tomorrow.\" B: \"No way.\"",
+    "example-en": "A: It seems like it's going to snow tomorrow. B: No way.",
     "notes-en": "\"Masaka\" is used to express that you are surprised or don't believe something. The word \"masaka\" is an adverb that means \"no way\" or \"impossible.\"",
     "notes-ja": "\"まさか\"は、何かに驚いたり、信じられないときに使われます。"
   },
@@ -11086,7 +11109,7 @@
     "expression-en": "That's true!",
     "img-sub": "tashikani01.png",
     "example-ja": "A「(彼:かれ)、(最近:さいきん)、(変:へん)だよね」 B「確かに」",
-    "example-en": "A: \"He's been acting strange lately.\" B: \"You're right.\"",
+    "example-en": "A: He's been acting strange lately. B: You're right.",
     "notes-en": "\"Tashikani\" means \"certainly\" or \"surely.\" However, it is more commonly used to express agreement or realization, like \"You're right\" or \"I see.\"",
     "notes-ja": "\"確かに\" は、「確実に」という意味もありますが、日常会話では「言われてみればそうだね」や「今気がついた」というニュアンスで使われることが多いです。"
   },
@@ -11101,7 +11124,7 @@
     "expression-en": "How should I put it",
     "img-sub": "nanteiuka01.png",
     "example-ja": "A「(彼:かれ)、(最近:さいきん)、(変:へん)だよね」 B「なんていうか、(忙:いそが)しいのかな」",
-    "example-en": "A: \"He's been acting strange lately.\" B: \"How should I put it, maybe he's busy.\"",
+    "example-en": "A: He's been acting strange lately. B: How should I put it, maybe he's busy.",
     "notes-en": "\"Nanteiuka\" is used to express that you are trying to find the right words to describe something. The word \"nante\" is an interrogative pronoun that means \"what kind of.\" The word \"iu\" is a verb that means \"to say.\" The word \"ka\" is a particle that is used to indicate a question. However, it is used in various contexts, so it can be considered almost meaningless.",
     "notes-ja": "\"なんていうか\"は、何かを表現する正しい言葉を見つけようとしていることを表現するために使用されます。しかしながら、いろいろな文脈で使えるところから、ほとんど意味がないと考えてよいでしょう。"
   },
@@ -11131,7 +11154,7 @@
     "expression-en": "Not that reason",
     "img-sub": "sonnawakedemonakute01.png",
     "example-ja": "A「(昨日:きのう)、(遅:おそ)くまで(起:お)きていたの？」 B「そんな(訳:わけ)でもなくて、(映画:えいが)を(見:み)ていたら(時間:じかん)が(経:た)ってしまってた」",
-    "example-en": "A: \"Were you up late last night?\" B: \"Not that reason, I was watching a movie and time flew by.\"",
+    "example-en": "A: Were you up late last night? B: Not that reason, I was watching a movie and time flew by.",
     "notes-en": "\"Sonna wake demo nakute\" is used to express that the reason for something is not what the other person thinks. The word \"sonna\" is a demonstrative pronoun that means \"that kind of.\" The word \"wake\" is a noun that means \"reason.\" The word \"demo\" is a conjunction that means \"but\" or \"however.\" The word \"nakute\" is the 'te-form' of the verb \"nai,\" which means \"to not be.\" In some cases, the reason given by the other person isn't exactly wrong, but it also suggests that it wasn't intended to be that way.",
     "notes-ja": "\"そんなわけでもなくて\"は、何かの理由が相手が思っているものと違うことを表現するために使用されます。しかし、その理由が外れているわけでもなくて、確かにそういう理由なのだけれども、それは意図してそうしたのではないということも意味します。"
   },
@@ -11146,7 +11169,7 @@
     "expression-en": "Oh well",
     "img-sub": "maikka01.png",
     "example-ja": "A「(今日:きょう)のお(弁当:べんとう)は、すべて(売:う)り(切:き)れました」 B「ま、いっか」",
-    "example-en": "A: \"Today's bento boxes are all sold out.\" B: \"Oh well, never mind.\"",
+    "example-en": "A: Today's bento boxes are all sold out. B: Oh well, never mind.",
     "notes-en": "\"Ma, ikka\" is used to express that you don't care about something or that you are not bothered by something. The word \"ma\" is an interjection that is used to express hesitation or uncertainty. The word \"ikka\" is a contraction of the phrase \"ii kara,\" which means \"it's okay.\""
   },
   {
@@ -11160,7 +11183,7 @@
     "expression-en": "Well, you know",
     "img-sub": "maane01.png",
     "example-ja": "A「こんなことしたくないよね」 B「まあね」",
-    "example-en": "A: \"I don't want to do this.\" B: \"Well, you know.\"",
+    "example-en": "A: I don't want to do this. B: Well, you know.",
     "notes-en": "\"Maane\" is an expression of passive agreement or understanding. While it conveys a sense of agreement, it is often used when one does not want to fully commit to agreeing or disagreeing. This makes it convenient in situations where one wishes to remain non-committal. When you hear this expression, it is best not to expect too much enthusiasm or certainty from the speaker.",
     "notes-ja": "「まあね」は、消極的な同意や理解を示す表現です。同意しているように見えますが、実際には同意も否定もしたくないときに便利に使われます。そのため、どちらにも踏み込まず曖昧な返事をしたい場面でよく使われます。この表現を聞いたときには、相手からの積極的な賛同をあまり期待しない方がよいでしょう。"
   },
@@ -11249,7 +11272,7 @@
     "expression-en": "That's not true/That's impossible",
     "img-sub": "sorehanai01.png",
     "example-ja": "A「(彼:かれ)が(嘘:うそ)を(つ:つ)いていると(思:おも)う？」 B「それはない」",
-    "example-en": "A: \"Do you think he's lying?\" B: \"That's not true.\"",
+    "example-en": "A: Do you think he's lying? B: That's not true.",
     "notes-en": "\"Sore ha nai\" is used to express that something is not true or impossible. The word \"sore\" is a pronoun that means \"that.\" The word \"ha\" is a particle that is used to indicate the topic of a sentence. The word \"nai\" is a verb that means \"to not be.\"",
     "notes-ja": "\"それはない\"は、何かが真実でないことや不可能であることを表現するために使用されます。"
   },
@@ -11413,7 +11436,7 @@
     "expression-en": "Where have you been?",
     "img-sub": "dokoitteta01.png",
     "example-ja": "A「どこ(行:い)ってた？」 B「ちょっと、そこまで」 A「(探:さが)してたよ」 ",
-    "example-en": "A: \"Where have you been?\" B: \"Just over there.\" A: \"I was looking for you.\"",
+    "example-en": "A: Where have you been? B: Just over there. A: I was looking for you.",
     "notes-en": "\"Doko itteta?\" is used to ask where someone has been or to tell them that you were looking for them. The word \"doko\" is a noun that means \"where.\" The word \"itta\" is the past tense of the verb \"iku,\" which means \"to go.\"",
     "notes-ja": "\"どこ行ってた？\"は、どこに行ったのかを尋ねるため、なぜ居なかったのかを伝えるために使用されます。"
   },
@@ -11518,7 +11541,7 @@
     "expression-en": "That's tough",
     "img-sub": "sorewataihen01.png",
     "example-ja": "A「(昨日:きのう)、(徹夜:てつや)で(仕事:しごと)を(終:お)わらせた」 B「それはたいへん」",
-    "example-en": "A: \"I stayed up all night to finish my work yesterday.\" B: \"That's tough.\"",
+    "example-en": "A: I stayed up all night to finish my work yesterday. B: That's tough.",
     "notes-en": "The phrase \"sore wa taihen\" is used to express sympathy or understanding when someone tells you about a difficult or challenging situation. The word \"sore\" is a pronoun that means \"that.\" The word \"wa\" is a particle that is used to indicate the topic of a sentence. The word \"taihen\" is a noun that means \"tough\" or \"difficult.\"",
     "notes-ja": "「それは大変」は、誰かが困難な状況やチャレンジングな状況について話すときに、同情や理解を表現するために使用されます。"
   },
@@ -11623,7 +11646,7 @@
     "expression-en": "Read the room",
     "img-sub": "kuukiwoyomu01.png",
     "example-ja": "A「(今:いま)、(話:はなし)を(続:つづ)けても(大丈夫:だいじょうぶ)かな？」 B「(空気:くうき)を(読:よ)んで」",
-    "example-en": "A: \"Is it okay to continue the conversation now?\" B: \"Read the room.\"",
+    "example-en": "A: Is it okay to continue the conversation now? B: Read the room.",
     "notes-en": "The phrase \"kuuki wo yomu\" is used to express that you are aware of the atmosphere or mood of a situation and act accordingly. The word \"kuuki\" is a noun that means \"air\" or \"atmosphere.\" The word \"yomu\" is a verb that means \"to read.\"",
     "notes-ja": "「空気を読む」は、状況の雰囲気やムードを把握し、それに応じて行動することを表現するために使用されます。"
   },
@@ -11803,7 +11826,7 @@
     "expression-en": "hear mentioned frequently",
     "img-sub": "miminisuru01.png",
     "example-ja": "A「(最近:さいきん)、(その:その)(問題:もんだい)を(耳:みみ)にする」",
-    "example-en": "A: \"I hear about that issue frequently these days.\"",
+    "example-en": "A: I hear about that issue frequently these days.",
     "notes-en": "The phrase \"mimi ni suru\" is used to express that you frequently hear about something. The word \"mimi\" is a noun that means \"ear.\" The word \"suru\" is a verb that means \"to do.\" This idiomatic phrase, \"mimi ni suru,\" is to hear something mentioned or referred to on multiple occasions in everyday life, often indirectly or casually, through conversations, media, or public discourse.",
     "notes-ja": "「耳にする」は、何かを頻繁に耳にすることを表現するために使用されます。"
   },
@@ -11833,7 +11856,7 @@
     "expression-en": "Be attentive",
     "img-sub": "kigakiku01.png",
     "example-ja": "A「この(家:いえ)の(デザイン:でざいん)は、(使:つか)いやすくて、なかなか(気:き)が(利:き)いているね」",
-    "example-en": "A: \"The design of this house is user-friendly and quite attentive.\"",
+    "example-en": "A: The design of this house is user-friendly and quite attentive.",
     "notes-en": "The phrase \"ki ga kiku\" is used to express that something is attentive or considerate. The word \"ki\" is a noun that means \"spirit\" or \"mind.\" The word \"kiku\" is a verb that means \"to be effective\" or \"to be useful.\"",
     "notes-ja": "「気が利く」は、何かが気配りができることを表現するために使用されます。"
   },
@@ -11848,7 +11871,7 @@
     "expression-en": "while one is unaware of it",
     "img-sub": "itsunomanika01.png",
     "example-ja": "A「(いつのまにか)、(夕方:ゆうがた)になっていた」",
-    "example-en": "A: \"It was evening before I knew it.\"",
+    "example-en": "A: It was evening before I knew it.",
     "notes-en": "The phrase \"itsunomanika\" is used to express that something happened without you realizing it. The word \"itsu\" is a pronoun that means \"when.\" The word \"no\" is a particle that is used to indicate possession or connection. The word \"ma\" is a noun that means \"moment\", and the word \"ni\" is an adverbial particle that is used to indicate time or place. The word \"ka\" is a question particle that is used to indicate a question.",
     "notes-ja": "「いつのまにか」は、何かが気づかないうちに起こったことを表現するために使用されます。"
   },
@@ -11863,7 +11886,7 @@
     "expression-en": "Put effort into",
     "img-sub": "chikarawoireru01.png",
     "example-ja": "A「(当店:とうてん)の(主力商品:しゅりょくしょうひん)の(売り込み:うりこみ)に(力:ちから)を(入:い)れている」",
-    "example-en": "A: \"We are putting effort into promoting our main products.\"",
+    "example-en": "A: We are putting effort into promoting our main products.",
     "notes-en": "The phrase \"chikara wo ireru\" is used to express that you are putting effort into something. The word \"chikara\" is a noun that means \"power\" or \"strength.\" The word \"ireru\" is a verb that means \"to put in.\" Shuryoku shouhin is a noun that means \"main product.\" Urikomi is a noun that means \"promotion.\"",
     "notes-ja": "「力を入れる」は、何かに努力を入れていることを表現するために使用されます。"
   },
@@ -11878,7 +11901,7 @@
     "expression-en": "Last hope",
     "img-sub": "tanominotsuna01.png",
     "example-ja": "A「(頼:たの)みの(綱:つな)だ」",
-    "example-en": "A: \"It's our last hope.\"",
+    "example-en": "A: It's our last hope.",
     "notes-en": "The phrase \"tanomi no tsuna\" is used to express that something is the last hope or the only way to solve a problem. The word \"tanomi\" is a noun that means \"request\" or \"hope.\" The word \"tsuna\" is a noun that means \"rope.\"",
     "notes-ja": "「頼みの綱」は、何かが最後の希望であることや問題を解決する唯一の方法であることを表現するために使用されます。"
   },
@@ -11893,7 +11916,7 @@
     "expression-en": "Tidy up",
     "img-sub": "katadukeru01.png",
     "example-ja": "A「(一:ひと)つ(一:ひと)つを(片付:かたづ)けていこう」",
-    "example-en": "A: \"Let's tidy up one by one.\"",
+    "example-en": "A: Let's tidy up one by one.",
     "notes-en": "The phrase \"katadukeru\" is used to express that you are tidying up or organizing things. However, \"katazukeru\" not only means organizing things but also means solving problems or finishing things.",
     "notes-ja": "「片付ける」は、物を整理したり、整頓したりすることを表現するために使用されます。しかし、「片付ける」は、物を整理するだけでなく、問題を解決したり、終わらせたりすることも意味します。"
   },
@@ -11908,7 +11931,7 @@
     "expression-en": "Be considerate of",
     "img-sub": "kiwotsukau01.png",
     "example-ja": "A「(彼女:かのじょ)は、(他人:たにん)に(気:き)を(使:つか)う」",
-    "example-en": "A: \"She is always considerate of others.\"",
+    "example-en": "A: She is always considerate of others.",
     "notes-en": "The phrase \"ki wo tsukau\" is used to express that you are considerate of others. The word \"ki\" is a noun that means \"spirit\" or \"mind.\" The word \"tsukau\" is a verb that means \"to use.\"",
     "notes-ja": "「気をつかう」は、他人に気を遣うことを表現するために使用されます。"
   },
@@ -11923,7 +11946,7 @@
     "expression-en": "Show up",
     "img-sub": "kaowodasu01.png",
     "example-ja": "A「(彼:かれ)は、(最近:さいきん)、この(喫茶店:きっさてん)に(顔:かお)を(出:だ)していない」",
-    "example-en": "A: \"He hasn't shown up at this cafe recently.\"",
+    "example-en": "A: He hasn't shown up at this cafe recently.",
     "notes-en": "The phrase \"kao wo dasu\" is used to express that someone appears or shows up at a place. The word \"kao\" is a noun that means \"face.\" The word \"dasu\" is a verb that means \"to put out\" or \"to show.\"",
     "notes-ja": "「顔を出す」は、誰かがある場所に現れることを表現するために使用されます。"
   },
@@ -11938,7 +11961,7 @@
     "expression-en": "Attract attention",
     "img-sub": "hitomewohiku01.png",
     "example-ja": "A「この(ポスター:ぽすたー)は、(人目:ひとめ)を(引:ひ)きますね」",
-    "example-en": "A: \"This poster attracts attention.\"",
+    "example-en": "A: This poster attracts attention.",
     "notes-en": "The phrase \"hitome wo hiku\" is used to express that something attracts attention. The word \"hitome\" is a noun that means \"eye\" or \"attention.\" The word \"hiku\" is a verb that means \"to pull\" or \"to attract.\"",
     "notes-ja": "「人目を引く」は、何かが注目を集めることを表現するために使用されます。"
   },
@@ -11953,7 +11976,7 @@
     "expression-en": "Cannot take it anymore",
     "img-sub": "tewoyaku01.png",
     "example-ja": "A「(子供:こども)の(態度:たいど)に(手:て)を(焼:や)いている」",
-    "example-en": "A: \"I can't take my child's attitude anymore.\"",
+    "example-en": "A: I can't take my child's attitude anymore.",
     "notes-en": "The phrase \"te wo yaku\" is used to express that you are having a hard time dealing with someone or something. The word \"te\" is a noun that means \"hand.\" The word \"yaku\" is a verb that means \"to bake.\"",
     "notes-ja": "「手を焼く」は、誰かや何かと取り扱いに困難を感じていることを表現するために使用されます。"
   },
@@ -11968,7 +11991,7 @@
     "expression-en": "Quit a relationship",
     "img-sub": "tewokiru01.png",
     "example-ja": "A「この(会社:かいしゃ)とは(手:て)を(切:き)って、もう(取:と)り(引:ひ)きは(行:おこな)わない」",
-    "example-en": "A: \"I'm going to quit this company and never deal with them again.\"",
+    "example-en": "A: I'm going to quit this company and never deal with them again.",
     "notes-en": "The phrase \"te wo kiru\" is used to express that you are going to end a relationship or connection with someone or something. The word \"te\" is a noun that means \"hand.\" The word \"kiru\" is a verb that means \"to cut.\"",
     "notes-ja": "「手を切る」は、誰かとの関係やつながりを絶つことを表現するために使用されます。"
   },
@@ -11983,7 +12006,7 @@
     "expression-en": "Be stubborn",
     "img-sub": "atamagakatai01.png",
     "example-ja": "A「(彼:かれ)は、(自分:じぶん)の(意見:いけん)を(曲:ま)げない」 B「(頭:あたま)が(固:かた)いね」",
-    "example-en": "A: \"He doesn't change his opinion.\" B: \"He's stubborn.\"",
+    "example-en": "A: He doesn't change his opinion. B: He's stubborn.",
     "notes-en": "The phrase \"atama ga katai\" is used to express that someone is stubborn or inflexible. The word \"atama\" is a noun that means \"head.\" The word \"katai\" is an i-adjective that means \"hard\" or \"stiff.\"",
     "notes-ja": "「頭が固い」は、誰かが頑固で柔軟性がないことを表現するために使用されます。"
   },
@@ -11998,7 +12021,7 @@
     "expression-en": "Tears of sparrows",
     "img-sub": "suzumenonamida01.png",
     "example-ja": "A「ねぇ、(初任給:しょにんきゅう)、(出:で)た？」 B「うん、(雀:すずめ)の(涙:なみだ)ほどね」",
-    "example-en": "A: \"Hey, did you get your first paycheck?\" B: \"Yeah, it's just a drop in the bucket.\"",
+    "example-en": "A: Hey, did you get your first paycheck? B: Yeah, it's just a drop in the bucket.",
     "notes-en": "The phrase \"suzume no namida\" is used to express that something is very small or insignificant. The word \"suzume\" is a noun that means \"sparrow.\" The word \"namida\" is a noun that means \"tear.\"",
     "notes-ja": "「雀の涙」は、何かが非常に小さく、取るに足らないことを表現するために使用されます。"
   },
@@ -12013,7 +12036,7 @@
     "expression-en": "Be concerned",
     "img-sub": "kininaru01.png",
     "example-ja": "A「その(ドラマ:どらま)の(続:つづ)きがどうなるのか、(気:き)になって(眠:ねむ)れない」",
-    "example-en": "A: \"I can't sleep because I'm concerned about how the drama will end.\"",
+    "example-en": "A: I can't sleep because I'm concerned about how the drama will end.",
     "notes-en": "The phrase \"ki ni naru\" is used to express that you are concerned or interested in something. The word \"ki\" is a noun that means \"mind\" or \"spirit.\" The word \"ni\" is a particle that is used to indicate the target of an action or the direction of a movement. The word \"naru\" is a verb that means \"to become.\"",
     "notes-ja": "「気になる」は、何かに興味を持ったり、心配したりすることを表現するために使用されます。"
   },
@@ -12028,7 +12051,7 @@
     "expression-en": "I am into it.",
     "img-sub": "hamaru01.png",
     "example-ja": "A「(最近:さいきん)、(読書:どくしょ)にはまっている」",
-    "example-en": "A: \"I've been into reading books lately.\"",
+    "example-en": "A: I've been into reading books lately.",
     "notes-en": "The phrase \"hamaru\" is used to express that you are interested in something and have been spending a lot of time on it. The word \"hamaru\" is a verb that means \"to be into\" or \"to be interested in.\"",
     "notes-ja": "「ハマる」は、何かに興味を持っていて、それに多くの時間を費やしていることを表現するために使用されます。"
   },
@@ -12043,7 +12066,7 @@
     "expression-en": "Can't wait",
     "img-sub": "machikirenai01.png",
     "example-ja": "A「(明日:あした)の(旅行:りょこう)、(楽:たの)しみだね」 B「うん、(待:ま)ちきれない」",
-    "example-en": "A: \"I'm looking forward to the trip tomorrow.\" B: \"Yeah, I can't wait.\"",
+    "example-en": "A: I'm looking forward to the trip tomorrow. B: Yeah, I can't wait.",
     "notes-en": "The phrase \"machikirenai\" is used to express that you are looking forward to something and cannot wait for it to happen. The word \"machi\" is a masu-form of a verb \"matsu (to wait)\" such as \"machi-masu.\" The word \"kirenai\" is a negative form of the verb \"kiru\" that means \"to be able to endure.\"",
     "notes-ja": "「待ちきれない」は、何かを楽しみにしていて、それが起こるのを待ちきれないことを表現するために使用されます。「待ち」は動詞の「待つ」のマス型に「きる(我慢する、できる)」の否定形「きれない」がついたものです。"
   },
@@ -12058,7 +12081,7 @@
     "expression-en": "Delivery service",
     "img-sub": "deribariisaabisu01.png",
     "example-ja": "A「(デリバリーサービス:でりばりーさーびす)を(利用:りよう)すると、(家:いえ)に(居:い)ながら(食:た)べ(物:もの)を(注文:ちゅうもん)できる」",
-    "example-en": "A: \"If you use a delivery service, you can order food while staying at home.\"",
+    "example-en": "A: If you use a delivery service, you can order food while staying at home.",
     "notes-en": "The phrase \"deribarii saabisu\" is used to express a service that delivers food or goods to your home. The word \"deribarii\" is a loanword from English that means \"delivery.\" The word \"saabisu\" is a loanword from English that means \"service.\"",
     "notes-ja": "「デリバリーサービス」は、食べ物や商品を家に配達するサービスを表現するために使用されます。"
   },
@@ -12087,7 +12110,7 @@
     "expression-en": "Atomosphere",
     "img-sub": "funiki01.png",
     "example-ja": "A「この(店:みせ)の(雰囲気:ふんいき)が(好:す)き」",
-    "example-en": "A: \"I like the atmosphere of this store.\"",
+    "example-en": "A: I like the atmosphere of this store.",
     "notes-en": "The word \"fun'iki\" is a noun that means the overall feel or atmosphere of a place or situation. When you cannot quite put your finger on what makes a place feel a certain way, using the word \"fun'iki\" can be helpful. Another way to express this idea is to say \"nantonaku,\" which means \"somehow\" or \"in some way.\"",
     "notes-ja": "「雰囲気」は、場所や状況の全体的な感じや雰囲気を表す名詞です。具体的にいい言い表せない時、このことばを使うと便利です。他にも「なんとなく」という言い方もあります。"
   },
@@ -12148,7 +12171,7 @@
     "expression-en": "Eyes pop out",
     "img-sub": "megatobidiru01.png",
     "example-ja": "A「その(値段:ねだん)を(見:み)て、(目:め)が(飛:と)び(出:で)るほど(驚:おどろ)いた」",
-    "example-en": "A: \"Seeing the price, I was so surprised that my eyes nearly popped out.\"",
+    "example-en": "A: Seeing the price, I was so surprised that my eyes nearly popped out.",
     "notes-en": "This Japanese expression means that the price was so astonishingly high that it caused an extreme reaction. The phrase \"目が飛び出るほど\" (me ga tobi deru hodo) literally translates to \"eyes popping out,\" which is a vivid way of describing someone being extremely surprised or shocked. The expression conveys that the reaction to seeing the price was intense and exaggerated, similar to how one might react if they were extremely astonished.",
     "notes-ja": "この日本語の表現「その値段を見て、目が飛び出るほど驚いた」は、その価格が非常に驚くべきものであったため、極端な反応を引き起こしたことを意味します。「目が飛び出るほど」というフレーズは、文字通り「目が飛び出る」という意味で、誰かが非常に驚いたり、ショックを受けたりする様子を描写する生々しい表現です。この表現は、価格を見たときの反応が非常に強烈で誇張されていることを伝えています。"
   },
@@ -12163,7 +12186,7 @@
     "expression-en": "Stomach is black",
     "img-sub": "haragakuroi01.png",
     "example-ja": "A「(彼:かれ)は、(腹:はら)が(黒:くろ)い」",
-    "example-en": "A: \"He is malicious.\"",
+    "example-en": "A: He is malicious.",
     "notes-en": "The phrase \"hara ga kuroi\" is used to express that someone has malice. It does not mean that the person's internal organs are actually black. The word \"hara\" is a noun that means \"stomach.\" The word \"kuroi\" is an i-adjective that means \"black.\"",
     "notes-ja": "「腹が黒い」は、誰かが悪意を持っていることを表現するために使用されます。本当に内蔵が黒いわけではありません。"
   },
@@ -12178,7 +12201,7 @@
     "expression-en": "Break a bone",
     "img-sub": "honewooru01.png",
     "example-ja": "A「(先生:せんせい)は、(特許取得:とっきょしゅとく)のために、いろいろ(骨:ほね)を(折:お)ってくださいました」",
-    "example-en": "A: \"The teacher went to great lengths to obtain a patent.\"",
+    "example-en": "A: The teacher went to great lengths to obtain a patent.",
     "notes-en": "The phrase \"hone wo oru\" is used to express that you put a lot of effort into something. It does not mean that you actually broke a bone. The word \"hone\" is a noun that means \"bone.\" The word \"oru\" is a verb that means \"to break.\"",
     "notes-ja": "「努力をつける」は、何かに多くの努力を払ったことを表現するために使用されます。本当に体の骨を折ったわけではありません。"
   },
@@ -12193,7 +12216,7 @@
     "expression-en": "I have a sore ear",
     "img-sub": "mimigaitai01.png",
     "example-ja": "A「それは、(耳:みみ)が(痛:いた)い(話:はなし)だ」",
-    "example-en": "A: \"That's a painful story.\"",
+    "example-en": "A: That's a painful story.",
     "notes-en": "There are some cases where the phrase \"mimi ga itai\" is used to express that your ear hurts, but in that case, you say \"mimi no naka ga itai (my ear hurts).\" Generally, the expression \"mimi ga itai\" is used when you listen to someone's story and feel uncomfortable because the content is inconvenient for you.",
     "notes-ja": "「耳が痛い」は、耳が痛いことを表現するために使用されることもないわけではありませんが、その時には、「耳の中が痛い」と言います。一般的には、「耳が痛い」という表現は、他人の話を聞いて、その内容が自分にとって不都合であると感じたときに使われます。"
   },
@@ -12208,7 +12231,7 @@
     "expression-en": "Have an eye",
     "img-sub": "mewomotteiru01.png",
     "example-ja": "A「(彼:かれ)は、(絵:え)を(見:み)る(目:め)を(持:も)っている」",
-    "example-en": "A: \"He has an eye for pictures.\"",
+    "example-en": "A: He has an eye for pictures.",
     "notes-en": "The phrase \"me wo motteiru (he has the eyes to appreciate paintings)\" means that he possesses the ability or sensitivity to understand and evaluate the beauty and value of paintings. It implies that he not only has the physical ability to see but also has the aesthetic sense and understanding required to appreciate art. The word \"me\" is a noun that means \"eye.\" The word \"motteiru\" is the te-form of the verb \"motsu\" that means \"to have.\"",
     "notes-ja": "「目を持っている」は、絵画の美しさや価値を理解し、評価する能力や感性を持っていることを意味します。それは、物理的な見る能力だけでなく、芸術を鑑賞するために必要な美的感覚と理解を持っていることを意味します。 「目」は、目という意味の名詞です。 「持っている」は、「持つ」という動詞のて形です。"
   },
@@ -12223,7 +12246,7 @@
     "expression-en": "Get fired",
     "img-sub": "kubininaru01.png",
     "example-ja": "A「(何回:なんかい)も(遅刻:ちこく)して、(アルバイト:あるばいと)を(首:くび)になった」",
-    "example-en": "A: \"I was fired from my part-time job because I was late many times.\"",
+    "example-en": "A: I was fired from my part-time job because I was late many times.",
     "notes-en": "The phrase \"kubi ni naru\" is used to express that you are fired from your job. The word \"kubi\" is a noun that means \"neck.\" The word \"naru\" is a verb that means \"to become.\"",
     "notes-ja": "「首になる」は、仕事をクビにされたことを表現するために使用されます。 「首」は、首という意味の名詞です。 「なる」は、「become」という意味の動詞です。"
   },
@@ -12238,7 +12261,7 @@
     "expression-en": "Secret weapon",
     "img-sub": "okunote01.png",
     "example-ja": "A「(奥:おく)の(手:て)を(使:つか)うから、まだ(大丈夫:だいじょうぶ)」",
-    "example-en": "A: \"I'll use my secret weapon, so I'm still okay.\"",
+    "example-en": "A: I'll use my secret weapon, so I'm still okay.",
     "notes-en": "The phrase \"oku no te\" is used to express that you have something hidden and use it when needed. The word \"oku\" means \"deep\" or \"secret.\" The word \"te\" has the meaning of \"palm of the hand\" or \"hand,\" and in addition to the meaning of \"hand,\" it also means \"means\" or \"method.\"",
     "notes-ja": "「奥の手」は、何かを隠しておいて、必要な時に使うことを表現するために使用されます。 「奥」とは、奥深いところ、秘密の意味があります。 「手」は、手のひら、手の意味以外に、手段、方法があります。"
   },
@@ -12253,7 +12276,7 @@
     "img": "aburauri.png",
     "expression-en": "Goof off",
     "example-ja": "A「(彼:かれ)は、(女:おんな)の(子:こ)とおしゃべりばかりして、(油:あぶら)を(売:う)っていました」",
-    "example-en": "A: \"He was just chatting with girls and goofing off.\"",
+    "example-en": "A: He was just chatting with girls and goofing off.",
     "notes-en": "The phrase \"abura wo uru\" means not to sell oil but to goof off without working. The word \"abura\" is a noun that means \"oil.\" The word \"uru\" is a verb that means \"to sell.\" If his job was really selling oil, it is difficult to tell whether he is working or goofing off.",
     "notes-ja": "「油を売る」は、本当に油を売るのではなく、仕事をしないでサボることです。もし、彼の職業が本当に油売りだったら、その時は仕事をしているのか、サボっているのか、わかりませんので、注意が必要です。"
   },
@@ -12268,7 +12291,7 @@
     "expression-en": "Want to borrow the hands of a cat",
     "img-sub": "nekonotemokaritai01.png",
     "example-ja": "A「(何:なに)か(細:こま)かい(作業:さぎょう)を(手伝:てつだ)ってくれる(人:ひと)が(欲:ほ)しい」 B「(猫:ねこ)の(手:て)も(借:か)りたいね」",
-    "example-en": "A: \"I want someone to help me with some small tasks.\" B: \"I wish I could borrow the hands of a cat.\"",
+    "example-en": "A: I want someone to help me with some small tasks. B: I wish I could borrow the hands of a cat.",
     "notes-en": "The phrase \"tetsudatte hoshii\" is used to express that you want someone to help you with something. The word \"tetsudau\" is a verb that means \"to help.\" The word \"hoshii\" is an i-adjective that means \"want.\"",
     "notes-ja": "「手伝ってほしい」は、何かを手伝ってほしいと思うことを表現するために使用されます。"
   },
@@ -12283,7 +12306,7 @@
     "expression-en": "A guardian dog",
     "img-sub": "komainu01.png",
     "example-ja": "A「(神社:じんじゃ)の(入口:いりぐち)に(狛犬:こまいぬ)が(置:お)かれている」",
-    "example-en": "A: \"A guardian dog is placed at the entrance of the shrine.\"",
+    "example-en": "A: A guardian dog is placed at the entrance of the shrine.",
     "notes-en": "The \"komainu\" means a guardian dog placed at the entrance of a shrine. The word \"komainu\" is a compound noun that is composed of the noun \"koma\" and the noun \"inu.\" The word \"koma\" is a noun that means \"guardian\" or \"protector.\" The word \"inu\" is a noun that means \"dog.\"",
     "notes-ja": "「狛犬」は、神社の入り口に置かれている置物で、その神社を守るために置かれています。"
   },
@@ -12298,7 +12321,7 @@
     "expression-en": "A beckoning cat",
     "img-sub": "manekineko01.png",
     "example-ja": "A「(店:みせ)の(入口:いりぐち)には、(商売繁盛:しょうばいはんじょう)を(願:ねが)って(招:まね)き(猫:ねこ)が(置:お)かれている」",
-    "example-en": "A: \"A beckoning cat is placed at the entrance of the store to wish for prosperity in business.\"",
+    "example-en": "A: A beckoning cat is placed at the entrance of the store to wish for prosperity in business.",
     "notes-en": "The phrase \"manekineko\" is used to express that a beckoning cat is placed at the entrance of a store to wish for prosperity in business. The word \"manekineko\" is a compound noun that is composed of the verb \"maneku\" (\"to beckon\") and the noun \"neko\" (\"cat\").",
     "notes-ja": "「招き猫」は、商売繁盛を願って店の入り口に招き猫が置かれていることを表現するために使用されます。"
   },
@@ -12313,7 +12336,7 @@
     "expression-en": "coincidence",
     "img-sub": "guuzennoicchi01.png",
     "example-ja": "A「(何:なん)で(同:おな)じ(服:ふく)(着:て)るの」 B「単なる(偶然:ぐうぜん)の(一致:いっち)」",
-    "example-en": "A: \"Why are you wearing the same clothes?\" B: \"It's just a coincidence.\"",
+    "example-en": "A: Why are you wearing the same clothes? B: It's just a coincidence.",
     "notes-en": "The phrase \"guzen no icchi\" is used to express that something is a mere coincidence. The word \"guzen\" is a noun that means \"chance\" or \"accident.\" The word \"icchi\" is a noun that means \"coincidence\" or \"agreement.\"",
     "notes-ja": "「偶然の一致」は、何かが単なる偶然であることを表現するために使用されます。"
   },
@@ -12328,7 +12351,7 @@
     "expression-en": "Please help yourself.",
     "img-sub": "gojiyuuni01.png",
     "example-ja": "A「(パンフレット:ぱんふれっと)、ひとつ、よろしいですか？」 B「ええ、どうぞ、ご(自由:じゆう)にお(取:と)りください」",
-    "example-en": "A: \"Can I have a pamphlet?\" B: \"Yes, please help yourself.\"",
+    "example-en": "A: Can I have a pamphlet? B: Yes, please help yourself.",
     "notes-en": "\"jiyuu\" means \"freedom\" or \"liberty.\" The construction \"go...ni\" makes \"jiyuu\" more polite. Similarly, \"o...kudasai\" adds politeness to the verb \"tori,\" which comes from \"toru\" (\"to take\"). \"Toru\" is first changed to \"torimasu,\" and then \"masu\" is removed to form \"tori.\" The phrase \"go jiyuu ni otorikudasai\" is a polite way to say that you can take something freely or at your own discretion.",
     "notes-ja": "「自由」は、「freedom」や「liberty」という意味です。「ご...に」の構造は、「自由」をより丁寧にします。「お...ください」は、「取り」を丁寧にするために使われます。「取り」は「取る」から来ています。「取る」は「取ります」に変更され、その後「ます」が取り除かれて「取り」が形成されます。「ご自由にお取りください」は、何かを自由に取ることができるか、自分の判断で取ることができるかを丁寧に伝える方法です。"
   },
@@ -12343,7 +12366,7 @@
     "expression-en": "Let's keep going",
     "img-sub": "dondonsusumeyou01.png",
     "example-ja": "A「この(プロジェクト:ぷろじぇくと)の(条件:じょうけん)は、すべて(揃:そろ)った。さあ、どんどん(進:すす)めよう」",
-    "example-en": "A: \"All the conditions for this project are in place. Let's keep going.\"",
+    "example-en": "A: All the conditions for this project are in place. Let's keep going.",
     "notes-en": "The phrase \"dondon susumeyou\" is used to express that you should continue to move forward without stopping. The word \"dondon\" is an adverb that means \"more and more\" or \"steadily.\" The word \"susumeyou\" is the volitional form of a verb \"susumeru\" that means \"to advance\" or \"to proceed.\"",
     "notes-ja": "「どんどん進めよう」は、止まらずに前に進むべきだということを表現するために使用されます。「どんどん」は、「ますます」や「着実に」という副詞です。「進めよう」は、「進める」という他動詞の意向形です。"
   },
@@ -12358,7 +12381,7 @@
     "expression-en": "Suddenly",
     "img-sub": "totsuzen01.png",
     "example-ja": "A「(突然:とつぜん)、(電話:でんわ)が(鳴:な)って、びっくりした」",
-    "example-en": "A: \"Suddenly, the phone rang and I was surprised.\"",
+    "example-en": "A: Suddenly, the phone rang and I was surprised.",
     "notes-en": "The word \"totsuzen\" is an adverb that means \"suddenly\" or \"unexpectedly.\" ",
     "notes-ja": "「突然」は、突然、予期せずにという副詞です。"
   },
@@ -12373,7 +12396,7 @@
     "expression-en": "About..",
     "img-sub": "nitsuite01.png",
     "example-ja": "A「(書類:しょるい)の(書:か)き(方:かた)について(教:おし)えていただけませんか」",
-    "example-en": "A: \"Could you tell me how to write the document?\"",
+    "example-en": "A: Could you tell me how to write the document?",
     "notes-en": "The phrase \"ni tsuite\" is used to ask for information or instructions about something. ",
     "notes-ja": "「～について」は、何かについての情報や指示を求めるために使用されます。"
   },
@@ -12388,7 +12411,7 @@
     "expression-en": "By the way",
     "img-sub": "tokorode01.png",
     "example-ja": "A「(昨日:きのう)、(映画:えいが)を(見:み)たよ」 B「そうなんだ。ところで、(明日:あした)の(予定:よてい)は？」 A「(特:とく)にないよ」",
-    "example-en": "A: \"I watched a movie yesterday.\" B: \"I see. By the way, what are your plans for tomorrow?\" A: \"Nothing special.\"",
+    "example-en": "A: I watched a movie yesterday. B: I see. By the way, what are your plans for tomorrow? A: Nothing special.",
     "notes-en": "The phrase \"tokorode\" is used to change the subject of the conversation or to ask a question. ",
     "notes-ja": "「ところで」は、会話の話題を変えたり、質問をしたりするために使用されます。"
   },
@@ -12403,7 +12426,7 @@
     "expression-en": "Of course",
     "img-sub": "mochiron01.png",
     "example-ja": "A「(明日:あした)、(会:あ)える？」 B「(もちろん)」",
-    "example-en": "A: \"Can we meet tomorrow?\" B: \"Of course.\"",
+    "example-en": "A: Can we meet tomorrow? B: Of course.",
     "notes-en": "The phrase \"mochiron\" is used to express that something is natural or obvious. ",
     "notes-ja": "「もちろん」は、何かが当然であることを表現するために使用されます。"
   },
@@ -12418,57 +12441,81 @@
     "expression-en": "A habit",
     "img-sub": "atarashiishuukan01.png",
     "example-ja": "A「(毎日:まいにち)、(ジョギング:じょぎんぐ)することが(習慣:しゅうかん)になった」",
-    "example-en": "A: \"I've made it a habit to jog every day.\"",
+    "example-en": "A: I've made it a habit to jog every day.",
     "notes-en": "The phrase \"atarashii shuukan\" is used to express that you have started a new habit. The word \"atarashii\" is an i-adjective that means \"new.\" The word \"shuukan\" is a noun that means \"habit.\" For example, sleeping early and waking up early for one's health, eating a little yogurt every day, etc.",
     "notes-ja": "「習慣」とは、毎日何かを繰り返し行うことを指します。たとえば、健康のために、早寝早起きをする、少しヨーグルトを毎日食べる、などです。"
   },
   {
     "date": "2024.08.22",
+    "date-history": [20240822, 20260419],
     "day": "Thu",
     "number": 134,
     "index": "maniatta",
-    "title": "Ma ni atta",
+    "title": "Made it in time",
     "expression-ja": "(間:ま)に(合:あ)った",
     "roman-ja": "Ma ni atta",
-    "expression-en": "Just in time",
+    "expression-en": "Made it in time",
+    "variants-ja": ["間に合った", "間に合いました", "ぎりぎり間に合った"],
+    "variants-en": ["made it in time", "made it just in time", "barely made it in time"],
+    "intent-ja": ["間に合ったことの報告", "安堵の共有", "時間に関する即時的な反応"],
+    "intent-en": ["reporting that something was in time", "sharing relief", "immediate reaction about timing"],
+    "tags-ja": ["即時文法", "口語", "時間表現", "結果報告", "安堵"],
+    "tags-en": ["immediate grammar", "colloquial", "time expression", "reporting a result", "relief"],
     "img-sub": "maniatte01.png",
     "example-ja": "ひとつ(前:まえ)の(電車:でんしゃ)に(間:ま)に(合:あ)ったので、(予定:よてい)より(早:はや)く(着:つ)きました。",
-    "example-en": "I caught the previous train just in time, so I arrived earlier than planned.",
-    "notes-en": "\"Ma ni atta\" expresses that you managed to do something just in time. \"Ma\" means \"time\" or \"interval,\" and \"ni\" is a particle indicating the target time or goal. \"Au\" is a verb meaning \"to match,\" \"to fit,\" or \"to be in time.\" In real life, there are probably more situations where you don't make it in time than when you do.",
-    "notes-ja": "「間に合った」は、何かをちょうど間に合わせたことを表現します。「間」は「時間」や「間隔」を意味し、「に」は目標や時間を示す助詞です。「合う」は「一致する」「適合する」または「間に合う」という意味の動詞です。実際のところ、人生では間に合わないことのほうが多いかもしれませんね。"
+    "example-en": "I made it to the earlier train, so I arrived earlier than planned.",
+    "notes-en": "\"Ma ni atta\" expresses that you managed to make it in time. \"Ma\" means \"time\" or \"interval,\" and \"ni\" is a particle indicating the target time or goal. \"Au\" is a verb meaning \"to match,\" \"to fit,\" or \"to be in time.\" In real life, there are probably more situations where you don't make it in time than when you do.",
+    "notes-ja": "「間に合った」は、何かにちょうど間に合ったことを表現します。「間」は「時間」や「間隔」を意味し、「に」は目標や時間を示す助詞です。「合う」は「一致する」「適合する」または「間に合う」という意味の動詞です。実際のところ、人生では間に合わないことのほうが多いかもしれませんね。"
   },
   {
     "date": "2024.08.21",
+    "date-history": [20240821, 20260419],
     "day": "Wed",
     "number": 133,
-    "index": "untennmenkyo",
+    "index": "untenmenkyo",
     "title": "A driver's license",
     "expression-ja": "(運転:うんてん)(免許:めんきょ)",
     "roman-ja": "Unten menkyo",
     "expression-en": "Driver's license",
+    "variants-ja": ["運転免許", "運転免許を取る"],
+    "variants-en": ["driver's license", "get a driver's license"],
+    "intent-ja": ["資格の言及", "取得の表現", "日常語彙"],
+    "intent-en": ["mentioning a qualification", "expressing obtaining it", "everyday vocabulary"],
+    "tags-ja": ["即時文法", "名詞", "複合名詞", "資格", "日常語彙"],
+    "tags-en": ["immediate grammar", "noun", "compound noun", "qualification", "everyday vocabulary"],
     "img-sub": "untenmenkyo01.png",
     "example-ja": "A「(運転:うんてん)(免許:めんきょ)を(取:と)った」",
-    "example-en": "A: \"I got my driver's license.\"",
-    "notes-en": "The phrase \"unten menkyo\" is a compound noun which is composed of two nouns \"unten (driving)\" and \"menkyo (license).\"",
+    "example-en": "A: I got my driver's license.",
+    "notes-en": "The phrase \"unten menkyo\" is a compound noun composed of two nouns: \"unten\" (driving) and \"menkyo\" (license).",
     "notes-ja": "「運転免許」は、2つの名詞「運転（driving）」と「免許（license）」からなる複合名詞です。"
   },
   {
     "date": "2024.08.20",
+    "date-history": [20240820, 20260419],
     "day": "Tue",
     "number": 132,
     "index": "dearimasuyouni",
-    "title": "I wish ..",
+    "title": "I hope ...",
     "expression-ja": "～でありますように",
     "roman-ja": "~de arimasu you ni",
-    "expression-en": "I wish ..",
+    "expression-en": "I hope ...",
+    "variants-ja": ["～でありますように", "～でありますように。"],
+    "variants-en": ["I hope ...", "May ..."],
+    "intent-ja": ["願いの表現", "希望の表現", "祈りの表現"],
+    "intent-en": ["expressing a wish", "expressing hope", "expressing a prayer"],
+    "tags-ja": ["即時文法", "口語", "願望表現", "希望表現", "祈願表現"],
+    "tags-en": ["immediate grammar", "spoken", "wish expression", "hope expression", "prayer expression"],
+    "adjusted-expression-ja": "～であることを願います",
+    "adjusted-expression-en": "I hope that ...",
     "img-sub": "dearimasuyouni01.png",
     "example-ja": "A「(世:よ)の(中:なか)、(平和:へいわ)でありますように」 B「(僕:ぼく)は、(試験:しけん)、(合格:ごうかく)できますように」",
-    "example-en": "A: \"I wish for peace in the world.\" B: \"I wish I could pass the exam.\"",
-    "notes-en": "The phrase \"~de arimasu you ni\" is used to express a wish or hope. This expression is used in patterns such as \"(verb + dekimasu) you ni\" and \"(noun + de arimasu) you ni.\"",
+    "example-en": "A: I hope there will be peace in the world. B: I hope I can pass the exam.",
+    "notes-en": "The phrase \"~de arimasu you ni\" is used to express a wish or hope. This expression is used in patterns such as \"(verb) you ni\" and \"(noun + de arimasu) you ni.\"",
     "notes-ja": "「～でありますように」は、願いや希望を表現するために使用されます。この表現は、「（動詞＋できます）ように」や「（名詞＋であります）ように」といったパターンで使われます。"
   },
   {
     "date": "2024.08.19",
+    "date-history": [20240819, 20260419],
     "day": "Mon",
     "number": 131,
     "index": "tewougokasu",
@@ -12476,10 +12523,18 @@
     "expression-ja": "(手:て)を(動:うご)かす",
     "roman-ja": "Te wo ugokasu",
     "expression-en": "move your hands",
+    "variants-ja": ["手を動かす", "手を動かしてみる"],
+    "variants-en": ["move your hands", "try doing it with your hands"],
+    "intent-ja": ["実践の促し", "理解の促進", "行動のうながし"],
+    "intent-en": ["encouraging practice", "promoting understanding", "prompting action"],
+    "tags-ja": ["即時文法", "口語", "実践表現", "理解促進表現", "行動促進表現"],
+    "tags-en": ["immediate grammar", "spoken", "practice expression", "understanding-promoting expression", "action-prompting expression"],
+    "adjusted-expression-ja": "実際に手を動かしてください",
+    "adjusted-expression-en": "Please try doing it yourself.",
     "img-sub": "tewougokasu01.png",
     "example-ja": "A「(考:かんが)えるだけでなく、(実際:じっさい)に(手:て)を(動:うご)かしてみると、よくわかるよ」",
-    "example-en": "A: \"Not only think, but also move your hands in practice, you will understand well.\"",
-    "notes-en": "The phrase \"te wo ugokasu\" is used to express that you should move your hands to understand something. The word \"te\" is a noun that means \"hand.\" The word \"ugokasu\" is a verb that means \"to move.\"",
+    "example-en": "A: If you don't just think about it but actually try doing it with your hands, you'll understand it better.",
+    "notes-en": "The phrase \"te wo ugokasu\" is used to express that you should actually use your hands in order to understand something. The word \"te\" is a noun that means \"hand.\" The word \"ugokasu\" is a verb that means \"to move.\"",
     "notes-ja": "「手を動かす」は、何かを理解するために手を動かすべきだということを表現するために使用されます。"
   },
   {
@@ -14979,7 +15034,7 @@
     "adjusted-expression-en": "Well then, thank you for the food.",
     "img-sub": "itadakimasu01.png",
     "example-ja": "(食:た)べる(前:まえ)に「いただきます」と(言:い)う。",
-    "example-en": "Before eating, people say, \"Itadakimasu.\"",
+    "example-en": "Before eating, people say, Itadakimasu.",
     "notes-en": "\"Itadakimasu\" is a fixed expression said before eating in Japan. It is used to begin a meal with a sense of gratitude and respectful receiving, rather than as a simple literal statement. Although the verb behind it is the humble form \"itadaku,\" in actual use it functions as a formulaic mealtime expression.",
     "notes-ja": "「いただきます」は、日本で食事の前に言う定型表現です。食べ物や食事の場に対する感謝と、ありがたく受ける気持ちを込めて使われ、単純な逐語訳だけでは捉えにくい表現です。もとの動詞は謙譲の「いただく」ですが、実際には食事開始のあいさつとして機能しています。"
   },
@@ -15123,7 +15178,7 @@
     "adjusted-expression-en": "I tried to say \"arigatou\" but mistakenly said \"crocodile.\"",
     "img-sub": "crocodile01.png",
     "example-ja": "「ありがとう」と(言:い)おうとして、「(クロコダイル:くろこだいる)」って(言:い)っちゃった",
-    "example-en": "I tried to say \"arigatou\" but ended up saying \"crocodile.\"",
+    "example-en": "I tried to say arigatou but ended up saying crocodile.",
     "notes-en": "This expression is used humorously as a mistaken or playful substitute for \"arigatou.\" In the anecdote behind it, someone tried to remember \"arigatou\" by linking it to a similar-sounding English word such as \"alligator,\" but ended up saying \"crocodile\" instead. The point is not correctness but the amusing sound association across languages.",
     "notes-ja": "これは、「ありがとう」の代わりに、ユーモラスに使われる言いまちがい的な表現です。もとの逸話では、「ありがとう」を思い出すために「alligator」のような音の似た英語を手がかりにしようとして、実際には「クロコダイル」と言ってしまった、というおかしさがあります。大事なのは正しさよりも、言語をまたいだ音の連想のおもしろさです。"
   },
