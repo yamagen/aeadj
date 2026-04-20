@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.20",
+    "day": "Mon",
+    "number": 740,
+    "index": "korettemachigatteru",
+    "title": "Is this wrong?",
+    "expression-ja": "これって(間違:まちが)ってる？",
+    "roman-ja": "Kore tte machigatteru?",
+    "expression-en": "Is this wrong?",
+    "variants-ja": ["これって間違ってる？", "これって間違い？"],
+    "variants-en": ["Is this wrong?", "Is this a mistake?"],
+    "intent-ja": ["確認の表現", "疑念の共有", "口語的な表現"],
+    "intent-en": ["expression of confirmation", "sharing of doubt", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "確認表現", "疑念共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of confirmation", "expression of doubt sharing", "colloquial expression"],
+    "adjusted-expression-ja": "これは(間違:まちが)っていますか？",
+    "adjusted-expression-en": "Is this wrong?",
+    "img-sub": "korettemachigatteru01.png",
+    "example-ja": "これって(間違:まちが)ってる？(正解:せいかい)だと(思:おも)うんだけど、...",
+    "example-en": "Is this wrong? I thought it was correct, but...",
+    "notes-ja": "「これって間違ってる？」は、目の前の答えや表現、やり方などについて、正しいかどうかをその場で気軽に確かめるときに使う口語的な表現です。単なる確認だけでなく、「自分は合っていると思ったのだけれど」という軽い疑念やためらいを含んで使われることもあります。",
+    "notes-en": "'Kore tte machigatteru?' is a colloquial expression used when casually checking, on the spot, whether something such as an answer, expression, or method is wrong. It can express not only simple confirmation but also a slight sense of doubt or hesitation, as in a situation where the speaker thought it was correct."
+  },
+  {
     "date": "2026.04.19",
     "day": "Sun",
     "number": 739,
