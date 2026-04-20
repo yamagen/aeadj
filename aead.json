@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026.04.21",
+    "day": "Tue",
+    "number": 741,
+    "index": "udegawarui",
+    "title": "Be bad at it",
+    "expression-ja": "(腕:うで)が(悪:わる)い",
+    "roman-ja": "Ude ga warui",
+    "expression-en": "Be bad at it",
+    "variants-ja": ["腕が悪い", "腕がいい", "腕がない"],
+    "variants-en": ["be bad at it", "be good at it", "have no skill"],
+    "intent-ja": ["能力の評価", "技量の指摘", "軽い批判"],
+    "intent-en": ["evaluating ability", "pointing out skill level", "light criticism"],
+    "tags-ja": ["即時文法", "慣用表現", "口語", "能力評価", "技量"],
+    "tags-en": ["immediate grammar", "idiomatic expression", "colloquial", "ability evaluation", "skill"],
+    "adjusted-expression-ja": "(彼:かれ)は、その(作業:さぎょう)を(十分:じゅうぶん)にこなす(技術:ぎじゅつ)が(ない)。",
+    "adjusted-expression-en": "He does not have the skill to perform that task adequately.",
+    "example-ja": "A「このパチンコ台、(全然:ぜんぜん)(入:はい)らないね」 B「(腕:うで)が(悪:わる)いんだよ」",
+    "example-en": "A: This pachinko machine doesn't work at all. B: You don't have the skill for it.",
+    "notes-ja": "「腕が悪い」は、能力や技量が十分でないことを表現する言い方です。レオナルド熊のコントで、「どうしたんだ、このパチンコ、ぜんぜん入らないじゃないか」「それはパチンコ台が悪いんじゃなくて、あなたの腕が悪いんですよ」と言われた人が、「先生、どうにかしてください」と病院に来る場面があります。このように、評価が身体の問題として受け取られることで、意味のずれが生まれます。",
+    "notes-en": "The phrase \"ude ga warui\" refers to a lack of skill or ability. In a comedy sketch by Leonardo Kuma, a man says, \"What's wrong with this pachinko machine? It doesn't go in at all,\" and is told, \"It's not the machine, it's your skill that's bad.\" He then goes to a doctor and says, \"Doctor, please do something about it.\" This shows how an evaluation can be reinterpreted as a physical problem, creating a mismatch in meaning."
+  },
+  {
     "date": "2026.04.20",
     "day": "Mon",
     "number": 740,
