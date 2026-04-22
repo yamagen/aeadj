@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.22",
+    "day": "Wed",
+    "number": 742,
+    "index": "sugumodoru",
+    "title": "I'll be right back.",
+    "expression-ja": "すぐ、(戻:もど)る。",
+    "roman-ja": "Sugu, modoru.",
+    "expression-en": "I'll be right back.",
+    "variants-ja": ["すぐ、戻る。", "すぐに戻る。"],
+    "variants-en": ["I'll be right back.", "I'll return soon."],
+    "intent-ja": ["一時的な離脱の表現", "安心の共有", "口語的な表現"],
+    "intent-en": ["expression of temporary departure", "sharing of reassurance", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "一時的な離脱表現", "安心共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "temporary departure expression", "reassurance sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "すぐに(戻:もど)ります。",
+    "adjusted-expression-en": "I will be right back.",
+    "img-sub": "sugumodoru01.png",
+    "example-ja": "ちょっと、いい？すぐ、(戻:もど)るから。",
+    "example-en": "Hey, I'll be right back, okay?",
+    "notes-ja": "「すぐ、戻る」は、その場を一時的に離れるときに、短く状況を伝える口語的な表現です。文としては主語や時制を明示しませんが、それでも十分に意味が通じます。相手に「すぐ戻るから大丈夫」という安心感を与える働きがあります。",
+    "notes-en": "'Sugu, modoru.' is a colloquial expression used when briefly leaving a place. It does not explicitly state the subject or tense, but it is fully understood in context. It functions to reassure the other person that the speaker will return soon."
+  },
+  {
     "date": "2026.04.21",
     "day": "Tue",
     "number": 741,
