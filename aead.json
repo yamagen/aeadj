@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.23",
+    "day": "Thu",
+    "number": 743,
+    "index": "anoneashitaaiteru",
+    "title": "Hey, are you free tomorrow?",
+    "expression-ja": "あのね、(明日:あす)、(空:あ)いてる？",
+    "roman-ja": "Ano ne, ashita, aiteru?",
+    "expression-en": "Hey, are you free tomorrow?",
+    "variants-ja": ["あのね、明日、空いてる？", "あのさ、明日、空いてる？"],
+    "variants-en": ["Hey, are you free tomorrow?", "Hey, do you have time tomorrow?"],
+    "intent-ja": ["予定の確認", "親しみの共有", "口語的な表現"],
+    "intent-en": ["confirmation of schedule", "sharing of familiarity", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "予定確認表現", "親しみ共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "schedule-confirmation expression", "familiarity-sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "すみません、(明日:あす)は、ご(都合:つごう)いかがでしょうか？",
+    "adjusted-expression-en": "(Excuse me,) are you available tomorrow?",
+    "img-sub": "anoneashitaaiteru01.png",
+    "example-ja": "A「あのね、(明日:あす)、(空:あ)いてる？」 B「ちょっと、(予定:よてい)があるけど」",
+    "example-en": "A: Hey, are you free tomorrow? B: I have some plans, but...",
+    "notes-ja": "「あのね、明日、空いてる？」は、友達や親しい人に対して、明日の予定を気軽に確認するための口語的な表現。「あのね」は話しかけるときのフレーズで、「空いてる？」は「are you free?」の意味です。",
+    "notes-en": "'Ano ne, ashita, aiteru?' is a colloquial expression used to casually check someone's schedule for tomorrow, typically when talking to friends or close acquaintances. 'Ano ne' is a phrase used to get someone's attention, and 'aiteru?' means 'are you free?'"
+  },
+  {
     "date": "2026.04.22",
     "day": "Wed",
     "number": 742,
