@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.28",
+    "day": "Tue",
+    "number": 748,
+    "index": "aaimadensha",
+    "title": "Ah, I'm on the train now.",
+    "expression-ja": "ああ、(今:いま)、(電車:でんしゃ)。",
+    "roman-ja": "Aa, ima, densha.",
+    "expression-en": "Ah, I'm on the train now.",
+    "variants-ja": ["ああ、今、電車。", "ああ、今、電車に乗ってる。"],
+    "variants-en": ["Ah, I'm on the train now.", "Ah, I'm currently on the train."],
+    "intent-ja": ["現在の状況の表現", "驚きの共有", "口語的な表現"],
+    "intent-en": ["expression of current situation", "sharing of surprise", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "現在状況表現", "驚き共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "current situation expression", "expression of surprise sharing", "colloquial expression"],
+    "adjusted-expression-ja": "(今:いま)、(電車:でんしゃ)に(乗:の)っています。",
+    "adjusted-expression-en": "Ah, I'm currently on the train.",
+    "img-sub": "aaimadensha01.png",
+    "example-ja": "A「どこにいる？」 B「ああ、(今:いま)、(電車:でんしゃ)」",
+    "example-en": "A: Where are you? B: Ah, I'm on the train now.",
+    "notes-ja": "(「ああ、今、電車」は、現在の状況を簡潔に伝える口語的な表現。「ああ」は驚きや気づきを表す感嘆詞で、「今」は「right now」の意味、「電車」は「train」の意味です。例えば、友達に電話しているときに、このように言うことで、自分が今どこにいるかを伝えることができます。",
+    "notes-en": "'Ah, ima, densha.' is a colloquial expression used to briefly convey the current situation. 'Ah' is an interjection that expresses surprise or realization, 'ima' means 'right now', and 'densha' means 'train'. For example, when you are on the phone with a friend, you can say this to let them know where you are at the moment."
+  },
+  {
     "date": "2026.04.27",
     "day": "Mon",
     "number": 747,
