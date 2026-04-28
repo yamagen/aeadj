@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.27",
+    "day": "Mon",
+    "number": 747,
+    "index": "korewatashinono",
+    "title": "Is this mine?",
+    "expression-ja": "これ、(私:わたし)の？",
+    "roman-ja": "Kore, watashi no?",
+    "expression-en": "Is this mine?",
+    "variants-ja": ["これ、私の？", "これ、私のもの？"],
+    "variants-en": ["Is this mine?", "Is this my thing?"],
+    "intent-ja": ["所有の確認", "驚きの共有", "口語的な表現"],
+    "intent-en": ["confirmation of ownership", "sharing of surprise", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "所有確認表現", "驚き共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of ownership confirmation", "expression of surprise sharing", "colloquial expression"],
+    "adjusted-expression-ja": "これは(私:わたし)のものでしょうか？",
+    "adjusted-expression-en": "Is this mine?",
+    "img-sub": "korewatashinono01.png",
+    "example-ja": "A「これ、(私:わたし)の？」 B「いいや、(僕:ぼく)の」",
+    "example-en": "A: Is this mine? B: No, it's mine.",
+    "notes-ja": "(「これ、私の？」は、目の前にある物が自分のものであるかどうかを確認するための口語的な表現。驚きや戸惑いを伴うことが多いです。「これ」は「this」の意味で、「私の」は「mine」の意味です。",
+    "notes-en": "'Kore, watashi no?' is a colloquial expression used to confirm whether something in front of you belongs to you. It often carries a sense of surprise or confusion. 'Kore' means 'this', and 'watashi no' means 'mine'."
+  },
+  {
     "date": "2026.04.26",
     "day": "Sun",
     "number": 746,
