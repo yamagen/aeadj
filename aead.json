@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.04.30",
+    "day": "Thu",
+    "number": 750,
+    "index": "sonnanikantanjanaiyo",
+    "title": "It's not that easy.",
+    "expression-ja": "そんなに(簡単:かんたん)じゃないよ。",
+    "roman-ja": "Sonna ni kantan ja nai yo.",
+    "expression-en": "It's not that easy.",
+    "variants-ja": ["そんなに簡単じゃないよ。", "そんなに簡単じゃないんだよ。"],
+    "variants-en": ["It's not that easy.", "It's not that simple."],
+    "intent-ja": ["難易度の表現", "現実の共有", "口語的な表現"],
+    "intent-en": ["expression of difficulty level", "sharing of reality", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "難易度表現", "現実共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "difficulty level expression", "reality sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "それはそんなに(簡単:かんたん)ではありません。",
+    "adjusted-expression-en": "That is not that easy.",
+    "img-sub": "sonnanikantanjanaiyo01.png",
+    "example-ja": "A「この問題、(簡単:かんたん)だね！」 B「うーん、そんなに(簡単:かんたん)じゃないよ」",
+    "example-en": "A: This problem is easy! B: Well, it's not that easy.",
+    "notes-ja": "(「そんなに簡単じゃないよ」は、何かが予想よりも難しいことを伝えるための口語的な表現。「そんなに」は「that much」の意味で、「簡単じゃない」は「not easy」の意味です。例えば、誰かがある課題や問題を簡単だと言ったときに、その人の認識が甘いと感じる場合などに、このように返すことがあります。",
+    "notes-en": "'Sonna ni kantan ja nai yo' is a colloquial expression used to convey that something is more difficult than expected. 'Sonna ni' means 'that much', and 'kantan ja nai' means 'not easy'. For example, when someone says that a certain task or problem is easy, and you feel that their perception is too optimistic, you might respond with this phrase."
+  },
+  {
     "date": "2026.04.29",
     "day": "Wed",
     "number": 749,
