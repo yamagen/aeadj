@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026.05.03",
+    "day": "Sun",
+    "number": 753,
+    "index": "dekirutoureshikedo",
+    "title": "I would be happy if I could do it, but...",
+    "expression-ja": "できるとうれしいけど。",
+    "roman-ja": "Dekiru to ureshii kedo.",
+    "expression-en": "I would be happy if I could do it, but...",
+    "variants-ja": ["できるとうれしいけど。", "できるといいんだけど。"],
+    "variants-en": ["I would be happy if I could do it, but...", "It would be great if I could do it, but..."],
+    "intent-ja": ["願望の表現", "控えめな希望の共有", "口語的な表現"],
+    "intent-en": ["expression of desire", "sharing of modest hope", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "願望表現", "控えめな希望共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of desire", "modest hope sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "できるとうれしいのですが。",
+    "adjusted-expression-en": "(I would be) happy if I could do it, but...",
+    "img-sub": "dekirutoureshikedo01.png",
+    "example-ja": "この(仕事:しごと)、できるとうれしいけど、ちょっと(難:むずか)しいかもね。",
+    "example-en": "This job, I would be happy if I could do it, but it might be a little difficult.",
+    "notes-ja": "(「できるとうれしいけど」は、あることが可能であれば嬉しいという願望を表す口語的な表現です。「できると」は「if I can do it」の意味で、「うれしいけど」は「I would be happy, but...」の意味です。何かに挑戦するときや、可能性について話すときに、このように言うことで、控えめな希望を伝えることができます。"
+  },
+  {
     "date": "2026.05.02",
     "day": "Sat",
     "number": 752,
