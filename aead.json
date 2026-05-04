@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.04",
+    "day": "Mon",
+    "number": 754,
+    "index": "nanimottekeba",
+    "title": "What should I bring?",
+    "expression-ja": "(何:なに)、(持:も)ってけばいい？",
+    "roman-ja": "Nani, mottekeba ii?",
+    "expression-en": "What should I bring?",
+    "variants-ja": ["何、持ってけばいい？", "何を持っていけばいい？"],
+    "variants-en": ["What should I bring?", "What do I need to bring?"],
+    "intent-ja": ["質問の表現", "準備の共有", "口語的な表現"],
+    "intent-en": ["expression of question", "sharing of preparation", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "質問表現", "準備共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "question expression", "preparation sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "(何:なに)を(持:も)っていけばいいですか？",
+    "adjusted-expression-en": "(What) should I bring?",
+    "img-sub": "nanimottekeba01.png",
+    "example-ja": "A「(明日:あす)の(ピクニック)、(何:なに)を(持:も)ってけばいい？」 B「うーん、(飲み物:のみもの)と(お菓子:おかし)があれば」",
+    "example-en": "A: What should I bring for tomorrow's picnic? B: Hmm, if you have drinks and snacks, that would be great.",
+    "notes-ja": "「何、持ってけばいい？」は、あるイベントや集まりのために必要なものを尋ねる口語的な表現。「何」は「what」の意味で、「持ってけば」は「should bring」の意味です。例えば、友達とのピクニックやパーティーなどの準備について話すときに、このように聞くことで、必要なアイテムを確認することができます。",
+    "notes-en": "'Nani, mottekeba ii?' is a colloquial expression used to ask what items are needed for a certain event or gathering. 'Nani' means 'what', and 'mottekeba' means 'should bring'. For example, when discussing preparations for a picnic or party with friends, you can ask this to confirm what items are necessary."
+  },
+  {
     "date": "2026.05.03",
     "day": "Sun",
     "number": 753,
