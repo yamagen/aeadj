@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.06",
+    "day": "Wed",
+    "number": 756,
+    "index": "komacchatta",
+    "title": "I'm in trouble.",
+    "expression-ja": "(困:こま)っちゃった。",
+    "roman-ja": "Komacchatta.",
+    "expression-en": "I'm in trouble.",
+    "variants-ja": ["困っちゃった。", "どうしよう。"],
+    "variants-en": ["I'm in trouble.", "What should I do?"],
+    "intent-ja": ["困難の表現", "助けを求める共有", "口語的な表現"],
+    "intent-en": ["expression of difficulty", "sharing of seeking help", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "困難表現", "助けを求める共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of difficulty", "seeking help sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "(困:こま)ってしまいました。",
+    "adjusted-expression-en": "I'm in trouble.",
+    "img-sub": "komacchatta01.png",
+    "example-ja": "A「(子供:こども)が(泣:な)き(止:や)まなくて、(困:こま)っちゃった」",
+    "example-en": "A: My child won't stop crying, I'm in trouble.",
+    "notes-ja": "(「困っちゃった」は、何か問題や難しい状況に直面していることを伝える口語的な表現。「困る」は「to be troubled」の意味で、「っちゃった」はその状態が現在進行形であることを示す形です。例えば、宿題が終わらないときや、予期せぬ問題が発生したときなどに、このように言うことで、その状況に対する困惑や助けを求める気持ちを伝えることができます。",
+    "notes-en": "'Komacchatta' is a colloquial expression used to convey that you are facing a problem or difficult situation. 'Komaru' means 'to be troubled', and 'cchatta' indicates that this state is ongoing. For example, when you are struggling to finish your homework or when an unexpected problem arises, you can say this to express your confusion and desire for help."
+  },
+  {
     "date": "2026.05.05",
     "day": "Tue",
     "number": 755,
