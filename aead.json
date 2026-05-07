@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.07",
+    "day": "Thu",
+    "number": 757,
+    "index": "yoshiyaruka",
+    "title": "Alright, let's do it!",
+    "expression-ja": "よし、やるか！",
+    "roman-ja": "Yoshi, yaru ka!",
+    "expression-en": "Alright, let's do it!",
+    "variants-ja": ["よし、やるか！", "よし、やろう！"],
+    "variants-en": ["Alright, let's do it!", "Okay, let's go!"],
+    "intent-ja": ["行動の表現", "モチベーションの共有", "口語的な表現"],
+    "intent-en": ["expression of action", "sharing of motivation", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "行動表現", "モチベーション共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of action", "motivation sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "さあ、(始:はじ)めましょう！",
+    "adjusted-expression-en": "Alright, let's get started!",
+    "img-sub": "yoshiyaruka01.png",
+    "example-ja": "A「(準備:じゅんび)、できた？」 B「うん、よし、やるか！」",
+    "example-en": "A: Are you ready? B: Yeah, alright, let's do it!",
+    "notes-ja": "(「よし、やるか！」は、何かを始める前に自分自身や他人を奮い立たせるための口語的な表現。「よし」は「alright」の意味で、「やるか」は「let's do it」の意味です。例えば、スポーツの試合やプロジェクトの開始など、何か新しいことに取り組むときに、このように言うことで、その場の雰囲気を盛り上げることができます。",
+    "notes-en": "'Yoshi, yaru ka!' is a colloquial expression used to motivate oneself or others before starting something. 'Yoshi' means 'alright', and 'yaru ka' means 'let's do it'. For example, before a sports game or the start of a project, saying this can help boost the atmosphere and encourage everyone to get ready for action."
+  },
+  {
     "date": "2026.05.06",
     "day": "Wed",
     "number": 756,
