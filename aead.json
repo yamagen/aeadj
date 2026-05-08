@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.08",
+    "day": "Fri",
+    "number": 758,
+    "index": "assechadamedayo",
+    "title": "Don't rush.",
+    "expression-ja": "(焦:あせ)っちゃ(駄:だ)めだよ。",
+    "roman-ja": "Assecha dame da yo.",
+    "expression-en": "Don't rush.",
+    "variants-ja": ["焦っちゃだめだよ。", "焦らないでね。"],
+    "variants-en": ["Don't rush.", "Don't hurry."],
+    "intent-ja": ["注意の表現", "落ち着きの共有", "口語的な表現"],
+    "intent-en": ["expression of caution", "sharing of calmness", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "注意表現", "落ち着き共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "expression of caution", "calmness sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "(焦:あせ)らないでください。",
+    "adjusted-expression-en": "Please don't rush.",
+    "img-sub": "assechadamedayo01.png",
+    "example-ja": "(試験:しけん)が(近:ちか)いからって、(焦:あせ)っちゃ(駄:だ)めだよ。",
+    "example-en": "Just because the exam is coming up, don't rush things.",
+    "notes-ja": "「焦っちゃだめだよ」は、急いで行動することや、気持ちが前のめりになって落ち着きを失うことを避けるように促す口語的な表現。「焦る」は、単に急ぐことだけでなく、落ち着きを失うことや判断が乱れることも含みます。「っちゃだめ」は「してはいけない」という意味の口語的な禁止表現です。これはアニメ第1期「もやしもん」第11話の樹慶蔵教授の台詞です。作中では「言ったはずだよ、焦っちゃダメだと」と出ています。",
+    "notes-en": "'Assecha dame da yo' is a colloquial expression used to tell someone not to get flustered or rush into things. 'Aseru' means 'to get impatient' or 'to panic', and 'ccha dame' is a casual prohibitive form meaning 'don't do that'. For example, when an exam or project deadline is approaching, you can say this to encourage someone to stay calm. This is a line spoken by Professor Keizo Itsuki in episode 11 of the first season of the anime Moyashimon. In the episode, the line appears as 'I told you, don't rush.'"
+  },
+  {
     "date": "2026.05.07",
     "day": "Thu",
     "number": 757,
