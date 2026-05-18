@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.16",
+    "day": "Sat",
+    "number": 766,
+    "index": "gomenwasurechatte",
+    "title": "Sorry, I forgot.",
+    "expression-ja": "ごめん、(忘:わす)れちゃって。",
+    "roman-ja": "Gomen, wasurechatte.",
+    "expression-en": "Sorry, I forgot.",
+    "variants-ja": ["ごめん、忘れちゃって。", "ごめん、忘れてた。", "ごめん、うっかり忘れてた。"],
+    "variants-en": ["Sorry, I forgot.", "Sorry, I forgot about it.", "Sorry, I completely forgot."],
+    "intent-ja": ["謝罪の表現", "過失の共有", "口語的な表現"],
+    "intent-en": ["expression of apology", "sharing of mistake", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "謝罪表現", "過失共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "apology expression", "mistake sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "(申し訳:もうしわけ)ありません、(忘:わす)れてしまいました。",
+    "adjusted-expression-en": "I apologize. I forgot about it.",
+    "img-sub": "gomenwasurechatte01.png",
+    "example-ja": "A「(約束:やくそく)してたのに、ごめん、(忘:わす)れちゃって」 B「(大丈夫:だいじょうぶ)だよ、(次:つぎ)は(気:き)をつけてね」",
+    "example-en": "A: I'm sorry. We had plans, but I forgot. B: It's okay. Just be careful next time.",
+    "notes-ja": "「ごめん、忘れちゃって」は、約束や予定などをうっかり忘れてしまったことを、その場で謝る口語的な表現。「ごめん」は相手に対する謝罪を示し、「忘れちゃって」は「忘れてしまって」のくだけた形で、過失を認めながらも、うっかりそうなってしまったという感じを添えています。「忘れた」と言い切るよりも、少しやわらかく、言い訳めいた響きがあります。",
+    "notes-en": "'Gomen, wasurechatte' is a colloquial expression used to apologize on the spot for accidentally forgetting an appointment, plan, or something one was supposed to do. 'Gomen' expresses an apology, and 'wasurechatte' is a casual form of 'wasurete shimatte', meaning that the speaker ended up forgetting. Compared with simply saying 'wasureta', it sounds softer and carries a slight sense of accidental mistake or excuse."
+  },
+  {
     "date": "2026.05.15",
     "day": "Fri",
     "number": 765,
