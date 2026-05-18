@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.05.19",
+    "day": "Tue",
+    "number": 769,
+    "index": "ialwaysusemycalculator",
+    "title": "I always use my calculator",
+    "expression-ja": "いつも(電卓:でんたく)を(使:つか)います",
+    "roman-ja": "Itsumo dentaku o tsukaimasu",
+    "expression-en": "I always use my calculator",
+    "variants-ja": [
+      "いつも(電卓:でんたく)を(使:つか)います",
+      "(電卓:でんたく)を(使:つか)います",
+      "いつも(電卓:でんたく)で(計算:けいさん)します",
+      "(計算機:けいさんき)を(使:つか)います",
+      "もちろん、(電卓:でんたく)です",
+      "(難:むずか)しい(問題:もんだい)が(出:で)ます",
+      "(大事:だいじ)な(問題:もんだい)が(出:で)ます"
+    ],
+    "variants-en": ["I always use my calculator", "I use my calculator", "With my calculator", "Of course, I use a calculator", "I calculate it with a calculator", "Difficult questions will be on it", "Important questions will be on it"],
+    "intent-ja": ["字義的応答", "回答回避", "冗談", "焦点ずらし", "教室進行"],
+    "intent-en": ["literal response", "avoiding a direct answer", "joking", "focus shift", "classroom management"],
+    "tags-ja": ["即時文法", "字義的応答", "回答回避", "冗談", "焦点ずらし", "教師発話", "教室談話"],
+    "tags-en": ["immediate grammar", "literal response", "avoiding a direct answer", "joking", "focus shift", "teacher talk", "classroom discourse"],
+    "adjusted-expression-ja": "A「(最終成績:さいしゅうせいせき)は、どのような(割合:わりあい)で(計算:けいさん)するのですか」B「(出席:しゅっせき)、(授業点:じゅぎょうてん)、(宿題:しゅくだい)、(最終試験:さいしゅうしけん)を(一定:いってい)の(割合:わりあい)で(合計:ごうけい)して(計算:けいさん)します」",
+    "adjusted-expression-en": "A: How will the final grade be calculated? B: It will be calculated by combining attendance, class performance, homework, and the final exam according to fixed proportions.",
+    "img-sub": "ialwaysusemycalculator01.png",
+    "example-ja": "A「どんな(問題:もんだい)が(試験:しけん)に(出:で)るんですか」B「(難:むずか)しい(問題:もんだい)が(出:で)ます」A「では、どのように(計算:けいさん)するんですか」B「もちろん、いつも(電卓:でんたく)を(使:つか)います」",
+    "example-en": "A: What kind of questions will be on the exam? B: Difficult questions will be on it. A: Then how are you going to calculate? B: Oh, yes. I always use my calculator.",
+    "notes-ja": "この項目は、実際には英語で起きた教室でのやりとりを、日本語と英語の対応として記録したものです。学生はまず「どんな問題が試験に出るんですか」と、試験内容について具体的な情報を求めています。それに対して教師は「難しい問題が出ます」と答えています。これは形式上は答えですが、実際には試験内容を明かしていません。さらに学生が \"How are you going to calculate?\" と聞いたとき、その意図は、出席、授業点、宿題、最終試験をどの割合で合計して最終成績を出すのかを問うことでした。つまり、学生が求めているのは計算の道具ではなく、成績評価の方法です。それに対して教師は \"I always use my calculator\" と答えています。これは、学生の質問を字義通りに受け取り、「計算には何を使うか」という方向に焦点をずらした冗談です。どちらの返答も、形式上は質問に答えていますが、実際には学生が求めている具体情報を出していません。相手の発話の曖昧さをその場で拾い、字義的・一般的な解釈へずらして返すところに、教室談話としての即時文法らしさがあります。",
+    "notes-en": "This entry records a classroom exchange that actually took place in English, but it is presented here with Japanese and English counterparts. The student first asks what kind of questions will be on the exam. The teacher answers, \"Difficult questions will be on it.\" Formally, this is an answer, but it does not reveal the actual contents of the exam. The student then asks, \"How are you going to calculate?\" The intended meaning is about the grading formula: what proportions of attendance, class performance, homework, and the final exam will be used to calculate the final grade. The student is asking about the evaluation system, not the tool used for calculation. The teacher answers, \"I always use my calculator.\" This is a joking literal response. It shifts the focus from the grading formula to the physical tool used for calculation. Both responses formally answer the questions, but pragmatically they avoid giving the specific information the student is seeking. The immediate quality lies in noticing the wording of the student's question and replying through a literal or overly general reinterpretation.",
+    "notes-pgm-ja": "この応答群は単なるジョークではなく、相手の発話の意図を理解した上で、あえて字義的・一般的な解釈へずらす即時的な教師発話である。「どんな問題が出るんですか」に対する「難しい問題が出ます」は、問題の種類を問う質問に対して、内容ではなく難易度で答えることで、形式上は応答しながら具体的情報を避けている。同様に、学生の \"How are you going to calculate?\" は、成績評価の計算方法を問う発話として場面上は十分に理解できる。しかし、教師は calculate の目的語が明示されていないことを利用し、計算方法ではなく計算手段として \"calculator\" を返している。調整文法では、質問の意図を明確化し、試験内容や評価割合を説明するのが適切である。しかし即時文法では、この焦点ずらしによって、回答を回避しつつ、教室の緊張をゆるめ、教師と学生の関係を一瞬で調整している。",
+    "notes-pgm-en": "These responses are not merely jokes. They are immediate teacher utterances that deliberately shift the student's intended meaning into a literal or overly general interpretation. In response to \"What kind of questions will be on the exam?\", the teacher says, \"Difficult questions will be on it.\" This formally answers the question, but shifts from the content of the questions to their difficulty and avoids giving specific information. Similarly, in context, the student's \"How are you going to calculate?\" clearly asks about the grading formula. However, because the object of \"calculate\" is not explicitly stated, the teacher responds to the means of calculation rather than to the grading method by saying, \"I always use my calculator.\" From the perspective of adjustive grammar, the appropriate response would clarify the student's intention and explain the exam content or grading proportions. In immediate grammar, however, these focus shifts avoid direct answers, soften the tension in the classroom, and adjust the teacher-student relationship in the moment."
+  },
+  {
     "date": "2026.05.18",
     "day": "Mon",
     "number": 768,
@@ -8461,8 +8494,8 @@
     "img-sub": "sorehamataatode01.png",
     "example-ja": "A「どんな(問題:もんだい)が(試験:しけん)に(出:で)るんですか」B「それはまたあとで」",
     "example-en": "A: What kind of questions will be on the exam? B: We'll talk about that later.",
-    "notes-ja": "「それはまたあとで」は、今その話題に答えたり説明したりせず、後の場面に回すときの表現です。「それ」は直前に出た質問や話題を受け、「またあとで」は、その話題を今ではなく別の時点で扱うことを示します。この例では、A が試験に出る問題について聞いていますが、B はすぐには答えず、「それはまたあとで」と返しています。これは、答えを拒否しているというより、今の進行ではその話題を扱わない、後で扱う、という場面調整です。短い形ですが、話題の優先順位をその場で変え、会話や授業の進行を保つ働きをしています。ここに即時文法らしさがあります。",
-    "notes-en": "\"Sore wa mata ato de\" is used when the speaker postpones a topic instead of answering or explaining it immediately. \"Sore\" refers to the question or topic just mentioned, and \"mata ato de\" means that it will be dealt with later, not now. In the example, A asks what kind of questions will be on the exam, but B does not answer right away. By saying \"sore wa mata ato de,\" B delays the topic and keeps control of the flow of the conversation or lesson. The expression is not simply an introduction to a topic. It is a way of setting the topic aside for the moment. Its immediate quality lies in adjusting the order of topics in real time."
+    "notes-ja": "「それはまたあとで」は、今その話題に答えたり説明したりせず、後の場面に回すときの表現です。「それ」は直前に出た質問や話題を受け、「またあとで」は、その話題を今ではなく別の時点で扱うことを示します。この例では、学生が試験に出る問題について聞いていますが、教師はすぐには答えず、「それはまたあとで」と返しています。これは、答えを拒否しているというより、今の授業の進行ではその話題を扱わない、後で扱う、という場面調整です。短い形ですが、話題の優先順位をその場で変え、授業や会話の進行を保つ働きをしています。ここに即時文法らしさがあります。",
+    "notes-en": "\"Sore wa mata ato de\" is used when the speaker postpones a topic instead of answering or explaining it immediately. \"Sore\" refers to the question or topic just mentioned, and \"mata ato de\" means that it will be dealt with later, not now. In the example, a student asks what kind of questions will be on the exam, but the teacher does not answer right away. By saying \"sore wa mata ato de,\" the teacher delays the topic and keeps control of the flow of the lesson. The expression is not simply an introduction to a topic. It is a way of setting the topic aside for the moment. Its immediate quality lies in adjusting the order of topics in real time."
   },
   {
     "date": "2025.05.14",
