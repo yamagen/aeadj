@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.18",
+    "day": "Mon",
+    "number": 768,
+    "index": "soretottemoraeru",
+    "title": "Could you pass that to me?",
+    "expression-ja": "それ(取:と)ってもらえる？",
+    "roman-ja": "Sore totte moraeru?",
+    "expression-en": "Could you pass that to me?",
+    "variants-ja": ["それ取ってもらえる？", "それ取ってくれる？", "それ取って？"],
+    "variants-en": ["Could you pass that to me?", "Can you pass that to me?", "Could you get that for me?"],
+    "intent-ja": ["依頼の表現", "物の受け渡しの共有", "口語的な表現"],
+    "intent-en": ["expression of request", "sharing of passing an item", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "依頼表現", "物の受け渡し共有表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "request expression", "item-passing sharing expression", "colloquial expression"],
+    "adjusted-expression-ja": "それを(取:と)っていただけますか？",
+    "adjusted-expression-en": "Could you please pass that to me?",
+    "img-sub": "soretottemoraeru01.png",
+    "example-ja": "A「ちょっと、それ(取:と)ってもらえる？」 B「うん、いいよ」",
+    "example-en": "A: Could you pass that to me? B: Yeah, sure.",
+    "notes-ja": "「それ取ってもらえる？」は、相手の近くにある物を取って渡してほしいときの口語的な依頼表現。「それ」は、視線や場面で共有されている対象を指します。対象を詳しく言わなくても通じるところに、この表現の即時性があります。",
+    "notes-en": "'Sore totte moraeru?' is a casual request used when asking someone to pick up or pass something near them. 'Sore' points to an object shared by gaze or situation. The speaker does not need to name the item, and that is where the immediacy of the expression appears."
+  },
+  {
     "date": "2026.05.17",
     "day": "Sun",
     "number": 767,
@@ -19,8 +42,8 @@
     "img-sub": "chottokikitai01.png",
     "example-ja": "A「ちょっと(聞:き)きたいことあるんだけど、...」 B「うん、(何:なに)？」",
     "example-en": "A: I have a quick question. B: Yeah, what is it?",
-    "notes-ja": "「ちょっと聞きたいことあるんだけど、...」は、質問の内容に入る前に、相手にやわらかく話しかける口語的な表現。「ちょっと」は質問の負担を軽くし、「聞きたいことあるんだけど」は、まだ質問を直接出さずに、相手が聞く態勢に入る余地を作っています。文末を「だけど」で止めることで、「聞いてもいい？」という意味が明示されなくても伝わります。",
-    "notes-en": "'Chotto kikitai koto arun dakedo,...' is a colloquial expression used to gently approach someone before asking a question. 'Chotto' makes the question feel lighter, and 'kikitai koto arun dakedo' lets the listener prepare to hear the question before the speaker states it directly. By stopping at 'dakedo', the speaker implies 'Can I ask?' without saying it explicitly."
+    "notes-ja": "「ちょっと聞きたいことあるんだけど、...」は、質問の前に相手へ入るための表現。「だけど」で止めることで、「聞いてもいい？」という余地を相手に渡しています。",
+    "notes-en": "'Chotto kikitai koto arun dakedo,...' is a way to enter a question softly. By stopping at 'dakedo', the speaker leaves space for the listener to accept the question."
   },
   {
     "date": "2026.05.16",
