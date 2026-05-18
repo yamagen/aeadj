@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.17",
+    "day": "Sun",
+    "number": 767,
+    "index": "chottokikitai",
+    "title": "I have a quick question.",
+    "expression-ja": "ちょっと(聞:き)きたいことあるんだけど、...",
+    "roman-ja": "Chotto kikitai koto arun dakedo,...",
+    "expression-en": "I have a quick question.",
+    "variants-ja": ["ちょっと聞きたいことあるんだけど、...", "ちょっと聞きたいことがあるんだけど、...", "ちょっと聞きたいんだけど、..."],
+    "variants-en": ["I have a quick question.", "I just want to ask something.", "Can I ask you something?"],
+    "intent-ja": ["質問導入の表現", "話しかけの表現", "口語的な表現"],
+    "intent-en": ["expression of question introduction", "expression of initiating talk", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "質問導入表現", "話しかけ表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "question-introduction expression", "talk-initiating expression", "colloquial expression"],
+    "adjusted-expression-ja": "ちょっとお(聞:き)きしたいことがあるのですが、...",
+    "adjusted-expression-en": "I have a quick question.",
+    "img-sub": "chottokikitai01.png",
+    "example-ja": "A「ちょっと(聞:き)きたいことあるんだけど、...」 B「うん、(何:なに)？」",
+    "example-en": "A: I have a quick question. B: Yeah, what is it?",
+    "notes-ja": "「ちょっと聞きたいことあるんだけど、...」は、質問の内容に入る前に、相手にやわらかく話しかける口語的な表現。「ちょっと」は質問の負担を軽くし、「聞きたいことあるんだけど」は、まだ質問を直接出さずに、相手が聞く態勢に入る余地を作っています。文末を「だけど」で止めることで、「聞いてもいい？」という意味が明示されなくても伝わります。",
+    "notes-en": "'Chotto kikitai koto arun dakedo,...' is a colloquial expression used to gently approach someone before asking a question. 'Chotto' makes the question feel lighter, and 'kikitai koto arun dakedo' lets the listener prepare to hear the question before the speaker states it directly. By stopping at 'dakedo', the speaker implies 'Can I ask?' without saying it explicitly."
+  },
+  {
     "date": "2026.05.16",
     "day": "Sat",
     "number": 766,
