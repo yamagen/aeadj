@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.21",
+    "day": "Thu",
+    "number": 771,
+    "index": "eetonandakke",
+    "title": "Um, what was it again?",
+    "expression-ja": "えーと、(何:なん)だっけ？",
+    "roman-ja": "Eeto, nan da kke?",
+    "expression-en": "Um, what was it again?",
+    "variants-ja": ["えーと、何だっけ？", "えーと、何だったっけ？", "えーと、何だっけな？"],
+    "variants-en": ["Um, what was it again?", "Um, what was it?", "Um, what was that again?"],
+    "intent-ja": ["思い出しの表現", "考える時間の確保", "口語的な表現"],
+    "intent-en": ["expression of recall", "buying time to think", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "思い出し表現", "考える時間確保表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "recall expression", "thinking-time expression", "colloquial expression"],
+    "adjusted-expression-ja": "すみません、ちょっと(思:おも)い(出:だ)せないんですが、(何:なん)でしたか？",
+    "adjusted-expression-en": "Sorry, I can't recall at the moment, but what was it?",
+    "img-sub": "eetonandakke01.png",
+    "example-ja": "A「この(単語:たんご)、(意味:いみ)わかる？」 B「えーと、(何:なん)だっけ？」 A「ほら、さっき(説明:せつめい)したやつ」 B「ああ、そうだった！ありがとう！」",
+    "example-en": "A: Do you know the meaning of this word? B: Um, what was it again? A: You know, the one I just explained. B: Oh, right! Thanks!",
+    "notes-ja": "「えーと、何だっけ？」は、思い出せないことをその場で相手に見せながら、会話を止めずに保つ表現です。答えを完全に知らないのではなく、思い出しかけている状態を示し、相手からのヒントも受け入れる余地を作っています。",
+    "notes-en": "'Eeto, nan da kke?' keeps the conversation going while the speaker is trying to remember something. It does not simply mean that the speaker does not know the answer. It shows a state of almost remembering and leaves room for the listener to offer a hint."
+  },
+  {
     "date": "2026.05.20",
     "day": "Wed",
     "number": 770,
