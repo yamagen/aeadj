@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.22",
+    "day": "Fri",
+    "number": 772,
+    "index": "izenkyohtonisundetandesuyo",
+    "title": "I used to live in Kyoto.",
+    "expression-ja": "(以前:いぜん)、(京都:きょうと)に(住:す)んでたんですよ。",
+    "roman-ja": "Izen, Kyoto ni sundeta n desu yo.",
+    "expression-en": "I used to live in Kyoto.",
+    "variants-ja": ["以前、京都に住んでたんですよ。", "前に京都に住んでたんです。", "昔、京都に住んでたんですよ。"],
+    "variants-en": ["I used to live in Kyoto.", "I lived in Kyoto before.", "I used to live in Kyoto, actually."],
+    "intent-ja": ["過去経験の表現", "背景情報の提示", "共通体験の共有"],
+    "intent-en": ["expression of past experience", "presentation of background information", "sharing of common experience"],
+    "tags-ja": ["即時文法", "口語", "過去経験表現", "背景提示表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "past-experience expression", "background-information expression", "colloquial expression"],
+    "adjusted-expression-ja": "(以前:いぜん)、(京都:きょうと)に(住:す)んでいました。",
+    "adjusted-expression-en": "I used to live in Kyoto.",
+    "img-sub": "izenkyohtonisundetandesuyo01.png",
+    "example-ja": "A「(京都:きょうと)に(詳:くわ)しいんですね」 B「ええ、(以前:いぜん)、(京都:きょうと)に(住:す)んでたんですよ」",
+    "example-en": "A: You know a lot about Kyoto. B: Yes, I used to live in Kyoto.",
+    "notes-ja": "「以前、京都に住んでたんですよ」は、過去の居住経験を会話の中で自然に出す表現。「住んでたんですよ」は、単なる事実報告ではなく、「だから少し知っているんです」という背景説明として働きます。住んだ場所や行ったことのある場所が重なると、相手との人間的な距離を縮めるきっかけにもなります。",
+    "notes-en": "'Izen, Kyoto ni sundeta n desu yo.' is used to bring up a past living experience naturally in conversation. 'Sundeta n desu yo' does more than report a fact; it also gives background, as in 'That's why I know a little about it.' Shared places or experiences can also help reduce the social distance between speakers."
+  },
+  {
     "date": "2026.05.21",
     "day": "Thu",
     "number": 771,
@@ -7161,7 +7184,7 @@
     "img-sub": "desune01.png",
     "example-ja": "A「(暑:あつ)いですね」 B「ですね」",
     "example-en": "A: It's hot. B: Right.",
-    "notes-ja": "「ですね。」は相手の発言に軽く同意や共感を示す短い応答です。自分の意見を付け加えず、会話を穏やかにつなぎます。この発話は相手の発話に続けてすぐに言わなければなりません。",
+    "notes-ja": "「ですね」は相手の発言に軽く同意や共感を示す短い応答です。自分の意見を付け加えず、会話を穏やかにつなぎます。この発話は相手の発話に続けてすぐに言わなければなりません。",
     "notes-en": "\"Desu ne.\" is a short, soft way to show agreement or empathy without adding further opinion. It keeps the conversation smooth and polite. This phrase should be used immediately after the other person's statement."
   },
   {
