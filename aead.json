@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.23",
+    "day": "Sat",
+    "number": 773,
+    "index": "yaranakuchanannai",
+    "title": "Do I really have to do it?",
+    "expression-ja": "やらなくちゃなんない？",
+    "roman-ja": "Yaranakucha nannai?",
+    "expression-en": "Do I really have to do it?",
+    "variants-ja": ["やらなくちゃなんない？", "やらなきゃいけないの？", "やらなきゃダメ？"],
+    "variants-en": ["Do I really have to do it?", "Do I have to do it?", "Do I need to do it?"],
+    "intent-ja": ["必要の確認", "軽い抵抗の表現", "口語的な表現"],
+    "intent-en": ["confirmation of necessity", "expression of slight reluctance", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "必要確認表現", "軽い抵抗表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "necessity-confirmation expression", "slight-reluctance expression", "colloquial expression"],
+    "adjusted-expression-ja": "(これを)やらなくてはいけませんか？",
+    "adjusted-expression-en": "Do I have to do this?",
+    "img-sub": "yaranakuchanannai01.png",
+    "example-ja": "A「この(仕事:しごと)、やらなくちゃなんない？」 B「うん、やらないといけないよ」",
+    "example-en": "A: Do I really have to do this work? B: Yeah, you have to do it.",
+    "notes-ja": "「やらなくちゃなんない？」は、何かをしなければならないのかを相手に確認する口語的な表現。単なる確認だけでなく、「できればやりたくない」「本当に必要なの？」という軽い抵抗も出やすい表現です。",
+    "notes-en": "'Yaranakucha nannai?' is a casual way to ask whether something has to be done. It is not just a neutral question; it can also carry a slight reluctance, as in 'Do I really have to do it?'"
+  },
+  {
     "date": "2026.05.22",
     "day": "Fri",
     "number": 772,
