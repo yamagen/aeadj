@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.24",
+    "day": "Sun",
+    "number": 774,
+    "index": "souiukotonandakedone",
+    "title": "That's what it is, but...",
+    "expression-ja": "そういうことなんだけどね。",
+    "roman-ja": "Sou iu koto nan da kedo ne.",
+    "expression-en": "That's what it is, but...",
+    "variants-ja": ["そういうことなんだけどね。", "そういうことなんだけど。", "そういうことなんだけどさ。"],
+    "variants-en": ["That's what it is, but...", "That's how it is, but...", "That's the case, but..."],
+    "intent-ja": ["説明の表現", "含みを残す表現", "口語的な表現"],
+    "intent-en": ["expression of explanation", "expression of leaving something implied", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "説明表現", "含み残し表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "explanation expression", "implication-leaving expression", "colloquial expression"],
+    "adjusted-expression-ja": "そういうことなのですが、...",
+    "adjusted-expression-en": "That is how it is, but...",
+    "img-sub": "souiu_koto_nandakedo_ne01.png",
+    "example-ja": "A「え？じゃ、(今後:こんご)、(公園:こうえん)に(犬:いぬ)を(連:つ)れて(来:き)ちゃだめってこと？」 B「うん、(役所:やくしょ)の(説明:せつめい)では、そういうことなんだけどね」 A「えー、(猫:ねこ)が(勝手:かって)に(来:く)るのは(良:よ)くて、(犬:いぬ)は(ダメ:だめ)って！」 B「そうだよね、わかるけどね...」",
+    "example-en": "A: Wait, so does that mean we can't bring dogs to the park anymore? B: Yeah, according to the city office's explanation, that's how it is, but... A: What? Cats can just come in on their own, but my dog is not allowed? B: I know, I get it, but...",
+    "notes-ja": "「そういうことなんだけどね」は、説明としてはそうだと認めながらも、それで納得しているわけではない気持ちを残す表現です。「だけどね」で止めることで、「でも変だよね」「でも困るよね」のような続きが、言わなくても伝わります。",
+    "notes-en": "'Sou iu koto nan dakedo ne.' is used when the speaker accepts that the explanation is correct, but does not fully accept it emotionally. By stopping at 'dakedo ne', the speaker leaves an unsaid continuation such as 'but it feels strange' or 'but it is still a problem.'"
+  },
+  {
     "date": "2026.05.23",
     "day": "Sat",
     "number": 773,
