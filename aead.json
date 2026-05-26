@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.27",
+    "day": "Wed",
+    "number": 777,
+    "index": "yokumokokomadeganbatta",
+    "title": "You did a great job to get this far.",
+    "expression-ja": "よくもここまでがんばったね。",
+    "roman-ja": "Yokumo koko made ganbatta ne.",
+    "expression-en": "You did a great job to get this far.",
+    "variants-ja": ["よくもここまでがんばったね。", "よくここまでがんばったね。", "ここまでがんばったね。"],
+    "variants-en": ["You did a great job to get this far.", "You really worked hard to get here.", "You made it this far, good job."],
+    "intent-ja": ["努力の称賛", "励ましの表現", "口語的な表現"],
+    "intent-en": ["praise for effort", "expression of encouragement", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "努力称賛表現", "励まし表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "effort-praise expression", "encouragement expression", "colloquial expression"],
+    "adjusted-expression-ja": "(本当:ほんとう)によくここまでがんばりましたね。",
+    "adjusted-expression-en": "You really did a great job to get this far.",
+    "img-sub": "yokumokokomadeganbatta01.png",
+    "example-ja": "A「(毎日:まいにち)、(休:やす)まずに、(学校:がっこう)に(行:い)ったよ」 B「よくもここまでがんばったね」",
+    "example-en": "A: I went to school every day without taking a break. B: You did a great job to get this far.",
+    "notes-ja": "「よくもここまでがんばったね」は、相手の努力や頑張りを称える口語的な表現。特に、何かを成し遂げるために長い時間や大変な努力をしてきたことを認めるときに使います。相手の努力を評価し、励ますニュアンスが含まれています。もちろん、「よくも」でなくて「よく」でも同じ意味になりますが、前者の方がより口語的で、親しみやすい感じが出ます。",
+    "notes-en": "'Yokumo koko made ganbatta ne.' is a colloquial expression used to praise someone's effort and perseverance. It is especially used when acknowledging that someone has put in a long time or great effort to achieve something. It carries a nuance of appreciating the person's hard work and encouraging them. Of course, you could also say 'Yoku koko made ganbatta ne' without the 'mo', and it would have the same meaning, but the version with 'mo' is more colloquial and gives a more friendly feel."
+  },
+  {
     "date": "2026.05.26",
     "day": "Tue",
     "number": 776,
