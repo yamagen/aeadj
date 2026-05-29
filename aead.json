@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.05.29",
+    "day": "Fri",
+    "number": 779,
+    "index": "zutto_tsukatteru",
+    "title": "I've been using it for a long time.",
+    "expression-ja": "ずっと、(使:つか)ってる。",
+    "roman-ja": "Zutto, tsukatteru.",
+    "expression-en": "I've been using it for a long time.",
+    "variants-ja": ["ずっと、使ってる。", "ずっと、使っています。", "ずっと、使っているんです。"],
+    "variants-en": ["I've been using it for a long time.", "I've been using it.", "I've been using it, you know."],
+    "intent-ja": ["継続使用の表現", "愛着の表現", "口語的な表現"],
+    "intent-en": ["expression of continued use", "expression of attachment", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "継続使用表現", "愛着表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "continued-use expression", "attachment expression", "colloquial expression"],
+    "adjusted-expression-ja": "これをずっと、(使:つか)っています。",
+    "adjusted-expression-en": "I have been using this for a long time.",
+    "img-sub": "zutto_tsukatteru01.png",
+    "example-ja": "あ、これこれ、あのね、これ、(学生時代:がくせいじだい)からずっと、(使:つか)ってる。",
+    "example-en": "Oh, this one. I've had this since I was a student. I still use it.",
+    "notes-ja": "「ずっと、使ってる。」は、単に毎日使い続けているという意味ではありません。途中で使わない時期があっても、昔から手元にあり、今も使うものとして残っているなら、ひっくるめて「ずっと、使ってる」と言えます。その物との関係が切れていないことを表す表現です。",
+    "notes-en": "'Zutto, tsukatteru.' does not simply mean that the speaker has used something every day without interruption. Even if there were times when it was not used, the speaker can still say this if the item has stayed with them from the past and is still something they use. It expresses that the relationship with the item has not been broken."
+  },
+  {
     "date": "2026.05.28",
     "day": "Thu",
     "number": 778,
