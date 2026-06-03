@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026.06.04",
+    "day": "Thu",
+    "number": 785,
+    "index": "hontounitsukuritaimonojanaitodame",
+    "title": "Does it have to be something I really want to make?",
+    "expression-ja": "(本当:ほんとう)に(作:つく)りたい(物:もの)じゃないと(ダメ:だめ)？",
+    "roman-ja": "Hontou ni tsukuritai mono ja nai to dame?",
+    "expression-en": "Does it have to be something I really want to make?",
+    "variants-ja": ["本当に作りたいものじゃないとダメなの？", "本当に作りたいものでないとダメ？", "本当に作りたいものじゃないといけない？"],
+    "variants-en": ["Does it have to be something I really want to make?", "Does it really have to be something I want to make?", "Do I have to make something I really want to make?"],
+    "intent-ja": ["条件の確認", "基準への戸惑い", "口語的な表現"],
+    "intent-en": ["confirmation of condition", "confusion about the standard", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "条件確認表現", "基準戸惑い表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "condition-confirmation expression", "standard-confusion expression", "colloquial expression"],
+    "adjusted-expression-ja": "(本当:ほんとう)に(作:つく)りたい(物:もの)でなければいけませんか？",
+    "adjusted-expression-en": "Do I have to make something that I really want to make?",
+    "img-sub": "hontounitsukuritai01.png",
+    "example-ja": "(本当:ほんとう)に(作:つく)りたい(物:もの)じゃないと(ダメ:だめ)？",
+    "example-en": "Does it have to be something I really want to make?",
+
+    "notes-ja": "「本当に作りたい物じゃないとダメ？」は、相手が示した条件や基準に対して、「そこまで必要なの？」と確認する表現です。「じゃないとダメ？」によって、条件を受け入れる前の戸惑いや軽い抵抗が出ています。",
+    "notes-en": "'Hontou ni tsukuritai mono ja nai to dame?' is used when the speaker questions a condition or standard set by someone else: 'Does it really have to be that?' The form 'ja nai to dame?' expresses hesitation or slight resistance before accepting the condition.",
+    "notes-for-research-ja": "従来の日本語教育では、条件表現・義務表現・確認表現のような文法項目は整理されているが、未決定、戸惑い、自己の希望のあやふやさ、相手の基準への抵抗といった心理状態ごとの即時表現は十分にリスト化されていない。「本当に作りたい物じゃないとダメ？」は、単なる条件確認ではなく、相手が示した基準に対して、自分の希望がまだそこまで明確でないことを表す表現である。ここでは、条件を理解したうえで、それをそのまま受け入れる前の戸惑いが発動している。",
+    "notes-for-research-en": "Traditional Japanese language education organizes grammatical items such as conditional expressions, obligation expressions, and confirmation expressions, but it has not sufficiently listed immediate expressions according to fine-grained psychological states such as indecision, hesitation, unclear personal desire, or resistance to another person's standard. 'Hontou ni tsukuritai mono ja nai to dame?' is not merely a confirmation of a condition. It expresses that the speaker understands the condition, but their own desire is not yet clear enough to meet that standard. In this expression, hesitation before accepting the condition as given is activated."
+  },
+  {
     "date": "2026.06.03",
     "day": "Wed",
     "number": 784,
