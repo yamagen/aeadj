@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.05",
+    "day": "Fri",
+    "number": 786,
+    "index": "mechamechakomakai",
+    "title": "Isn't this a really detailed task?",
+    "expression-ja": "めちゃめちゃ、(細:こま)かい(作業:さぎょう)じゃないですか、これは。",
+    "roman-ja": "Mechamecha, komakai sagyou janai desu ka, kore wa.",
+    "expression-en": "Isn't this a really detailed task?",
+    "variants-ja": ["めちゃめちゃ、細かい作業じゃないですか。", "めっちゃ細かい作業じゃないですか。", "めちゃくちゃ、細かい作業じゃないですか。"],
+    "variants-en": ["Isn't this a really detailed task?", "Isn't this an extremely detailed task?", "Isn't this super detailed?"],
+    "intent-ja": ["細かさの強調", "驚きの表現", "口語的な表現"],
+    "intent-en": ["emphasis on detail", "expression of surprise", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "細かさ強調表現", "驚き表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "detail-emphasis expression", "surprise expression", "colloquial expression"],
+    "adjusted-expression-ja": "これはとても(細:こま)かい(作業:さぎょう)ですね。",
+    "adjusted-expression-en": "This is a very detailed task.",
+    "img-sub": "mechamechakomakai01.png",
+    "example-ja": "A「めちゃめちゃ、(細:こま)かい(作業:さぎょう)じゃないですか、これは」 B「そうですね、(確か:たしか)に細かいですね」",
+    "example-en": "A: Isn't this a really detailed task? B: Yeah, it really is.",
+    "notes-ja": "「めちゃめちゃ、細かい作業じゃないですか、これは」は、目の前の作業の細かさに驚き、それを相手にも共有させる表現です。「めちゃめちゃ」で程度を強め、「じゃないですか」で相手の同意を求め、最後の「これは」で作業そのものを改めて指し直しています。",
+    "notes-en": "'Mechamecha, komakai sagyou janai desu ka, kore wa.' expresses surprise at how detailed the task is and invites the listener to share that reaction. 'Mechamecha' intensifies the degree, 'janai desu ka' seeks agreement, and the final 'kore wa' points back to the task itself."
+  },
+  {
     "date": "2026.06.04",
     "day": "Thu",
     "number": 785,
