@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.07",
+    "day": "Sun",
+    "number": 788,
+    "index": "dameppoi",
+    "title": "It seems hopeless.",
+    "expression-ja": "(ダメ:だめ)っぽい(ね)。",
+    "roman-ja": "Dameppoi ne.",
+    "expression-en": "It doesn't look good.",
+    "variants-ja": ["ダメっぽいね。", "ダメっぽいな。", "ダメっぽいよね。"],
+    "variants-en": ["It seems hopeless.", "It looks like it's not going to work.", "It seems pretty bad, doesn't it?"],
+    "intent-ja": ["否定的な評価の表現", "状況の悪さの表現", "口語的な表現"],
+    "intent-en": ["expression of negative evaluation", "expression of bad situation", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "否定評価表現", "状況悪さ表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "negative-evaluation expression", "bad-situation expression", "colloquial expression"],
+    "adjusted-expression-ja": "(状況:じょうきょう)が(悪:わる)そうですね。",
+    "adjusted-expression-en": "(The situation) seems bad.",
+    "img-sub": "dameppoi01.png",
+    "example-ja": "この(プロジェクト:ぷろじぇくと)、(予算:よさん)も(時間:じかん)も足りないし、(人手:ひとで)も足りないから、ちょっと(ダメ:だめ)っぽいね。",
+    "example-en": "This project is short on budget, time, and manpower, so it seems pretty hopeless.",
+    "notes-ja": "「ダメっぽいね」は、見た感じや今ある情報から、うまくいかなさそうだと判断するときの表現です。「ダメ」と言い切らず、「っぽい」で少し余地を残し、「ね」でその見方を相手と共有しています。",
+    "notes-en": "'Dameppoi ne' is used when the speaker judges from the situation or available information that something probably will not work. Instead of saying 'dame' directly, 'ppoi' leaves some room, and 'ne' shares that view with the listener."
+  },
+  {
     "date": "2026.06.06",
     "day": "Sat",
     "number": 787,
