@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.08",
+    "day": "Mon",
+    "number": 789,
+    "index": "oodasukari",
+    "title": "A huge help.",
+    "expression-ja": "(大助:おおだす)かり。",
+    "roman-ja": "Oodasukari.",
+    "expression-en": "A huge help.",
+    "variants-ja": ["大助かり。", "本当に大助かり。", "すごく大助かり。"],
+    "variants-en": ["A huge help.", "Really a huge help.", "Such a huge help."],
+    "intent-ja": ["感謝の表現", "負担軽減の表現", "口語的な表現"],
+    "intent-en": ["expression of gratitude", "expression of reduced burden", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "感謝表現", "負担軽減表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "gratitude expression", "burden-reduction expression", "colloquial expression"],
+    "adjusted-expression-ja": "(本当:ほんとう)に、(助:たす)かりました。",
+    "adjusted-expression-en": "Your help is very much appreciated.",
+    "img-sub": "ootasukari01.png",
+    "example-ja": "A「(大助:おおだす)かり！」 B「いえいえ、お(役:やく)に立てて(良:よ)かったです」",
+    "example-en": "A: That's a huge help! B: I'm glad I could help.",
+    "notes-ja": "「大助かり」は、相手の助けによって負担や困りごとが大きく軽くなったときの表現です。単なる感謝だけでなく、「それで本当に助かった」という relief の気持ちが出ています。",
+    "notes-en": "'Oodasukari' is used when someone's help greatly reduces a burden or solves a problem. It expresses not only gratitude, but also a sense of relief, as in 'That really helped.'"
+  },
+  {
     "date": "2026.06.07",
     "day": "Sun",
     "number": 788,
