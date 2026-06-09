@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.09",
+    "day": "Tue",
+    "number": 790,
+    "index": "asakinierande",
+    "title": "Ah, you choose first.",
+    "expression-ja": "あ、(先:さき)に(選:えら)んで？",
+    "roman-ja": "A, saki ni erande?",
+    "expression-en": "Ah, you choose first.",
+    "variants-ja": ["あ、先に選んで？", "あ、先に選んでくれる？", "あ、先に選んでいいよ。"],
+    "variants-en": ["Ah, you choose first.", "Ah, could you choose first?", "Ah, you can choose first."],
+    "intent-ja": ["選択の譲り", "相手への配慮", "口語的な表現"],
+    "intent-en": ["yielding the choice", "consideration for the other person", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "選択譲り表現", "配慮表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "choice-yielding expression", "consideration expression", "colloquial expression"],
+    "adjusted-expression-ja": "(あなた:あなた)が(先:さき)に(選:えら)んでください。",
+    "adjusted-expression-en": "Please choose first.",
+    "img-sub": "asakinierande01.png",
+    "example-ja": "A「この(ケーキ:けーき)、どれにする？」 B「うーん、あ、(先:さき)に(選:えら)んで？」 A「じゃあ、お(先:さき)に」",
+    "example-en": "A: Which cake do you want? B: Hmm... oh, you choose first. A: Okay, I'll go first.",
+    "notes-ja": "「あ、先に選んで？」は、自分が選ぶ前に、相手に先に選んでもらう表現です。「あ、」によって、その場で相手に譲る判断が立ち上がり、「選んで？」で軽く相手に選択を渡しています。",
+    "notes-en": "'A, saki ni erande?' is used when the speaker lets the other person choose before them. The initial 'a' marks the moment the speaker shifts and gives the choice to the listener, and 'erande?' lightly hands over the turn to choose."
+  },
+  {
     "date": "2026.06.08",
     "day": "Mon",
     "number": 789,
