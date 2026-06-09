@@ -258,7 +258,7 @@
     "tags-en": ["immediate grammar", "spoken", "malfunction-discovery expression", "state-change expression", "surprise expression", "activation element"],
     "adjusted-expression-ja": "(パソコン:ぱそこん)の(電源:でんげん)が(入:はい)らなくなっています。",
     "adjusted-expression-en": "The computer no longer turns on.",
-    "img-sub": "pasokon_tsukanakunatteru01.png",
+    "img-sub": "pasokontsukanakunatteru01.png",
     "example-ja": "あ、(パソコン:ぱそこん)、つかなくなってる。",
     "example-en": "Oh, the computer won't turn on anymore.",
     "notes-ja": "「あ、パソコン、つかなくなってる」は、パソコンの電源や画面がつかないことに気づいた瞬間の表現です。「つく／つかない」は、今でもパソコンやスマホなどの電気製品にも自然に使われます。",
