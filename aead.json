@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.12",
+    "day": "Fri",
+    "number": 793,
+    "index": "murioshouchiedeieba",
+    "title": "Knowing this may be asking too much, ...",
+    "expression-ja": "(無理:むり)を(承知:しょうち)で(言:い)えば、...",
+    "roman-ja": "Muri o shouchi de ieba, ...",
+    "expression-en": "Knowing this may be asking too much, ...",
+    "variants-ja": ["無理を承知で言えば、...", "無理を承知の上で言えば、...", "無理を承知でお願いすれば、..."],
+    "variants-en": ["Knowing this may be asking too much, ...", "If I may say this knowing it may be unreasonable, ...", "If I may ask despite knowing this may be difficult, ..."],
+    "intent-ja": ["難しい依頼の前置き", "負担の先取り", "配慮の表現"],
+    "intent-en": ["preface to a difficult request", "anticipation of burden", "expression of consideration"],
+    "tags-ja": ["即時文法", "口語", "難しい依頼表現", "負担先取り表現", "配慮表現"],
+    "tags-en": ["immediate grammar", "spoken", "difficult-request expression", "burden-anticipation expression", "consideration expression"],
+    "adjusted-expression-ja": "(難:むずか)しいことは(承知:しょうち)していますが、...",
+    "adjusted-expression-en": "I understand that this may be difficult, but ...",
+    "img-sub": "murioshouchiedeieba01.png",
+    "example-ja": "(無理:むり)を(承知:しょうち)で(言:い)えば、この(仕事:しごと)、(明日:あした)までにお(願:ねが)いできませんか。",
+    "example-en": "Knowing this may be asking too much, could I ask you to finish this work by tomorrow?",
+    "notes-ja": "「無理を承知で言えば、...」は、これから言うことが相手にとって難しい、または負担になることを先に認めたうえで、それでも伝える表現です。「無理を承知で」によって、要求や意見をそのまま押しつけず、相手への配慮を先に示しています。",
+    "notes-en": "'Muri o shouchi de ieba, ...' is used when the speaker first acknowledges that what they are about to say may be difficult or burdensome for the listener, but still says it. By saying 'muri o shouchi de', the speaker avoids simply imposing the request or opinion and first shows consideration for the listener."
+  },
+  {
     "date": "2026.06.11",
     "day": "Thu",
     "number": 792,
