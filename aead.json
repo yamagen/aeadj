@@ -18515,7 +18515,7 @@
   },
   {
     "date": "2024.05.10",
-    "date-history": [20240510, 20260327],
+    "date-history": [20240510, 20260327, 20260613],
     "day": "Fri",
     "number": 30,
     "index": "subarashii",
@@ -18539,13 +18539,13 @@
   },
   {
     "date": "2024.05.09",
-    "date-history": [20240509, 20260327],
+    "date-history": [20240509, 20260327, 20260613],
     "day": "Thu",
     "number": 29,
     "index": "shitsureishimashita",
     "title": "That Was Rude of Me",
     "expression-ja": "(失礼:しつれい)しました。",
-    "roman-ja": "Shitsurei shimashita.",
+    "roman-ja": "shitsurei shimashita.",
     "expression-en": "I'm sorry. / That was rude of me.",
     "variants-ja": ["(失礼:しつれい)しました。", "(失礼:しつれい)いたしました。", "さっきは(失礼:しつれい)しました。"],
     "variants-en": ["I'm sorry.", "That was rude of me.", "Sorry about that."],
@@ -18558,12 +18558,14 @@
     "img-sub": "shitsureishimashita01.png",
     "example-ja": "さっきは(失礼:しつれい)しました。",
     "example-en": "I'm sorry about earlier.",
-    "notes-en": "\"Shitsurei shimashita\" can be decomposed with a noun \"shitsurei\" which means \"rude\" or \"impolite,\" and a verb \"shimashita\" which is the past form of the verb \"suru\" which means \"to do.\" This is a polite way to apologize, but it is a simple one and can be used in daily life.",
-    "notes-ja": "「失礼」は「無礼」や「無礼」を意味します。「しました」は「する」という動詞の過去形で、「する」という動詞の過去形です。これは、謝罪するための丁寧な方法ですが、簡易的なもので、日常的に使ってもよいものです。"
+    "notes-ja": "「失礼しました」は、自分の言動が相手に対して失礼だった、または少し礼を欠いたと感じたときに使う丁寧な謝罪表現です。「失礼」は礼儀を欠くこと、「しました」は「する」の過去形ですが、実際には一つのまとまった定型表現として使われます。「さっきは失礼しました」のように、直前または少し前の言動をやわらかく謝るときに使えます。",
+    "notes-en": "'Shitsurei shimashita' is a polite apology used when the speaker feels that their behavior or words were rude, inappropriate, or slightly lacking in courtesy. 'Shitsurei' means rudeness or a lack of proper manners, and 'shimashita' is the past form of 'suru', but in actual use the whole phrase functions as a fixed expression. It can be used to apologize gently for something said or done earlier, as in 'sakki wa shitsurei shimashita'.",
+    "notes-for-teachers-ja": "「失礼しました」は、「すみません」よりも、自分の言動が礼儀に合わなかったことを認める感じが強い表現です。軽い謝罪にも使えますが、相手への配慮や改まった響きがあります。「さっきは失礼しました」は、少し前の発言・態度・ふるまいをあとから謝るときに便利です。",
+    "notes-for-teachers-en": "'Shitsurei shimashita' more strongly acknowledges that the speaker's words or behavior were not polite or appropriate, compared with the more general 'sumimasen'. It can be used for a light apology, but it sounds somewhat more considerate and formal. 'Sakki wa shitsurei shimashita' is useful when apologizing afterward for something one said, did, or how one behaved."
   },
   {
     "date": "2024.05.08",
-    "date-history": [20240508, 20260327],
+    "date-history": [20240508, 20260327, 20260613],
     "day": "Wed",
     "number": 28,
     "index": "omataseshimashita",
@@ -18582,18 +18584,18 @@
     "img-sub": "omataseshimashita01.png",
     "example-ja": "お(待:ま)たせしました。こちらへどうぞ。",
     "example-en": "Sorry to keep you waiting. This way, please.",
-    "notes-en": "\"Omatase shimashita\" can be decomposed with a polite prefix \"o,\" a verb \"matsu\" which means \"to wait,\" a causative auxiliary verb \"seru/saseru,\" a polite auxiliary verb \"masu,\" and a past auxiliary verb \"ta.\" If you say this phrase, it is not difficult, but if you analyze it, you will find that it is a very difficult connection. From this, you can see that it is not a good idea to analyze and think about words. Only understand that \"omatase shimashita\" is an expression to apologize for making someone wait.",
-    "notes-ja": "「お待たせしました」は、丁寧の接頭辞「お」、動詞「待つ」、使役の助動詞「せる/させる」、丁寧の助動詞「ます」、過去の助動詞「た」で構成される挨拶ことばです。一言で言ってしまえば、難しくありませんが、分析すると非常に難しい接続であることがわかります。このことから、ことばは分析して考えることが得策ではないことが、よくわかります。単に「お待たせしました」は、誰かを待たせてしまったことを謝罪するための表現であると理解すればよいのです。"
+    "notes-ja": "「お待たせしました」は、相手を待たせてしまったあとに使う定型表現です。形の上では、「お」＋「待たせる」＋「する」＋「ます」＋「た」が重なった表現で、分析するとかなり複雑です。しかし、実際には一つのまとまった表現として覚えればよく、「待たせてしまってすみません」という気持ちで使われます。接客や会話の再開場面でよく使われます。",
+    "notes-en": "\"Omatase shimashita\" is a fixed expression used after keeping someone waiting. Formally, it contains several layers, including the polite prefix \"o\", the causative verb \"mataseru\", \"suru\", the polite form \"masu\", and the past marker \"ta\", so it becomes quite complex if analyzed. In actual use, however, it is best learned as one formulaic expression meaning \"Sorry to have kept you waiting.\" It is often used in customer service or when resuming an interaction."
   },
   {
     "date": "2024.05.07",
-    "date-history": [20240507, 20260327],
+    "date-history": [20240507, 20260327, 20260613],
     "day": "Tue",
     "number": 27,
     "index": "oyasuminasai",
     "title": "Good Night",
     "expression-ja": "お(休:やす)みなさい。",
-    "roman-ja": "Oyasumi nasai.",
+    "roman-ja": "oyasumi nasai.",
     "expression-en": "Good night.",
     "variants-ja": ["お(休:やす)み。", "では、お(休:やす)みなさい。"],
     "variants-en": ["Good night.", "Sleep well."],
@@ -18606,12 +18608,12 @@
     "img-sub": "oyasuminasai01.png",
     "example-ja": "もう(遅:おそ)いので、お(休:やす)みなさい。",
     "example-en": "It's getting late, so good night.",
-    "notes-en": "The word \"oyasumi\" is a noun made of a verb \"yasumu\" which means \"to rest\" or \"to take a break.\" The word \"nasai\" is a polite suffix used to make a request or a command. The word \"oyasumi nasai\" is used to say good night to someone before they go to bed. Also, it is used when you part with someone at night.",
-    "notes-ja": "「おやすみ」は「おやすみなさい」という意味です。「なさい」は、要求や命令をするために使用される丁寧な接尾辞です。「おやすみなさい」は、寝る前に誰かにおやすみなさいと言うために使用されます。また、夜、人と別れるときにも使われます。"
+    "notes-ja": "「お休みなさい」は、寝る前や夜に別れるときに使う定型的なあいさつです。「休む」に丁寧な「お」が付き、「なさい」が続いた形ですが、実際には命令というより、相手に休むことを促したり、夜の別れを告げたりする表現として使われます。親しい相手には短く「お休み」とも言います。",
+    "notes-en": "'Oyasumi nasai' is a fixed greeting used before going to sleep or when parting from someone at night. It is based on 'yasumu', meaning 'to rest', with the polite prefix 'o' and the form 'nasai'. In actual use, however, it functions less as a command and more as a bedtime or nighttime parting expression. With close people, the shorter form 'oyasumi' is also common."
   },
   {
     "date": "2024.05.06",
-    "date-history": [20240506, 20260325],
+    "date-history": [20240506, 20260325, 20260613],
     "day": "Mon",
     "number": 26,
     "index": "itadakimasu",
@@ -18631,11 +18633,13 @@
     "example-ja": "(食:た)べる(前:まえ)に「いただきます」と(言:い)う。",
     "example-en": "Before eating, people say, Itadakimasu.",
     "notes-en": "\"Itadakimasu\" is a fixed expression said before eating in Japan. It is used to begin a meal with a sense of gratitude and respectful receiving, rather than as a simple literal statement. Although the verb behind it is the humble form \"itadaku,\" in actual use it functions as a formulaic mealtime expression.",
-    "notes-ja": "「いただきます」は、日本で食事の前に言う定型表現です。食べ物や食事の場に対する感謝と、ありがたく受ける気持ちを込めて使われ、単純な逐語訳だけでは捉えにくい表現です。もとの動詞は謙譲の「いただく」ですが、実際には食事開始のあいさつとして機能しています。"
+    "notes-ja": "「いただきます」は、日本で食事の前に言う定型表現です。食べ物や食事の場に対する感謝と、ありがたく受ける気持ちを込めて使われ、単純な逐語訳だけでは捉えにくい表現です。もとの動詞は謙譲の「いただく」ですが、実際には食事開始のあいさつとして機能しています。",
+    "notes-for-teachers-ja": "「いただきます」は、食事の前に言う定型的なあいさつであり、英語に一語で対応する表現はありません。'Thank you for the food' や 'Let's eat' と訳されることがありますが、実際には、食べ物を受け取ること、食事を始めること、作った人や食材への感謝をまとめて表す表現です。学習者には、意味を一語ずつ分析するより、食事開始の場面でそのまま使う定型表現として教えるとよいです。",
+    "notes-for-teachers-en": "'Itadakimasu' is a fixed expression said before eating, and there is no single exact English equivalent. It is sometimes translated as 'Thank you for the food' or 'Let's eat', but in actual use it combines receiving the food, beginning the meal, and showing gratitude toward the people and ingredients involved. Learners should treat it as a formulaic expression used at the start of a meal rather than analyzing it word by word."
   },
   {
     "date": "2024.05.05",
-    "date-history": [20240505, 20260326],
+    "date-history": [20240505, 20260326, 20260613],
     "day": "Sun",
     "number": 25,
     "index": "sumimasen",
@@ -18654,12 +18658,14 @@
     "img-sub": "sumimasen01.png",
     "example-ja": "すみません、ちょっと(教:おし)えてください。",
     "example-en": "Excuse me, could you tell me something?",
-    "notes-en": "\"Sumimasen\" is a versatile word that can be used in many situations. It can be used to apologize, to ask for help, to get someone's attention, or to ask for a favor. It is a polite and formal way to get someone's attention. It is also used to apologize for a mistake or to ask for help.",
-    "notes-ja": "「すみません」は多くの状況で使用できる多目的なことばです。謝罪するために使用したり、助けを求めたり、誰かの注意を引いたり、お願いをするために使用できます。これは、誰かの注意を引くための丁寧でフォーマルな方法です。間違いを謝罪したり、助けを求めたりするためにも使用されます。"
+    "notes-ja": "「すみません」は、多くの場面で使われる便利な定型表現です。謝罪するときだけでなく、相手に声をかけるとき、助けを求めるとき、依頼を始めるときにも使われます。相手の注意や時間を少し借りる前置きとして働くことも多く、「すみません、ちょっと教えてください」のように使われます。",
+    "notes-en": "'Sumimasen' is a versatile fixed expression used in many situations. It is used not only for apologizing, but also for getting someone's attention, asking for help, or beginning a request. It often works as a preface when the speaker is about to take a little of the listener's attention or time, as in 'sumimasen, chotto oshiete kudasai'.",
+    "notes-for-teachers-ja": "「すみません」は、英語の 'I'm sorry' だけでなく、'Excuse me' にも近い働きをする。謝罪、呼びかけ、依頼の前置き、相手の注意を引く場面などで使われるため、英語の一語に固定して覚えない方がよい。学習者には、「すみません、...」を、相手の注意や時間を少し借りるための丁寧な入口として練習させるとよい。",
+    "notes-for-teachers-en": "'Sumimasen' is not only equivalent to 'I'm sorry'; it also works like 'Excuse me.' It can be used for apology, getting attention, beginning a request, or politely entering the listener's space. Learners should not attach it to only one English translation. It is useful to practice 'sumimasen, ...' as a polite entry into asking for someone's attention or time."
   },
   {
     "date": "2024.05.04",
-    "date-history": [20240504, 20260326],
+    "date-history": [20240504, 20260326, 20260613],
     "day": "Sat",
     "number": 24,
     "index": "okonomiyaki",
@@ -18678,12 +18684,14 @@
     "img-sub": "okonomiyaki01.png",
     "example-ja": "A「(お好:この)み(焼:や)き、(食:た)べたい？」 B「うん、(大好:だいす)き！」",
     "example-en": "A: Do you want to eat okonomiyaki? B: Yes, I love it!",
-    "notes-en": "The word \"okonomiyaki\" is a popular Japanese food that is similar to pizza. The word \"okonomi\" means \"what you like\" or \"what you want.\" The word \"yaki\" means \"grilled\" or \"cooked.\" The word \"tsukuru\" means \"to make.\" The word \"okonomiyaki\" is made by mixing flour, eggs, cabbage, and other ingredients together and grilling them on a hot plate. There are several regional variations of okonomiyaki in Japan. The most famous ones are Hiroshima style and Osaka style. When I was a child, I loved eating okonomiyaki. Okonomiyaki back then was not as glamorous as it is today. It was a simple thin pancake of flour with a pinch of cabbage and a slice of pork. When yakisoba was included, only a few well-to-do children could afford it. Okonomiyaki was cooked by housewives in a temporary garage.",
-    "notes-ja": "「お好み焼き」は、日本で人気のある料理で、ピザに似ています。「お好み」は「好きなもの」や「欲しいもの」を意味します。「焼き」は「焼く」や「調理する」を意味します。「作る」は「作る」を意味します。「お好み焼き」は、小麦粉、卵、キャベツ、その他の材料を混ぜ合わせて、熱いプレートで焼いて作ります。いくつかの地域のバリエーションがあります。最も有名なものは広島焼と大阪焼です。子供の頃、私はお好み焼きが大好きでした。その頃のお好み焼きは、今日のように華やかではありませんでした。小麦粉の薄いパンケーキにキャベツの一つまみと豚肉の一切れが入っていました。焼きそばが含まれていた場合、それを買うことができるのはごくわずかな裕福な子供だけでした。お好み焼きは、仮設のガレージで主婦が調理していました。"
+    "notes-ja": "「お好み焼き」は、小麦粉、卵、キャベツなどを混ぜて鉄板で焼く、日本で人気のある料理です。「お好み」は好みに応じたもの、「焼き」は焼いて作る料理を表します。広島風や大阪風など、地域によって作り方や形に違いがあります。子供の頃、私はお好み焼きが大好きでした。その頃のお好み焼きは、今日のように華やかではありませんでした。小麦粉の薄い生地にキャベツを少し入れ、豚肉を一切れのせたような素朴なものでした。焼きそば入りのお好み焼きは、当時はごく一部の余裕のある子供だけが食べられるものでした。お好み焼きは、仮設のガレージのような場所で、近所の主婦が焼いてくれるものでした。",
+    "notes-en": "\"Okonomiyaki\" is a popular Japanese dish made by mixing flour, eggs, cabbage, and other ingredients and cooking the mixture on a hot plate. \"Okonomi\" refers to what one likes or prefers, and \"yaki\" refers to something grilled or cooked. There are several regional styles, especially Osaka style and Hiroshima style. When I was a child, I loved eating okonomiyaki. Back then, okonomiyaki was not as glamorous as it is today. It was a simple thin pancake-like food made with flour, a small amount of cabbage, and a slice of pork. If yakisoba was included, only a few relatively well-off children could afford it. Okonomiyaki was cooked by neighborhood housewives in temporary garage-like spaces.",
+    "notes-for-teachers-ja": "「お好み焼き」は、英語で一語に訳しにくい料理名です。説明するときは、'Japanese savory pancake' や 'a dish cooked on a hot plate with flour, cabbage, egg, and other ingredients' のように言うと分かりやすいです。ただし、日本では大阪風・広島風など地域差があり、家庭料理、外食、屋台的な食べ物、子供時代の記憶などとも結びつきます。",
+    "notes-for-teachers-en": "\"Okonomiyaki\" is difficult to translate with a single English word. It can be explained as a \"Japanese savory pancake\" or as \"a dish cooked on a hot plate with flour, cabbage, egg, and other ingredients.\" In Japan, however, it also has regional styles such as Osaka style and Hiroshima style, and it is connected with home cooking, eating out, street-food-like settings, and childhood memories."
   },
   {
     "date": "2024.05.03",
-    "date-history": [20240503, 20260325],
+    "date-history": [20240503, 20260325, 20260613],
     "day": "Fri",
     "number": 23,
     "index": "omuraisu",
@@ -18702,12 +18710,12 @@
     "img-sub": "omuraisu01.png",
     "example-ja": "A「(オムライス:おむらいす)、(食:た)べたい？」 B「うん、(大好:だいす)き！」",
     "example-en": "A: Do you want to eat omurice? B: Yes, I love it!",
-    "notes-en": "The word \"Omu-raisu\" is a loanword from English. The word \"omu\" is a short form of the word \"omelet.\" The word \"raisu\" is a loanword from English. The word \"raisu\" means \"rice.\" The word \"tsukuru\" means \"to make.\" When visiting to Japan first time, many international students would love an omuraisu. A hint of sweet thin egg wraps the ketchup rice. It is a very popular dish in Japan.",
-    "notes-ja": "「オムライス」は、英語の借用語です。「オム」は「オムレツ」の短縮形です。「ライス」は英語の借用語です。「ライス」は「米」を意味します。「作る」は「作る」を意味します。日本に初めて訪れる際、多くの留学生はオムライスが大好きです。ほんのり甘い薄い卵がケチャップライスを包みます。日本で非常に人気のある料理です。"
+    "notes-ja": "「オムライス」は、「オムレツ」と「ライス」から作られた和製英語的な料理名です。ケチャップライスを薄い卵で包んだ、日本で人気のある料理です。日本に初めて来た留学生にも好まれやすい料理の一つです。ほんのり甘い卵とケチャップライスの組み合わせが特徴です。",
+    "notes-en": "'Omuraisu' is a Japanese-style food name made from 'omelet' and 'rice.' It refers to ketchup-flavored rice wrapped in a thin omelet, and it is a popular dish in Japan. Many international students who come to Japan for the first time tend to enjoy omurice. Its characteristic appeal is the combination of slightly sweet egg and ketchup rice."
   },
   {
     "date": "2024.05.02",
-    "date-history": [20240502, 20260325],
+    "date-history": [20240502, 20260325, 20260613],
     "day": "Thu",
     "number": 22,
     "index": "onigiri",
@@ -18724,14 +18732,14 @@
     "adjusted-expression-ja": "(炊:た)いたご(飯:はん)を(握:にぎ)って、おにぎりを(作:つく)ります。",
     "adjusted-expression-en": "We make rice balls by shaping cooked rice with our hands.",
     "img-sub": "onigiri01.png",
-    "example-ja": "A「(おにぎり:おにぎり)を(握:にぎ)るのは、(楽:たの)しいね！」 B「うん、(炊:た)いたご(飯:はん)を(握:にぎ)って、おにぎりを(作:つく)るのは、(面白:おもしろ)いよね！」",
+    "example-ja": "A「おにぎりを(握:にぎ)るのは、(楽:たの)しいね！」 B「うん、(炊:た)いたご(飯:はん)を(握:にぎ)って、おにぎりを(作:つく)るのは、(面白:おもしろ)いよね！」",
     "example-en": "A: Making rice balls is fun! B: Yes, shaping cooked rice into rice balls is interesting!",
-    "notes-en": "The word \"onigiri\" means \"rice ball.\" The word \"nigiru\" means \"to make\" or \"to hold.\" The word \"nigiru\" is used to describe the action of making a rice ball. The word \"onigiri\" is a popular Japanese food that is made by shaping rice into a ball and wrapping it in seaweed.",
-    "notes-ja": "「おにぎり」は「おにぎり」を意味します。「握る」は「作る」や「持つ」を意味します。「握る」はおにぎりを作る行為を表すために使用されます。「おにぎり」は、米を球状に形作り、海苔で包んで作られる人気のある日本食です。"
+    "notes-ja": "「おにぎり」は、炊いたご飯を丸や三角などの形にまとめた食べ物です。「握る」は、手で持って軽く力を加える動作を表し、「おにぎりを握る」では、ご飯を手で形作っておにぎりにすることを表します。おにぎりは、海苔で包まれることも多い、日本で親しまれている食べ物です。",
+    "notes-en": "\"Onigiri\" means a rice ball, usually made by shaping cooked rice into a round or triangular form. \"Nigiru\" means to hold or press something in the hand, and in \"onigiri wo nigiru\" it describes the action of shaping rice by hand to make an onigiri. Onigiri is a popular Japanese food, often wrapped with seaweed."
   },
   {
     "date": "2024.05.01",
-    "date-history": [20240501, 20260325],
+    "date-history": [20240501, 20260325, 20260613],
     "day": "Wed",
     "number": 21,
     "index": "hayakuchi",
@@ -18748,10 +18756,14 @@
     "adjusted-expression-ja": "(少:すこ)し(早口:はやくち)なので、(聞:き)き(取:と)れませんでした。",
     "adjusted-expression-en": "I could not catch what you are saying because you are speaking a little too fast.",
     "img-sub": "hayakuchi01.png",
-    "example-ja": "A「(昨日:きのう)の(映画:えいが)、どうだった？」 B「(早口:はやくち)で(聞:き)き(取:と)れなかったけど、(面白:おもしろ)かったよ。」",
-    "example-en": "A: How was the movie yesterday? B: I couldn't catch it because you were speaking too fast, but it was interesting.",
+    "example-ja": "A「昨日の映画、どうだった？」 B「早口で聞き取れないところもあったけど、面白かったよ」",
+    "example-en": "A: How was the movie yesterday? B: There were parts I couldn't catch because the speech was too fast, but it was interesting.",
     "notes-en": "\"Hayakuchi\" refers to speaking quickly or in rapid speech. \"Kikitorenai\" means that the listener cannot catch or make out what is being said. The whole expression is used when someone is speaking so fast that the listener cannot follow the speech clearly.",
-    "notes-ja": "「早口」は、話す速度が速いことを表す語です。「聞き取れない」は、相手の言っていることを音としてうまく捉えられないことを表します。全体として、相手の話し方が速すぎて内容をきちんと追えないときに使う表現です。"
+    "notes-ja": "「早口」は、話す速度が速いことを表す語です。「聞き取れない」は、相手の言っていることを音としてうまく捉えられないことを表します。全体として、相手の話し方が速すぎて内容をきちんと追えないときに使う表現です。",
+    "notes-for-teachers-ja": "「早口で聞き取れない」は、相手の話す速度が速すぎて、音として内容を捉えられないことを伝える表現です。学習者には、「わかりません」だけでなく、「早口で聞き取れませんでした」「少しゆっくり話してもらえますか」のように、原因と調整依頼を一緒に言えるようにするとよいです。直接「早すぎます」と言うより、「少し早口で...」とすると、やわらかく聞こえます。",
+    "notes-for-teachers-en": "'Hayakuchi de kikitorenai' tells the speaker that their speech is too fast for the listener to catch clearly. Learners should practice not only saying 'wakarimasen', but also giving the reason and requesting adjustment, as in 'hayakuchi de kikitoremasen deshita' or 'sukoshi yukkuri hanashite moraemasu ka'. Saying 'sukoshi hayakuchi de...' sounds softer than directly saying 'hayasugimasu'.",
+    "notes-for-research-ja": "「早口で聞き取れない」は、理解不能を単に表すだけでなく、会話の速度を調整するための即時表現である。聞き手は、自分が理解できなかったことを示しながら、同時に相手の発話速度に原因を置き、次の発話をより聞き取りやすくする方向へ会話を調整している。AEAD では、このような表現を、聞き返し・理解困難・会話調整が一体となった発動単位として扱うことができる。",
+    "notes-for-research-en": "'Hayakuchi de kikitorenai' is not merely an expression of failure to understand; it is an immediate expression for adjusting the speed of conversation. The listener indicates that they could not understand, while also locating the cause in the speaker's rapid speech and guiding the next utterance toward a more listenable pace. In AEAD, this can be treated as an activation unit in which asking for repetition, expressing difficulty, and adjusting the conversation occur together."
   },
   {
     "date": "2024.04.30",
