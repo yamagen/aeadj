@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.13",
+    "day": "Sat",
+    "number": 794,
+    "index": "wakattemasutteba",
+    "title": "I know, I know.",
+    "expression-ja": "(分:わ)かってますってば。",
+    "roman-ja": "Wakattemasu tte ba.",
+    "expression-en": "I know, I know.",
+    "variants-ja": ["分かってますってば。", "分かってるってば。", "分かってるよ、もう。"],
+    "variants-en": ["I know, I know.", "I told you, I know.", "I know already."],
+    "intent-ja": ["理解の表明", "相手への軽い反発", "口語的な表現"],
+    "intent-en": ["statement of understanding", "light pushback to the other person", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "理解表明表現", "軽い反発表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "understanding-statement expression", "light-pushback expression", "colloquial expression"],
+    "adjusted-expression-ja": "(分:わ)かっていますよ。",
+    "adjusted-expression-en": "I understand.",
+    "img-sub": "wakattemasutteba01.png",
+    "example-ja": "A「もうすぐ(晩御飯:ばんごはん)なんだから、(早:はや)く(帰:かえ)ってきてよ」 B「(分:わ)かってますってば」",
+    "example-en": "A: Dinner is soon, so please come home early. B: I know, I know.",
+    "notes-ja": "「分かってますってば」は、相手の説明や注意に対して、すでに分かっていることを示しながら、少し押し返す表現です。「ってば」によって、「もう分かっているから、それ以上言わなくてもいい」という軽い反発が出ています。",
+    "notes-en": "'Wakattemasu tte ba.' is used to show that the speaker already understands what the other person is explaining or warning about, while also pushing back slightly. 'Tte ba' adds the feeling of 'I already know, so you don't need to keep saying it.'"
+  },
+  {
     "date": "2026.06.12",
     "day": "Fri",
     "number": 793,
