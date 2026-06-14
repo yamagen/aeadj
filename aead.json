@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.14",
+    "day": "Sun",
+    "number": 795,
+    "index": "saikyouni",
+    "title": "Right now, my room is extremely messy, but...",
+    "expression-ja": "(今:いま)、(最強:さいきょう)に(部屋:へや)が(散:ち)らかってるんだけど、...",
+    "roman-ja": "Ima, saikyou ni heya ga chirakatteru n da kedo, ...",
+    "expression-en": "Right now, my room is extremely messy, but...",
+    "variants-ja": ["今、最強に部屋が散らかってるんだけど、...", "今、めちゃくちゃ部屋が散らかってるんだけど、...", "今、すごく部屋が散らかってるんだけど、..."],
+    "variants-en": ["Right now, my room is extremely messy, but...", "Right now, my room is super messy, but...", "Right now, my room is really messy, but..."],
+    "intent-ja": ["状態の先出し", "来訪への前置き", "口語的な表現"],
+    "intent-en": ["advance warning about a condition", "preface to a visit", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "状態先出し表現", "来訪前置き表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "advance-condition expression", "visit-preface expression", "colloquial expression"],
+    "adjusted-expression-ja": "(現在:げんざい)、(部屋:へや)がとても(散:ち)らかっていますが、...",
+    "adjusted-expression-en": "Right now, my room is very messy, but...",
+    "img-sub": "imasaikyouni01.png",
+    "example-ja": "A「(今:いま)、(最強:さいきょう)に(部屋:へや)が(散:ち)らかってるんだけど、(本当:ほんとう)にうちに(来:く)るの？」 B「(今:いま)なの？いつもじゃなくて？」",
+    "example-en": "A: Right now, my room is extremely messy, but are you really coming over? B: Right now? Not usually?",
+    "notes-ja": "「今、最強に部屋が散らかってるんだけど、...」は、相手が来る前に、部屋の状態を先に出しておく表現です。「最強に」は、かなりくだけた誇張表現で、散らかり方のひどさを少しふざけた感じで強めています。「んだけど」によって、その状態がこの後の話の前提になります。B の「今なの？いつもじゃなくて？」は、A の「今だけ」という言い方を軽くからかう返しです。",
+    "notes-en": "'Ima, saikyou ni heya ga chirakatteru n da kedo, ...' is used to warn the listener in advance about the state of the room before they come over. 'Saikyou ni' is a very casual, exaggerated intensifier that makes the mess sound extreme in a slightly playful way. 'N da kedo' makes that condition a premise for what follows. B's response, 'Right now? Not usually?', lightly teases A's implication that the room is only messy right now."
+  },
+  {
     "date": "2026.06.13",
     "day": "Sat",
     "number": 794,
