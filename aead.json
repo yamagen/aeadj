@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.15",
+    "day": "Mon",
+    "number": 796,
+    "index": "moshikashiteyabaikotoni",
+    "title": "Could it be getting serious?",
+    "expression-ja": "もしかして、やばいことになってる？",
+    "roman-ja": "Moshikashite, yabai koto ni natteru?",
+    "expression-en": "Could it be getting serious?",
+    "variants-ja": ["もしかして、やばいことになってる？", "もしかして、やばいことになってるんじゃない？", "もしかして、やばいことになってるの？"],
+    "variants-en": ["Could it be getting serious?", "Maybe things are getting bad?", "Is something bad happening?"],
+    "intent-ja": ["不穏な可能性の確認", "不安の表現", "口語的な表現"],
+    "intent-en": ["checking an alarming possibility", "expression of concern", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "不穏可能性確認表現", "不安表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "alarming-possibility-checking expression", "concern expression", "colloquial expression"],
+    "adjusted-expression-ja": "もしかすると、(状況:じょうきょう)が(悪:わる)くなっているかもしれませんね。",
+    "adjusted-expression-en": "Perhaps the situation may be getting worse.",
+    "img-sub": "moshikashiteyabaikotoni01.png",
+    "example-ja": "A「ねぇ、(今朝:けさ)、(何:なに)も(言:い)わないで、(家:いえ)、(出:で)てきたでしょ？」 B「そうだけど、もしかして、やばいことになってる？」",
+    "example-en": "A: Hey, you left the house this morning without saying anything, right? B: Yeah, but could it be getting serious?",
+    "notes-ja": "「もしかして、やばいことになってる？」は、相手の言い方や様子から、不穏な可能性が急に立ち上がったときの表現です。「もしかして」でまだ確定していない可能性を示し、「やばいことになってる？」で、具体的には分からないが悪い方向に進んでいるかもしれない状況を確認しています。",
+    "notes-en": "'Moshikashite, yabai koto ni natteru?' is used when the other person's words or behavior suddenly make an alarming possibility come to mind. 'Moshikashite' marks the possibility as still uncertain, and 'yabai koto ni natteru?' checks whether something unspecified but bad may be developing."
+  },
+  {
     "date": "2026.06.14",
     "day": "Sun",
     "number": 795,
