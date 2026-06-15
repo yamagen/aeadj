@@ -18321,13 +18321,13 @@
   },
   {
     "date": "2024.05.20",
-    "date-history": [20240520, 20260330],
+    "date-history": [20240520, 20260330, 20260615],
     "day": "Mon",
     "number": 40,
     "index": "arien",
     "title": "No Way!",
     "expression-ja": "ありえん！",
-    "roman-ja": "Arien!",
+    "roman-ja": "arien!",
     "expression-en": "No way!",
     "variants-ja": ["ありえない！", "そんなのありえん！", "まさか！"],
     "variants-en": ["No way!", "That's impossible!", "Unbelievable!"],
@@ -18341,11 +18341,12 @@
     "example-ja": "3(回:かい)(連続:れんぞく)で(ジャンケン:じゃんけん)で(勝:か)った？ ありえん！",
     "example-en": "You won rock-paper-scissors three times in a row? No way!",
     "notes-en": "\"Arien\" is a colloquial spoken form of \"arienai.\" It is used to express strong disbelief, surprise, or the feeling that something is beyond belief. In immediate use, it often comes out as a quick emotional reaction rather than as a carefully stated judgment.",
-    "notes-ja": "「ありえん」は、「ありえない」のくだけた口語的な形で、強い不信、驚き、信じられない気持ちをその場で表す表現です。丁寧に判断を述べるというより、まず感情が先に出るような即時的な言い方として使われやすい表現です。"
+    "notes-ja": "「ありえん」は、「ありえない」のくだけた口語的な形で、強い不信、驚き、信じられない気持ちをその場で表す表現です。丁寧に判断を述べるというより、思わず「そんなことがあるの？」と反応するときに使われやすい言い方です。",
+    "notes-en": "\"Arien\" is a casual spoken form of \"arienai.\" It expresses strong disbelief, surprise, or the feeling that something is hard to believe. Rather than sounding like a careful judgment, it often works as a quick reaction close to \"No way!\" or \"Unbelievable!\""
   },
   {
     "date": "2024.05.19",
-    "date-history": [20240519, 20260330],
+    "date-history": [20240519, 20260330, 20260615],
     "day": "Sun",
     "number": 39,
     "index": "zennbu",
@@ -18369,7 +18370,7 @@
   },
   {
     "date": "2024.05.18",
-    "date-history": [20240518, 20260330],
+    "date-history": [20240518, 20260330, 20260615],
     "day": "Sat",
     "number": 38,
     "index": "anone",
@@ -18393,7 +18394,7 @@
   },
   {
     "date": "2024.05.17",
-    "date-history": [20240517, 20260330],
+    "date-history": [20240517, 20260330, 20260615],
     "day": "Fri",
     "number": 37,
     "index": "suteki",
@@ -18417,7 +18418,7 @@
   },
   {
     "date": "2024.05.16",
-    "date-history": [20240516, 20260329],
+    "date-history": [20240516, 20260329, 20260615],
     "day": "Thu",
     "number": 36,
     "index": "sugoi",
@@ -18436,12 +18437,16 @@
     "img-sub": "sugoi01.png",
     "example-ja": "A「これなら(満足:まんぞく)？」 B「うん！(本当:ほんとう)にすごいよ！」",
     "example-en": "A: Is this satisfactory? B: Yes! It's really excellent!",
-    "notes-en": "The word \"sugoi\" means \"amazing,\" \"excellent,\" or \"great.\" It is used to express admiration or surprise. It is a versatile word that can be used in many situations.",
-    "notes-ja": "「すごい」は「すばらしい」や「素晴らしい」を意味します。感嘆や驚きを表現するために使用されます。 多目的なことばで、多くの状況で使用できます。"
+    "notes-ja": "「すごい」は、驚き、感嘆、賞賛を表す口語的な表現です。人、行動、結果、出来事などに対して、「普通ではない」「程度が大きい」「強く印象に残る」と感じたときに使います。よい意味で使われることが多いですが、文脈によっては単なる程度の強さを表すこともあります。",
+    "notes-en": "\"Sugoi\" is a colloquial expression used to show surprise, admiration, or praise. It can be used for a person, action, result, or event when the speaker feels that something is extraordinary, intense, or strongly impressive. It is often positive, but depending on the context it can also simply express a high degree or intensity.",
+    "notes-for-teachers-ja": "「すごい」は「すばらしい」よりも口語的で、賞賛だけでなく驚きや程度の大きさも表します。「すごい！」だけで感嘆として使えますが、「すごい雨」「すごい人」「すごく疲れた」のように、必ずしもよい意味だけではありません。学習者には、まず「Amazing!」「Wow!」に近い即時反応として教え、そのあとで強調表現としての使い方を示すとよいです。",
+    "notes-for-teachers-en": "\"Sugoi\" is more colloquial than \"subarashii\" and expresses not only praise, but also surprise or a high degree of intensity. It can stand alone as an exclamation, as in \"Sugoi!\", but it is not always positive, as in \"sugoi ame\" (heavy rain), \"sugoi hito\" (a large crowd), or \"sugoku tsukareta\" (very tired). It is useful to first teach it as an immediate reaction close to \"Amazing!\" or \"Wow!\", and then show its use as an intensifier.",
+    "notes-for-research-ja": "「すばらしい！」と「すごい！」の前連鎖、後連鎖を考え、それぞれの使用域の違いを考えよ。また、それぞれの前連鎖、後連鎖について「すばらしい」「すごい」を入れ替えてみて、どのような違いがあるかを考えよ。この違いを学習者が同様に感じられるかどうかを考えよ。",
+    "notes-for-research-en": "Consider the pre-chains and post-chains of \"subarashii!\" and \"sugoi!\" and think about the differences in their usage domains. Also, try swapping \"subarashii\" and \"sugoi\" in their respective pre-chains and post-chains, and consider what differences there are. Consider whether language learners can similarly feel these differences."
   },
   {
     "date": "2024.05.15",
-    "date-history": [20240515, 20260329],
+    "date-history": [20240515, 20260329, 20260615],
     "day": "Wed",
     "number": 35,
     "index": "naani",
@@ -18449,7 +18454,7 @@
     "expression-ja": "なあに？",
     "roman-ja": "naani?",
     "expression-en": "What?",
-    "variants-ja": ["なに？", "なあに。", "なに？どうしたの？"],
+    "variants-ja": ["なに？", "なあに", "なに？どうしたの？"],
     "variants-en": ["What?", "Yes?", "What is it?"],
     "intent-ja": ["呼びかけへの応答", "確認", "会話の開始"],
     "intent-en": ["response to being called", "checking", "starting interaction"],
@@ -18460,12 +18465,15 @@
     "img-sub": "naani01.png",
     "example-ja": "A「(田中:たなか)くん！」 B「なあに？」",
     "example-en": "A: Tanaka! B: What?",
-    "notes-en": "\"Naani\" is a colloquial expression that means \"What?\" or \"Do you need me for something?\" It can be used when you are called by your name.",
-    "notes-ja": "「なあに」は「何？」や「何か用事でもありますか？」を意味する口語表現です。「なあに」は、名前を呼ばれたときに使用できます。"
+    "notes-ja": "「なあに」は、「何？」や「どうしたの？」に近い口語表現です。名前を呼ばれたときや、相手がこちらに話しかけようとしているときに使えます。親しい相手へのやわらかい応答として使われることが多く、改まった場面では「何でしょうか」「何かご用ですか」などの方が適切です。",
+    "notes-en": "\"Naani\" is a colloquial expression close to \"What?\" or \"What is it?\" It can be used when someone calls your name or seems to want to say something to you. It often sounds soft and familiar, so in more formal situations expressions such as \"nan deshou ka\" or \"nanika goyou desu ka\" are more appropriate.",
+    "notes-for-teachers-ja": "「なあに？」は、単なる質問の「何？」ではなく、名前を呼ばれたときに「はい、どうしたの？」という感じで返す応答表現です。親しい相手、子ども、家族、友人との会話では自然ですが、目上の人や改まった場面ではくだけすぎます。「何でしょうか」「はい、何かご用でしょうか」との違いを場面で示すとよいです。",
+    "notes-for-research-ja": "「なあに？」は、日本人なら多くの人が知っている童謡「おかあさん」の最初の単語である。名前を呼ばれたときのお母さんの返事として記憶されている表現でもある。名前を呼ばれたときに「なあに？」と返すのは、子どもや親しい人に対して、やわらかく応答する言い方である。名前を呼ばれた留学生が「なあに？」と返すと、おどけた感じを出すことができるだろうか。親しい人や子どもとの会話で自然に聞こえるだろうか。日本語母語話者は童謡「おかあさん」を思い出すだろうか。このような返事によって、留学生は母語話者との距離を縮めることができるだろうか。",
+    "notes-for-research-en": "\"Naani?\" is the first word of the well-known Japanese children's song \"Okaasan.\" It is also remembered as the mother's response when her name is called in the song. In ordinary conversation, replying \"naani?\" when called can sound soft and familiar, especially when used with children or close people. If a language learner responds with \"naani?\" when called, could it create a playful effect? Would it sound natural in conversation with close friends or children? Would Japanese native speakers recall the song \"Okaasan\"? Could this kind of response help a language learner reduce the social distance with native speakers?"
   },
   {
     "date": "2024.05.14",
-    "date-history": [20240514, 20260329],
+    "date-history": [20240514, 20260329, 20260615],
     "day": "Tue",
     "number": 34,
     "index": "ocha",
@@ -18484,12 +18492,17 @@
     "img-sub": "ocha01.png",
     "example-ja": "(少:すこ)し(休:やす)みたいですね。お(茶:ちゃ)しませんか。",
     "example-en": "It looks like we could use a little break. Shall we have some tea?",
-    "notes-en": "The word \"ocha\" means \"tea,\" however, A tea is one of examples to drink when having a break. \"Shimasen\" is the negative form of the verb \"suru\" which does not mean negative but an invitation. The word \"ka\" is a particle that indicates a question, but it is not necessary. Just because it is \"ocha,\" it does not mean that you cannot drink coffee.",
-    "notes-ja": "「お茶」は例であって本当に「お茶」を意味するわけではありません。「する」という動詞の丁寧の否定形ですが、これは否定ではなく、誘いです。「か」は疑問を示す助詞ですが、使わなくてもかまいません。「お茶」だからといって「コーヒー」を飲んではいけないわけではありません。"
+
+    "notes-ja": "「お茶」は典型例であって、必ずしも日本茶だけを指すわけではありません。休憩しながら何かを飲む、少し話す、という場面を表します。「しませんか」は形の上では丁寧な否定疑問ですが、ここでは否定ではなく誘いとして働きます。「か」は疑問を示す助詞ですが、親しい会話では「お茶しない？」のように、なくても誘いになります。「お茶」だからといって、コーヒーを飲んではいけないわけではありません。",
+    "notes-en": "\"Ocha\" literally means \"tea,\" but here it works as a typical example of something to drink during a break. It can imply taking a short break, having something to drink, or starting a conversation. \"Shimasen ka\" is formally a polite negative question, but in this expression it functions as an invitation rather than a negative statement. The particle \"ka\" marks a question, but in casual speech it can be omitted, as in \"ocha shinai?\" Just because the word is \"ocha,\" it does not mean that you cannot drink coffee.",
+    "notes-for-teachers-ja": "「お茶しませんか」は、飲み物そのものをすすめるだけでなく、休憩や会話への誘いとして使われます。「お茶」は日本茶に限らず、コーヒーや他の飲み物でもかまいません。また、「しませんか」は形の上では否定疑問ですが、実際には丁寧な誘いです。学習者には、「〜しませんか」が否定ではなく誘いになることを、場面と一緒に教えるとよいです。",
+    "notes-for-teachers-en": "\"Ocha shimasen ka\" is not only an offer of tea, but also an invitation to take a break or begin a conversation. \"Ocha\" does not have to mean Japanese tea; coffee or another drink may be involved. Also, \"shimasen ka\" is formally a negative question, but in actual use it functions as a polite invitation. It is useful to teach learners that \"-masen ka\" can invite rather than negate, together with the situation in which it is used.",
+    "notes-for-research-ja": "「お茶しませんか」は、「お茶」という具体的な飲み物名を使いながら、実際には休憩・会話開始・人間関係の調整をまとめて表す表現である。また、「しませんか」は否定形でありながら、ここでは相手に選択余地を残す丁寧な誘いとして働く。いくつかの名詞は「する」を付けて動詞として使用できる。「勉強する」「運動する」のように辞書にサ変動詞として掲載されているものもあれば、「お茶する」「元気する」のように、日常会話でよく使われるが、辞書にはサ変動詞として載っていないものもある。「お茶しませんか」や「元気してる」などはごく普通に聞かれる。さらに、「神ってます」のように、「する」ではなくても、名詞的な語に動詞らしい形が付くことで、その語が一時的に述語として受け取られることがある。このことから、文法というものを固定的に考えず、辞書にあってもなくても、名詞的な語が会話の中で柔軟に動詞的・述語的に使われる作用があることがわかる。",
+    "notes-for-research-en": "\"Ocha shimasen ka\" is an expression that uses the specific noun \"ocha\" (tea) while actually referring to taking a break, starting a conversation, or adjusting social relationships. Also, \"shimasen ka\" is a negative form, but here it functions as a polite invitation that leaves the other person with a choice. Some nouns can be used with \"suru\" to become verbs. Some are listed in the dictionary as suru-verbs, such as \"benkyou suru\" (to study) and \"undou suru\" (to exercise), while others, like \"ocha suru\" (to have tea) and \"genki suru\" (to be well), are commonly used in daily conversation but not listed as suru-verbs in dictionaries. Expressions like \"ocha shimasen ka\" and \"genki shiteru\" are commonly heard. Furthermore, expressions like \"kamitte masu,\" which do not use \"suru,\" show that when a noun-like word takes on a verb-like form, it can be temporarily understood as a predicate. This illustrates that grammar should not be thought of as fixed, and that noun-like words can flexibly function as verbs or predicates in conversation, regardless of whether they are listed in the dictionary."
   },
   {
     "date": "2024.05.13",
-    "date-history": [20240513, 20260328],
+    "date-history": [20240513, 20260328, 20260615],
     "day": "Mon",
     "number": 33,
     "index": "urifutatsu",
@@ -18508,12 +18521,14 @@
     "img-sub": "urifutatsu01.png",
     "example-ja": "(二人:ふたり)はまるで(瓜:うり)(二:ふた)つ。",
     "example-en": "The two are just like two peas in a pod.",
-    "notes-en": "The expression \"uri futatsu\" means \"two peas in a pod.\" The word \"uri\" means \"melon\" or \"gourd.\" The word \"futatsu\" means \"two.\" The word \"uri futatsu\" means that two people are very similar.",
-    "notes-ja": "「瓜二つ」は「二人がとてもよく似ている」ことを意味します。「瓜」は「メロン」や「ひょうたん」を意味します。"
+    "notes-ja": "「瓜二つ」は、二人が見分けがつかないほどよく似ていることを表す慣用表現です。「瓜」は、うり科の植物の実を指し、同じような形の瓜が二つ並んでいるように似ている、という比喩から来ています。主に人の顔や姿がよく似ているときに使われます。",
+    "notes-en": "\"Uri futatsu\" is an idiomatic expression meaning that two people look so similar that it is hard to tell them apart. \"Uri\" refers to a melon or gourd-like fruit, and the expression compares two similar-looking people to two similar gourds placed side by side. It is mainly used for resemblance in appearance.",
+    "notes-for-teachers-ja": "「瓜二つ」は、単に「似ている」よりも強く、見分けがつかないほどそっくりだという意味です。人の顔や姿に使うことが多く、性格や考え方が似ている場合には普通は「よく似ている」「そっくり」の方が使いやすいです。英語の 'like two peas in a pod' に近いですが、日本語では「瓜」が比喩に使われています。",
+    "notes-for-teachers-en": "\"Uri futatsu\" is stronger than simply \"similar\" and means that two people look almost identical. It is often used for faces or appearance. For similarity in personality or ideas, expressions such as \"yoku nite iru\" or \"sokkuri\" may be easier to use. It is close to the English expression \"like two peas in a pod,\" but Japanese uses \"uri,\" a gourd or melon-like fruit, as the image."
   },
   {
     "date": "2024.05.12",
-    "date-history": [20240512, 20260328],
+    "date-history": [20240512, 20260328, 20260615],
     "day": "Sun",
     "number": 32,
     "index": "katteokimashouka",
@@ -18533,11 +18548,15 @@
     "example-ja": "(後:あと)で(必要:ひつよう)かもしれないから、じゃ、それ、ひとつ、(買:か)っておきましょうか。",
     "example-en": "We might need it later, so well then, shall I get one?",
     "notes-en": "\"Katte okimashou ka\" is used to suggest buying something. \"Katte\" is the te-form of the verb \"kau\" which means \"to buy.\" \"Okimashou ka\" is the polite form of the verb \"oku\" which means \"to do\" or \"to prepare.\"  It is easy to understand that when expressing something that has already been bought as a preparation, \"te aru\" is used, and when buying something for preparation, \"te oku\" is used.",
-    "notes-ja": "「買っておきましょうか」は、何かを買うことを提案するために使用される。「買って」は「買う」という動詞のて形。「おきましょうか」は、「おく」という動詞の丁寧形で、「する」や「準備する」という意味です。このフレーズは、何かを買って準備することを提案するために使用される。準備として既に買ったものを表現するときは、「てある」を使うのに対し、これから買って、何かに備える場合には、「ておく」を使うとわかりやすい。"
+    "notes-ja": "「買っておきましょうか」は、何かを買うことを提案するために使用される。「買って」は「買う」という動詞のて形。「おきましょうか」は、「おく」という動詞の丁寧形で、「する」や「準備する」という意味です。このフレーズは、何かを買って準備することを提案するために使用される。準備として既に買ったものを表現するときは、「てある」を使うのに対し、これから買って、何かに備える場合には、「ておく」を使うとわかりやすい。",
+    "notes-for-teachers-ja": "「買ってある」は、単に「買った」という過去の出来事を表すのではなく、買った結果として物が今すでに用意されている状態を表します。「牛乳はもう買ってある」は、「牛乳を買った」だけでなく、「だから今日は買わなくてよい」「もう準備できている」という意味まで含みます。「買った」と「買ってある」の違いを、準備完了の表現として示すとよいです。",
+    "notes-for-teachers-en": "\"Katte aru\" does not simply describe the past action of buying something. It expresses the present state that results from that action: the item has already been bought and is now ready. \"Gyuunyuu wa mou katte aru\" means not only \"I bought the milk,\" but also \"so you don't need to buy it today\" or \"it is already prepared.\" It is useful to teach the difference between \"katta\" and \"katte aru\" as a preparation-completed expression.",
+    "notes-for-research-ja": "「買ってある」は、過去の動作そのものではなく、その動作の結果が現在の準備状態として残っていることを表す。AEAD では、これを単なる完了表現ではなく、相手に「もうしなくてよい」「準備できている」と知らせる即時的な安心・調整表現として扱うことができる。",
+    "notes-for-research-en": "\"Katte aru\" foregrounds not the past action itself, but the present prepared state resulting from that action. In AEAD, it can be treated not merely as a perfect-like expression, but as an immediate reassurance or adjustment expression that tells the listener that the action no longer needs to be done."
   },
   {
     "date": "2024.05.11",
-    "date-history": [20240511, 20260328],
+    "date-history": [20240511, 20260328, 20260615],
     "day": "Sat",
     "number": 31,
     "index": "kattearu",
