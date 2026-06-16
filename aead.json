@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.16",
+    "day": "Tue",
+    "number": 797,
+    "index": "adengenkaa",
+    "title": "Oh, the power, huh.",
+    "expression-ja": "あ、(電源:でんげん)かぁ。",
+    "roman-ja": "A, dengen kaa.",
+    "expression-en": "Oh, the power, huh.",
+    "variants-ja": ["あ、電源かぁ。", "あ、電源だったのかぁ。", "あ、電源が原因だったのかぁ。"],
+    "variants-en": ["Oh, the power, huh.", "Oh, it was the power.", "Oh, the power was the cause."],
+    "intent-ja": ["気づきの表現", "原因候補の受け取り", "口語的な表現"],
+    "intent-en": ["expression of realization", "receiving a possible cause", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "気づき表現", "原因候補表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "realization expression", "possible-cause expression", "colloquial expression"],
+    "adjusted-expression-ja": "ああ、(電源:でんげん)が(原因:げんいん)だったのか。",
+    "adjusted-expression-en": "Ah, so it was the power.",
+    "img-sub": "adengenkaa01.png",
+    "example-ja": "A「それって、この(スイッチ:すいっち)、(入:い)れた？」 B「あ、(電源:でんげん)かぁ」",
+    "example-en": "A: Did you turn on this switch? B: Oh, the power, huh.",
+    "notes-ja": "「あ、電源かぁ」は、相手の指摘を受けて、電源という原因候補にその場で気づく表現です。「あ、」によって気づきが立ち上がり、「電源」で新しく前景化した対象を受け取り、「かぁ」でそれを受け止めています。これだけで、「そこは考えていなかった」「今わかった」という感じが出ます。",
+    "notes-en": "'A, dengen kaa.' is used when the speaker notices, on the spot, that the power may be the cause after the other person's prompt. 'A' marks the rise of realization, 'dengen' brings the newly foregrounded cause into view, and 'kaa' shows that the speaker is taking it in. With just this short chain, it conveys the feeling of 'I had not thought of that' and 'Now I see.'"
+  },
+  {
     "date": "2026.06.15",
     "day": "Mon",
     "number": 796,
