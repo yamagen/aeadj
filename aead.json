@@ -18083,7 +18083,7 @@
   },
   {
     "date": "2024.05.30",
-    "date-history": [20240530, 20260402],
+    "date-history": [20240530, 20260402, 20260616],
     "day": "Thu",
     "number": 50,
     "index": "osakini",
@@ -18107,7 +18107,7 @@
   },
   {
     "date": "2024.05.29",
-    "date-history": [20240529, 20260328],
+    "date-history": [20240529, 20260328, 20260616],
     "day": "Wed",
     "number": 49,
     "index": "okagesamade",
@@ -18131,7 +18131,7 @@
   },
   {
     "date": "2024.05.28",
-    "date-history": [20240528, 20260402],
+    "date-history": [20240528, 20260402, 20260616],
     "day": "Tue",
     "number": 48,
     "index": "hontou",
@@ -18151,11 +18151,11 @@
     "example-ja": "A「その人、独学で10か国語できるんだって」 B「ほんとー」",
     "example-en": "A: They say that person taught themselves ten languages. B: Really?",
     "notes-en": "\"Hontoo\" is a casual reaction used when the speaker shows surprise, interest, or mild disbelief. It is often lighter and softer than a strong expression of disbelief, and it can function as a quick listener response. When I was a child, my mother often said this to me, and I was happy to hear it, so I would go to the library, learn something new, and tell it to her.",
-    "notes-ja": "「ほんとー」は、驚き、関心、軽い不信をやわらかく表す口語的な反応表現です。強い不信をぶつけるというより、相手の話を受けて「へえ、ほんとう？」と返すような、聞き手の即時的な応答として出やすい表現です。私が子どものころ、母はいつもこう言って私の話を聞いてくれた。それがうれしくて、私は図書館へ行って何か新しいことを勉強し、母に教えたものだった。"
+    "notes-ja": "「ほんとー」は、驚き、関心、軽い不信をやわらかく表す口語的な反応表現です。強い不信をぶつけるというより、相手の話を受けて「ほんとー」と返すような、聞き手の即時的な応答として出やすい表現です。私が子どものころ、母はいつも「ほんとー」と言って私の話を聞いてくれた。それがうれしくて、私は図書館へ行って何か新しいことを見つけ、母に話していた。"
   },
   {
     "date": "2024.05.27",
-    "date-history": [20240527, 20260402],
+    "date-history": [20240527, 20260402, 20260616],
     "day": "Mon",
     "number": 47,
     "index": "usodaa",
@@ -18173,13 +18173,12 @@
     "adjusted-expression-en": "That cannot be true.",
     "img-sub": null,
     "example-ja": "A「(田中:たなか)くんのお(父:とう)さんは(ゴジラ:ごじら)なんだって」 B「うそだぁ～」",
-    "example-en": "A: I heard that Tanaka's father is Godzilla. B: You're kidding!",
-    "notes-en": "\"Uso daa~\" is a colloquial reaction used when the speaker hears something and responds with disbelief or surprise. Rather than calmly judging whether something is true, it comes out as an immediate emotional response.",
-    "notes-ja": "「うそだぁ～」は、何かを聞いたときに、信じられない気持ちや驚きをその場で表す口語的な反応表現です。落ち着いて真偽を判断するというより、まず感情が先に出る即時的な言い方です。"
+    "notes-ja": "「うそだぁ～」は、何かを聞いたときに、信じられない気持ちや驚きをその場で表す口語的な反応表現です。落ち着いて真偽を判断するというより、「本当に？」という気持ちが思わず出るような言い方です。",
+    "notes-en": "\"Uso daa~\" is a colloquial reaction used when the speaker hears something and responds with disbelief or surprise. Rather than calmly judging whether something is true, it sounds like a spontaneous reaction close to \"Really?\" or \"You're kidding!\""
   },
   {
     "date": "2024.05.26",
-    "date-history": [20240526, 20260401],
+    "date-history": [20240526, 20260401, 20260616],
     "day": "Sun",
     "number": 46,
     "index": "iine",
@@ -18202,29 +18201,8 @@
     "notes-ja": "「いいね」は、その場で賛成したり、よいと感じたり、相手の案や発言に好意的に反応したりするときによく使う口語表現です。「いいね」は、勢いよく前向きな感情の「Two thumbs up」の訳として、使われることもあります。この表現は、何かが好きだったり、同意したりすることを表すために、さまざまな文脈で使用できる便利な表現です。"
   },
   {
-    "date": "2024.05.26",
-    "date-history": [20240526, 20260420],
-    "day": "Sun",
-    "number": 46,
-    "index": "iine",
-    "title": "That's good",
-    "expression-ja": "いいね",
-    "roman-ja": "Iine",
-    "expression-en": "That's good",
-    "variants-ja": ["いいね", "いいねえ", "それ、いいね"],
-    "variants-en": ["That's good.", "Sounds good.", "That's nice."],
-    "intent-ja": ["賛成の表現", "肯定的な反応", "軽い評価の共有"],
-    "intent-en": ["expressing agreement", "giving a positive reaction", "sharing a light evaluation"],
-    "tags-ja": ["即時文法", "口語", "応答表現", "肯定", "評価表現"],
-    "tags-en": ["immediate grammar", "colloquial", "response expression", "affirmation", "evaluative expression"],
-    "adjusted-expression-ja": "それは、いいですね。",
-    "adjusted-expression-en": "That is good.",
-    "notes-en": "The word \"iine\" is an expression of approval or agreement. It is a versatile word that can be used in many situations.",
-    "notes-ja": "「いいね」は、賛成や同意を表現するための表現で、多くの状況で使用できます。"
-  },
-  {
     "date": "2024.05.25",
-    "date-history": [20240525, 20260401],
+    "date-history": [20240525, 20260401, 20260616],
     "day": "Sat",
     "number": 45,
     "index": "naannda",
@@ -18248,7 +18226,7 @@
   },
   {
     "date": "2024.05.24",
-    "date-history": [20240524, 20260401],
+    "date-history": [20240524, 20260401, 20260616],
     "day": "Fri",
     "number": 44,
     "index": "maamaa",
@@ -18272,7 +18250,7 @@
   },
   {
     "date": "2024.05.23",
-    "date-history": [20240523, 20260331],
+    "date-history": [20240523, 20260331, 20260616],
     "day": "Thu",
     "number": 43,
     "index": "sokka",
@@ -18296,7 +18274,7 @@
   },
   {
     "date": "2024.05.22",
-    "date-history": [20240522, 20260331],
+    "date-history": [20240522, 20260331, 20260616],
     "day": "Wed",
     "number": 42,
     "index": "fuun",
@@ -18320,7 +18298,7 @@
   },
   {
     "date": "2024.05.21",
-    "date-history": [20240521, 20260331],
+    "date-history": [20240521, 20260331, 20260616],
     "day": "Tue",
     "number": 41,
     "index": "he-",
