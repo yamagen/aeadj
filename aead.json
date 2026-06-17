@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.17",
+    "day": "Wed",
+    "number": 798,
+    "index": "aassodatta",
+    "title": "Ah, I see.",
+    "expression-ja": "ああ、そうだったんだ。",
+    "roman-ja": "Aa, sou dattan da.",
+    "expression-en": "Ah, I see.",
+    "variants-ja": ["ああ、そうだったんだ。", "ああ、そうだったのか。", "ああ、そうだったのね。"],
+    "variants-en": ["Ah, I see.", "Ah, so that's how it was.", "Ah, I get it now."],
+    "intent-ja": ["気づきの表現", "理解の表明", "口語的な表現"],
+    "intent-en": ["expression of realization", "statement of understanding", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "気づき表現", "理解表明表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "realization expression", "understanding-statement expression", "colloquial expression"],
+    "adjusted-expression-ja": "ああ、そうだったんですね。",
+    "adjusted-expression-en": "Ah, I see.",
+    "img-sub": "aassodatta01.png",
+    "example-ja": "A「ちょっと、(病気:びょうき)してて、(来:こ)れなくてね」 B「ああ、そうだったんだ」",
+    "example-en": "A: I was a bit sick and couldn't come. B: Ah, I see.",
+    "notes-ja": "「ああ、そうだったんだ」は、相手の説明や指摘を受けて、その内容に今気づいたことを示す表現です。「そこは考えていなかった」「今わかった」という感じが出ます。",
+    "notes-en": "'Aa, sou dattan da.' is used when the speaker realizes something after hearing the other person's explanation or point. It gives the feeling of 'I had not thought of that' or 'Now I understand.'"
+  },
+  {
     "date": "2026.06.16",
     "day": "Tue",
     "number": 797,
