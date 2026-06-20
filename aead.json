@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.22",
+    "day": "Mon",
+    "number": 803,
+    "index": "sonnakotoba",
+    "title": "Where did you learn that word?",
+    "expression-ja": "そんなことば、どこで(覚:おぼ)えたの？",
+    "roman-ja": "Sonna kotoba, doko de oboeta no?",
+    "expression-en": "Where did you learn that word?",
+    "variants-ja": ["そんなことば、どこで覚えたの？", "そんなことば、どこで聞いたの？", "そんなことば、どこで知ったの？"],
+    "variants-en": ["Where did you learn that word?", "Where did you hear that word?", "Where did you come across that word?"],
+    "intent-ja": ["驚きの表現", "ことばの出どころ確認", "口語的な表現"],
+    "intent-en": ["expression of surprise", "asking where a word came from", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "驚き表現", "ことば出どころ確認表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "surprise expression", "word-origin-checking expression", "colloquial expression"],
+    "adjusted-expression-ja": "そのようなことばを、どこで(覚:おぼ)えたのですか？",
+    "adjusted-expression-en": "Where did you learn such a word?",
+    "img-sub": "sonnakotoba01.png",
+    "example-ja": "A「(パパ:ぱぱ)、それ、(コンプラ的:こんぷらてき)に(アウト:あうと)じゃない？」 B「(レイ:れい)ちゃん、そんなことば、どこで(覚:おぼ)えたの？」",
+    "example-en": "A: Dad, isn't that kind of a compliance issue? B: Rei-chan, where did you learn that phrase?",
+    "notes-ja": "「そんなことば、どこで覚えたの？」は、相手がその人らしくないことばや、大人びたことばを使ったときの驚きを表す表現です。「そんなことば」によって、ことばそのものだけでなく、その人がそのことばを使ったことへの意外さが出ています。例文では、子どもが「コンプラ的にアウト」という大人のような言い方をしているため、B が驚いています。",
+    "notes-en": "'Sonna kotoba, doko de oboeta no?' is used when someone uses a word or phrase that feels unexpected for them, such as a very grown-up expression from a child. 'Sonna kotoba' points not only to the word itself, but also to the surprise that this person used it. In the example, Rei-chan says 'konpura-teki ni auto,' a very adult-sounding phrase, so B reacts with surprise."
+  },
+  {
     "date": "2026.06.21",
     "day": "Sun",
     "number": 802,
