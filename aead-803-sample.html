@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>An Expression A Day</title>
+<style>
+@page {
+  size: B5;
+  margin: 16mm 14mm 18mm 14mm;
+  @bottom-center {
+    content: counter(page);
+    font-size: 9pt;
+    color: #666;
+  }
+}
+
+@page:first {
+  @bottom-center { content: none; }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Noto Serif CJK JP", "Noto Serif JP", "Hiragino Mincho ProN", serif;
+  line-height: 1.72;
+  color: #222;
+  overflow-wrap: anywhere;
+}
+
+.cover {
+  min-height: 215mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  break-after: page;
+}
+
+.cover h1 {
+  font-size: 28pt;
+  line-height: 1.2;
+  margin: 0 0 0.25em 0;
+}
+
+.cover .subtitle {
+  font-size: 13pt;
+  margin: 0 0 2em 0;
+}
+
+.cover .range {
+  font-size: 10pt;
+  color: #555;
+}
+
+.entry {
+  break-after: page;
+}
+
+.entry-header {
+  margin-bottom: 1.2em;
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 0.7em;
+}
+
+.meta {
+  font-size: 8.5pt;
+  color: #666;
+  margin: 0 0 0.4em 0;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  font-size: 18pt;
+  line-height: 1.25;
+  margin: 0;
+  font-weight: 700;
+}
+
+.expression-ja {
+  font-size: 23pt;
+  line-height: 1.65;
+  margin: 0.8em 0 0.25em 0;
+}
+
+.roman {
+  font-size: 10.5pt;
+  color: #555;
+  margin: 0.1em 0;
+  font-style: italic;
+}
+
+.expression-en {
+  font-size: 14pt;
+  line-height: 1.45;
+  margin: 0.4em 0 1em 0;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 10.5pt;
+  margin: 1.1em 0 0.35em 0;
+  padding-bottom: 0.12em;
+  border-bottom: 1px solid #ddd;
+  color: #333;
+}
+
+p {
+  margin: 0.25em 0 0.55em 0;
+}
+
+.en {
+  font-family: "TeX Gyre Termes", "Noto Serif", serif;
+}
+
+ul {
+  margin: 0.2em 0 0.8em 1.2em;
+  padding: 0;
+}
+
+li {
+  margin: 0.25em 0;
+}
+
+.chip {
+  display: inline-block;
+  border: 1px solid #bbb;
+  border-radius: 999px;
+  padding: 0.05em 0.55em;
+  margin: 0 0.25em 0.3em 0;
+  font-size: 8.5pt;
+  line-height: 1.5;
+}
+
+.image {
+  margin: 0.8em 0 0.6em 0;
+  text-align: center;
+}
+
+.image img {
+  max-width: 70%;
+  max-height: 58mm;
+  object-fit: contain;
+}
+
+ruby { ruby-position: over; }
+rt { font-size: 0.46em; }
+
+</style>
+</head>
+<body>
+<section class="cover">
+<h1>An Expression A Day</h1>
+<p class="subtitle">AEAD PDF Book</p>
+<p class="range">No. 803-803 / 1 entries</p>
+</section>
+<article class="entry" id="aead-803">
+<header class="entry-header">
+<p class="meta">2026.06.22 Mon / No. 803 / sonnakotoba</p>
+<h1>Where did you learn that word?</h1>
+</header>
+<main>
+<p class="expression-ja">そんなことば、どこで<ruby>覚<rt>おぼ</rt></ruby>えたの？</p>
+<p class="roman">Sonna kotoba, doko de oboeta no?</p>
+<p class="expression-en">Where did you learn that word?</p>
+<figure class="image">
+<img src="images/sonnakotoba01.png" alt="AEAD image">
+</figure>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">そんなことば、どこで覚えたの？</span><br><span class="en">Where did you learn that word?</span></li>
+<li><span class="ja">そんなことば、どこで聞いたの？</span><br><span class="en">Where did you hear that word?</span></li>
+<li><span class="ja">そんなことば、どこで知ったの？</span><br><span class="en">Where did you come across that word?</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">そのようなことばを、どこで<ruby>覚<rt>おぼ</rt></ruby>えたのですか？</p>
+<p class="en">Where did you learn such a word?</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「<ruby>パパ<rt>ぱぱ</rt></ruby>、それ、<ruby>コンプラ的<rt>こんぷらてき</rt></ruby>に<ruby>アウト<rt>あうと</rt></ruby>じゃない？」 B「<ruby>レイ<rt>れい</rt></ruby>ちゃん、そんなことば、どこで<ruby>覚<rt>おぼ</rt></ruby>えたの？」</p>
+<p class="en">A: Dad, isn't that kind of a compliance issue? B: Rei-chan, where did you learn that phrase?</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="ja">「そんなことば、どこで覚えたの？」は、相手がその人らしくないことばや、大人びたことばを使ったときの驚きを表す表現です。「そんなことば」によって、ことばそのものだけでなく、その人がそのことばを使ったことへの意外さが出ています。例文では、子どもが「コンプラ的にアウト」という大人のような言い方をしているため、B が驚いています。</p>
+<p class="en">'Sonna kotoba, doko de oboeta no?' is used when someone uses a word or phrase that feels unexpected for them, such as a very grown-up expression from a child. 'Sonna kotoba' points not only to the word itself, but also to the surprise that this person used it. In the example, Rei-chan says 'konpura-teki ni auto,' a very adult-sounding phrase, so B reacts with surprise.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent JA</strong><br><span class="chip">驚きの表現</span>
+<span class="chip">ことばの出どころ確認</span>
+<span class="chip">口語的な表現</span></p>
+<p><strong>Intent EN</strong><br><span class="chip">expression of surprise</span>
+<span class="chip">asking where a word came from</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags JA</strong><br><span class="chip">即時文法</span>
+<span class="chip">口語</span>
+<span class="chip">驚き表現</span>
+<span class="chip">ことば出どころ確認表現</span>
+<span class="chip">口語的表現</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">surprise expression</span>
+<span class="chip">word-origin-checking expression</span>
+<span class="chip">colloquial expression</span></p>
+
+</section>
+</main>
+</article>
+
+</body>
+</html>
+

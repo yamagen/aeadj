@@ -3,7 +3,7 @@
 
 # aeadj: An expression a day: Japanese
 
-🗓️ Last change: 2025/06/14-19:40:54.
+🗓️ Last change: 2026/06/21-17:37:50.
 
 - [`aead.json`](./aead.json)
 
@@ -13,6 +13,24 @@ A bilingual dictionary of Japanese expressions based on the project _An Expressi
 
 - [Render](https://aead-search.onrender.com/):
   A string searchable digital dictionary of Japanese expressions.
+
+---
+
+## Keywords
+
+Japanese language education,
+Japanese expressions,
+immediate expressions,
+immediate grammar,
+immediate language use,
+spoken Japanese,
+Japanese conversation,
+contrastive explanation,
+language learning,
+bilingual dictionary,
+digital dictionary,
+AEAD,
+Process Grammar Model,
 
 ---
 
