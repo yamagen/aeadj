@@ -314,6 +314,29 @@ li {
 
 ruby { ruby-position: over; }
 rt { font-size: 0.46em; }
+
+@media screen {
+  html {
+    background: #eee;
+  }
+
+  body {
+    max-width: 860px !important;
+    margin: 2.5rem auto !important;
+    padding: 2rem 2.5rem !important;
+    box-sizing: border-box !important;
+    background: white;
+  }
+
+  .cover,
+  .entry,
+  .colophon {
+    box-sizing: border-box !important;
+  }
+}
+
+
+
 ";
 
 def author: "Hilofumi Yamamoto, Ph.D.";
