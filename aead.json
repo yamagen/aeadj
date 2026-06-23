@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.24",
+    "day": "Wed",
+    "number": 805,
+    "index": "tsukamaranaine",
+    "title": "It's hard to get a taxi, isn't it?",
+    "expression-ja": "なかなか(掴:つか)まらないね、(タクシー:たくしー)。",
+    "roman-ja": "Nakanaka tsukamaranai ne, takushii.",
+    "expression-en": "It's hard to get a taxi, isn't it?",
+    "variants-ja": ["なかなか(掴:つか)まらないね、(タクシー:たくしー)。", "なかなか(捕:つか)まらないね、(タクシー:たくしー)。", "なかなか(拾:ひろ)えないね、(タクシー:たくしー)。"],
+    "variants-en": ["It's hard to get a taxi, isn't it?", "It's difficult to get a taxi, isn't it?", "It's not easy to hail a taxi, is it?"],
+    "intent-ja": ["交通手段の困難さの表現", "共有された困りごとの表現", "口語的な表現"],
+    "intent-en": ["expression of difficulty in transportation", "expression of a shared difficulty", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "交通手段困難表現", "共有困難表現", "話題後置表現"],
+    "tags-en": ["immediate grammar", "spoken", "transportation-difficulty expression", "shared-difficulty expression", "right-dislocation expression"],
+    "adjusted-expression-ja": "(タクシー:たくしー)がなかなか(掴:つか)まりませんね。",
+    "adjusted-expression-en": "It's quite difficult to get a taxi, isn't it?",
+    "img-sub": "tsukamaranaine01.png",
+    "example-ja": "A「なかなか(掴:つか)まらないね、(タクシー:たくしー)」 B「(駅前:えきまえ)まで(歩:ある)くしかないね」",
+    "example-en": "A: It's hard to get a taxi, isn't it? B: No choice but to walk to the station, then.",
+    "notes-ja": "「なかなか掴まらないね、タクシー」は、タクシーを見つけたり、呼び止めたりするのが思うようにいかないときの表現です。ここでの「掴まる」は、タクシーを手で物理的に掴むという意味ではなく、利用できるものを自分の用に引き寄せる、という比喩的な感じがあります。「なかなか」は、期待しているのに実現しない感じを表します。最後に「タクシー」を置くことで、まず困っている状況を言い、そのあとで対象を添える口語的な形になっています。例文の「歩くしかないね」は、ほかによい手段がなさそうなので、歩くことを受け入れるしかない、という短い反応です。",
+    "notes-en": "'Nakanaka tsukamaranai ne, takushii' is used when you are having trouble finding or hailing a taxi. Here, 'tsukamaru' does not mean physically grabbing the taxi with your hand; it gives the metaphorical sense of getting hold of something you can use. 'Nakanaka' shows that something is not happening even though you are expecting it to happen. By placing 'takushii' at the end, the speaker first expresses the difficulty and then adds the topic in a natural spoken style. In the example, 'aruku shika nai ne' is rendered as 'No choice but to walk,' a short reaction-like phrase showing that walking is the only realistic option left."
+  },
+  {
     "date": "2026.06.23",
     "day": "Tue",
     "number": 804,
