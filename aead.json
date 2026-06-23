@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.25",
+    "day": "Thu",
+    "number": 806,
+    "index": "aakorekore",
+    "title": "Ah, this is it.",
+    "expression-ja": "ああ、これこれ。",
+    "roman-ja": "Aa, kore kore.",
+    "expression-en": "Ah, this is it.",
+    "variants-ja": ["ああ、これこれ。", "あ、これこれ。", "ああ、これだよ。"],
+    "variants-en": ["Ah, this is it.", "Ah, this is the one.", "Ah, this is what I was looking for."],
+    "intent-ja": ["探索完了の表現", "一致確認の表現", "口語的な表現"],
+    "intent-en": ["expression of finding what one was looking for", "recognition of a match", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "探索完了表現", "一致確認表現", "認識表現"],
+    "tags-en": ["immediate grammar", "spoken", "search-completion expression", "match-recognition expression", "recognition expression"],
+    "adjusted-expression-ja": "ああ、これですね。",
+    "adjusted-expression-en": "Ah, this is the one.",
+    "img-sub": "aakorekore01.png",
+    "example-ja": "A「ねぇ、これじゃない？ ほしかったの」 B「ああ、これこれ」",
+    "example-en": "A: Hey, isn't this the one you wanted? B: Ah, this is it.",
+    "notes-ja": "「ああ、これこれ」は、探していたものや、思っていたものに出会ったときの短い反応です。「これ」だけなら対象を指すだけですが、「これこれ」と繰り返すことで、自分の中にあった期待や記憶と、目の前のものが合った感じが出ます。ここでの「これ」は、物理的に自分の近くにあるという意味だけではありません。遠くにあっても、相手が持っていても、自分が探していたもの・思っていたものとして受け取った瞬間には「あれあれ」「それそれ」ではなく、「これこれ」と言えます。物だけでなく、味、音、場所、感じなどにも使えます。",
+    "notes-en": "'Aa, kore kore' is a short reaction used when you find something you were looking for, or when something matches what you had in mind. A single 'kore' simply points to something, but the repeated 'kore kore' shows that the thing matches an expectation or memory you already had. Here, 'kore' does not simply mean that the thing is physically close to the speaker. Even if it is far away, or even if the other person is holding it, the speaker can still say 'kore kore' when they recognize it as the thing they were looking for or had in mind. It can be used not only for objects, but also for tastes, sounds, places, or feelings."
+  },
+  {
     "date": "2026.06.24",
     "day": "Wed",
     "number": 805,
