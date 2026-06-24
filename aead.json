@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.26",
+    "day": "Fri",
+    "number": 807,
+    "index": "yuzuttara",
+    "title": "Why don't you share a little?",
+    "expression-ja": "ちょっと、(譲:ゆず)ったら？",
+    "roman-ja": "Chotto, yuzuttara?",
+    "expression-en": "Why don't you share a little?",
+    "variants-ja": ["ちょっと、(譲:ゆず)ったら？", "(少:すこ)し、(譲:ゆず)ってみたら？", "(少:すこ)し、(譲:ゆず)ってみてはどう？"],
+    "variants-en": ["Why don't you share a little?", "Why don't you let them have some?", "How about giving them a little?"],
+    "intent-ja": ["譲ることの提案", "独り占めを避ける提案", "口語的な表現"],
+    "intent-en": ["suggestion to share or give way", "suggestion not to keep everything to oneself", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "譲る提案表現", "独り占め回避表現", "軽い促し表現"],
+    "tags-en": ["immediate grammar", "spoken", "sharing-suggestion expression", "not-keeping-everything expression", "gentle-prompt expression"],
+    "adjusted-expression-ja": "それぐらいは、(譲:ゆず)ってみてはいかがですか。",
+    "adjusted-expression-en": "Why don't you let them have at least that much?",
+    "img-sub": "yuzuttara01.png",
+    "example-ja": "A「たくさん(持:も)っているんだから、ちょっと、(譲:ゆず)ったら？」 B「え、だって」",
+    "example-en": "A: You have a lot, so why don't you share a little? B: But...",
+    "notes-ja": "「ちょっと、譲ったら？」は、相手がたくさん持っていたり、自分の分を強く守っていたりするときに、少し相手に回すよう促す表現です。「譲る」は、ここでは自分の持っているものや立場を少し相手に渡す、という意味です。「ちょっと」によって、強く命令するのではなく、軽く促す形になりますが、場面によっては少し注意する感じも出ます。",
+    "notes-en": "'Chotto, yuzuttara?' is used to suggest that someone should share a little or let someone else have some, especially when they have a lot or are holding on to their share. Here, 'yuzuru' means giving up a small part of what one has, or giving way a little. 'Chotto' makes the suggestion sound lighter than a direct command, but depending on the situation, it can also carry a mild note of reproach."
+  },
+  {
     "date": "2026.06.25",
     "day": "Thu",
     "number": 806,
