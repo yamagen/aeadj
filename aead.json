@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.27",
+    "day": "Sat",
+    "number": 808,
+    "index": "yadayo",
+    "title": "No way, not that.",
+    "expression-ja": "やだよ、そんなの。",
+    "roman-ja": "Yada yo, sonna no.",
+    "expression-en": "No way, not that.",
+    "variants-ja": ["やだよ、そんなの。", "いやだよ、そんなの。", "やだなぁ、そんなの。"],
+    "variants-en": ["No way, not that.", "No, I don't want to.", "Ugh, I don't like that."],
+    "intent-ja": ["拒否の表現", "嫌だという反応", "口語的な表現"],
+    "intent-en": ["expression of refusal", "reaction of dislike", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "拒否表現", "嫌悪反応表現", "反応表現"],
+    "tags-en": ["immediate grammar", "spoken", "refusal expression", "dislike-reaction expression", "reaction expression"],
+    "adjusted-expression-ja": "そういうのは(嫌:いや)です。",
+    "adjusted-expression-en": "I don't like that kind of thing.",
+    "img-sub": "yadayo01.png",
+    "example-ja": "A「たまには、こんな(色:いろ)のを(着:き)てみたら？」 B「やだよ、そんなの」",
+    "example-en": "A: Why don't you try wearing this color for a change? B: No way, not that.",
+    "notes-ja": "「やだよ、そんなの」は、相手の提案や目の前のものに対して、嫌だという気持ちを短く返す口語的な表現です。「やだ」は「いやだ」のくだけた形で、説明する前にまず拒否の反応が出ています。「そんなの」は、相手の提案を少し遠ざけて受け取る言い方です。友達同士や家族の会話では自然ですが、相手や場面によっては強く、子どもっぽく聞こえることもあります。",
+    "notes-en": "'Yada yo, sonna no' is a casual spoken reaction used to reject a suggestion or something in front of you. 'Yada' is a shortened, casual form of 'iya da,' and it gives the refusal before any explanation. 'Sonna no' distances the speaker from the suggestion a little, as if saying 'that kind of thing.' It sounds natural among friends or family, but depending on the person and situation, it can also sound strong or childish."
+  },
+  {
     "date": "2026.06.26",
     "day": "Fri",
     "number": 807,
