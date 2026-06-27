@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.28",
+    "day": "Sun",
+    "number": 809,
+    "index": "iikini",
+    "title": "I got carried away and messed up.",
+    "expression-ja": "いい(気:き)になって、(失敗:しっぱい)しちゃった。",
+    "roman-ja": "Ii ki ni natte, shippai shichatta.",
+    "expression-en": "I got carried away and messed up.",
+    "variants-ja": ["いい(気:き)になって、(失敗:しっぱい)しちゃった。", "(調子:ちょうし)にのって、(失敗:しっぱい)しちゃった。", "(自信過剰:じしんかじょう)で、(失敗:しっぱい)しちゃった。"],
+    "variants-en": ["I got carried away and messed up.", "I got cocky and messed up.", "I was overconfident and messed up."],
+    "intent-ja": ["自己反省の表現", "過信による失敗の表現", "口語的な表現"],
+    "intent-en": ["expression of self-reflection", "expression of failure due to overconfidence", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "自己反省表現", "過信失敗表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "self-reflection expression", "overconfidence-failure expression", "colloquial expression"],
+    "adjusted-expression-ja": "(調子:ちょうし)に(乗:の)ってしまい、(失敗:しっぱい)してしまいました。",
+    "adjusted-expression-en": "I got carried away and ended up making a mistake.",
+    "img-sub": "iikini01.png",
+    "example-ja": "A「うまくいってたのにね」 B「うん、いい(気:き)になって、(失敗:しっぱい)しちゃった」",
+    "example-en": "A: Things were going well, too. B: Yeah, I got carried away and messed up.",
+    "notes-ja": "「いい気になって、失敗しちゃった」は、うまくいっていることで気が大きくなったり、自分なら大丈夫だと思って油断したりした結果、失敗してしまったことを表す口語的な表現です。「いい気になる」は、ここでは単に気分がよくなることではなく、調子に乗る、少し過信する、という感じです。「しちゃった」は「してしまった」のくだけた形で、失敗してしまったことへの後悔や残念な気持ちが出ます。",
+    "notes-en": "'Ii ki ni natte, shippai shichatta' is a casual spoken expression used when the speaker says they got carried away, became a little too confident, and ended up making a mistake. Here, 'ii ki ni naru' does not simply mean feeling good; it suggests getting a bit carried away or letting success go to your head. 'Shichatta' is the casual form of 'shite shimatta,' and it adds a sense of regret or disappointment about what happened."
+  },
+  {
     "date": "2026.06.27",
     "day": "Sat",
     "number": 808,
