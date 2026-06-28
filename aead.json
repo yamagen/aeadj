@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.29",
+    "day": "Mon",
+    "number": 810,
+    "index": "yacchaimashitane",
+    "title": "I messed up, didn't I?",
+    "expression-ja": "やっちゃいましたね。",
+    "roman-ja": "Yacchaimashita ne.",
+    "expression-en": "I messed up, didn't I?",
+    "variants-ja": ["やっちゃいましたね。", "やってしまいましたね。", "やっちゃったね。"],
+    "variants-en": ["I messed up, didn't I?", "I really messed up, didn't I?", "You messed up, huh."],
+    "intent-ja": ["やらかしの表現", "失敗への反応", "口語的な表現"],
+    "intent-en": ["expression of having messed up", "reaction to a mistake", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "やらかし表現", "失敗反応表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "mess-up expression", "mistake-reaction expression", "colloquial expression"],
+    "adjusted-expression-ja": "やってしまいましたね。",
+    "adjusted-expression-en": "I really made a mistake, didn't I?",
+    "img-sub": "yacchaimashitane01.png",
+    "example-ja": "A「(締切:しめきり)、まだ(間:ま)に(合:あ)うよね」 B「え？ (昨日:きのう)でしたよ」 A「ああ、やっちゃいましたね」",
+    "example-en": "A: The deadline is still okay, right? B: Huh? It was yesterday. A: Oh, I messed up, didn't I?",
+    "notes-ja": "「やっちゃいましたね」は、失敗したり、まずいことをしてしまったりしたことに気づいたときの口語的な表現です。「やっちゃう」は「やってしまう」のくだけた形で、ここでは、達成したという意味ではなく、やらかしてしまったという感じを表します。「ね」によって、その失敗を相手にも確認するような感じが出ます。成功や達成を言う場合は、「やっちゃいました」ではなく、「やりました」を使います。例えば「山元、やりました」や「山元選手、やりました」は、実際のスポーツ中継でなくても、自分を実況中継される人のように見立てて、成功を少し晴れ晴れしく表す言い方です。",
+    "notes-en": "'Yacchaimashita ne' is a casual spoken expression used when the speaker realizes that they have made a mistake or done something they should not have done. It is often close to a self-deprecating 'I messed up, didn't I?' rather than a neutral report of failure. 'Yacchau' is the colloquial form of 'yatte shimau,' and here it means that the speaker has messed up, not that they have achieved something. The final 'ne' makes it sound as if the speaker is also checking or sharing that realization with the listener. For success or achievement, Japanese normally uses 'yarimashita,' not 'yacchaimashita.' For example, 'Yamamoto, yarimashita' or 'Yamamoto senshu, yarimashita' can be used playfully, even outside sports, as if the speaker were celebrating their own success in a live broadcast."
+  },
+  {
     "date": "2026.06.28",
     "day": "Sun",
     "number": 809,
