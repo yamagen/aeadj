@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.06.30",
+    "day": "Tue",
+    "number": 811,
+    "index": "nebatta",
+    "title": "It was worth sticking it out.",
+    "expression-ja": "(粘:ねば)ったかいがあったよ。",
+    "roman-ja": "Nebatta kai ga atta yo.",
+    "expression-en": "It was worth sticking it out.",
+    "variants-ja": ["(粘:ねば)ったかいがあったよ。", "ここまで(粘:ねば)ったかいがあったよ。", "(頑張:がんば)ったかいがあったよ。"],
+    "variants-en": ["It was worth sticking it out.", "It was worth sticking it out this far.", "It was worth the effort."],
+    "intent-ja": ["努力の成果の表現", "達成感の表現", "口語的な表現"],
+    "intent-en": ["expression of the result of effort", "expression of a sense of achievement", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "努力成果表現", "達成感表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "effort-result expression", "achievement-sense expression", "colloquial expression"],
+    "adjusted-expression-ja": "ここまで(粘:ねば)ったかいがありました。",
+    "adjusted-expression-en": "It was worth sticking it out this far.",
+    "img-sub": "nebatta01.png",
+    "example-ja": "A「とうとう(完成:かんせい)したね」 B「うん、ここまで(粘:ねば)ったかいがあったよ」",
+    "example-en": "A: We finally finished it. B: Yeah, it was worth sticking it out this far.",
+    "notes-ja": "「粘ったかいがあったよ」は、あきらめずに続けた結果、満足できる成果が得られたときの表現です。「粘る」は、すぐにはうまくいかない状況でも、途中でやめずに続けることを表します。「かいがあった」は、その努力や我慢が無駄ではなく、よい結果につながったという意味です。例文の「ここまで粘ったかいがあったよ」は、途中でやめずに続けてきたことが、完成という結果につながったという達成感を表しています。",
+    "notes-en": "'Nebatta kai ga atta yo' is used when persistence has led to a satisfying result. 'Nebaru' means to keep going without giving up, especially when things do not work out right away. 'Kai ga atta' means that the effort or patience was not wasted and led to a good result. In the example, 'koko made nebatta kai ga atta yo' expresses the feeling that sticking it out this far was worth it because it finally led to completion."
+  },
+  {
     "date": "2026.06.29",
     "day": "Mon",
     "number": 810,
