@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.01",
+    "day": "Wed",
+    "number": 812,
+    "index": "soreyosoresore",
+    "title": "That's what I want.",
+    "expression-ja": "それよ、それそれ。",
+    "roman-ja": "Sore yo, sore sore.",
+    "expression-en": "That's what I want.",
+    "variants-ja": ["それよ、それそれ。", "そうそう、それそれ。", "それだよ、それそれ。"],
+    "variants-en": ["That's what I want.", "Yes, that's it.", "That's exactly what I wanted."],
+    "intent-ja": ["求めていたことへの反応", "肯定的な反応", "口語的な表現"],
+    "intent-en": ["reaction to what one wanted", "affirmative reaction", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "期待通り反応表現", "肯定反応表現", "要求一致表現"],
+    "tags-en": ["immediate grammar", "spoken", "expected-response expression", "affirmative-reaction expression", "wanted-match expression"],
+    "adjusted-expression-ja": "その(通:とお)りです。それが(望:のぞ)ましいです。",
+    "adjusted-expression-en": "That's right. That is what I want.",
+    "img-sub": "soreyosoresore01.png",
+    "example-ja": "A「(今日:きょう)はみなさんよく(働:はたら)いてくださったので、(社長:しゃちょう)から(特別手当:とくべつてあて)が(出:で)ます」 B「それよ、それそれ、そうしないと」",
+    "example-en": "A: Since everyone worked so hard today, the president is giving everyone a special bonus. B: That's what I want. That's how it should be.",
+    "notes-ja": "「それよ、それそれ」は、相手の発言や行動が、自分が求めていたことや、そうあるべきだと思っていたことに合ったときの口語的な反応です。単に同意するだけでなく、「それを待っていた」「それが欲しかった」「それが正しい」という気持ちが出ます。例文の「そうしないと」は、それが当然の対応だ、そうでなければいけない、という感じを添えています。",
+    "notes-en": "'Sore yo, sore sore' is a casual spoken reaction used when someone's words or actions match what the speaker wanted, expected, or thought should happen. It is not just simple agreement; it carries the feeling of 'That's what I wanted' or 'That's the right thing to do.' In the example, 'sou shinai to' adds the sense that this is how things should be."
+  },
+  {
     "date": "2026.06.30",
     "day": "Tue",
     "number": 811,
