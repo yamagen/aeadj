@@ -1,5 +1,4 @@
-:toc: macro
-:toc-title: Table of Contents
+:toc: macro :toc-title: Table of Contents
 
 # aeadj: An expression a day: Japanese
 
@@ -11,26 +10,13 @@ A bilingual dictionary of Japanese expressions based on the project _An Expressi
 
 > Expressions that arise in the moment, one each day—recorded with immediacy and insight.
 
-- [Render](https://aead-search.onrender.com/):
-  A string searchable digital dictionary of Japanese expressions.
+- [Render](https://aead-search.onrender.com/): A string searchable digital dictionary of Japanese expressions.
 
 ---
 
 ## Keywords
 
-Japanese language education,
-Japanese expressions,
-immediate expressions,
-immediate grammar,
-immediate language use,
-spoken Japanese,
-Japanese conversation,
-contrastive explanation,
-language learning,
-bilingual dictionary,
-digital dictionary,
-AEAD,
-Process Grammar Model,
+Japanese language education, Japanese expressions, immediate expressions, immediate grammar, immediate language use, spoken Japanese, Japanese conversation, contrastive explanation, language learning, bilingual dictionary, digital dictionary, AEAD, Process Grammar Model,
 
 ---
 

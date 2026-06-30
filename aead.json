@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.02",
+    "day": "Thu",
+    "number": 813,
+    "index": "doushite",
+    "title": "Why didn't you say that first?",
+    "expression-ja": "どうして、それを(先:さき)に(言:い)ってくれないの？",
+    "roman-ja": "Doushite, sore o saki ni itte kurenai no?",
+    "expression-en": "Why didn't you say that first?",
+    "variants-ja": ["どうして、それを(先:さき)に(言:い)ってくれないの？", "どうして、そんなこと(先:さき)に(言:い)ってくれないの？", "どうして、もっと(早:はや)く(言:い)ってくれなかったの？"],
+    "variants-en": ["Why didn't you say that first?", "Why didn't you mention that earlier?", "Why didn't you tell me that sooner?"],
+    "intent-ja": ["不満の表現", "情報共有の遅れへの反応", "口語的な表現"],
+    "intent-en": ["expression of dissatisfaction", "reaction to delayed information sharing", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "不満表現", "情報共有遅れ反応表現", "タイミング反応表現"],
+    "tags-en": ["immediate grammar", "spoken", "dissatisfaction expression", "delayed-information-reaction expression", "timing-reaction expression"],
+    "adjusted-expression-ja": "どうして、それを(先:さき)に(言:い)ってくれなかったのですか？",
+    "adjusted-expression-en": "Why didn't you tell me that earlier?",
+    "img-sub": "doushite01.png",
+    "example-ja": "A「どうして、それを(先:さき)に(言:い)ってくれないの？」 B「だって、(誰:だれ)も(聞:き)かなかったから」",
+    "example-en": "A: Why didn't you say that first? B: Because nobody asked me.",
+    "notes-ja": "「どうして、それを先に言ってくれないの？」は、あとになって重要な情報を知らされたときに出る即時的な反応です。単に理由を尋ねているのではなく、「それを先に知っていたら違う対応ができたのに」という不満や悔しさを含みます。「先に」は、情報そのものではなく、情報を出すタイミングに反応していることを示します。「言ってくれないの？」は相手を少し責める響きがありますが、強い非難というより、その場で思わず出る反応です。例文の「誰も聞かなかったから」は、「誰も私に質問しなかったから」という意味です。「誰も聞いてくれなかったから」と言うと、「誰も私の言うことを聞いてくれなかったから」という意味になり、別の表現になります。",
+    "notes-en": "'Doushite, sore o saki ni itte kurenai no?' is an immediate spoken reaction when important information is revealed too late. It is not simply asking for a reason. It also conveys the feeling that things could have turned out differently if the information had been given earlier. 'Saki ni' shows that the speaker is reacting not just to the information itself, but to the timing of when it was given. 'Itte kurenai no?' carries a mild tone of complaint rather than strong criticism. In the example, 'dare mo kikanakatta kara' means 'because nobody asked me.' It is different from 'dare mo kiite kurenakatta kara,' which means 'because nobody listened to me.'"
+  },
+  {
     "date": "2026.07.01",
     "day": "Wed",
     "number": 812,
