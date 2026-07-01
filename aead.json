@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.03",
+    "day": "Fri",
+    "number": 814,
+    "index": "yattekureta",
+    "title": "You could at least clean your own room.",
+    "expression-ja": "(部屋:へや)の(掃除:そうじ)ぐらい、やってくれたっていいんじゃない。",
+    "roman-ja": "Heya no souji gurai, yatte kureta tte ii n janai.",
+    "expression-en": "You could at least clean your own room.",
+    "variants-ja": ["(部屋:へや)の(掃除:そうじ)ぐらい、やってくれたっていいんじゃない。", "(自分:じぶん)の(部屋:へや)ぐらい、(掃除:そうじ)してくれたっていいんじゃない。", "(自分:じぶん)の(部屋:へや)ぐらい、(片付:かたづ)けてくれたっていいんじゃない。"],
+    "variants-en": ["You could at least clean your own room.", "You could at least tidy up your own room.", "You could at least clean up after yourself."],
+    "intent-ja": ["最低限の責任を求める表現", "不満の表現", "口語的な表現"],
+    "intent-en": ["expression urging minimal responsibility", "expression of mild dissatisfaction", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "責任促し表現", "最低限要求表現", "不満表現"],
+    "tags-en": ["immediate grammar", "spoken", "responsibility-urging expression", "minimum-expectation expression", "dissatisfaction expression"],
+    "adjusted-expression-ja": "(部屋:へや)の(掃除:そうじ)ぐらいは、していただけませんか。",
+    "adjusted-expression-en": "Could you at least clean your own room?",
+    "img-sub": "yattekureta01.png",
+    "example-ja": "A「じゃ、あと、よろしく。」 B「ちょっと(待:ま)って。(自分:じぶん)の(部屋:へや)の(掃除:そうじ)ぐらい、やってくれたっていいんじゃない。」",
+    "example-en": "A: Okay, you can take care of the rest. B: Wait a minute. You could at least clean your own room.",
+    "notes-ja": "「部屋の掃除ぐらい、やってくれたっていいんじゃない」は、相手に最低限それくらいは自分でしてほしい、という気持ちを表す口語的な表現です。「ぐらい」は、「それほど大変なことではない」という話し手の評価を表し、「やってくれたっていいんじゃない」は、「それぐらいしてくれてもいいでしょう」という軽い非難や不満を含んだ言い方です。命令ほど強くはありませんが、相手には責任があるという考えが前提になっています。",
+    "notes-en": "'Heya no souji gurai, yatte kureta tte ii n janai' is a casual spoken expression used when the speaker feels that the other person should at least do something that is considered a minimum responsibility. 'Gurai' suggests that the task is not asking too much, and 'yatte kureta tte ii n janai' carries the feeling of 'You could at least do that.' Rather than giving a direct command, the speaker expresses mild dissatisfaction while implying that the responsibility naturally belongs to the listener."
+  },
+  {
     "date": "2026.07.02",
     "day": "Thu",
     "number": 813,
