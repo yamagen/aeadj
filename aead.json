@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.04",
+    "day": "Sat",
+    "number": 815,
+    "index": "180do",
+    "title": "Things did a complete 180.",
+    "expression-ja": "180(度:ど)、(変:か)わっちゃいました。",
+    "roman-ja": "180-do, kawacchaimashita.",
+    "expression-en": "Things did a complete 180.",
+    "variants-ja": ["180(度:ど)、(変:か)わっちゃいました。", "180(度:ど)も(変:か)わっちゃいました。", "(全然:ぜんぜん)(違:ちが)うものに(変:か)わっちゃいました。"],
+    "variants-en": ["It changed 180 degrees.", "It changed completely.", "It turned into something completely different."],
+    "intent-ja": ["大きな変化の表現", "驚きの表現", "口語的な表現"],
+    "intent-en": ["expression of a big change", "expression of surprise", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "大きな変化表現", "驚き表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "big-change expression", "surprise expression", "colloquial expression"],
+    "adjusted-expression-ja": "(状況:じょうきょう)が180(度:ど)も(変:か)わってしまいました。",
+    "adjusted-expression-en": "The situation has changed completely.",
+    "img-sub": "180do01.png",
+    "example-ja": "A「なんか、(方針:ほうしん)が180(度:ど)、(変:か)わっちゃいましたね」 B「しかたないよ、(予算:よさん)がないんだから」",
+    "example-en": "A: Somehow, the policy has changed 180 degrees. B: It can't be helped; we don't have the budget.",
+    "notes-ja": "「180度、変わっちゃいました」は、それまでの状況や方針、考え方などが、以前とは正反対と言えるほど大きく変わったときの口語的な表現です。「180度」は、方向が正反対になることから、「完全に」「まったく違う方向へ」という比喩として使われます。「変わっちゃいました」は「変わってしまいました」のくだけた形で、話し手の驚きや戸惑いが感じられます。例文では、方針が大きく変わったことへの驚きを表しています。",
+    "notes-en": "'180-do, kawacchaimashita' is a casual spoken expression used when a situation, policy, opinion, or other matter has changed so drastically that it seems to have gone in the opposite direction. '180 degrees' is used metaphorically to mean 'a complete reversal.' 'Kawacchaimashita' is the colloquial form of 'kawatte shimaimashita,' often conveying surprise or disappointment about the unexpected change. In the example, the speaker is reacting to a major change in policy."
+  },
+  {
     "date": "2026.07.03",
     "day": "Fri",
     "number": 814,
