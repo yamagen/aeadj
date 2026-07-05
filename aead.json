@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.05",
+    "day": "Sun",
+    "number": 816,
+    "index": "doumitemo",
+    "title": "No matter how you look at it, it's clear that...",
+    "expression-ja": "どう(見:み)ても、...",
+    "roman-ja": "Dou mite mo, ...",
+    "expression-en": "No matter how you look at it, it's clear that...",
+    "variants-ja": ["どう(見:み)ても、...", "どのように(見:み)ても、...", "どこから(見:み)ても、..."],
+"variants-en": [ "No matter how you look at it, ...", "Whichever way you look at it, ...", "Any way you look at it, ..." ],
+    "intent-ja": ["明白な事実の表現", "強調の表現", "口語的な表現"],
+    "intent-en": ["expression of an obvious fact", "expression of emphasis", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "明白事実表現", "強調表現", "口語的表現"],
+    "tags-en": ["immediate grammar", "spoken", "obvious-fact expression", "emphasis expression", "colloquial expression"],
+    "adjusted-expression-ja": "どのように(見:み)ても、(明:あき)らかに...",
+    "adjusted-expression-en": "No matter how you look at it, it's clearly ...",
+    "img-sub": "doumitemo01.png",
+    "example-ja": "A「この(計画:けいかく)、(本当:ほんとう)に(成功:せいこう)すると(思:おも)う？」 B「いやぁ、どう(見:み)ても、(失敗:しっぱい)するよ」",
+    "example-en": "A: Do you really think this plan will succeed? B: No, no matter how you look at it, it's going to fail.",
+  "notes-ja": "「どう見ても」は、「明らかに」や「誰が見ても」と明示的に言わずに、その判断が明白であることを表す口語的な表現です。実際に目で見た場合だけでなく、状況全体を考えた結果として、「そう判断するしかない」という場合にも使われます。英語では 'No matter how you look at it' のように、一般的な 'you' を使うのが自然です。これは特定の相手だけでなく、誰がどのように見ても同じ結論になる、という意味です。例文では、計画は失敗しそうだという判断を、自分だけの意見ではなく、誰でもそう判断することのように述べています。",
+  "notes-en": "'Dou mite mo' is a casual spoken expression used when the speaker presents a judgment as obvious, without explicitly saying 'clearly' or 'obviously.' It is not limited to visual observation. It is also used when the speaker feels that the conclusion follows from the overall situation. In English, 'No matter how you look at it' uses a general 'you,' not necessarily the specific listener. It means that no matter who looks at the situation, or from what angle, the same conclusion follows. In the example, the speaker presents the failure of the plan not merely as a personal opinion, but as something that anyone would conclude."
+  },
+  {
     "date": "2026.07.04",
     "day": "Sat",
     "number": 815,
