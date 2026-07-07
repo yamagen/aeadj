@@ -1,4 +1,27 @@
 [
+{
+  "date": "2026.07.06",
+  "day": "Mon",
+  "number": 817,
+  "index": "atote",
+  "title": "At least, have some tea before you go.",
+  "expression-ja": "せめて、お(茶:ちゃ)でも(飲:の)んでいかない？",
+  "roman-ja": "Semete, ocha demo nonde ikanai?",
+  "expression-en": "At least, have some tea before you go.",
+  "variants-ja": ["せめて、お(茶:ちゃ)でも(飲:の)んでいかない？", "せめて、お(茶:ちゃ)ぐらい(飲:の)んでいったら？", "せめて、お(茶:ちゃ)でも(飲:の)んでいってよ。"],
+  "variants-en": ["At least, have some tea before you go.", "At least, stay for some tea.", "Why don't you at least have some tea?"],
+  "intent-ja": ["譲歩した最低限の願い", "おもてなしの表現", "口語的な表現"],
+  "intent-en": ["minimum request after compromise", "expression of hospitality", "colloquial expression"],
+  "tags-ja": ["即時文法", "口語", "最低限願望表現", "おもてなし表現", "譲歩表現"],
+  "tags-en": ["immediate grammar", "spoken", "minimum-request expression", "hospitality expression", "compromise expression"],
+  "adjusted-expression-ja": "せめて、お(茶:ちゃ)でも(召:め)しあがっていきませんか。",
+  "adjusted-expression-en": "At least, would you like to have some tea before you go?",
+  "img-sub": "atote01.png",
+  "example-ja": "A「そろそろ(帰:かえ)らないと」 B「そんなに(忙:いそ)がしいの？ せめて、お(茶:ちゃ)でも(飲:の)んでいかない？」",
+  "example-en": "A: I should be heading back soon. B: Are you that busy? At least, have some tea before you go.",
+  "notes-ja": "「せめて、お茶でも飲んでいかない？」は、本当はもっと長くいてほしいという気持ちがあるものの、それが難しいなら、最低限お茶だけでも飲んでいってほしいという気持ちを表す口語的な表現です。「せめて」は、希望を少し譲歩して最低限の願いを示します。「お茶でも」は、お茶そのものではなく、少し休んでいくことをやわらかく勧める言い方です。",
+  "notes-en": "'Semete, ocha demo nonde ikanai?' is a casual spoken expression used when the speaker really wishes the visitor could stay longer, but accepts that this may not be possible. 'Semete' softens the speaker's wish into a minimum request: if nothing else, at least have some tea before you go. 'Ocha demo' does not emphasize tea itself; rather, it is a gentle invitation to stay a little longer before leaving."
+  },
   {
     "date": "2026.07.05",
     "day": "Sun",

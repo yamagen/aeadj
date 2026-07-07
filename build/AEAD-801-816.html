@@ -1,0 +1,1019 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>An Expression A Day</title>
+<style>
+@page {
+  size: B5;
+  margin: 16mm 14mm 18mm 14mm;
+  @bottom-center {
+    content: counter(page);
+    font-size: 9pt;
+    color: #666;
+  }
+}
+
+@page:first {
+  @bottom-center { content: none; }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Noto Serif CJK JP", "Noto Serif JP", "Hiragino Mincho ProN", serif;
+  line-height: 1.72;
+  color: #222;
+  overflow-wrap: anywhere;
+}
+
+.cover {
+  min-height: 215mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  break-after: page;
+}
+
+.cover h1 {
+  font-size: 28pt;
+  line-height: 1.2;
+  margin: 0 0 0.25em 0;
+}
+
+.cover .subtitle {
+  font-size: 13pt;
+  margin: 0 0 2em 0;
+}
+
+.cover .range {
+  font-size: 10pt;
+  color: #555;
+}
+
+.cover .author {
+  font-size: 14pt;
+  margin: 2.2em 0 0.4em 0;
+}
+
+.cover .license {
+  font-size: 9pt;
+  color: #555;
+  margin-top: 0.4em;
+}
+
+.colophon {
+  break-before: page;
+  min-height: 215mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-size: 9.5pt;
+}
+
+.colophon h1 {
+  font-size: 16pt;
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 0.4em;
+  margin-bottom: 1em;
+}
+
+.colophon dl {
+  display: grid;
+  grid-template-columns: 32mm 1fr;
+  gap: 0.35em 1em;
+}
+
+.colophon dt {
+  font-weight: 700;
+}
+
+.colophon dd {
+  margin: 0;
+}
+
+.entry {
+  break-after: page;
+}
+
+.entry-header {
+  margin-bottom: 1.2em;
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 0.7em;
+}
+
+.meta {
+  font-size: 8.5pt;
+  color: #666;
+  margin: 0 0 0.4em 0;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  font-size: 18pt;
+  line-height: 1.25;
+  margin: 0;
+  font-weight: 700;
+}
+
+.expression-ja {
+  font-size: 23pt;
+  line-height: 1.65;
+  margin: 0.8em 0 0.25em 0;
+}
+
+.roman {
+  font-size: 10.5pt;
+  color: #555;
+  margin: 0.1em 0;
+  font-style: italic;
+}
+
+.expression-en {
+  font-size: 14pt;
+  line-height: 1.45;
+  margin: 0.4em 0 1em 0;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 10.5pt;
+  margin: 1.1em 0 0.35em 0;
+  padding-bottom: 0.12em;
+  border-bottom: 1px solid #ddd;
+  color: #333;
+}
+
+p {
+  margin: 0.25em 0 0.55em 0;
+}
+
+.en {
+  font-family: "TeX Gyre Termes", "Noto Serif", serif;
+}
+
+ul {
+  margin: 0.2em 0 0.8em 1.2em;
+  padding: 0;
+}
+
+li {
+  margin: 0.25em 0;
+}
+
+.chip {
+  display: inline-block;
+  border: 1px solid #bbb;
+  border-radius: 999px;
+  padding: 0.05em 0.55em;
+  margin: 0 0.25em 0.3em 0;
+  font-size: 8.5pt;
+  line-height: 1.5;
+}
+
+.image {
+  margin: 0.8em 0 0.6em 0;
+  text-align: center;
+}
+
+.image img {
+  max-width: 70%;
+  max-height: 58mm;
+  object-fit: contain;
+}
+
+ruby { ruby-position: over; }
+rt { font-size: 0.46em; }
+
+@media screen {
+  html {
+    background: #eee;
+  }
+
+  body {
+    max-width: 860px !important;
+    margin: 2.5rem auto !important;
+    padding: 2rem 2.5rem !important;
+    box-sizing: border-box !important;
+    background: white;
+  }
+
+  .cover,
+  .entry,
+  .colophon {
+    box-sizing: border-box !important;
+  }
+}
+
+
+
+
+</style>
+</head>
+<body>
+<section class="cover">
+<h1>An Expression A Day</h1>
+<p class="subtitle">AEAD PDF Book</p>
+<p class="range">No. 801-816 / 16 entries</p>
+<p class="author">Hilofumi Yamamoto, Ph.D.</p>
+<p class="license">Creative Commons Attribution 4.0 International (CC BY 4.0)</p>
+</section>
+<article class="entry" id="aead-801">
+<header class="entry-header">
+<p class="meta">2026.06.20 Sat / No. 801 / konnakotonante</p>
+<h1>This has never happened before.</h1>
+</header>
+<main>
+<p class="expression-ja">こんなことなんて<ruby>今<rt>いま</rt></ruby>までなかったのに。</p>
+<p class="roman">Konna koto nante ima made nakatta noni.</p>
+<p class="expression-en">This has never happened before.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">こんなこと、<ruby>今<rt>いま</rt></ruby>までなかったのに。</span><br><span class="en">This has never happened before.</span></li>
+<li><span class="ja">こんなこと、<ruby>今<rt>いま</rt></ruby>まで<ruby>起<rt>お</rt></ruby>きたことがなかったのに。</span><br><span class="en">This kind of thing has never happened before.</span></li>
+<li><span class="ja">こんなこと、<ruby>今<rt>いま</rt></ruby>まで<ruby>経験<rt>けいけん</rt></ruby>したことがなかったのに。</span><br><span class="en">I have never experienced anything like this before.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja"><ruby>今<rt>いま</rt></ruby>まで、こんなことは<ruby>起<rt>お</rt></ruby>きたことがなかったのに。</p>
+<p class="en">Until now, this kind of thing had never happened.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「<ruby>バス<rt>ばす</rt></ruby>、こないねぇ」 B「そうねぇ、こんなことなんて<ruby>今<rt>いま</rt></ruby>までなかったのに」</p>
+<p class="en">A: The bus isn't coming, huh. B: Yeah, this has never happened before.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Konna koto nante ima made nakatta noni.' is used to express surprise or confusion about something that has never happened before. 'Nante' makes it more than a factual statement; it gives the feeling of 'I never expected something like this to happen.'</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">confusion about something unusual</span>
+<span class="chip">expression of an unexpected situation</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">unusual-situation expression</span>
+<span class="chip">unexpected-situation expression</span>
+<span class="chip">confusion expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-802">
+<header class="entry-header">
+<p class="meta">2026.06.21 Sun / No. 802 / suyasuya</p>
+<h1>Sleeping peacefully.</h1>
+</header>
+<main>
+<p class="expression-ja">すやすやと<ruby>眠<rt>ねむ</rt></ruby>っている。</p>
+<p class="roman">Suyasuya to nemutte iru.</p>
+<p class="expression-en">Sleeping peacefully.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">すやすやと<ruby>眠<rt>ねむ</rt></ruby>っている。</span><br><span class="en">Sleeping peacefully.</span></li>
+<li><span class="ja">すやすや<ruby>眠<rt>ねむ</rt></ruby>っている。</span><br><span class="en">Sleeping soundly.</span></li>
+<li><span class="ja">すやすやと<ruby>寝<rt>ね</rt></ruby>ている。</span><br><span class="en">Sound asleep.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">すやすやと<ruby>眠<rt>ねむ</rt></ruby>っています。</p>
+<p class="en">They are sleeping peacefully.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「<ruby>赤<rt>あか</rt></ruby>ちゃん、<ruby>眠<rt>ねむ</rt></ruby>ってる？」 B「いや、お<ruby>父<rt>とう</rt></ruby>さんの<ruby>方<rt>ほう</rt></ruby>が、すやすやと<ruby>眠<rt>ねむ</rt></ruby>ってるけど」</p>
+<p class="en">A: Is the baby asleep? B: No, actually, Dad is the one sleeping peacefully.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Suyasuya' is an onomatopoeic expression for sleeping quietly and peacefully. It is often used for babies or children, but it can also describe an adult sleeping comfortably. In the example, the funny point is that it is not the baby but the father who is sleeping peacefully.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of sleep state</span>
+<span class="chip">expression of peaceful condition</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">onomatopoeia</span>
+<span class="chip">sleep-state expression</span>
+<span class="chip">peaceful-condition expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-803">
+<header class="entry-header">
+<p class="meta">2026.06.22 Mon / No. 803 / sonnakotoba</p>
+<h1>Where did you learn that word?</h1>
+</header>
+<main>
+<p class="expression-ja">そんなことば、どこで<ruby>覚<rt>おぼ</rt></ruby>えたの？</p>
+<p class="roman">Sonna kotoba, doko de oboeta no?</p>
+<p class="expression-en">Where did you learn that word?</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">そんなことば、どこで<ruby>覚<rt>おぼ</rt></ruby>えたの？</span><br><span class="en">Where did you learn that word?</span></li>
+<li><span class="ja">そんなことば、どこで<ruby>聞<rt>き</rt></ruby>いたの？</span><br><span class="en">Where did you hear that word?</span></li>
+<li><span class="ja">そんなことば、どこで<ruby>知<rt>し</rt></ruby>ったの？</span><br><span class="en">Where did you come across that word?</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">そのようなことばを、どこで<ruby>覚<rt>おぼ</rt></ruby>えたのですか？</p>
+<p class="en">Where did you learn such a word?</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「<ruby>パパ<rt>ぱぱ</rt></ruby>、それ、<ruby>コンプラ的<rt>こんぷらてき</rt></ruby>に<ruby>アウト<rt>あうと</rt></ruby>じゃない？」 B「<ruby>レイ<rt>れい</rt></ruby>ちゃん、そんなことば、どこで<ruby>覚<rt>おぼ</rt></ruby>えたの？」</p>
+<p class="en">A: Dad, isn't that kind of a compliance issue? B: Rei-chan, where did you learn that phrase?</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Sonna kotoba, doko de oboeta no?' is used when someone uses a word or phrase that feels unexpected for them, such as a very grown-up expression from a child. 'Sonna kotoba' points not only to the word itself, but also to the surprise that this person used it. In the example, Rei-chan says 'konpura-teki ni auto,' a very adult-sounding phrase, so B reacts with surprise.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of surprise</span>
+<span class="chip">asking where a word came from</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">surprise expression</span>
+<span class="chip">word-origin-checking expression</span>
+<span class="chip">colloquial expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-804">
+<header class="entry-header">
+<p class="meta">2026.06.23 Tue / No. 804 / yokumiminisurune</p>
+<h1>I hear that a lot.</h1>
+</header>
+<main>
+<p class="expression-ja">よく<ruby>耳<rt>みみ</rt></ruby>にするね。</p>
+<p class="roman">Yoku mimi ni suru ne.</p>
+<p class="expression-en">I hear that a lot.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">よく<ruby>耳<rt>みみ</rt></ruby>にするね。</span><br><span class="en">I hear that a lot.</span></li>
+<li><span class="ja">よく<ruby>聞<rt>き</rt></ruby>くね。</span><br><span class="en">I often hear that.</span></li>
+<li><span class="ja">よく<ruby>耳<rt>みみ</rt></ruby>にする<ruby>話<rt>はなし</rt></ruby>だね。</span><br><span class="en">That's something I hear often.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">よく<ruby>耳<rt>みみ</rt></ruby>にしますね。</p>
+<p class="en">I often hear that.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja"><ruby>最近<rt>さいきん</rt></ruby>、よく<ruby>耳<rt>みみ</rt></ruby>にするね、この<ruby>話<rt>はなし</rt></ruby>。</p>
+<p class="en">I've been hearing about this a lot lately.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Yoku mimi ni suru ne' is used when a topic or piece of information comes up often around you. Compared with 'kiku' (hear/listen), 'mimi ni suru' sounds less intentional; it suggests that the information naturally reaches your ears. The final 'ne' adds the feeling that the speaker expects the listener to recognize the same situation.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of frequency</span>
+<span class="chip">shared observation</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">frequency expression</span>
+<span class="chip">shared-observation expression</span>
+<span class="chip">topic-response expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-805">
+<header class="entry-header">
+<p class="meta">2026.06.24 Wed / No. 805 / tsukamaranaine</p>
+<h1>It's hard to get a taxi, isn't it?</h1>
+</header>
+<main>
+<p class="expression-ja">なかなか<ruby>掴<rt>つか</rt></ruby>まらないね、<ruby>タクシー<rt>たくしー</rt></ruby>。</p>
+<p class="roman">Nakanaka tsukamaranai ne, takushii.</p>
+<p class="expression-en">It's hard to get a taxi, isn't it?</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">なかなか<ruby>掴<rt>つか</rt></ruby>まらないね、<ruby>タクシー<rt>たくしー</rt></ruby>。</span><br><span class="en">It's hard to get a taxi, isn't it?</span></li>
+<li><span class="ja">なかなか<ruby>捕<rt>つか</rt></ruby>まらないね、<ruby>タクシー<rt>たくしー</rt></ruby>。</span><br><span class="en">It's difficult to get a taxi, isn't it?</span></li>
+<li><span class="ja">なかなか<ruby>拾<rt>ひろ</rt></ruby>えないね、<ruby>タクシー<rt>たくしー</rt></ruby>。</span><br><span class="en">It's not easy to hail a taxi, is it?</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja"><ruby>タクシー<rt>たくしー</rt></ruby>がなかなか<ruby>掴<rt>つか</rt></ruby>まりませんね。</p>
+<p class="en">It's quite difficult to get a taxi, isn't it?</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「なかなか<ruby>掴<rt>つか</rt></ruby>まらないね、<ruby>タクシー<rt>たくしー</rt></ruby>」 B「<ruby>駅前<rt>えきまえ</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>くしかないね」</p>
+<p class="en">A: It's hard to get a taxi, isn't it? B: No choice but to walk to the station, then.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Nakanaka tsukamaranai ne, takushii' is used when you are having trouble finding or hailing a taxi. Here, 'tsukamaru' does not mean physically grabbing the taxi with your hand; it gives the metaphorical sense of getting hold of something you can use. 'Nakanaka' shows that something is not happening even though you are expecting it to happen. By placing 'takushii' at the end, the speaker first expresses the difficulty and then adds the topic in a natural spoken style. In the example, 'aruku shika nai ne' is rendered as 'No choice but to walk,' a short reaction-like phrase showing that walking is the only realistic option left.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of difficulty in transportation</span>
+<span class="chip">expression of a shared difficulty</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">transportation-difficulty expression</span>
+<span class="chip">shared-difficulty expression</span>
+<span class="chip">right-dislocation expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-806">
+<header class="entry-header">
+<p class="meta">2026.06.25 Thu / No. 806 / aakorekore</p>
+<h1>Ah, this is it.</h1>
+</header>
+<main>
+<p class="expression-ja">ああ、これこれ。</p>
+<p class="roman">Aa, kore kore.</p>
+<p class="expression-en">Ah, this is it.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">ああ、これこれ。</span><br><span class="en">Ah, this is it.</span></li>
+<li><span class="ja">あ、これこれ。</span><br><span class="en">Ah, this is the one.</span></li>
+<li><span class="ja">ああ、これだよ。</span><br><span class="en">Ah, this is what I was looking for.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">ああ、これですね。</p>
+<p class="en">Ah, this is the one.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「ねぇ、これじゃない？ ほしかったの」 B「ああ、これこれ」</p>
+<p class="en">A: Hey, isn't this the one you wanted? B: Ah, this is it.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Aa, kore kore' is used when you find something just as expected, or when something brings back a familiar memory. It expresses satisfaction and recognition. For example, it can be used when you find a nostalgic taste, discover something you have been looking for for a long time, or encounter a situation that feels just right. Even if the thing is far away, or even if the other person is holding it, the speaker says 'kore kore,' not 'are are' or 'sore sore,' to express the joy of finding exactly what they expected.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of finding what one was looking for</span>
+<span class="chip">recognition of a match</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">search-completion expression</span>
+<span class="chip">match-recognition expression</span>
+<span class="chip">recognition expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-807">
+<header class="entry-header">
+<p class="meta">2026.06.26 Fri / No. 807 / yuzuttara</p>
+<h1>Why don't you share a little?</h1>
+</header>
+<main>
+<p class="expression-ja">ちょっと、<ruby>譲<rt>ゆず</rt></ruby>ったら？</p>
+<p class="roman">Chotto, yuzuttara?</p>
+<p class="expression-en">Why don't you share a little?</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">ちょっと、<ruby>譲<rt>ゆず</rt></ruby>ったら？</span><br><span class="en">Why don't you share a little?</span></li>
+<li><span class="ja"><ruby>少<rt>すこ</rt></ruby>し、<ruby>譲<rt>ゆず</rt></ruby>ってみたら？</span><br><span class="en">Why don't you let them have some?</span></li>
+<li><span class="ja"><ruby>少<rt>すこ</rt></ruby>し、<ruby>譲<rt>ゆず</rt></ruby>ってみてはどう？</span><br><span class="en">How about giving them a little?</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">それぐらいは、<ruby>譲<rt>ゆず</rt></ruby>ってみてはいかがですか。</p>
+<p class="en">Why don't you let them have at least that much?</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「たくさん<ruby>持<rt>も</rt></ruby>っているんだから、ちょっと、<ruby>譲<rt>ゆず</rt></ruby>ったら？」 B「え、だって」</p>
+<p class="en">A: You have a lot, so why don't you share a little? B: But...</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Chotto, yuzuttara?' is used to suggest that someone should share a little or let someone else have some, especially when they have a lot or are holding on to their share. Here, 'yuzuru' means giving up a small part of what one has, or giving way a little. 'Chotto' makes the suggestion sound lighter than a direct command, but depending on the situation, it can also carry a mild note of reproach.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">suggestion to share or give way</span>
+<span class="chip">suggestion not to keep everything to oneself</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">sharing-suggestion expression</span>
+<span class="chip">not-keeping-everything expression</span>
+<span class="chip">gentle-prompt expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-808">
+<header class="entry-header">
+<p class="meta">2026.06.27 Sat / No. 808 / yadayo</p>
+<h1>No way, not that.</h1>
+</header>
+<main>
+<p class="expression-ja">やだよ、そんなの。</p>
+<p class="roman">Yada yo, sonna no.</p>
+<p class="expression-en">No way, not that.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">やだよ、そんなの。</span><br><span class="en">No way, not that.</span></li>
+<li><span class="ja">いやだよ、そんなの。</span><br><span class="en">No, I don't want to.</span></li>
+<li><span class="ja">やだなぁ、そんなの。</span><br><span class="en">Ugh, I don't like that.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">そういうのは<ruby>嫌<rt>いや</rt></ruby>です。</p>
+<p class="en">I don't like that kind of thing.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「たまには、こんな<ruby>色<rt>いろ</rt></ruby>のを<ruby>着<rt>き</rt></ruby>てみたら？」 B「やだよ、そんなの」</p>
+<p class="en">A: Why don't you try wearing this color for a change? B: No way, not that.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Yada yo, sonna no' is a casual spoken reaction used to reject a suggestion or something in front of you. 'Yada' is a shortened, casual form of 'iya da,' and it gives the refusal before any explanation. 'Sonna no' distances the speaker from the suggestion a little, as if saying 'that kind of thing.' It sounds natural among friends or family, but depending on the person and situation, it can also sound strong or childish.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of refusal</span>
+<span class="chip">reaction of dislike</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">refusal expression</span>
+<span class="chip">dislike-reaction expression</span>
+<span class="chip">reaction expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-809">
+<header class="entry-header">
+<p class="meta">2026.06.28 Sun / No. 809 / iikini</p>
+<h1>I got carried away and messed up.</h1>
+</header>
+<main>
+<p class="expression-ja">いい<ruby>気<rt>き</rt></ruby>になって、<ruby>失敗<rt>しっぱい</rt></ruby>しちゃった。</p>
+<p class="roman">Ii ki ni natte, shippai shichatta.</p>
+<p class="expression-en">I got carried away and messed up.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">いい<ruby>気<rt>き</rt></ruby>になって、<ruby>失敗<rt>しっぱい</rt></ruby>しちゃった。</span><br><span class="en">I got carried away and messed up.</span></li>
+<li><span class="ja"><ruby>調子<rt>ちょうし</rt></ruby>にのって、<ruby>失敗<rt>しっぱい</rt></ruby>しちゃった。</span><br><span class="en">I got cocky and messed up.</span></li>
+<li><span class="ja"><ruby>自信過剰<rt>じしんかじょう</rt></ruby>で、<ruby>失敗<rt>しっぱい</rt></ruby>しちゃった。</span><br><span class="en">I was overconfident and messed up.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja"><ruby>調子<rt>ちょうし</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ってしまい、<ruby>失敗<rt>しっぱい</rt></ruby>してしまいました。</p>
+<p class="en">I got carried away and ended up making a mistake.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「うまくいってたのにね」 B「うん、いい<ruby>気<rt>き</rt></ruby>になって、<ruby>失敗<rt>しっぱい</rt></ruby>しちゃった」</p>
+<p class="en">A: Things were going well, too. B: Yeah, I got carried away and messed up.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Ii ki ni natte, shippai shichatta' is a casual spoken expression used when the speaker says they got carried away, became a little too confident, and ended up making a mistake. Here, 'ii ki ni naru' does not simply mean feeling good; it suggests getting a bit carried away or letting success go to your head. 'Shichatta' is the casual form of 'shite shimatta,' and it adds a sense of regret or disappointment about what happened.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of self-reflection</span>
+<span class="chip">expression of failure due to overconfidence</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">self-reflection expression</span>
+<span class="chip">overconfidence-failure expression</span>
+<span class="chip">colloquial expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-810">
+<header class="entry-header">
+<p class="meta">2026.06.29 Mon / No. 810 / yacchaimashitane</p>
+<h1>I messed up, didn't I?</h1>
+</header>
+<main>
+<p class="expression-ja">やっちゃいましたね。</p>
+<p class="roman">Yacchaimashita ne.</p>
+<p class="expression-en">I messed up, didn't I?</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">やっちゃいましたね。</span><br><span class="en">I messed up, didn't I?</span></li>
+<li><span class="ja">やってしまいましたね。</span><br><span class="en">I really messed up, didn't I?</span></li>
+<li><span class="ja">やっちゃったね。</span><br><span class="en">You messed up, huh.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">やってしまいましたね。</p>
+<p class="en">I really made a mistake, didn't I?</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「<ruby>締切<rt>しめきり</rt></ruby>、まだ<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うよね」 B「え？ <ruby>昨日<rt>きのう</rt></ruby>でしたよ」 A「ああ、やっちゃいましたね」</p>
+<p class="en">A: The deadline is still okay, right? B: Huh? It was yesterday. A: Oh, I messed up, didn't I?</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Yacchaimashita ne' is a casual spoken expression used when the speaker realizes that they have made a mistake or done something they should not have done. It is often close to a self-deprecating 'I messed up, didn't I?' rather than a neutral report of failure. 'Yacchau' is the colloquial form of 'yatte shimau,' and here it means that the speaker has messed up, not that they have achieved something. The final 'ne' makes it sound as if the speaker is also checking or sharing that realization with the listener. For success or achievement, Japanese normally uses 'yarimashita,' not 'yacchaimashita.' For example, 'Yamamoto, yarimashita' or 'Yamamoto senshu, yarimashita' can be used playfully, even outside sports, as if the speaker were celebrating their own success in a live broadcast.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of having messed up</span>
+<span class="chip">reaction to a mistake</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">mess-up expression</span>
+<span class="chip">mistake-reaction expression</span>
+<span class="chip">colloquial expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-811">
+<header class="entry-header">
+<p class="meta">2026.06.30 Tue / No. 811 / nebatta</p>
+<h1>It was worth sticking it out.</h1>
+</header>
+<main>
+<p class="expression-ja"><ruby>粘<rt>ねば</rt></ruby>ったかいがあったよ。</p>
+<p class="roman">Nebatta kai ga atta yo.</p>
+<p class="expression-en">It was worth sticking it out.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja"><ruby>粘<rt>ねば</rt></ruby>ったかいがあったよ。</span><br><span class="en">It was worth sticking it out.</span></li>
+<li><span class="ja">ここまで<ruby>粘<rt>ねば</rt></ruby>ったかいがあったよ。</span><br><span class="en">It was worth sticking it out this far.</span></li>
+<li><span class="ja"><ruby>頑張<rt>がんば</rt></ruby>ったかいがあったよ。</span><br><span class="en">It was worth the effort.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">ここまで<ruby>粘<rt>ねば</rt></ruby>ったかいがありました。</p>
+<p class="en">It was worth sticking it out this far.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「とうとう<ruby>完成<rt>かんせい</rt></ruby>したね」 B「うん、ここまで<ruby>粘<rt>ねば</rt></ruby>ったかいがあったよ」</p>
+<p class="en">A: We finally finished it. B: Yeah, it was worth sticking it out this far.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Nebatta kai ga atta yo' is used when persistence has led to a satisfying result. 'Nebaru' means to keep going without giving up, especially when things do not work out right away. 'Kai ga atta' means that the effort or patience was not wasted and led to a good result. In the example, 'koko made nebatta kai ga atta yo' expresses the feeling that sticking it out this far was worth it because it finally led to completion.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of the result of effort</span>
+<span class="chip">expression of a sense of achievement</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">effort-result expression</span>
+<span class="chip">achievement-sense expression</span>
+<span class="chip">colloquial expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-812">
+<header class="entry-header">
+<p class="meta">2026.07.01 Wed / No. 812 / soreyosoresore</p>
+<h1>That's what I want.</h1>
+</header>
+<main>
+<p class="expression-ja">それよ、それそれ。</p>
+<p class="roman">Sore yo, sore sore.</p>
+<p class="expression-en">That's what I want.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">それよ、それそれ。</span><br><span class="en">That's what I want.</span></li>
+<li><span class="ja">そうそう、それそれ。</span><br><span class="en">Yes, that's it.</span></li>
+<li><span class="ja">それだよ、それそれ。</span><br><span class="en">That's exactly what I wanted.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">その<ruby>通<rt>とお</rt></ruby>りです。それが<ruby>望<rt>のぞ</rt></ruby>ましいです。</p>
+<p class="en">That's right. That is what I want.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「<ruby>今日<rt>きょう</rt></ruby>はみなさんよく<ruby>働<rt>はたら</rt></ruby>いてくださったので、<ruby>社長<rt>しゃちょう</rt></ruby>から<ruby>特別手当<rt>とくべつてあて</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます」 B「それよ、それそれ、そうしないと」</p>
+<p class="en">A: Since everyone worked so hard today, the president is giving everyone a special bonus. B: That's what I want. That's how it should be.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Sore yo, sore sore' is a casual spoken reaction used when someone's words or actions match what the speaker wanted, expected, or thought should happen. It is not just simple agreement; it carries the feeling of 'That's what I wanted' or 'That's the right thing to do.' In the example, 'sou shinai to' adds the sense that this is how things should be.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">reaction to what one wanted</span>
+<span class="chip">affirmative reaction</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">expected-response expression</span>
+<span class="chip">affirmative-reaction expression</span>
+<span class="chip">wanted-match expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-813">
+<header class="entry-header">
+<p class="meta">2026.07.02 Thu / No. 813 / doushite</p>
+<h1>Why didn't you say that first?</h1>
+</header>
+<main>
+<p class="expression-ja">どうして、それを<ruby>先<rt>さき</rt></ruby>に<ruby>言<rt>い</rt></ruby>ってくれないの？</p>
+<p class="roman">Doushite, sore o saki ni itte kurenai no?</p>
+<p class="expression-en">Why didn't you say that first?</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">どうして、それを<ruby>先<rt>さき</rt></ruby>に<ruby>言<rt>い</rt></ruby>ってくれないの？</span><br><span class="en">Why didn't you say that first?</span></li>
+<li><span class="ja">どうして、そんなこと<ruby>先<rt>さき</rt></ruby>に<ruby>言<rt>い</rt></ruby>ってくれないの？</span><br><span class="en">Why didn't you mention that earlier?</span></li>
+<li><span class="ja">どうして、もっと<ruby>早<rt>はや</rt></ruby>く<ruby>言<rt>い</rt></ruby>ってくれなかったの？</span><br><span class="en">Why didn't you tell me that sooner?</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">どうして、それを<ruby>先<rt>さき</rt></ruby>に<ruby>言<rt>い</rt></ruby>ってくれなかったのですか？</p>
+<p class="en">Why didn't you tell me that earlier?</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「どうして、それを<ruby>先<rt>さき</rt></ruby>に<ruby>言<rt>い</rt></ruby>ってくれないの？」 B「だって、<ruby>誰<rt>だれ</rt></ruby>も<ruby>聞<rt>き</rt></ruby>かなかったから」</p>
+<p class="en">A: Why didn't you say that first? B: Because nobody asked me.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Doushite, sore o saki ni itte kurenai no?' is an immediate spoken reaction when important information is revealed too late. It is not simply asking for a reason. It also conveys the feeling that things could have turned out differently if the information had been given earlier. 'Saki ni' shows that the speaker is reacting not just to the information itself, but to the timing of when it was given. 'Itte kurenai no?' carries a mild tone of complaint rather than strong criticism. In the example, 'dare mo kikanakatta kara' means 'because nobody asked me.' It is different from 'dare mo kiite kurenakatta kara,' which means 'because nobody listened to me.'</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of dissatisfaction</span>
+<span class="chip">reaction to delayed information sharing</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">dissatisfaction expression</span>
+<span class="chip">delayed-information-reaction expression</span>
+<span class="chip">timing-reaction expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-814">
+<header class="entry-header">
+<p class="meta">2026.07.03 Fri / No. 814 / yattekureta</p>
+<h1>You could at least clean your own room.</h1>
+</header>
+<main>
+<p class="expression-ja"><ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>ぐらい、やってくれたっていいんじゃない。</p>
+<p class="roman">Heya no souji gurai, yatte kureta tte ii n janai.</p>
+<p class="expression-en">You could at least clean your own room.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja"><ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>ぐらい、やってくれたっていいんじゃない。</span><br><span class="en">You could at least clean your own room.</span></li>
+<li><span class="ja"><ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>ぐらい、<ruby>掃除<rt>そうじ</rt></ruby>してくれたっていいんじゃない。</span><br><span class="en">You could at least tidy up your own room.</span></li>
+<li><span class="ja"><ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>ぐらい、<ruby>片付<rt>かたづ</rt></ruby>けてくれたっていいんじゃない。</span><br><span class="en">You could at least clean up after yourself.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja"><ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>ぐらいは、していただけませんか。</p>
+<p class="en">Could you at least clean your own room?</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「じゃ、あと、よろしく」 B「ちょっと<ruby>待<rt>ま</rt></ruby>って。<ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>ぐらい、やってくれたっていいんじゃない」</p>
+<p class="en">A: Okay, you can take care of the rest. B: Wait a minute. You could at least clean your own room.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Heya no souji gurai, yatte kureta tte ii n janai' is a casual spoken expression used when the speaker feels that the other person should at least do something that is considered a minimum responsibility. 'Gurai' suggests that the task is not asking too much, and 'yatte kureta tte ii n janai' carries the feeling of 'You could at least do that.' Rather than giving a direct command, the speaker expresses mild dissatisfaction while implying that the responsibility naturally belongs to the listener.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression urging minimal responsibility</span>
+<span class="chip">expression of mild dissatisfaction</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">responsibility-urging expression</span>
+<span class="chip">minimum-expectation expression</span>
+<span class="chip">dissatisfaction expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-815">
+<header class="entry-header">
+<p class="meta">2026.07.04 Sat / No. 815 / 180do</p>
+<h1>Things did a complete 180.</h1>
+</header>
+<main>
+<p class="expression-ja">180<ruby>度<rt>ど</rt></ruby>、<ruby>変<rt>か</rt></ruby>わっちゃいました。</p>
+<p class="roman">180-do, kawacchaimashita.</p>
+<p class="expression-en">Things did a complete 180.</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">180<ruby>度<rt>ど</rt></ruby>、<ruby>変<rt>か</rt></ruby>わっちゃいました。</span><br><span class="en">It changed 180 degrees.</span></li>
+<li><span class="ja">180<ruby>度<rt>ど</rt></ruby>も<ruby>変<rt>か</rt></ruby>わっちゃいました。</span><br><span class="en">It changed completely.</span></li>
+<li><span class="ja"><ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違<rt>ちが</rt></ruby>うものに<ruby>変<rt>か</rt></ruby>わっちゃいました。</span><br><span class="en">It turned into something completely different.</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja"><ruby>状況<rt>じょうきょう</rt></ruby>が180<ruby>度<rt>ど</rt></ruby>も<ruby>変<rt>か</rt></ruby>わってしまいました。</p>
+<p class="en">The situation has changed completely.</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「なんか、<ruby>方針<rt>ほうしん</rt></ruby>が180<ruby>度<rt>ど</rt></ruby>、<ruby>変<rt>か</rt></ruby>わっちゃいましたね」 B「しかたないよ、<ruby>予算<rt>よさん</rt></ruby>がないんだから」</p>
+<p class="en">A: Somehow, the policy has changed 180 degrees. B: It can't be helped; we don't have the budget.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'180-do, kawacchaimashita' is a casual spoken expression used when a situation, policy, opinion, or other matter has changed so drastically that it seems to have gone in the opposite direction. '180 degrees' is used metaphorically to mean 'a complete reversal.' 'Kawacchaimashita' is the colloquial form of 'kawatte shimaimashita,' often conveying surprise or disappointment about the unexpected change. In the example, the speaker is reacting to a major change in policy.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of a big change</span>
+<span class="chip">expression of surprise</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">big-change expression</span>
+<span class="chip">surprise expression</span>
+<span class="chip">colloquial expression</span></p>
+
+</section>
+</main>
+</article>
+
+<article class="entry" id="aead-816">
+<header class="entry-header">
+<p class="meta">2026.07.05 Sun / No. 816 / doumitemo</p>
+<h1>No matter how you look at it, it's clear that...</h1>
+</header>
+<main>
+<p class="expression-ja">どう<ruby>見<rt>み</rt></ruby>ても、...</p>
+<p class="roman">Dou mite mo, ...</p>
+<p class="expression-en">No matter how you look at it, it's clear that...</p>
+<section class="variants">
+<h2>Variants</h2>
+<ul>
+<li><span class="ja">どう<ruby>見<rt>み</rt></ruby>ても、...</span><br><span class="en">No matter how you look at it, ...</span></li>
+<li><span class="ja">どのように<ruby>見<rt>み</rt></ruby>ても、...</span><br><span class="en">Whichever way you look at it, ...</span></li>
+<li><span class="ja">どこから<ruby>見<rt>み</rt></ruby>ても、...</span><br><span class="en">Any way you look at it, ...</span></li>
+</ul>
+</section>
+<section class="adjusted">
+<h2>Adjusted Expression</h2>
+<p class="ja">どのように<ruby>見<rt>み</rt></ruby>ても、<ruby>明<rt>あき</rt></ruby>らかに...</p>
+<p class="en">No matter how you look at it, it's clearly ...</p>
+
+</section>
+<section class="example">
+<h2>Example</h2>
+<p class="ja">A「この<ruby>計画<rt>けいかく</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>すると<ruby>思<rt>おも</rt></ruby>う？」 B「いやぁ、どう<ruby>見<rt>み</rt></ruby>ても、<ruby>失敗<rt>しっぱい</rt></ruby>するよ」</p>
+<p class="en">A: Do you really think this plan will succeed? B: No, no matter how you look at it, it's going to fail.</p>
+
+</section>
+<section class="notes">
+<h2>Notes</h2>
+<p class="en">'Dou mite mo' is a casual spoken expression used when the speaker presents a judgment as obvious, without explicitly saying 'clearly' or 'obviously.' It is not limited to visual observation. It is also used when the speaker feels that the conclusion follows from the overall situation. In English, 'No matter how you look at it' uses a general 'you,' not necessarily the specific listener. It means that no matter who looks at the situation, or from what angle, the same conclusion follows. In the example, the speaker presents the failure of the plan not merely as a personal opinion, but as something that anyone would conclude.</p>
+
+</section>
+<section class="intent-tags">
+<h2>Intent / Tags</h2>
+<p><strong>Intent EN</strong><br><span class="chip">expression of an obvious fact</span>
+<span class="chip">expression of emphasis</span>
+<span class="chip">colloquial expression</span></p>
+<p><strong>Tags EN</strong><br><span class="chip">immediate grammar</span>
+<span class="chip">spoken</span>
+<span class="chip">obvious-fact expression</span>
+<span class="chip">emphasis expression</span>
+<span class="chip">colloquial expression</span></p>
+
+</section>
+</main>
+</article>
+<section class="colophon">
+<h1>Colophon</h1>
+<dl>
+<dt>Title</dt><dd>An Expression A Day</dd>
+<dt>Author</dt><dd>Hilofumi Yamamoto, Ph.D.</dd>
+<dt>Range</dt><dd>No. 801-816 / 16 entries</dd>
+<dt>License</dt><dd>Creative Commons Attribution 4.0 International (CC BY 4.0)</dd>
+<dt>Source</dt><dd>Generated from AEAD JSON data.</dd>
+</dl>
+</section>
+
+</body>
+</html>
+
