@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.09",
+    "day": "Thu",
+    "number": 820,
+    "index": "nandemoumakuiiku",
+    "title": "Not everything goes well.",
+    "expression-ja": "なんでも(上手:うま)くいくわけないって。",
+    "roman-ja": "Nandemo umaku iku wake nai tte.",
+    "expression-en": "Not everything goes well.",
+    "variants-ja": ["なんでも(上手:うま)くいくわけないって。", "なんでも(順調:じゅんちょう)にいくわけないって。", "なんでも(思:おも)いどおりにいくわけないって。"],
+    "variants-en": ["Not everything goes well.", "Not everything goes smoothly.", "Not everything goes as planned."],
+    "intent-ja": ["相手を落ち着かせる表現", "現実的な受け止め", "口語的な表現"],
+    "intent-en": ["expression for calming someone down", "realistic acceptance", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "慰め表現", "現実認識表現", "失敗反応表現"],
+    "tags-en": ["immediate grammar", "spoken", "comforting expression", "realistic-recognition expression", "failure-reaction expression"],
+    "adjusted-expression-ja": "すべてが(順調:じゅんちょう)にいくわけではありません。",
+    "adjusted-expression-en": "Not everything goes smoothly.",
+    "img-sub": "nandemoumakuiiku01.png",
+    "example-ja": "A「どうしよう。(失敗:しっぱい)しちゃった」 B「まあ、(人生:じんせい)、なんでも(上手:うま)くいくわけないって」",
+    "example-en": "A: What should I do? I messed up. B: Well, not everything goes well in life.",
+    "notes-ja": "「なんでもうまくいくわけないって」は、失敗した相手に対して、すべてが順調にいくわけではない、と現実的に受け止めさせる口語的な表現です。「わけない」は、そうなるはずがない、という強い否定を表します。「って」は、説明というより、「そういうものだよ」と相手に言い聞かせるような感じを加えています。例文では、失敗した相手を責めるのではなく、少し落ち着かせる反応として使われています。",
+    "notes-en": "'Nandemo umaku iku wake nai tte' is a casual spoken expression used to help someone accept a failure realistically. It means that not everything can be expected to go well. 'Wake nai' strongly denies the idea that everything will work out, and 'tte' makes the line sound like the speaker is gently telling the listener, 'That's just how things are.' In the example, it is used not to blame the person who failed, but to calm them down a little."
+  },
+  {
     "date": "2026.07.08",
     "day": "Wed",
     "number": 819,
