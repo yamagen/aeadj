@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026.07.10",
+    "day": "Fri",
+    "number": 821,
+    "index": "kiniiterunojibun",
+    "title": "The only one who cares is me.",
+    "expression-ja": "(気:き)にしてるのは(自分:じぶん)だけ。",
+    "roman-ja": "Kini shiteru no wa jibun dake.",
+    "expression-en": "You're the only one who cares.",
+    "variants-ja": [
+      "(気:き)にしてるのは(自分:じぶん)だけ。",
+      "(心配:しんぱい)してるのは(自分:じぶん)だけ。",
+      "(悩:なや)んでるのは(自分:じぶん)だけ。"
+    ],
+    "variants-en": [
+      "You're the only one who cares.",
+      "You're the only one who's worried.",
+      "You're the only one who's bothered by it."
+    ],
+    "intent-ja": [
+      "相手を安心させる表現",
+      "過度な心配をやわらげる表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression for reassuring someone",
+      "expression for easing unnecessary worry",
+      "colloquial expression"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "安心させる表現",
+      "心配緩和表現",
+      "視点転換表現",
+      "自分表現",
+      "文脈依存表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "reassuring expression",
+      "worry-easing expression",
+      "viewpoint-shift expression",
+      "jibun expression",
+      "context-dependent reference"
+    ],
+    "adjusted-expression-ja": "(気:き)にしているのは、その(人:ひと)(自身:じしん)だけです。",
+    "adjusted-expression-en": "The only one who is concerned about it is the person themselves.",
+    "img-sub": "kiniiterunowajibun01.png",
+    "example-ja": "A「(今日:きょう)の(ヘアスタイル:へあすたいる)、(変:へん)？」 B「いいよ。(気:き)にしてるのは(自分:じぶん)だけだよ」 C「そうだよ。みんな、そんなの(見:み)てもいないから」",
+    "example-en": "A: Is my hairstyle weird today? B: It's fine. You're the only one who cares. C: That's right. Nobody else is even looking.",
+    "notes-ja": "「気にしてるのは自分だけ」は、相手が些細なことを気にして落ち込んでいるときに、「実は他の人はそんなことを気にしていないよ」と安心させる口語的な表現です。ここでの「自分」は、英語の myself だけに対応する語ではありません。文脈によって、me, you, him, her などに対応し、この例では聞き手を指しているため、英語では You're the only one who cares. のように訳されます。話し手は「気にするな」と命令するのではなく、心配しているのは本人だけだという見方を示すことで、不安をやわらげようとしています。「気にしてる」は「気にしている」のくだけた形で、自然な会話でよく使われます。",
+    "notes-en": "'Kini shiteru no wa jibun dake' is a casual spoken expression used to reassure someone who is worrying too much about something. Here, 'jibun' does not simply mean 'myself.' Depending on the context, it may correspond to me, you, him, her, or another contextually relevant self. In this example, it refers to the listener, so the expression is translated as 'You're the only one who cares.' Rather than telling the person directly, 'Don't worry,' the speaker points out that other people are probably not paying attention to it at all. By presenting the concern as something only the person themselves is focusing on, the speaker gently eases the person's anxiety. The English title, 'The only one who cares is me,' should be understood as a pattern in which 'me' can be replaced by you, him, her, and so on.",
+    "notes-for-research-ja": "「気にしてるのは自分だけ」は、明示的に「気にしなくていい」と言わなくても、話し手が「他者はそのことを前景化していない」という見方を提示することで、聞き手の不安を軽減する即時反応である。この連鎖では、「気にしてるのは」が現在前景化している心配事を取り出し、「自分だけ」がその心配が他者には共有されていないことを示す。ここでの「自分」は一人称に固定される語ではなく、文脈内で自己として立てられた参与者を指す。そのため、英語では me, you, him, her などに対応しうる。この例では、心配している聞き手がその主体であるため、英語では You're the only one who cares. と訳される。したがって、この表現は命令や助言ではなく、視点を切り替えることによって安心を生み出している。",
+    "notes-for-research-en": "'Kini shiteru no wa jibun dake' is an immediate reaction that reassures the listener without explicitly saying 'Don't worry.' Instead, the speaker shifts the listener's perspective by presenting the concern as something that only the relevant self has foregrounded, while others are not paying attention to it. In this chain, 'kini shiteru no wa' identifies the current concern, and 'jibun dake' indicates that the concern is not shared by others. Here, 'jibun' is not fixed as a first-person pronoun. It refers to the participant construed as the self within the current context, and may correspond to me, you, him, her, or another contextually relevant person in English. In this example, the worried listener is that participant, so the expression is translated as 'You're the only one who cares.' Thus, the expression creates reassurance not through advice or command, but by changing the listener's viewpoint. The English title, 'The only one who cares is me,' represents a replaceable pattern rather than a fixed translation."
+  },
+  {
     "date": "2026.07.09",
     "day": "Thu",
     "number": 820,
