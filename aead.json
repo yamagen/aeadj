@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026.07.11",
+    "day": "Sat",
+    "number": 822,
+    "index": "ukeuridakedo",
+    "title": "I'm just repeating what I heard.",
+    "expression-ja": "これ、(受:う)け(売:う)りだけど、",
+    "roman-ja": "Kore, ukeuri dakedo,",
+    "expression-en": "I'm just repeating what I heard, but...",
+    "variants-ja": [
+      "これ、(受:う)け(売:う)りだけど、",
+      "これ、(聞:き)いた話だけど、",
+      "これ、(人:ひと)から(聞:き)いた話だけど、"
+    ],
+    "variants-en": [
+      "I'm just repeating what I heard, but...",
+      "This is just something I heard, but...",
+      "This is just something I heard from someone, but..."
+    ],
+    "intent-ja": [
+      "情報の出所を示す表現",
+      "自分の考えではないことを示す表現",
+      "発言の責任を少し弱める表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression indicating the source of information",
+      "expression indicating that it is not the speaker's own idea",
+      "expression for slightly softening responsibility for what is said",
+      "colloquial expression"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "情報出所表現",
+      "非自己意見表現",
+      "発言責任緩和表現",
+      "前置き表現"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "information-source expression",
+      "non-self-opinion expression",
+      "responsibility-softening expression",
+      "preface expression"
+    ],
+    "adjusted-expression-ja": "これは、(人:ひと)から(聞:き)いたことの(受:う)け(売:う)りですが、",
+    "adjusted-expression-en": "This is only something I heard from someone else, but...",
+    "img-sub": "ukeuridakedo01.png",
+    "example-ja": "A「できないできないっていうのはまだまだ自分に伸び代があるってことだよ」 B「それって誰かの(受:う)け(売:う)りか、何か？」 A「バレた？」",
+    "example-en": "A: Saying 'I can't do it' just means you still have room to grow. B: Isn't that just something you heard from someone? A: You caught me?",
+    "notes-ja": "「これ、受け売りだけど」は、自分で考え出したことではなく、他人から聞いた言葉や考えをそのまま伝えるときに使う口語的な表現です。「受け売り」は、情報の出所を示すだけでなく、その言葉が自分の独自の考えではないことを少し自嘲的に示します。「だけど」は、これから言う内容を断定的に押しつけず、前置きとして発言の責任を少し弱める働きをしています。例文では、Aがもっともらしい励ましの言葉を言い、Bがそれを「誰かの受け売りではないか」と軽く突っ込んでいます。",
+    "notes-en": "'Kore, ukeuri dakedo' is a casual spoken expression used when the speaker is passing on words or ideas they heard from someone else, rather than presenting them as their own original thought. 'Ukeuri' does not simply indicate the source of information; it also suggests that the speaker is borrowing someone else's words, often with a slightly self-deprecating tone. 'Dakedo' works as a preface, softening the speaker's responsibility for what follows. In the example, A gives a motivational-sounding line, and B lightly teases A by suggesting that it may just be something A heard from someone else.",
+    "notes-for-research-ja": "「これ、受け売りだけど」は、発話内容を提示する前に、その内容が話し手自身の独自の判断や発見ではなく、他者から受け取った言葉であることを明示する即時的な前置き表現である。この表現では、「これ」がこれから述べる内容を指示し、「受け売り」がその内容の由来を他者に置く。「だけど」は逆接というよりも、発言を本格的な主張として立てる前の緩衝部として働く。そのため、この表現は情報の出所を示すだけでなく、話し手の責任や独自性を弱め、聞き手がそれを軽く受け取れるようにする働きを持つ。",
+    "notes-for-research-en": "'Kore, ukeuri dakedo' is an immediate preface used before presenting a statement whose content is not claimed as the speaker's own original judgment or discovery. 'Kore' points forward to the content about to be introduced, while 'ukeuri' places the source of that content outside the speaker. 'Dakedo' functions less as a strong adversative marker and more as a buffer before the speaker presents the borrowed statement. Thus, the expression does not merely identify the source of information; it also weakens the speaker's claim of originality and responsibility, allowing the listener to receive the statement lightly."
+  },
+  {
     "date": "2026.07.10",
     "day": "Fri",
     "number": 821,
