@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.16",
+    "day": "Thu",
+    "number": 827,
+    "index": "zekkounochansu",
+    "title": "A golden opportunity.",
+    "expression-ja": "(絶好:ぜっこう)の(チャンス:ちゃんす)",
+    "roman-ja": "Zekkou no chansu",
+    "expression-en": "A golden opportunity.",
+    "variants-ja": ["(絶好:ぜっこう)の(チャンス:ちゃんす)", "(絶好:ぜっこう)の(機会:きかい)", "(絶好:ぜっこう)の(タイミング:たいみんぐ)"],
+    "variants-en": ["A golden opportunity.", "A perfect opportunity.", "Perfect timing."],
+    "intent-ja": ["非常によい機会を示す表現", "行動を始める好条件の表現", "口語的な表現"],
+    "intent-en": ["expression indicating an excellent opportunity", "expression indicating favorable conditions for action", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "好機表現", "チャンス表現", "行動開始表現"],
+    "tags-en": ["immediate grammar", "spoken", "opportunity expression", "chance expression", "action-starting expression"],
+    "adjusted-expression-ja": "(絶好:ぜっこう)の(機会:きかい)です。",
+    "adjusted-expression-en": "It is an excellent opportunity.",
+    "img-sub": "zekkounochansu01.png",
+    "example-ja": "A「(雪:ゆき)の(状態:じょうたい)もいいし、(天気:てんき)もいいし、(ゲレンデ:げれんで)も(混:こ)んでないよ。どう？」 B「うん、(スキー:すきー)するには、(絶好:ぜっこう)の(チャンス:ちゃんす)だね」",
+    "example-en": "A: The snow is good, the weather is nice, and the slopes aren't crowded. What do you think? B: Yeah, it's a golden opportunity to go skiing.",
+    "notes-ja": "「絶好のチャンス」は、何かをするための条件が非常によくそろっているときに使う表現です。「絶好」は、これ以上ないほど好都合であることを表し、「チャンス」は、行動を起こすのに適した機会を指します。例文では、雪の状態、天候、ゲレンデの混雑状況がすべてよいため、今がスキーをするのに非常によい機会だと判断しています。",
+    "notes-en": "'Zekkou no chansu' is used when the conditions for doing something are exceptionally favorable. 'Zekkou' means that the situation could hardly be better, while 'chansu' refers to an opportunity to take action. In the example, the snow, weather, and lack of crowds all make it an excellent opportunity to go skiing."
+  },
+  {
     "date": "2026.07.15",
     "day": "Wed",
     "number": 826,
