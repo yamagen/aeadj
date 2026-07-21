@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.21",
+    "day": "Tue",
+    "number": 832,
+    "index": "konya,kareraisu",
+    "title": "Tonight, it's curry rice.",
+    "expression-ja": "(今夜:こんや)はね、(カレーライス:かれーらいす)。",
+    "roman-ja": "Konya wa ne, kareraisu.",
+    "expression-en": "Tonight, it's curry rice.",
+    "variants-ja": ["(今夜:こんや)はね、(カレーライス:かれーらいす)。", "(今夜:こんや)はね、(カレー:かれー)だよ。", "(今夜:こんや)はね、(カレーライス:かれーらいす)にするよ。"],
+    "variants-en": ["Tonight, it's curry rice.", "Tonight, it's curry.", "Tonight, we're having curry rice."],
+    "intent-ja": ["今夜という範囲を示して料理名を伝える表現", "述語を言わず料理名で終える表現", "会話の中で時間の範囲を調整する表現", "口語的な表現"],
+    "intent-en": ["expression presenting tonight as the relevant frame and naming the dish", "expression ending with the name of the dish without stating a predicate", "expression adjusting the time frame within a conversation", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "話題提示", "名詞止め", "範囲調整", "夕食表現"],
+    "tags-en": ["immediate grammar", "spoken", "topic presentation", "noun ending", "frame adjustment", "dinner expression"],
+    "adjusted-expression-ja": "(今夜:こんや)の(夕食:ゆうしょく)は(カレーライス:かれーらいす)です。",
+    "adjusted-expression-en": "Tonight's dinner is curry rice.",
+    "img-sub": "konya_kareraisu01.png",
+    "example-ja": "A「(今日:きょう)は(何:なに)？」 B「(今夜:こんや)はね、(カレーライス:かれーらいす)」",
+    "example-en": "A: What are we having today? B: Tonight, it's curry rice.",
+    "notes-ja": "「(今夜:こんや)はね、(カレーライス:かれーらいす)」は、「今夜」という範囲を示したあと、料理名だけを置く口語的な表現です。「夕食は」「食べる」「作る」などの関係は言われていませんが、その場で共有されているため、「カレーライス」という名詞だけで伝わります。例文では、「今日は何？」という問いに対して「今夜はね」と答えています。会話では、相手が使った時間表現を機械的に繰り返す必要はなく、話し手が答えに必要な範囲へ焦点を動かすことができます。「ね」は、相手の注意を保ちながら「今夜」という範囲を差し出す息遣いを作っています。",
+    "notes-en": "'Konya wa ne, kareraisu' presents tonight as the relevant frame and then gives only the name of the dish. Nothing corresponding to 'dinner is,' 'we are having,' or 'I am making' is stated, because the shared situation supplies that relation. In the example, the question uses 'today,' while the answer uses 'tonight.' Conversation does not require the speaker to repeat the other person's time expression mechanically; the speaker may shift the focus to the range needed for the answer. Here, 'ne' lightly holds the listener's attention while the speaker presents tonight as the relevant frame."
+  },
+  {
     "date": "2026.07.20",
     "day": "Mon",
     "number": 831,
