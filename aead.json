@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.24",
+    "day": "Fri",
+    "number": 835,
+    "index": "amurinaramuri",
+    "title": "Oh, if you can't, just say so.",
+    "expression-ja": "あ、(無理:むり)なら(無理:むり)と。",
+    "roman-ja": "A, muri nara muri to.",
+    "expression-en": "Oh, if you can't, just say so.",
+    "variants-ja": ["あ、(無理:むり)なら(無理:むり)と。", "あ、(無理:むり)なら(無理:むり)って(言:い)って。", "あ、(無理:むり)なら(無理:むり)でいいから。"],
+    "variants-en": ["Oh, if you can't, just say so.", "Oh, if you can't, just tell me.", "Oh, if you can't, that's okay."],
+    "intent-ja": ["相手に断ってよい余地をその場で与える表現", "依頼によって生じる圧力を和らげる表現", "「言って」を言わず引用の「と」で止める表現", "口語的な表現"],
+    "intent-en": ["expression immediately giving the other person permission to decline", "expression reducing the pressure created by a request", "expression ending with the quotative particle 'to' while leaving 'say' unspoken", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "依頼緩和", "拒否許可", "言いさし", "省略表現"],
+    "tags-en": ["immediate grammar", "spoken", "request mitigation", "permission to decline", "unfinished utterance", "ellipsis"],
+    "adjusted-expression-ja": "あ、(無理:むり)なら(無理:むり)だと(言:い)ってください。",
+    "adjusted-expression-en": "If you are unable to do it, please let me know.",
+    "img-sub": "amurinaramuri01.png",
+    "example-ja": "A「(手伝:てつだ)ってほしいんだけど、(無理:むり)なら(無理:むり)と(言:い)ってもらってもいいからね」 B「うん、(大丈夫:だいじょうぶ)だよ」",
+    "example-en": "A: I'd like you to help me, but if you can't, it's okay to say so. B: Yeah, I can.",
+    "notes-ja": "「あ、(無理:むり)なら(無理:むり)と」は、依頼や提案をしたあとで、相手に断ってもよい余地をその場で付け加える口語的な表現です。「あ」は、話し手が補足すべきことに気づき、依頼による圧力をすぐに和らげようとする反応を示します。「無理なら無理」と同じ語を繰り返すことで、相手が曖昧にせず「無理」とそのまま伝えてよいことを示しています。末尾の「と」は伝える内容を引用する助詞で、「言って」「伝えて」などは発音されていませんが、その場から理解できます。文を完成させなくても、相手に求めている行動が伝わる即時文法の表現です。",
+    "notes-en": "'A, muri nara muri to' is a casual expression added after a request or proposal to give the other person immediate permission to decline. 'A' signals that the speaker has just remembered an important qualification and is quickly reducing the pressure created by the request. Repeating 'muri' indicates that the listener may state directly that something is not possible. The final 'to' marks the quoted content, while a verb such as 'itte' or 'tsutaete' remains unspoken because the situation makes it recoverable. The utterance therefore communicates the requested response without completing the sentence."
+  },
+  {
     "date": "2026.07.23",
     "day": "Thu",
     "number": 834,
