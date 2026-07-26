@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.27",
+    "day": "Mon",
+    "number": 838,
+    "index": "doumoshikkurikonai",
+    "title": "It just doesn't fit.",
+    "expression-ja": "どうもしっくりこない。",
+    "roman-ja": "Doumo shikkuri konai.",
+    "expression-en": "It just doesn't fit.",
+    "variants-ja": ["どうもしっくりこない。", "どうもしっくりこないなぁ。", "どうもしっくりこない(感:かん)じだなぁ。"],
+    "variants-en": ["It just doesn't fit.", "It just doesn't seem to fit.", "Something about it doesn't feel right."],
+    "intent-ja": ["あるものと別のものとの組み合わせがなじまないことを示す表現", "全体としてうまくまとまらないという印象をその場で述べる表現", "口語的な表現"],
+    "intent-en": ["expression indicating that one thing does not fit well with another", "expression immediately stating that a combination does not form a satisfactory whole", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "組み合わせ評価", "適合表現", "違和感表現"],
+    "tags-en": ["immediate grammar", "spoken", "combination evaluation", "fit expression", "mismatch expression"],
+    "adjusted-expression-ja": "どうもしっくりきません。",
+    "adjusted-expression-en": "It does not seem to fit.",
+    "img-sub": "doumoshikkurikonai01.png",
+    "example-ja": "A「この(色:いろ)、(キッチン:きっちん)としてはいいんだけど、(玄関:げんかん)としてはねぇ」 B「うん、どうもしっくりこない」",
+    "example-en": "A: This color works well in the kitchen, but for the entrance... B: Yeah, it just doesn't fit.",
+    "notes-ja": "「どうもしっくりこない」は、あるものを別のもの、場所、役割、考えなどと組み合わせたときに、うまくなじまず、全体としてまとまらないことを表す口語的な表現です。単に話し手が不快だという意味ではなく、二つ以上のものの関係に適合しないところがあるという評価です。「どうも」は、どこが問題なのかをまだ明確に説明できなくても、何かが合っていないという感覚を示します。例文では、その色自体が悪いのではなく、キッチンには合うものの、玄関との組み合わせではなじまないと評価しています。",
+    "notes-en": "'Doumo shikkuri konai' is a casual expression used when one thing does not fit naturally with another thing, place, role, idea, or explanation and therefore fails to form a satisfactory whole. It does not simply mean that the speaker feels personally uncomfortable. Rather, it evaluates the relationship or combination between two or more elements as not fitting properly. 'Doumo' indicates that something seems wrong even when the speaker cannot yet identify or explain the precise problem. In the example, the color itself is not being judged as bad. It works in the kitchen, but it does not fit naturally with the entrance."
+  },
+  {
     "date": "2026.07.26",
     "day": "Sun",
     "number": 837,
