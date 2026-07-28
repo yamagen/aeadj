@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.07.29",
+    "day": "Wed",
+    "number": 840,
+    "index": "hamattete",
+    "title": "I've been really into it, so...",
+    "expression-ja": "はまってて。",
+    "roman-ja": "Hamattete.",
+    "expression-en": "I've been really into it, so...",
+    "variants-ja": ["はまってる。", "はまってるね。", "はまってるなぁ。"],
+    "variants-en": ["I'm hooked.", "You're really into it, aren't you?", "I'm really into this."],
+    "intent-ja": ["ある対象に強く引き込まれ、継続して関わっている状態を示す表現", "その場で共有されている主体や対象を言わずに示す表現", "口語的な表現"],
+    "intent-en": ["expression indicating an ongoing state of being strongly drawn into something", "expression leaving the subject or object unspoken when it is already shared in the situation", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "没頭表現", "継続状態", "対象省略", "言いさし"],
+    "tags-en": ["immediate grammar", "spoken", "absorption expression", "ongoing state", "omitted object", "unfinished utterance"],
+    "adjusted-expression-ja": "それに(夢中:むちゅう)になっています。",
+    "adjusted-expression-en": "I'm absorbed in it.",
+    "img-sub": "hamatteru01.png",
+    "example-ja": "A「(最近:さいきん)、(大学:だいがく)、(来:き)てないよね？」 B「いや、(来:き)てるけど、(部活:ぶかつ)にはまってて」",
+    "example-en": "A: You haven't been around campus lately, have you? B: No, I have. I've just been really into my club, so...",
+    "notes-ja": "「はまってる」は、「はまっている」の口語的な形です。単に何かが好きだというだけではなく、その対象に引き込まれ、繰り返し関わり、時間や注意がそちらへ向いている現在の状態を表します。対象は「ゲームにはまってる」「部活にはまってる」のように「に」で示されますが、何について話しているかがその場で共有されていれば、「はまってる」だけでも伝わります。「はまってるね」は相手の状態への評価にもなり、「はまってるなぁ」は自分または他人の状態を実感しながら述べることができます。例文の「部活にはまってて」は、理由を示す「て」で止まっています。なぜ最近AがBを見かけなかったのかを最後まで説明しなくても、直前の会話から関係が理解されます。",
+    "notes-en": "'Hamatteru' is the colloquial form of 'hamatte iru.' It expresses more than simply liking something: the person has been drawn into it, keeps engaging with it, and is directing considerable time or attention toward it. The target is commonly marked by 'ni,' as in 'geemu ni hamatteru' or 'bukatsu ni hamatteru,' but it can be left unspoken when it is already shared in the immediate situation. Depending on the context, 'hamatteru ne' may describe another person's involvement, while 'hamatteru naa' may reflect on the speaker's own state or someone else's. In the example, 'bukatsu ni hamattete' ends with the connective 'te.' The speaker presents the reason and leaves the rest unstated because the preceding exchange makes the connection understandable. 'I'm hooked' works well when the involvement feels strong, while 'I'm really into it' is often more neutral and natural for activities such as a university club."
+  },
+  {
     "date": "2026.07.28",
     "day": "Tue",
     "number": 839,
@@ -24,8 +47,8 @@
     "img-sub": "konohitotemaga_daichigai01.png",
     "example-ja": "A「(野菜:やさい)の(切:き)り(方:かた)で(味:あじ)ってこんなに(違:ちが)うんだ」 B「そう、このひと(手間:てま)が、(大違:おおちが)い！」",
     "example-en": "A: The way you cut the vegetables makes such a difference in taste. B: Exactly—this one extra step makes all the difference!",
-    "notes-ja": "「(この:この)ひと(手間:てま)が、(大違:おおちが)い」は、通常の工程に一つの手間や工夫を加えることで、仕上がりや結果が大きく変わることを示す口語的な表現です。「ひと手間」は、漠然とした努力一般ではなく、切り方を変える、下ごしらえを加える、最後に調整するなどの具体的な追加工程を指します。「この」は、いま行ったり示したりした手間をその場で指しています。「大違い」は、その手間によって生じる結果の大きな差を示します。「大きな違いを生む」「仕上がりが大きく違う」などの述語をすべて言わず、「このひと手間」と「大違い」だけを置くことで、手間と結果の関係を短く強く示しています。例文では、野菜の切り方という一つの工夫が、味の違いとして現れることを評価しています。",
-    "notes-en": "'Kono hitotema ga, oochigai' is a casual expression indicating that adding one specific step or touch to an ordinary process can substantially change the result. 'Hitotema' does not refer to effort in general. It refers to a concrete additional step, such as changing the way something is cut, adding preparation, or making a final adjustment. 'Kono' points to the particular step that has just been performed or demonstrated. 'Oochigai' presents the large difference produced by that step. Rather than completing a sentence such as 'this extra step produces a big difference,' the speaker places 'this one extra step' and 'a big difference' together, making the relation between the action and its result immediate and emphatic. In the example, the way the vegetables are cut is evaluated as a small additional consideration that produces a noticeable difference in taste."
+    "notes-ja": "「(この:この)ひと(手間:てま)が、(大違:おおちが)い」は、通常の工程に一つの手間や工夫を加えることで、仕上がりや結果が大きく変わることを示す口語的な表現です。「ひと手間」は、漠然とした努力一般ではなく、切り方を変える、下ごしらえを加える、最後に調整するなどの具体的な追加工程を指します。「この」は、いま行ったり示したりした手間をその場で指しています。「大違い」は、その手間によって生じる結果の大きな差を示します。「大きな違いを生む」「仕上がりが大きく違う」などの述語をすべて言わず、「このひと手間」と「大違い」だけを置くことで、手間と結果の関係を短く強く示しています。例文では、野菜の切り方という一つの工夫が、味の違いとして現れることを評価しています。「ひと手間をかける」という行為そのものについては、No.199「(一手間:ひとてま)かける」も参照してください。本項目は、いま示された具体的なひと手間が結果に大きな差を生むことを評価する表現です。",
+    "notes-en": "'Kono hitotema ga, oochigai' is a casual expression indicating that adding one specific step or touch to an ordinary process can substantially change the result. 'Hitotema' does not refer to effort in general. It refers to a concrete additional step, such as changing the way something is cut, adding preparation, or making a final adjustment. 'Kono' points to the particular step that has just been performed or demonstrated. 'Oochigai' presents the large difference produced by that step. Rather than completing a sentence such as 'this extra step produces a big difference,' the speaker places 'this one extra step' and 'a big difference' together, making the relation between the action and its result immediate and emphatic. In the example, the way the vegetables are cut is evaluated as one small additional step that produces a noticeable difference in taste. For more on the act of adding an extra step, see No.199 'Hitotema kakeru.' This entry focuses on evaluating the effect of a specific extra step that has just been demonstrated."
   },
   {
     "date": "2026.07.27",
