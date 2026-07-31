@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.01",
+    "day": "Sat",
+    "number": 843,
+    "index": "soredekoso",
+    "title": "That's the spirit.",
+    "expression-ja": "それでこそ。",
+    "roman-ja": "Sore de koso.",
+    "expression-en": "That's the spirit.",
+    "variants-ja": ["それでこそ。", "それでこそだね。", "それでこそだよ。"],
+    "variants-en": ["That's the spirit.", "Now that's what I'm talking about.", "That's more like it."],
+    "intent-ja": ["相手の直前の発言や行動を期待にふさわしいものとして評価する表現", "その人や立場に求められる姿勢が示されたことを短く認める表現", "後ろに続く評価を言わずに止める表現", "口語的な表現"],
+    "intent-en": [
+      "expression evaluating the other person's immediately preceding words or action as meeting expectations",
+      "expression briefly recognizing the resolve or quality expected of that person or role",
+      "expression leaving the following evaluation unspoken",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "即時評価", "期待充足", "姿勢評価", "省略表現"],
+    "tags-en": ["immediate grammar", "spoken", "immediate evaluation", "expectation fulfilled", "evaluation of attitude", "ellipsis"],
+    "adjusted-expression-ja": "そのような姿勢こそ、あなたに期待していたものです。",
+    "adjusted-expression-en": "That is exactly the attitude I expected from you.",
+    "img-sub": "soredekoso01.png",
+    "example-ja": "A「ここまできたら、(最後:さいご)までやりますよ」 B「それでこそ」",
+    "example-en": "A: Now that we've come this far, I'm going to see it through to the end. B: That's the spirit.",
+    "notes-ja": "「それでこそ」は、相手が直前に示した発言や行動を、その人や立場に期待される姿にふさわしいものとして、その場で短く評価する口語的な表現です。「それ」は、いま示された発言や行動を指します。「こそ」は、それこそが重要であり、期待していたものだと強く取り上げます。本来は「それでこそ君だ」「それでこそプロだ」「それでこそあなたらしい」などと続けることができますが、何を評価しているかが共有されていれば、「それでこそ」だけで止めることができます。例文では、Aが最後までやり抜くと宣言した直後、Bがその決意を期待どおりの姿勢として認めています。",
+    "notes-en": "'Sore de koso' is a casual expression that immediately evaluates the other person's preceding words or action as fitting the resolve, attitude, or quality expected of that person or role. 'Sore' points to what has just been said or done, while 'koso' gives it strong focus as exactly what was hoped for. The expression may be completed as 'sore de koso kimi da,' 'sore de koso puro da,' or 'sore de koso anata rashii,' but the final evaluation can remain unspoken when it is recoverable from the immediate situation. In the example, B recognizes A's declaration to continue to the end as exactly the determined attitude expected of them."
+  },
+  {
     "date": "2026.07.31",
     "day": "Fri",
     "number": 842,
