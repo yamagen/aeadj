@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.08.02",
+    "day": "Sun",
+    "number": 844,
+    "index": "shikkurikuru",
+    "title": "It feels right.",
+    "expression-ja": "しっくりくる。",
+    "roman-ja": "Shikkuri kuru.",
+    "expression-en": "It feels right.",
+    "variants-ja": ["しっくりくる。", "しっくりきます。", "しっくりきた。"],
+    "variants-en": ["It feels right.", "It fits well.", "That really works."],
+    "intent-ja": ["あるものと場所や役割などの組み合わせが自然になじむことを示す表現", "全体として収まりがよいという評価をその場で述べる表現", "口語的な表現"],
+    "intent-en": ["expression indicating that one thing fits naturally with a place, role, idea, or other element", "expression immediately evaluating a combination as forming a satisfactory whole", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "組み合わせ評価", "適合表現", "即時評価"],
+    "tags-en": ["immediate grammar", "spoken", "combination evaluation", "fit expression", "immediate evaluation"],
+    "adjusted-expression-ja": "よくなじんでいます。",
+    "adjusted-expression-en": "It fits well.",
+    "img-sub": "shikkurikuru01.png",
+    "example-ja": "A「この(部屋:へや)の(カーテン:かーてん)に、これどう？」 B「うん、しっくりくるね。(勉強:べんきょう)できそう」",
+    "example-en": "A: How about this for the curtains in this room? B: Yeah, it feels right. I think I could study well in here.",
+    "notes-ja": "「しっくりくる」は、あるものを場所、役割、考え、説明などと組み合わせたときに、自然になじみ、全体として収まりがよいと感じることを表す口語的な表現です。対象そのものを単独で「よい」と評価するのではなく、二つ以上の要素の関係がうまく合っていることを評価します。「しっくり」は、無理なくなじんでいる状態を表し、「くる」によって、その組み合わせが自然なものとして感じられることを示します。例文では、カーテンそのものの価値ではなく、そのカーテンと部屋との組み合わせがよくなじむと評価しています。その結果、部屋全体が勉強しやすそうな雰囲気になると感じています。否定形については、No.838「どうもしっくりこない」も参照してください。",
+    "notes-en": "'Shikkuri kuru' is a casual expression used when one thing fits naturally with a place, role, idea, explanation, or another element and the combination forms a satisfactory whole. It does not simply evaluate the item itself as good. Rather, it evaluates the relationship between two or more elements as fitting together well. 'Shikkuri' describes a state of natural and comfortable fit, while 'kuru' presents that fit as something that is felt or recognized. In the example, B is not evaluating the curtains in isolation but judging that they fit naturally with the room. This also makes the room feel like a place where studying would be comfortable. For the negative form, see No.838, 'Doumo shikkuri konai.'"
+  },
+  {
     "date": "2026.08.01",
     "day": "Sat",
     "number": 843,
