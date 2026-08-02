@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.08.03",
+    "day": "Mon",
+    "number": 845,
+    "index": "shoboi",
+    "title": "That's pretty lame.",
+    "expression-ja": "しょぼい。",
+    "roman-ja": "Shoboi.",
+    "expression-en": "That's pretty lame.",
+    "variants-ja": ["しょぼい。", "しょぼいなぁ。", "しょぼいねぇ。"],
+    "variants-en": ["That's pretty lame.", "That's underwhelming.", "That's not much."],
+    "intent-ja": ["対象が期待したほど立派でも充実してもいないと評価する表現", "規模や内容や見栄えの貧弱さをその場で指摘する表現", "口語的な表現"],
+    "intent-en": ["expression evaluating something as less impressive or substantial than expected", "expression immediately pointing out that something looks meager, weak, or unimpressive", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "否定的評価", "期待外れ", "貧弱評価", "即時評価"],
+    "tags-en": ["immediate grammar", "spoken", "negative evaluation", "underwhelming", "meager evaluation", "immediate evaluation"],
+    "adjusted-expression-ja": "(期待:きたい)していたほどの(内容:ないよう)ではありませんでした。",
+    "adjusted-expression-en": "It was not as impressive as I had expected.",
+    "img-sub": "shoboi01.png",
+    "example-ja": "A「(予告:よこく)は(面白:おもしろ)そうだったのにね」 B「うん、しょぼい(映画:えいが)」",
+    "example-en": "A: The trailer looked interesting, though. B: Yeah, it was a pretty lame movie.",
+    "notes-ja": "「しょぼい」は、対象を「大したことがない」「貧弱だ」「冴えない」と低く評価する、明確な悪口です。学生同士や家族など、悪口を軽口として共有できる親しい関係では使われますが、関係の浅い相手や公的な場面で使うと失礼です。親しい関係で使えることは、この表現が中立的であることを意味しません。",
+    "notes-en": "'Shoboi' is a clearly derogatory expression that dismisses someone or something as lame, meager, or unimpressive. It may be used jokingly among close friends, classmates, or family members, where insults can function as shared banter. That does not make the expression neutral; outside such relationships, it is plainly rude."
+  },
+  {
     "date": "2026.08.02",
     "day": "Sun",
     "number": 844,
