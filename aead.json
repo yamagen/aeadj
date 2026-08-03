@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.04",
+    "day": "Tue",
+    "number": 846,
+    "index": "aaaa",
+    "title": "Oh no...",
+    "expression-ja": "あーあ...",
+    "roman-ja": "Aaa...",
+    "expression-en": "Oh no...",
+    "variants-ja": ["あーあ...", "あーあ、(残念:ざんねん)だなぁ。", "あーあ、やっちゃったね。"],
+    "variants-en": ["Oh no...", "Aw, that's too bad.", "Oh dear, you did it now."],
+    "intent-ja": ["望ましくない結果が生じた直後に落胆を示す表現", "起きてしまった結果を見て軽い呆れや非難を示すことのある表現", "何が残念なのかを言わずに反応する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately showing dismay after an undesirable result occurs",
+      "expression that may convey mild exasperation or reproach about what has happened",
+      "expression reacting without explicitly stating what is regrettable",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "落胆表現", "結果反応", "軽い呆れ", "言いさし"],
+    "tags-en": ["immediate grammar", "spoken", "dismay expression", "reaction to an outcome", "mild exasperation", "unfinished utterance"],
+    "adjusted-expression-ja": "(残念:ざんねん)なことになりました。",
+    "adjusted-expression-en": "That is unfortunate.",
+    "img-sub": "aa01.png",
+    "example-ja": "A「あ、(割:わ)っちゃった」 B「あーあ...」",
+    "example-en": "A: Oh, I broke it. B: Oh no...",
+    "notes-ja": "「あーあ」は、望ましくない結果が生じた直後に、落胆や残念な気持ちをそのまま声に出す口語的な表現です。「残念です」のように出来事を説明するのではなく、起きてしまった結果を見た瞬間の反応そのものを示します。相手に起きた不運に同情して言うこともありますが、相手の不注意や行動によって悪い結果が生じた場面では、「やってしまったね」という軽い呆れや非難を含むこともあります。例文では、Bは何が残念なのかを言い直さず、物が割れたという目の前の結果だけを受けて「あーあ」と反応しています。",
+    "notes-en": "'Aaa...' is a casual immediate reaction of dismay when an undesirable result has just occurred. Rather than describing the event by saying that it is unfortunate, the speaker directly voices their reaction to the outcome. It can express sympathy when something unfortunate happens to another person, but when the result was caused by that person's carelessness or action, it may also carry mild exasperation or reproach, similar to 'Look what happened.' In the example, B does not restate what is regrettable but responds directly to the visible result that something has been broken."
+  },
+  {
     "date": "2026.08.03",
     "day": "Mon",
     "number": 845,
