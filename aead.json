@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.05",
+    "day": "Wed",
+    "number": 847,
+    "index": "yareyare",
+    "title": "Oh, brother.",
+    "expression-ja": "やれやれ。",
+    "roman-ja": "Yare yare.",
+    "expression-en": "Oh, brother.",
+    "variants-ja": ["やれやれ。", "やれやれ、(疲:つか)れたなぁ。", "やれやれ、(大変:たいへん)だった。"],
+    "variants-en": ["Oh, brother.", "Phew, I'm exhausted.", "Phew, that was tough."],
+    "intent-ja": ["面倒さや困難さに対する疲れや困惑をため息のように表す表現", "困難が終わった直後の安堵を表すこともある表現", "相手の行動や繰り返される事態への軽い呆れを示すこともある表現", "口語的な表現"],
+    "intent-en": [
+      "expression voicing weariness or exasperation about a troublesome situation",
+      "expression that can also convey relief just after a difficulty has ended",
+      "expression that may show mild exasperation at someone's action or a repeated problem",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "疲労表現", "困惑表現", "安堵表現", "軽い呆れ", "ため息表現"],
+    "tags-en": ["immediate grammar", "spoken", "weariness expression", "exasperation expression", "relief expression", "mild exasperation", "sigh-like expression"],
+    "adjusted-expression-ja": "(困:こま)りましたね。",
+    "adjusted-expression-en": "This is troublesome.",
+    "img-sub": "yareyare01.png",
+    "example-ja": "A「まだ(試験:しけん)、4つあるよ」 B「やれやれ、(先:さき)は(長:なが)いなぁ」",
+    "example-en": "A: We still have four more exams. B: Oh, brother. We still have a long way to go.",
+    "notes-ja": "「やれやれ」は、面倒なことや困難な状況に直面したとき、その疲れ、困惑、呆れなどを、ため息のようにその場で声に出す口語的な表現です。困難が終わった直後には、「ようやく終わった」という安堵を表すこともあります。そのため、英語は場面によって「Oh, brother」「Phew」「Here we go again」などに変わります。例文では、まだ試験が四つ残っていると聞き、これからも大変な状況が続くことへの疲れや困惑を「やれやれ」と表しています。",
+    "notes-en": "'Yare yare' is a casual, sigh-like reaction that voices weariness, exasperation, mild disbelief, or relief, depending on the situation. It may be uttered when a troublesome situation has arisen, when the same problem has happened again, or when a difficult task has finally ended. Its English equivalent therefore varies with context and may be 'Oh, brother,' 'Phew,' or 'Here we go again.' In the example, B reacts with weariness on hearing that four exams still remain."
+  },
+  {
     "date": "2026.08.04",
     "day": "Tue",
     "number": 846,
