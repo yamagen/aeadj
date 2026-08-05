@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.06",
+    "day": "Thu",
+    "number": 848,
+    "index": "kanippatsu",
+    "title": "That was a close call.",
+    "expression-ja": "(間一髪:かんいっぱつ)！",
+    "roman-ja": "Kan'ippatsu!",
+    "expression-en": "That was a close call.",
+    "variants-ja": ["(間一髪:かんいっぱつ)！", "(間一髪:かんいっぱつ)で(助:たす)かった！", "(間一髪:かんいっぱつ)で(セーフ:せーふ)！"],
+    "variants-en": ["That was a close call.", "That was a close one.", "That could have been bad."],
+    "intent-ja": ["危険や失敗をほんのわずかな差で回避できたことを評価する表現", "危険を回避できた事実をその場で短く述べる表現", "何が起こりかけたかを言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression evaluating a danger or failure as having been avoided by the narrowest margin",
+      "expression immediately commenting on the fact that a near miss has occurred",
+      "expression leaving the narrowly avoided event unspoken because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "即時評価", "危険回避", "間一髪", "慣用表現"],
+    "tags-en": ["immediate grammar", "spoken", "immediate evaluation", "danger avoided", "near miss", "idiomatic expression"],
+    "adjusted-expression-ja": "(危:あぶ)ないところでした。",
+    "adjusted-expression-en": "That was a close call.",
+    "img-sub": "kanippatsu01.png",
+    "example-ja": "A「(危:あぶ)なかったぁ！(間一髪:かんいっぱつ)だったよ」 B「(パソコン:ぱそこん)、(無事:ぶじ)でよかったね」",
+    "example-en": "A: Whew, that was close! That was really a close call. B: I'm glad the computer is okay.",
+    "notes-ja": "「(間一髪:かんいっぱつ)」は、危険や失敗をほんのわずかな差で回避できたことを表す慣用表現です。危険そのものよりも、「ぎりぎりで助かった」という事実を短く評価します。何が起こりかけたのかは言われていませんが、その場の状況から相手にも分かります。No.842「(危:あぶ)なかったぁ！」が話し手自身の安堵や緊張の解放を表すのに対し、「間一髪！」は危険を回避できた事実そのものに焦点を当てます。そのため、自分についても他人についても使うことができます。例文では、パソコンを落としそうになった出来事を振り返り、「もう少しで壊すところだった」という事実を「間一髪」と評価しています。",
+    "notes-en": "'Kan'ippatsu!' is an idiomatic expression meaning that danger or failure was avoided by the narrowest possible margin. Rather than expressing the speaker's relief, it briefly evaluates the fact that the outcome was only just avoided. The exact danger is usually left unstated because it is obvious from the immediate situation. Unlike No.842, 'Abunakattaa!', which primarily voices the speaker's relief after a near miss, 'Kan'ippatsu!' focuses on the objective fact that the danger was avoided by only a tiny margin. For this reason, it can be used about oneself, another person, or an event. In the example, the speaker looks back on nearly dropping the computer and characterizes the incident as having been avoided by only the narrowest margin."
+  },
+  {
     "date": "2026.08.05",
     "day": "Wed",
     "number": 847,
