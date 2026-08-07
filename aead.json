@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.07",
+    "day": "Fri",
+    "number": 849,
+    "index": "achigau",
+    "title": "Wait, no.",
+    "expression-ja": "あ、(違:ちが)う。",
+    "roman-ja": "A, chigau.",
+    "expression-en": "Wait, no.",
+    "variants-ja": ["あ、(違:ちが)う。", "あ、(違:ちが)った。", "いや、(違:ちが)う。", "(違:ちが)う(違:ちが)う。"],
+    "variants-en": ["Wait, no.", "Oh, no.", "No, that's not right.", "No, no."],
+    "intent-ja": ["自分の認識や行動の誤りに気づいた瞬間に訂正する表現", "直前に言ったことやしようとしたことをその場で修正する表現", "何が違うのかを言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately correcting oneself upon noticing an error in one's understanding or action",
+      "expression revising something just said or about to be done",
+      "expression leaving what is wrong unspoken because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "自己訂正", "認識修正", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "self-correction", "revision of understanding", "immediate reaction"],
+    "adjusted-expression-ja": "(違:ちが)いました。",
+    "adjusted-expression-en": "That was incorrect.",
+    "img-sub": "achigau01.png",
+    "example-ja": "A「この(ボタン:ぼたん)を(押:お)して...あ、(違:ちが)う。こっちだ」 B「そっちね」",
+    "example-en": "A: Press this button... wait, no. This one. B: That one, right.",
+    "notes-ja": "「あ、(違:ちが)う。」は、自分の認識や行動の誤りに気づいた瞬間に、その場で訂正するときの表現です。「あ」は、話し手が新たな事実に気づき、認識が切り替わった瞬間を示します。それに続く「違う」は、何がどのように違うのかを詳しく説明せず、直前の発言・判断・行動を取り消します。何が違うのかはその場の状況から分かるため、目的語や詳しい説明は必要ありません。「あ、違った。」も似ていますが、「あ、違う。」は誤りに気づいたその瞬間の反応として使いやすく、直後に正しいものを示す「こっちだ」「7日だ」などの訂正が続くことがあります。例文では、押そうとしたボタンが違うことに気づいた瞬間に「あ、違う」と言い、すぐに正しいボタンを示しています。",
+    "notes-en": "'A, chigau.' is an immediate expression used when speakers notice that their own understanding, statement, or action is wrong and correct themselves on the spot. 'A' marks the moment of realization, signaling an immediate shift in the speaker's understanding. 'Chigau' then cancels the preceding judgment or intended action without explaining exactly what is wrong. Because the relevant object or action is already shared in the immediate situation, it does not need to be stated explicitly. 'A, chigatta.' is similar, but 'A, chigau.' works especially well as a reaction at the very moment the speaker notices the mistake. It is often followed immediately by a correction such as 'Kocchi da' (This one) or 'Nanoka da' (It's the seventh). In the example, the speaker realizes just before pressing a button that it is the wrong one, says 'A, chigau,' and immediately indicates the correct button."
+  },
+  {
     "date": "2026.08.06",
     "day": "Thu",
     "number": 848,
