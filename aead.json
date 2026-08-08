@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.08",
+    "day": "Sat",
+    "number": 850,
+    "index": "agyakuda",
+    "title": "Oh, it's the other way around.",
+    "expression-ja": "あ、(逆:ぎゃく)だ。",
+    "roman-ja": "A, gyaku da.",
+    "expression-en": "Oh, it's the other way around.",
+    "variants-ja": ["あ、(逆:ぎゃく)だ。", "あ、(反対:はんたい)だ。", "(逆:ぎゃく)、(逆:ぎゃく)。", "あ、こっちだ。"],
+    "variants-en": ["Oh, it's the other way around.", "Oh, it's backwards.", "No, the other way.", "Oh, this way."],
+    "intent-ja": ["向きや順序を間違えていることに気づいた瞬間に修正する表現", "操作中に誤りの種類をその場で特定する表現", "何が逆なのかを言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately correcting oneself upon noticing that the direction or order is reversed",
+      "expression identifying the type of error on the spot during an action",
+      "expression leaving what is reversed unspoken because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "自己訂正", "認識修正", "方向", "順序", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "self-correction", "revision of understanding", "direction", "order", "immediate reaction"],
+    "adjusted-expression-ja": "(向:む)きが(逆:ぎゃく)でした。",
+    "adjusted-expression-en": "It was the other way around.",
+    "img-sub": "agyakuda01.png",
+    "example-ja": "A「これをここに(差:さ)して...あ、(逆:ぎゃく)だ」 B「(反対向:はんたいむ)きだね」",
+    "example-en": "A: Put this in here... oh, it's the other way around. B: Yeah, turn it around.",
+    "notes-ja": "「あ、(逆:ぎゃく)だ。」は、物の向きや順序などを間違えていることに気づいた瞬間に、その場で自分の認識や行動を修正するときの表現です。「あ」は、話し手が誤りに気づき、認識が切り替わった瞬間を示します。「逆だ」は、単に誤りであることを示すだけでなく、その誤りが向き・方向・順序などの反転であることをその場で特定します。何が逆なのかは目の前の物や進行中の操作から分かるため、詳しく言う必要はありません。No.849「あ、違う。」が誤りに気づいて直前の判断や行動を取り消す一般的な自己訂正であるのに対し、「あ、逆だ。」は誤りの種類を「逆」と即座に特定します。例文では、物を差そうとして向きが反対であることに気づいた瞬間に「あ、逆だ」と言い、そのまま向きを直しています。",
+    "notes-en": "'A, gyaku da.' is an immediate expression used when speakers notice that the direction, orientation, or order of something is reversed and correct themselves on the spot. 'A' marks the moment of realization, signaling an immediate shift in the speaker's understanding. 'Gyaku da' does more than indicate that something is wrong: it identifies the error as a reversal of direction, orientation, or order. What exactly is reversed does not need to be stated because it is apparent from the object or action shared in the immediate situation. Unlike No.849, 'A, chigau,' which generally cancels the speaker's preceding judgment or action upon noticing an error, 'A, gyaku da' immediately identifies the specific type of error as a reversal. In the example, the speaker notices while trying to insert an object that it is facing the wrong way, says 'A, gyaku da,' and immediately corrects its orientation."
+  },
+  {
     "date": "2026.08.07",
     "day": "Fri",
     "number": 849,
