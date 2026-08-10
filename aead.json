@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.10",
+    "day": "Mon",
+    "number": 852,
+    "index": "koredehitoanshin",
+    "title": "That's a relief.",
+    "expression-ja": "これで(一安心:ひとあんしん)",
+    "roman-ja": "Kore de hitoanshin.",
+    "expression-en": "That's a relief.",
+    "variants-ja": ["これで(一安心:ひとあんしん)", "これで(安心:あんしん)", "(一安心:ひとあんしん)だね", "これで(安心:あんしん)できる。"],
+    "variants-en": ["That's a relief.", "Now that's a relief.", "That's reassuring.", "Now I can relax."],
+    "intent-ja": ["心配していたことが解決した直後に安心を表す表現", "直前の出来事によって懸念がひとまず解消したことを示す表現", "何によって安心できたのかを「これで」でその場の出来事に結びつける表現", "口語的な表現"],
+    "intent-en": [
+      "expression showing relief immediately after a source of worry has been resolved",
+      "expression indicating that a concern has, for the moment, been settled by what has just happened",
+      "expression using 'kore de' to link the speaker's relief directly to the immediately preceding event",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "安心", "心配の解消", "状態変化", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "relief", "resolution of concern", "change of state", "immediate reaction"],
+    "adjusted-expression-ja": "これで(心配:しんぱい)していたことがひとまず(解決:かいけつ)しました。",
+    "adjusted-expression-en": "The thing I was worried about has now been resolved for the moment.",
+    "img-sub": "koredehitoanshin01.png",
+    "example-ja": "A「(荷物:にもつ)、(無事:ぶじ)に(届:とど)いたって」 B「これで(一安心:ひとあんしん)」",
+    "example-en": "A: They said the package arrived safely. B: That's a relief.",
+    "notes-ja": "「これで一安心」は、心配していたことが解決したり、問題がひとまず安全な状態に移ったりした直後に、その場で安心を表す表現です。「これで」は直前に起きた出来事を指し、その出来事によって心配していた状態から安心できる状態へ変わったことを示します。「一安心」は、すべての問題が完全に終わったというより、少なくとも当面の心配が解消したことを表します。何が解決したのかは直前の状況から分かるため、詳しく言う必要はありません。例文では、心配していた荷物が無事に届いたことを知った瞬間に、「これで一安心」と反応しています。",
+    "notes-en": "'Kore de hitoanshin.' is an immediate expression used when something the speaker has been worried about is resolved or moves into a sufficiently safe state, allowing the speaker to feel relieved. 'Kore de' points to the event that has just occurred and marks it as the reason the speaker can now move from worry to relief. 'Hitoanshin' does not necessarily mean that every problem has been completely solved; rather, it indicates that at least the immediate concern has been settled for the time being. What has been resolved does not need to be stated explicitly because it is understood from the shared situation. In the example, the speaker learns that the package they were worried about has arrived safely and immediately responds, 'Kore de hitoanshin.'"
+  },
+  {
     "date": "2026.08.09",
     "day": "Sun",
     "number": 851,
@@ -8,46 +36,17 @@
     "expression-ja": "しれっと。",
     "roman-ja": "Shiretto.",
     "expression-en": "Acting as if nothing happened.",
-    "variants-ja": [
-      "しれっと。",
-      "しれっとしてるね。",
-      "しれっと(入:はい)ってきたね。",
-      "しれっと(座:すわ)ってる。"
-    ],
-    "variants-en": [
-      "Acting as if nothing happened.",
-      "You're acting like nothing happened.",
-      "You just slipped in like nothing happened.",
-      "You're just sitting there like nothing happened."
-    ],
-    "intent-ja": [
-      "何事もなかったかのように振る舞う相手をその場で評する表現",
-      "軽い図々しさや厚かましさを含んで相手の行動を指摘する表現",
-      "相手の自然な振る舞いの裏にある意図や状況を共有する表現",
-      "口語的な表現"
-    ],
+    "variants-ja": ["しれっと。", "しれっとしてるね。", "しれっと(入:はい)ってきたね。", "しれっと(座:すわ)ってる。"],
+    "variants-en": ["Acting as if nothing happened.", "You're acting like nothing happened.", "You just slipped in like nothing happened.", "You're just sitting there like nothing happened."],
+    "intent-ja": ["何事もなかったかのように振る舞う相手をその場で評する表現", "軽い図々しさや厚かましさを含んで相手の行動を指摘する表現", "相手の自然な振る舞いの裏にある意図や状況を共有する表現", "口語的な表現"],
     "intent-en": [
       "expression commenting immediately on someone acting as if nothing had happened",
       "expression pointing out another person's behavior with a nuance of mild boldness or cheekiness",
       "expression relying on the shared situation to reveal what the speaker believes is being glossed over",
       "colloquial expression"
     ],
-    "tags-ja": [
-      "即時文法",
-      "口語",
-      "人物評価",
-      "行動観察",
-      "軽い非難",
-      "即時反応"
-    ],
-    "tags-en": [
-      "immediate grammar",
-      "spoken",
-      "evaluation",
-      "behavior",
-      "mild criticism",
-      "immediate reaction"
-    ],
+    "tags-ja": ["即時文法", "口語", "人物評価", "行動観察", "軽い非難", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "evaluation", "behavior", "mild criticism", "immediate reaction"],
     "adjusted-expression-ja": "まるで(何事:なにごと)もなかったかのように(振:ふ)る(舞:ま)っています。",
     "adjusted-expression-en": "They are acting as if nothing had happened.",
     "img-sub": "shiretto01.png",
