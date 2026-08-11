@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.12",
+    "day": "Wed",
+    "number": 854,
+    "index": "atootta",
+    "title": "Oh, it went through.",
+    "expression-ja": "あ、(通:とお)った",
+    "roman-ja": "A, tootta.",
+    "expression-en": "Oh, it went through.",
+    "variants-ja": ["あ、(通:とお)った", "お、(通:とお)った", "(通:とお)った！", "よし、(通:とお)った"],
+    "variants-en": ["Oh, it went through.", "Hey, it went through.", "It went through!", "Yes, it went through."],
+    "intent-ja": ["認証や処理などが通過したと分かった瞬間に成功を表す表現", "何らかのチェックや条件を通過したことをその場で確認する表現", "何が何を通過したのかを言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately indicating success when an authentication, transaction, or other process is accepted",
+      "expression confirming on the spot that something has passed a check or condition",
+      "expression leaving what passed through what unstated because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "成功", "通過", "認証", "成功確認", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "success", "passing", "authentication", "confirmation of success", "immediate reaction"],
+    "adjusted-expression-ja": "(正常:せいじょう)に(処理:しょり)されました。",
+    "adjusted-expression-en": "It was processed successfully.",
+    "img-sub": "atootta01.png",
+    "example-ja": "A「もう(一回:いっかい)、(パスワード:ぱすわーど)(入:い)れてみて」 B「うん...あ、(通:とお)った」 A「よかった」",
+    "example-en": "A: Try entering the password one more time. B: Okay... oh, it went through. A: Good.",
+    "notes-ja": "「あ、通った」は、認証や決済、申請、通信など、何らかのチェックや条件を通過する必要があるものについて、それが受け入れられたと分かった瞬間に発する表現です。「あ」は、処理が成功したことに気づいた瞬間を示します。ここでの「通る」は、物や人が物理的な場所を通過するという意味ではなく、入力や要求などがチェックや条件を越えて受け入れられることを表します。何が何を通ったのかは進行中の操作や画面の表示などから分かるため、詳しく言う必要はありません。No.853「あ、いけた」が、できるかどうか分からなかった試行そのものの成功をその場で確認する表現であるのに対し、「あ、通った」は、認証や判定などの関門を通過したことに焦点を置きます。例文では、パスワードを入力し直し、認証されたことが画面から分かった瞬間に「あ、通った」と反応しています。",
+    "notes-en": "'A, tootta.' is an immediate expression used when speakers realize that something requiring acceptance or clearance, such as authentication, a payment, an application, or a communication process, has successfully gone through. 'A' marks the moment when the speaker notices that the process has succeeded. Here, 'tooru' does not refer to a person or object physically passing through a place. Instead, it describes an input, request, or process passing a check or condition and being accepted. What has passed and what it has passed through do not need to be stated because they are evident from the ongoing operation or the result shown on the screen. Unlike No.853, 'A, iketa,' which confirms that an uncertain attempt itself has worked, 'A, tootta' focuses on something having passed a check, condition, or other gate. In the example, the speaker enters the password again and says 'A, tootta' at the moment the screen shows that the authentication has succeeded."
+  },
+  {
     "date": "2026.08.11",
     "day": "Tue",
     "number": 853,
