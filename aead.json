@@ -61,10 +61,10 @@
     "number": 851,
     "index": "shiretto",
     "title": "Acting as if nothing happened.",
-    "expression-ja": "しれっと。",
+    "expression-ja": "しれっと",
     "roman-ja": "Shiretto.",
     "expression-en": "Acting as if nothing happened.",
-    "variants-ja": ["しれっと。", "しれっとしてるね。", "しれっと(入:はい)ってきたね。", "しれっと(座:すわ)ってる。"],
+    "variants-ja": ["しれっと", "しれっとしてるね", "しれっと(入:はい)ってきたね", "しれっと(座:すわ)ってる"],
     "variants-en": ["Acting as if nothing happened.", "You're acting like nothing happened.", "You just slipped in like nothing happened.", "You're just sitting there like nothing happened."],
     "intent-ja": ["何事もなかったかのように振る舞う相手をその場で評する表現", "軽い図々しさや厚かましさを含んで相手の行動を指摘する表現", "相手の自然な振る舞いの裏にある意図や状況を共有する表現", "口語的な表現"],
     "intent-en": [
@@ -78,9 +78,9 @@
     "adjusted-expression-ja": "まるで(何事:なにごと)もなかったかのように(振:ふ)る(舞:ま)っています。",
     "adjusted-expression-en": "They are acting as if nothing had happened.",
     "img-sub": "shiretto01.png",
-    "example-ja": "A「さっきあんなに(怒:おこ)られたのに、しれっと(戻:もど)ってきたね。」 B「ほんとだ。」",
+    "example-ja": "A「さっきあんなに(怒:おこ)られたのに、しれっと(戻:もど)ってきたね」 B「ほんとだ」",
     "example-en": "A: Even after getting scolded like that, they came back as if nothing had happened. B: They really did.",
-    "notes-ja": "「しれっと。」は、相手が何事もなかったかのように平然と振る舞っていることに、その場で気づいて評するときの表現です。単に自然に振る舞っているという意味ではなく、「よくそんな顔でできるね」という軽い図々しさや厚かましさを感じさせることが多いのが特徴です。行動そのものを隠す「こっそり」とは異なり、「しれっと」は見られていても平然としている様子を表します。何が問題だったのかは、その場の状況を共有しているため説明されません。",
+    "notes-ja": "「しれっと」は、相手が何事もなかったかのように平然と振る舞っていることに、その場で気づいて評するときの表現です。単に自然に振る舞っているという意味ではなく、「よくそんな顔でできるね」という軽い図々しさや厚かましさを感じさせることが多いのが特徴です。行動そのものを隠す「こっそり」とは異なり、「しれっと」は見られていても平然としている様子を表します。何が問題だったのかは、その場の状況を共有しているため説明されません。",
     "notes-en": "'Shiretto' is an immediate expression used when the speaker notices someone behaving as though nothing had happened. It does not simply mean 'naturally' or 'casually.' It often carries the nuance that the person is acting with mild cheekiness or audacity, as if the previous incident could simply be ignored. Unlike 'secretly,' which focuses on hiding an action, 'shiretto' describes behaving openly and calmly despite circumstances that would normally make such behavior awkward. What has been glossed over is left unstated because it is understood from the shared situation."
   },
   {
