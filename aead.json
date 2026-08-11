@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.11",
+    "day": "Tue",
+    "number": 853,
+    "index": "aiketa",
+    "title": "Oh, it worked.",
+    "expression-ja": "あ、いけた",
+    "roman-ja": "A, iketa.",
+    "expression-en": "Oh, it worked.",
+    "variants-ja": ["あ、いけた", "お、いけた", "いけた！", "よし、いけた"],
+    "variants-en": ["Oh, it worked.", "Hey, it worked.", "It worked!", "Yes, it worked."],
+    "intent-ja": ["試していたことがうまくいったと分かった瞬間に成功を表す表現", "できるかどうか分からなかった操作や方法の成功をその場で確認する表現", "何が成功したのかを言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately indicating success when something being tried turns out to work",
+      "expression confirming on the spot that an uncertain operation or method has succeeded",
+      "expression leaving what succeeded unspoken because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "成功", "試行", "成功確認", "状態変化", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "success", "attempt", "confirmation of success", "change of state", "immediate reaction"],
+    "adjusted-expression-ja": "うまくいきました。",
+    "adjusted-expression-en": "It worked.",
+    "img-sub": "aiketa01.png",
+    "example-ja": "A「もう(一回:いっかい)、やってみて」 B「うん...あ、いけた。」 A「よかった」",
+    "example-en": "A: Try it one more time. B: Okay... oh, it worked. A: Good.",
+    "notes-ja": "「あ、いけた。」は、できるかどうか分からなかった操作や方法を試し、それがうまくいったと分かった瞬間に発する表現です。「あ」は、試していたことの成功に気づいた瞬間を示します。ここでの「いける」は「どこかへ行くことができる」という意味ではなく、「その方法でうまくいく」「実行できる」という意味です。そのため、「いけた」は、単に何かを完成させたことを表す「できた」とは異なり、成功するかどうかがまだ分からない状態で試してみて、その結果として成功したことをその場で確認する場合によく使われます。何がうまくいったのかは進行中の操作や直前の試行から分かるため、詳しく言う必要はありません。例文では、うまくいかなかった操作をもう一度試し、今度は成功したことが分かった瞬間に「あ、いけた」と反応しています。",
+    "notes-en": "'A, iketa.' is an immediate expression used when speakers try an operation or method whose success is uncertain and realize at that moment that it has worked. 'A' marks the moment when the speaker notices the successful result. Here, 'ikeru' does not mean being able to go somewhere; it means that something can work, can be done, or is feasible in the situation. For this reason, 'iketa' differs from the more general 'dekita' (I did it / It's done). 'Iketa' is especially natural when the speaker first tries something without knowing whether it will work and then confirms its success from the result. What has worked does not need to be stated because it is evident from the ongoing action or immediately preceding attempt. In the example, the speaker tries an operation again after it previously failed and says 'A, iketa' at the moment they realize that it has now worked."
+  },
+  {
     "date": "2026.08.10",
     "day": "Mon",
     "number": 852,
