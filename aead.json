@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.14",
+    "day": "Fri",
+    "number": 856,
+    "index": "yattomodotta",
+    "title": "It's finally back.",
+    "expression-ja": "やっと(戻:もど)った",
+    "roman-ja": "Yatto modotta.",
+    "expression-en": "It's finally back.",
+    "variants-ja": ["やっと(戻:もど)った", "ああ、やっと(戻:もど)った", "(戻:もど)った", "やっと(元:もと)に(戻:もど)った"],
+    "variants-en": ["It's finally back.", "Yeah, it's finally back.", "It's back.", "It's finally back to normal."],
+    "intent-ja": ["一時的に失われていた状態や機能が回復したと分かった瞬間に復帰を表す表現", "しばらく続いていた不具合や中断が解消したことをその場で確認する表現", "何が戻ったのかを言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately indicating that a temporarily lost state or function has been restored",
+      "expression confirming on the spot that a problem or interruption lasting for some time has ended",
+      "expression leaving what has returned unstated because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "復帰", "回復", "復旧", "状態変化", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "return", "recovery", "restoration", "change of state", "immediate reaction"],
+    "adjusted-expression-ja": "(正常:せいじょう)な(状態:じょうたい)に(戻:もど)りました。",
+    "adjusted-expression-en": "It has returned to normal.",
+    "img-sub": "yattomodotta01.png",
+    "example-ja": "A「(ネット:ねっと)、どう？」 B「ああ、やっと(戻:もど)った」",
+    "example-en": "A: How's the internet? B: Yeah, it's finally back.",
+    "notes-ja": "「やっと戻った」は、一時的に使えなくなったものや失われていた状態が、しばらくして回復したと分かったときに発する表現です。「やっと」は、不具合や中断がある程度続いていたことを示し、「戻った」は、以前の正常な状態が回復したことを表します。何が戻ったのかは、その場の会話や状況から分かるため、詳しく言う必要はありません。「あ、いけた」や「あ、通った」が新たに処理や試行が成功したことを確認する表現であるのに対し、「やっと戻った」は、一度失われた状態や機能が復帰したことに焦点を置きます。例文では、ネット接続がしばらく不調だったあと、状態を尋ねられ、「ああ、やっと戻った」と答えています。",
+    "notes-en": "'Yatto modotta' is an immediate expression used when something that had temporarily stopped working or a state that had been lost is finally restored. 'Yatto' indicates that the disruption or problem continued for some time, while 'modotta' marks the return to the previous normal state. What has returned does not need to be stated because it is understood from the shared situation. Unlike expressions such as 'A, iketa' or 'A, tootta,' which confirm that a new attempt or process has succeeded, 'Yatto modotta' focuses on the restoration of a state or function that had once been lost. In the example, the internet connection has been unstable for some time, and when asked about it, the speaker replies, 'Yeah, it's finally back.'"
+  },
+  {
     "date": "2026.08.13",
     "day": "Thu",
     "number": 855,
@@ -10,36 +38,15 @@
     "expression-en": "I finally got it.",
     "variants-ja": ["やっと(取:と)れた", "やっと(取:と)れたよ", "やっと(取:と)れた！", "なんとか(取:と)れた"],
     "variants-en": ["I finally got it.", "Finally, I got it.", "I finally got one!", "I managed to get it."],
-    "intent-ja": [
-      "なかなか取れなかったものをようやく手に入れた瞬間に成功を表す表現",
-      "長く続いた試みが実を結んだことをその場で伝える表現",
-      "何を取ったのかを言わずに共有する表現",
-      "口語的な表現"
-    ],
+    "intent-ja": ["なかなか取れなかったものをようやく手に入れた瞬間に成功を表す表現", "長く続いた試みが実を結んだことをその場で伝える表現", "何を取ったのかを言わずに共有する表現", "口語的な表現"],
     "intent-en": [
       "expression immediately indicating success when something difficult to obtain has finally been obtained",
       "expression announcing on the spot that a long effort has finally paid off",
       "expression leaving what was obtained unstated because it is shared in the situation",
       "colloquial expression"
     ],
-    "tags-ja": [
-      "即時文法",
-      "口語",
-      "成功",
-      "達成",
-      "取得",
-      "安堵",
-      "即時反応"
-    ],
-    "tags-en": [
-      "immediate grammar",
-      "spoken",
-      "success",
-      "achievement",
-      "obtaining",
-      "relief",
-      "immediate reaction"
-    ],
+    "tags-ja": ["即時文法", "口語", "成功", "達成", "取得", "安堵", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "success", "achievement", "obtaining", "relief", "immediate reaction"],
     "adjusted-expression-ja": "ようやく(手:て)に(入:はい)りました。",
     "adjusted-expression-en": "I finally obtained it.",
     "img-sub": "yattotoreta01.png",
