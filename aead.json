@@ -1,5 +1,54 @@
 [
   {
+    "date": "2026.08.13",
+    "day": "Thu",
+    "number": 855,
+    "index": "yattotoreta",
+    "title": "I finally got it.",
+    "expression-ja": "やっと(取:と)れた",
+    "roman-ja": "Yatto toreta.",
+    "expression-en": "I finally got it.",
+    "variants-ja": ["やっと(取:と)れた", "やっと(取:と)れたよ", "やっと(取:と)れた！", "なんとか(取:と)れた"],
+    "variants-en": ["I finally got it.", "Finally, I got it.", "I finally got one!", "I managed to get it."],
+    "intent-ja": [
+      "なかなか取れなかったものをようやく手に入れた瞬間に成功を表す表現",
+      "長く続いた試みが実を結んだことをその場で伝える表現",
+      "何を取ったのかを言わずに共有する表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression immediately indicating success when something difficult to obtain has finally been obtained",
+      "expression announcing on the spot that a long effort has finally paid off",
+      "expression leaving what was obtained unstated because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "成功",
+      "達成",
+      "取得",
+      "安堵",
+      "即時反応"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "success",
+      "achievement",
+      "obtaining",
+      "relief",
+      "immediate reaction"
+    ],
+    "adjusted-expression-ja": "ようやく(手:て)に(入:はい)りました。",
+    "adjusted-expression-en": "I finally obtained it.",
+    "img-sub": "yattotoreta01.png",
+    "example-ja": "A「(チケット:ちけっと)は？」 B「ああ、やっと(取:と)れたよ」",
+    "example-en": "A: Did you get the tickets? B: Yeah, I finally got them.",
+    "notes-ja": "「やっと取れた」は、なかなか手に入らなかったものをようやく取得できたことが分かった瞬間に発する表現です。「やっと」は、それまで時間や努力が必要だったことを示し、「取れた」は、その努力の結果として取得が実現したことを表します。何を取ったのかは、その場の会話や状況から分かるため、詳しく言う必要はありません。No.853「あ、いけた」が試みそのものの成功を確認する表現であるのに対し、「やっと取れた。」は、長く続いた試行の末に目的のものを手に入れたことに焦点を置きます。例文では、入手が難しかったチケットを確保できたことを聞かれ、「やっと取れたよ」と安堵を込めて答えています。",
+    "notes-en": "'Yatto toreta.' is an immediate expression used when speakers finally obtain something that has been difficult to get. 'Yatto' indicates that the success came only after time, effort, or repeated attempts, while 'toreta' marks the moment the desired item has finally been secured. What was obtained does not need to be stated because it is understood from the shared situation. Unlike No.853, 'A, iketa,' which confirms that an uncertain attempt itself has succeeded, 'Yatto toreta.' focuses on finally obtaining the desired object after a prolonged effort. In the example, the speaker is asked about the tickets and replies with relief, 'Yeah, I finally got them.'"
+  },
+  {
     "date": "2026.08.12",
     "day": "Wed",
     "number": 854,
