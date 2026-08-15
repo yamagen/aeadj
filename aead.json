@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.15",
+    "day": "Sat",
+    "number": 857,
+    "index": "sorehanaidesho",
+    "title": "Come on, that's not fair.",
+    "expression-ja": "それはないでしょ",
+    "roman-ja": "Sore wa nai desho.",
+    "expression-en": "Come on, that's not fair.",
+    "variants-ja": ["それはないでしょ", "それはないよ", "いや、それはないでしょ", "さすがにそれはない"],
+    "variants-en": ["Come on, that's not fair.", "That's not fair.", "No, come on, that's not fair.", "That's going too far."],
+    "intent-ja": ["相手の言動や判断が受け入れにくいと感じた瞬間に軽い抗議や非難を表す表現", "相手の行為や判断が許容範囲を超えていることをその場で示す表現", "何が問題なのかを「それ」で直前の言動や状況に結びつける表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately showing mild protest or criticism when the speaker finds another person's words, behavior, or judgment unacceptable",
+      "expression indicating on the spot that someone's action or judgment goes beyond what the speaker considers reasonable",
+      "expression using 'sore' to refer to the immediately preceding behavior, statement, or situation without restating it",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "抗議", "軽い非難", "人物評価", "許容範囲", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "protest", "mild criticism", "evaluation", "acceptability", "immediate reaction"],
+    "adjusted-expression-ja": "それは(受:う)け(入:い)れられません。",
+    "adjusted-expression-en": "That is not acceptable.",
+    "img-sub": "sorehanaidesho01.png",
+    "example-ja": "A「この(ケーキ:けーき)、(半分:はんぶん)、もらうね」 B「それはないでしょ」",
+    "example-en": "A: I'm taking half of this cake. B: Come on, that's not fair.",
+    "notes-ja": "「それはないでしょ」は、相手の言動や判断を見聞きした瞬間に、「それはさすがに受け入れられない」と軽く抗議したり非難したりするときの表現です。ここでの「ない」は、単に何かが存在しないことを表すのではなく、相手の行為や判断が話し手の考える許容範囲から外れていることを示します。「それ」は直前の発言や目の前の行動を指すため、何が問題なのかを詳しく言う必要はありません。声の調子によって、親しい相手への冗談まじりの抗議にも、はっきりした非難にもなります。「さすがにそれはない」と言えば、許容できる限界を超えたという評価がより強くなります。例文では、みんなで分けるはずのケーキを一人で半分取ろうとする相手に、その場で「それはないでしょ」と抗議しています。",
+    "notes-en": "'Sore wa nai desho' is an immediate expression used when the speaker reacts to another person's words, behavior, or judgment as unreasonable or unacceptable. Here, 'nai' does not simply mean that something does not exist. Instead, it evaluates the preceding action or decision as falling outside what the speaker considers acceptable. 'Sore' points to what has just been said or done, so the speaker does not need to explain the problem in detail. Depending on tone, the expression can range from playful protest between close friends to clear criticism. The stronger variant 'sasuga ni sore wa nai' emphasizes that the behavior has crossed the speaker's limit of acceptability. In the example, one person tries to take half of a cake that is meant to be shared, and the other immediately protests, 'Come on, that's not fair.'"
+  },
+  {
     "date": "2026.08.14",
     "day": "Fri",
     "number": 856,
