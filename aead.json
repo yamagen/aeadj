@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.17",
+    "day": "Sun",
+    "number": 859,
+    "index": "amadadatta",
+    "title": "Oh, not yet.",
+    "expression-ja": "あ、まだだった",
+    "roman-ja": "A, mada datta.",
+    "expression-en": "Oh, not yet.",
+    "variants-ja": ["あ、まだだった", "あ、まだか", "まだだったか", "そうか、まだだった"],
+    "variants-en": ["Oh, not yet.", "Oh, not yet?", "So, not yet.", "Oh, right, not yet."],
+    "intent-ja": ["すでに済んでいると思っていたことがまだ済んでいないと気づいた瞬間に発する表現", "完了しているという認識をその場で未完了へ修正する表現", "何がまだなのかを言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately used when the speaker realizes that something assumed to be finished has not happened yet",
+      "expression revising an assumption of completion to non-completion on the spot",
+      "expression leaving what has not yet happened unspoken because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "未完了", "認識修正", "気づき", "状態確認", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "non-completion", "revision of understanding", "realization", "state confirmation", "immediate reaction"],
+    "adjusted-expression-ja": "まだ(済:す)んでいませんでした。",
+    "adjusted-expression-en": "It had not been completed yet.",
+    "img-sub": "amadadatta01.png",
+    "example-ja": "A「もう(送:おく)った？」 B「あ、まだだった」",
+    "example-en": "A: Did you send it already? B: Yeah... oh, not yet.",
+    "notes-ja": "「あ、まだだった」は、すでに済んでいると思っていたことが、実際にはまだ済んでいないと気づいた瞬間に発する表現です。「あ」は、それまでの認識と異なる事実に気づいた瞬間を示します。「まだ」は、期待されている出来事や状態が現時点まで実現していないことを表し、「だった」によって、話し手がそれまで持っていた認識をその場で見直しています。何がまだ済んでいないのかは、直前の会話や目の前の状況から分かるため、動詞を言わなくても「あ、まだだった」だけで反応が成立します。例文では、メールをすでに送ったと思って「うん」と答えたあと、画面を見て下書きのままであることに気づき、「あ、まだだった」と即座に自分の認識を修正しています。",
+    "notes-en": "'A, mada datta.' is an immediate expression used when speakers realize that something they assumed had already been completed has in fact not happened yet. 'A' marks the moment when the speaker notices a fact that conflicts with their previous understanding. 'Mada' indicates that an expected event or state has not been realized up to the present point, while 'datta' reflects the speaker's immediate revision of what they had assumed to be the case. What has not yet been completed does not need to be stated because it is understood from the preceding conversation or the shared situation. In the example, the speaker initially answers as if the email has already been sent, then looks at the screen, realizes that it is still in drafts, and immediately corrects that assumption with 'A, mada datta.'"
+  },
+  {
     "date": "2026.08.16",
     "day": "Sun",
     "number": 858,
