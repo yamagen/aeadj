@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026.08.20",
+    "day": "Thu",
+    "number": 862,
+    "index": "iyasokojanakute",
+    "title": "No, not that.",
+    "expression-ja": "いや、そこじゃなくて",
+    "roman-ja": "Iya, soko ja nakute.",
+    "expression-en": "No, not that.",
+    "variants-ja": ["いや、そこじゃなくて", "そこじゃなくて", "いや、そこじゃない", "(違:ちが)う、そこじゃなくて"],
+    "variants-en": ["No, not that.", "Not that.", "No, not there.", "No, that's not what I mean."],
+    "intent-ja": [
+      "相手が注目した点が自分の意図と違うことに気づいた瞬間に焦点を修正する表現",
+      "相手の理解全体を否定せず、ずれている部分だけをその場で指摘する表現",
+      "何を「そこ」と指しているのかを直前の発話や状況から共有する表現",
+      "後に正しい焦点や説明が続くことを示す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression immediately redirecting the focus when the listener has focused on a point different from what the speaker intended",
+      "expression correcting only the point that is off rather than rejecting the listener's entire understanding",
+      "expression leaving what 'soko' refers to unstated because it is shared through the immediately preceding utterance or situation",
+      "expression signaling that the intended point or an explanation will follow",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "焦点修正", "認識修正", "問い返しへの応答", "談話", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "focus correction", "revision of understanding", "response", "discourse", "immediate reaction"],
+    "adjusted-expression-ja": "そこではなく、(別:べつ)の(点:てん)について(言:い)っています。",
+    "adjusted-expression-en": "I am referring to a different point.",
+    "img-sub": "iyasokojanakute01.png",
+    "example-ja": "A「(文:ぶん)を(削:けず)るってこと？」 B「いや、そこじゃなくて、(見出:みだ)しのほう」",
+    "example-en": "A: You mean I should cut down the text? B: No, not that. I mean the heading.",
+    "notes-ja": "「いや、そこじゃなくて」は、相手が自分の発言を受けて注目した点が意図したところと違っていることに気づき、その場で焦点を修正するときの表現です。「いや」は直前の相手の理解を受けて修正に入ることを示し、「そこじゃなくて」は、相手の理解全体を否定するのではなく、焦点となっている部分が違うことを示します。ここでの「そこ」は物理的な場所とは限らず、直前の会話で相手が取り上げた論点や部分を指します。また、「なくて」で終わることで発話は完結せず、その後に本来注目してほしい点や説明が続くことが予告されます。何を「そこ」と指しているのかは直前の発話や共有された状況から分かるため、詳しく説明する必要はありません。例文では、Aが文章を削ることだと理解したのに対し、Bは「いや、そこじゃなくて」とその焦点だけを修正し、「見出しのほう」と本来の焦点を示しています。",
+    "notes-en": "'Iya, soko ja nakute' is an immediate expression used when speakers notice that the listener has focused on a point different from what they intended and redirect that focus on the spot. 'Iya' signals an immediate correction of the listener's preceding interpretation, while 'soko ja nakute' indicates that the problem lies specifically in the point being focused on rather than in the listener's entire understanding. Here, 'soko' does not necessarily refer to a physical location; it can refer to a point or part of the immediately preceding discussion. Ending with 'nakute' also leaves the utterance open and signals that the intended point or a further explanation will follow. What 'soko' refers to does not need to be stated explicitly because it is understood from the preceding utterance or shared situation. In the example, A assumes that the suggestion concerns shortening the text, and B immediately redirects the focus with 'Iya, soko ja nakute' before specifying that the heading is the intended point."
+  },
+  {
     "date": "2026.08.19",
     "day": "Wed",
     "number": 861,
