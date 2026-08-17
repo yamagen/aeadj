@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.18",
+    "day": "Tue",
+    "number": 860,
+    "index": "yoriniyotte",
+    "title": "Of all times, Friday afternoon?",
+    "expression-ja": "よりによって",
+    "roman-ja": "Yori ni yotte.",
+    "expression-en": "Of all times...",
+    "variants-ja": ["よりによって", "よりによって(今日:きょう)？", "よりによってそれ？", "なんでよりによって..."],
+    "variants-en": ["Of all times...", "Today, of all days?", "That, of all things?", "Why, of all things...?"],
+    "intent-ja": ["いくつも可能性がある中で特に都合の悪いものが選ばれたことへの不満や驚きを表す表現", "選択された日時や物事がよりにもよってそれであることをその場で評価する表現", "対象そのものではなく、その対象が選ばれたことに反応する表現", "口語的な表現"],
+    "intent-en": [
+      "expression showing surprise or dissatisfaction that an especially inconvenient option was chosen from among many possibilities",
+      "expression immediately evaluating the fact that this particular time, thing, or option was selected",
+      "expression reacting not simply to the item itself but to the fact that this item was the one chosen",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "不満", "驚き", "選択", "即時評価", "慣用表現"],
+    "tags-en": ["immediate grammar", "spoken", "dissatisfaction", "surprise", "selection", "immediate evaluation", "idiomatic expression"],
+    "adjusted-expression-ja": "ほかにも(選択肢:せんたくし)があるのに、なぜそれなのでしょうか。",
+    "adjusted-expression-en": "Why was that particular option chosen when there were other possibilities?",
+    "img-sub": "yoriniyotte01.png",
+    "example-ja": "A「(会議:かいぎ)、(金曜:きんよう)になったって」 B「よりによって(金曜:きんよう)の(午後:ごご)？」",
+    "example-en": "A: They moved the meeting to Friday. B: And Friday afternoon, of all times?",
+    "notes-ja": "「よりによって」は、いくつも可能性がある中で、特に都合が悪いもの、意外なもの、避けてほしかったものが選ばれたことに対して、不満や驚きを表す表現です。単に「金曜の午後」が都合が悪いと言うのではなく、「ほかにも選べたはずなのに、なぜその時間なのか」という評価が含まれます。そのため、「よりによって」の後ろには、話し手にとって特に問題のある日時・人・物・出来事などが置かれます。例文では、会議が金曜になったと聞いたあと、さらに金曜の午後だと知り、「それも、よりによって金曜の午後？」と反応しています。「それも」によって、金曜であることに加えて、午後であることまで都合が悪いという気持ちが強められています。",
+    "notes-en": "'Yori ni yotte' is used when speakers react with surprise or dissatisfaction because, out of several possible choices, an especially inconvenient, unexpected, or undesirable one has been selected. It does not simply mean that the chosen time or thing is inconvenient. It also carries the sense that other choices were available, so the speaker wonders why this particular one had to be selected. For this reason, 'yori ni yotte' is commonly followed by a time, person, object, or event that is especially problematic from the speaker's point of view. In the example, the speaker first learns that the meeting has been moved to Friday and then reacts even more strongly on hearing that it will be on Friday afternoon: 'And Friday afternoon, of all times?' The preceding 'sore mo' adds the sense that the second piece of information makes the situation even worse."
+  },
+  {
     "date": "2026.08.17",
     "day": "Mon",
     "number": 859,
