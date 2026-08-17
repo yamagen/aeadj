@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.19",
+    "day": "Wed",
+    "number": 861,
+    "index": "kotogakotodakeni",
+    "title": "Given the circumstances...",
+    "expression-ja": "(事:こと)が(事:こと)だけに",
+    "roman-ja": "Koto ga koto dake ni.",
+    "expression-en": "Given the circumstances...",
+    "variants-ja": ["(事:こと)が(事:こと)だけに", "(事:こと)が(事:こと)だし", "(事情:じじょう)が(事情:じじょう)だけに", "(内容:ないよう)が(内容:ないよう)だけに"],
+    "variants-en": ["Given the circumstances...", "Considering what this is about...", "Given the nature of the situation...", "Considering the nature of the matter..."],
+    "intent-ja": ["問題の性質や重大さを踏まえて判断する表現", "詳しく言わなくても共有されている事情が判断に影響することを示す表現", "通常とは異なる対応が必要である理由をその場で示す表現", "口語的な表現"],
+    "intent-en": [
+      "expression indicating that a decision should take account of the nature or seriousness of the matter",
+      "expression showing that shared circumstances affect the judgment without restating them in detail",
+      "expression immediately giving the nature of the matter as a reason for taking special action",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "事情", "重大性", "判断", "理由提示", "共有情報"],
+    "tags-en": ["immediate grammar", "spoken", "circumstances", "seriousness", "judgment", "giving a reason", "shared information"],
+    "adjusted-expression-ja": "(問題:もんだい)の(性質:せいしつ)や(重大:じゅうだい)さを(考慮:こうりょ)すると、",
+    "adjusted-expression-en": "Considering the nature and seriousness of the matter,",
+    "img-sub": "kotogakotodakeni01.png",
+    "example-ja": "A「どうする、(連絡:れんらく)する？」 B「うん、(事:こと)が(事:こと)だけに、すべきでしょう」",
+    "example-en": "A: What should we do? Should we contact them? B: Yeah, given the circumstances, I think we should.",
+    "notes-ja": "「(事:こと)が(事:こと)だけに」は、問題になっている事柄の性質や重大さを考えると、通常とは異なる慎重な判断や対応が必要だと示す表現です。最初の「事」と二つ目の「事」は同じ事柄を指していますが、「事が事」と繰り返すことで、その事柄が普通のことではなく、特別に考慮すべき性質を持っていることを示します。「だけに」は、その事情を後続する判断や行動の理由として提示します。重要なのは、何が重大なのかをこの表現の中では具体的に言わないことです。話し手と聞き手がすでに問題を共有しているため、「事が事だけに」だけで、その問題の性質や重大さを判断の根拠として呼び戻すことができます。例文では、連絡するべきかを相談している場面で、Bは問題の内容を繰り返さず、「事が事だけに」と共有されている事情を理由として示し、連絡すべきだと判断しています。",
+    "notes-en": "'Koto ga koto dake ni' is used when the nature or seriousness of a matter makes special consideration or action appropriate. The two occurrences of 'koto' refer to the same matter, but repeating the word in 'koto ga koto' signals that the matter is not an ordinary one and has some particular significance that must be taken into account. 'Dake ni' then presents that circumstance as the basis for the judgment or action that follows. Importantly, the speaker does not state exactly what makes the matter serious or unusual. Because the relevant situation is already shared by the speakers, 'koto ga koto dake ni' can call that shared knowledge back into the conversation and use it as a reason for what follows. In the example, A asks whether they should contact someone. Rather than repeating the details of the problem, B invokes the shared circumstances with 'koto ga koto dake ni' and concludes that they should make contact."
+  },
+  {
     "date": "2026.08.18",
     "day": "Tue",
     "number": 860,
