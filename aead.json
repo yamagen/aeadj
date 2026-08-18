@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026.08.21",
+    "day": "Fri",
+    "number": 863,
+    "index": "asoredeka",
+    "title": "Oh, that explains it.",
+    "expression-ja": "あ、それでか",
+    "roman-ja": "A, sore de ka.",
+    "expression-en": "Oh, that explains it.",
+    "variants-ja": ["あ、それでか", "それでか", "ああ、それでか", "なるほど、それでか"],
+    "variants-en": ["Oh, that explains it.", "That explains it.", "Ah, that explains it.", "I see, that explains it."],
+    "intent-ja": ["直前に得た情報によって、それまで不思議だったことの理由が分かった瞬間に納得を表す表現", "相手の説明を原因として受け、その場で因果関係を理解する表現", "何の理由が分かったのかを言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately showing understanding when newly received information explains something that had previously seemed puzzling",
+      "expression taking the listener's preceding information as the cause and recognizing the causal connection on the spot",
+      "expression leaving what has now been explained unstated because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "納得", "理由理解", "因果関係", "認識修正", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "realization", "understanding a reason", "causal relation", "revision of understanding", "immediate reaction"],
+    "adjusted-expression-ja": "それが(理由:りゆう)だったのですね。",
+    "adjusted-expression-en": "So that was the reason.",
+    "img-sub": "asoredeka01.png",
+    "example-ja": "A「あ、(閉:しま)ってる」 B「(今日:きょう)、(祝日:しゅくじつ)だからね」 A「あ、それでか」",
+    "example-en": "A: It's a holiday today. B: Oh, that explains it.",
+    "notes-ja": "「あ、それでか」は、直前に得た情報によって、それまで不思議に思っていたことや理由が分からなかったことの原因が分かった瞬間に発する表現です。「あ」は、新しい理解が成立した瞬間を示します。「それで」は、相手が直前に述べた内容を原因や理由として受け、「か」は、その因果関係に気づいて納得したことを表します。何について理由が分かったのかは、それまでの会話や共有された状況から分かるため、詳しく言う必要はありません。「ああ、そういうことか」のように説明内容全体を理解する表現に対し、「あ、それでか」は特に、直前の情報とそれまで疑問だった事柄との因果関係がつながったことに焦点を置きます。例文では、店や街の様子が普段と違う理由が分からなかったところに「今日は祝日だからね」と言われ、その理由が分かった瞬間に「あ、それでか」と反応しています。",
+    "notes-en": "'A, sore de ka' is an immediate expression used when newly received information suddenly explains something that had previously seemed puzzling or unexplained. 'A' marks the moment when the speaker reaches a new understanding. 'Sore de' takes the listener's immediately preceding statement as the cause or reason, while 'ka' marks the speaker's realization and acceptance of that causal connection. What has now been explained does not need to be stated because it is understood from the preceding conversation or shared situation. Unlike an expression such as 'Aa, sou iu koto ka,' which indicates understanding of an explanation more generally, 'A, sore de ka' specifically focuses on recognizing the causal connection between the newly given information and something that had previously been puzzling. In the example, the speaker learns that it is a holiday and immediately realizes that this explains why the situation is different from usual."
+  },
+
+  {
     "date": "2026.08.20",
     "day": "Thu",
     "number": 862,
