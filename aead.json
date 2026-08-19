@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.22",
+    "day": "Sat",
+    "number": 864,
+    "index": "sokomadehitsuyou",
+    "title": "Do we really need to go that far?",
+    "expression-ja": "そこまで(必要:ひつよう)？",
+    "roman-ja": "Soko made hitsuyou?",
+    "expression-en": "Do we really need to go that far?",
+    "variants-ja": ["そこまで(必要:ひつよう)？", "え、そこまで(必要:ひつよう)？", "そこまでする(必要:ひつよう)ある？", "そこまでやる？"],
+    "variants-en": ["Do we really need to go that far?", "Do we really need all that?", "Do we need to go that far?", "Are we really going that far?"],
+    "intent-ja": ["相手が提案した準備や対応の程度が本当に必要なのかをその場で問い返す表現", "行為や対応が必要以上ではないかという疑問を示す表現", "何をどこまで行うのかを詳しく言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately questioning whether the degree of preparation or action proposed by the listener is really necessary",
+      "expression suggesting that an action or response may go further than necessary",
+      "expression leaving the action and its extent unstated because they are shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "必要性", "程度", "問い返し", "過剰", "即時評価"],
+    "tags-en": ["immediate grammar", "spoken", "necessity", "degree", "questioning", "excess", "immediate evaluation"],
+    "adjusted-expression-ja": "そこまで(対応:たいおう)する(必要:ひつよう)がありますか？",
+    "adjusted-expression-en": "Is it necessary to go that far?",
+    "img-sub": "sokomadehitsuyou01.png",
+    "example-ja": "A「(資料:しりょう)は(紙:かみ)でも(用意:ようい)して、USBにも(入:い)れて、(念:ねん)のため(クラウド:くらうど)にも(二:に)か(所:しょ)(置:お)いておこう」 B「そこまで(必要:ひつよう)？」",
+    "example-en": "A: Let's print the materials, put them on a USB drive, and, just in case, keep copies in two places in the cloud too. B: Do we really need to go that far?",
+    "notes-ja": "「そこまで必要？」は、相手が提案した準備や対応を聞いて、その程度まで行う必要が本当にあるのかをその場で問い返す表現です。「そこ」は物理的な場所を指すのではなく、直前に示された行為や対応の程度を指します。「まで」によって、その程度が一つの到達点として捉えられ、「必要？」と続けることで、その到達点まで進む必要性を問題にします。そのため、単に「必要？」と尋ねる場合とは異なり、「少しやりすぎではないか」という話し手の評価を含むことがあります。何をどこまで行うのかは直前の発言から分かるため、「そこまで必要？」だけで反応が成立します。例文では、紙、USB、さらに複数のクラウド上のコピーまで用意するという提案を受けて、Bがその準備の程度に対して「そこまで必要？」と問い返しています。",
+    "notes-en": "'Soko made hitsuyou?' is an immediate expression used when speakers hear a proposed preparation or response and question whether it is really necessary to go to that extent. 'Soko' does not refer to a physical location here; it points to the degree of action or preparation just described. 'Made' presents that degree as an endpoint, and 'hitsuyou?' questions whether reaching that endpoint is necessary. Unlike simply asking 'Hitsuyou?' (Is it necessary?), the expression can imply that the speaker considers the proposed action somewhat excessive. The exact action and degree do not need to be repeated because they are already available from the preceding utterance. In the example, A proposes preparing paper copies, a USB copy, and copies in two cloud locations. B responds with 'Soko made hitsuyou?' to question whether that much preparation is really necessary."
+  },
+  {
     "date": "2026.08.21",
     "day": "Fri",
     "number": 863,
@@ -23,7 +51,7 @@
     "adjusted-expression-en": "So that was the reason.",
     "img-sub": "asoredeka01.png",
     "example-ja": "A「あ、(閉:しま)ってる」 B「(今日:きょう)、(祝日:しゅくじつ)だからね」 A「あ、それでか」",
-    "example-en": "A: It's a holiday today. B: Oh, that explains it.",
+    "example-en": "A: Oh, it's closed. B: Yeah, because it's a holiday today. A: Oh, that explains it.",
     "notes-ja": "「あ、それでか」は、直前に得た情報によって、それまで不思議に思っていたことや理由が分からなかったことの原因が分かった瞬間に発する表現です。「あ」は、新しい理解が成立した瞬間を示します。「それで」は、相手が直前に述べた内容を原因や理由として受け、「か」は、その因果関係に気づいて納得したことを表します。何について理由が分かったのかは、それまでの会話や共有された状況から分かるため、詳しく言う必要はありません。「ああ、そういうことか」のように説明内容全体を理解する表現に対し、「あ、それでか」は特に、直前の情報とそれまで疑問だった事柄との因果関係がつながったことに焦点を置きます。例文では、店や街の様子が普段と違う理由が分からなかったところに「今日は祝日だからね」と言われ、その理由が分かった瞬間に「あ、それでか」と反応しています。",
     "notes-en": "'A, sore de ka' is an immediate expression used when newly received information suddenly explains something that had previously seemed puzzling or unexplained. 'A' marks the moment when the speaker reaches a new understanding. 'Sore de' takes the listener's immediately preceding statement as the cause or reason, while 'ka' marks the speaker's realization and acceptance of that causal connection. What has now been explained does not need to be stated because it is understood from the preceding conversation or shared situation. Unlike an expression such as 'Aa, sou iu koto ka,' which indicates understanding of an explanation more generally, 'A, sore de ka' specifically focuses on recognizing the causal connection between the newly given information and something that had previously been puzzling. In the example, the speaker learns that it is a holiday and immediately realizes that this explains why the situation is different from usual."
   },
