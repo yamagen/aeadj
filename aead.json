@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.23",
+    "day": "Sun",
+    "number": 865,
+    "index": "sarukotonagara",
+    "title": "Quite apart from that, ...",
+    "expression-ja": "〜もさることながら",
+    "roman-ja": "... mo saru koto nagara.",
+    "expression-en": "Quite apart from that, ...",
+    "variants-ja": ["〜もさることながら", "それもさることながら", "(内容:ないよう)もさることながら、...", "(結果:けっか)もさることながら、..."],
+    "variants-en": ["Quite apart from that, ...", "That is important too, but ...", "The content is important, but ...", "The result is important, but ..."],
+    "intent-ja": ["すでに注目されている点を認めつつ、別の点にも評価を広げる表現", "前に挙げた事柄の重要性を否定せず、それに加えて別の事柄を取り上げる表現", "その場で評価軸を追加し、後続する事柄にも注意を向ける表現", "やや改まった表現"],
+    "intent-en": [
+      "expression acknowledging a point already under consideration while extending the evaluation to another point",
+      "expression introducing an additional matter without denying the importance of the preceding one",
+      "expression adding another dimension of evaluation and directing attention to what follows",
+      "somewhat formal expression"
+    ],
+    "tags-ja": ["即時文法", "評価", "追加評価", "話題展開", "比較", "接続表現", "やや改まった表現"],
+    "tags-en": ["immediate grammar", "evaluation", "additional evaluation", "topic development", "comparison", "connective expression", "somewhat formal"],
+    "adjusted-expression-ja": "(前:まえ)に(挙:あ)げた(点:てん)も(重要:じゅうよう)ですが、それに(加:くわ)えて(別:べつ)の(点:てん)も(重要:じゅうよう)です。",
+    "adjusted-expression-en": "The point already mentioned is important, but another point is also important.",
+    "img-sub": "sarukotonagara01.png",
+    "example-ja": "A「(閲覧数:えつらんすう)、かなり(増:ふ)えたね」 B「うん、(閲覧数:えつらんすう)もさることながら、(ダウンロード数:だうんろーどすう)も(増:ふ)えてる」",
+    "example-en": "A: The number of views has increased quite a bit. B: Yes, the increase in views is notable, but so is the rise in downloads.",
+    "notes-ja": "「〜もさることながら」は、すでに取り上げられている事柄の重要性や評価を認めたうえで、それとは別の事柄にも注意を向けるときに使う表現です。「さること」は、ここでは「そのようなこと」「もっともなこと」といった意味を持ち、「〜もさることながら」全体で、「それももちろん重要だが、それだけでなく」という働きをします。前に挙げた事柄を否定したり軽視したりするのではなく、その評価を保ったまま、後続する事柄にも評価を広げる点が特徴です。口語でも使われますが、「〜ももちろんそうだが」などに比べるとやや改まった表現です。例文では、閲覧数が増えたことを認めつつ、それに加えてダウンロード数も増えていることに注意を向けています。",
+    "notes-en": "'... mo saru koto nagara' is used when speakers acknowledge the importance or relevance of a point already under discussion and then extend attention to another point. Here, 'saru koto' has the sense of 'that being so' or 'that being important,' and the full expression functions roughly as 'that is important too, but not only that.' It does not reject or downplay the preceding point. Instead, it preserves that evaluation while adding another dimension for consideration. The expression can be used in speech, but it is somewhat more formal than alternatives such as '... mo mochiron sou da ga.' In the example, the speaker acknowledges the increase in views and then adds that the rise in downloads is also noteworthy."
+  },
+  {
     "date": "2026.08.22",
     "day": "Sat",
     "number": 864,
