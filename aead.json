@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.24",
+    "day": "Mon",
+    "number": 866,
+    "index": "sorehakiitenai",
+    "title": "Wait, I wasn't told that.",
+    "expression-ja": "それは(聞:き)いてない",
+    "roman-ja": "Sore wa kiitenai.",
+    "expression-en": "Wait, I wasn't told that.",
+    "variants-ja": ["それは(聞:き)いてない", "え、それは(聞:き)いてない", "それ、(聞:き)いてない", "そんなの(聞:き)いてない"],
+    "variants-en": ["Wait, I wasn't told that.", "Wait, I didn't hear about that.", "Nobody told me that.", "I wasn't told anything about that."],
+    "intent-ja": ["新しく示された重要な情報を、それまで知らされていなかったことにその場で反応する表現", "自分の想定を変える情報が後から提示されたことに軽い抗議を示す表現", "何を聞いていなかったのかを直前の発話から共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately reacting to important information that the speaker had not previously been told",
+      "expression showing mild protest when information that changes the speaker's assumptions is introduced only afterward",
+      "expression leaving what the speaker had not been told unstated because it is available from the immediately preceding utterance",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "新情報", "軽い抗議", "想定変更", "情報不足", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "new information", "mild protest", "change of assumptions", "lack of information", "immediate reaction"],
+    "adjusted-expression-ja": "そのことは(事前:じぜん)に(聞:き)いていませんでした。",
+    "adjusted-expression-en": "I had not been informed of that beforehand.",
+    "img-sub": "sorehakiitenai01.png",
+    "example-ja": "A「(明日:あした)の(打:う)ち(合:あ)わせ、9(時:じ)からね。(資料:しりょう)も(一人:ひとり)10(分:ぷん)ずつ(説明:せつめい)してもらうから」 B「え、それは(聞:き)いてない」",
+    "example-en": "A: Tomorrow's meeting starts at nine, and everyone will have ten minutes to explain their materials. B: Wait, I wasn't told that.",
+    "notes-ja": "「それは聞いてない」は、相手から新しく示された情報について、自分はそれまで知らされていなかったとその場で反応する表現です。ここでの「聞いてない」は、単に音として聞かなかったという意味ではなく、必要な情報として事前に伝えられていなかったことを示します。「それは」は、直前に相手が述べた情報を取り上げ、その情報が自分の想定や予定に影響する重要な内容であることを示します。そのため、「それは聞いてない」には、単なる情報不足の報告だけでなく、「それを今になって言われても困る」「それは先に知らせてほしかった」という軽い抗議が含まれることがあります。何を聞いていなかったのかは直前の発話から分かるため、詳しく繰り返す必要はありません。例文では、打ち合わせの開始時刻だけでなく、一人ずつ説明する必要があることを初めて知らされ、Bが「え、それは聞いてない」と即座に反応しています。",
+    "notes-en": "'Sore wa kiitenai.' is an immediate expression used when speakers react to newly presented information by indicating that they had not previously been told about it. Here, 'kiitenai' does not simply mean that the speaker failed to hear something acoustically. It means that the information had not been communicated to them beforehand as something they needed to know. 'Sore wa' picks up the information in the listener's immediately preceding utterance and marks it as significant because it affects the speaker's assumptions, plans, or expectations. For this reason, 'Sore wa kiitenai' can carry mild protest in addition to reporting a lack of information, suggesting something like, 'You should have told me that earlier.' What the speaker had not been told does not need to be repeated because it is clear from the preceding utterance. In the example, B learns for the first time that each person must give a ten-minute explanation at the meeting and immediately responds, 'Wait, I wasn't told that.'"
+  },
+  {
     "date": "2026.08.23",
     "day": "Sun",
     "number": 865,
