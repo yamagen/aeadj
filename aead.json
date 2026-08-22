@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.25",
+    "day": "Tue",
+    "number": 867,
+    "index": "imaittetesouomotta",
+    "title": "I just realized that as I was saying it.",
+    "expression-ja": "(今:いま)、(言:い)っててそう(思:おも)った",
+    "roman-ja": "Ima, ittete sou omotta.",
+    "expression-en": "I just realized that as I was saying it.",
+    "variants-ja": ["(今:いま)、(言:い)っててそう(思:おも)った", "(今:いま)、(言:い)いながらそう(思:おも)った", "(今:いま)、(言:い)ってて(気:き)づいた", "(言:い)ってて(思:おも)ったんだけど"],
+    "variants-en": ["I just realized that as I was saying it.", "I realized that while I was saying it.", "I just noticed that as I was saying it.", "I was just thinking that as I said it."],
+    "intent-ja": ["自分で話している途中に、自分の発話をきっかけとして新しい認識が生じたことを表す表現", "発話する前から考えていたことではなく、話している最中に気づいたことをその場で伝える表現", "「そう」で直前の自分自身の発話内容を受ける表現", "口語的な表現"],
+    "intent-en": [
+      "expression indicating that a new realization arose while the speaker was talking, triggered by their own utterance",
+      "expression conveying on the spot that the thought was not fully formed beforehand but emerged during speaking",
+      "expression using 'sou' to refer back to the speaker's own immediately preceding utterance",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "自己認識", "発話中の気づき", "認識形成", "自己参照", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "self-realization", "realization during speech", "formation of understanding", "self-reference", "immediate reaction"],
+    "adjusted-expression-ja": "(今:いま)、(話:はな)しているうちに、そのように(思:おも)いました。",
+    "adjusted-expression-en": "I came to think that while I was speaking.",
+    "img-sub": "imaittetesouomotta01.png",
+    "example-ja": "A「この(仕事:しごと)、(結局:けっきょく)ずっと(自分:じぶん)で(抱:かか)えてるんだよね...あ、(今:いま)、(言:い)っててそう(思:おも)った」 B「たしかに」",
+    "example-en": "A: I've basically been handling this work all by myself the whole time... oh, I just realized that as I was saying it. B: That's true.",
+    "notes-ja": "「今、言っててそう思った」は、自分で話している途中に、自分自身の発話をきっかけとして新しい認識が生じたことをその場で表す表現です。「今」は気づきがまさに発話中に起きたことを示し、「言ってて」は「言っていて」の口語的な形で、話す行為が続いている最中であることを表します。「そう」は直前に自分が述べた内容全体を受け、「思った」は、その内容について新たな認識が成立したことを示します。通常は、考えたことを話すという順序を想定しやすいですが、この表現では、話すこと自体がきっかけとなって考えが生まれています。何をそう思ったのかは直前の自分の発話から分かるため、繰り返して説明する必要はありません。例文では、自分が仕事を抱え込んでいることを話している途中で、その事実を自分自身でも改めて認識し、「今、言っててそう思った」と伝えています。",
+    "notes-en": "'Ima, ittete sou omotta' is an immediate expression used when speakers arrive at a new realization while they are talking, with their own utterance serving as the trigger for that realization. 'Ima' marks the fact that the realization has occurred at that very moment, while 'ittete,' a colloquial form of 'itte ite,' indicates that it arose during the ongoing act of speaking. 'Sou' refers back to the content of the speaker's own immediately preceding utterance, and 'omotta' marks the emergence of a new thought or understanding about that content. While we often assume that speakers first form a thought and then put it into words, this expression captures the reverse process: speaking itself leads to realization. What the speaker has come to think does not need to be repeated because it is recoverable from the immediately preceding utterance. In the example, the speaker talks about having carried the work alone and, in the course of saying it, realizes this more clearly and comments on that realization immediately."
+  },
+  {
     "date": "2026.08.24",
     "day": "Mon",
     "number": 866,
