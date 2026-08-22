@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.26",
+    "day": "Wed",
+    "number": 868,
+    "index": "dokokaratewotsukeru",
+    "title": "Where do we start?",
+    "expression-ja": "どこから(手:て)をつける？",
+    "roman-ja": "Doko kara te o tsukeru?",
+    "expression-en": "Where do we start?",
+    "variants-ja": ["どこから(手:て)をつける？", "(何:なに)から(手:て)をつける？", "まず、どこから？", "どこからやる？"],
+    "variants-en": ["Where do we start?", "What do we start with?", "Where do we begin?", "What should we tackle first?"],
+    "intent-ja": ["やるべきことが複数ある状況で最初に何から始めるかをその場で相談する表現", "作業や問題処理の着手点を決める表現", "全体を細かく説明せず共有されている課題の中から最初の一手を選ぶ表現", "口語的な表現"],
+    "intent-en": [
+      "expression used to decide on the spot what to begin with when there are several things to do",
+      "expression for choosing the first point of action in a task or problem-solving process",
+      "expression selecting a first step from a shared set of tasks without restating the whole situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "着手", "作業開始", "優先順位", "問題処理", "相談"],
+    "tags-en": ["immediate grammar", "spoken", "getting started", "task initiation", "prioritization", "problem solving", "consultation"],
+    "adjusted-expression-ja": "まず、どの(作業:さぎょう)から(始:はじ)めますか？",
+    "adjusted-expression-en": "Which task should we begin with first?",
+    "img-sub": "dokokaratewotsukeru01.png",
+    "example-ja": "A「(修正:しゅうせい)するところ、かなり(多:おお)いね」 B「うん、どこから(手:て)をつける？」",
+    "example-en": "A: There are quite a lot of things to fix. B: Yeah. Where do we start?",
+    "notes-ja": "「どこから手をつける？」は、やるべきことや処理すべき問題が複数ある状況で、最初に何から始めるかをその場で相談するときの表現です。ここでの「手をつける」は、実際に手で触れることではなく、仕事や課題、問題などに着手することを表す慣用表現です。また、「どこから」は物理的な場所を尋ねているのではなく、複数ある作業や問題の中のどの部分を最初の着手点にするかを尋ねています。何に取り組む必要があるのかは直前の会話や目の前の状況から共有されているため、詳しく言い直さなくても「どこから手をつける？」だけで相談を始めることができます。例文では、修正箇所が多いことを確認したあと、Bが作業の優先順位を決めるために「どこから手をつける？」と問いかけています。",
+    "notes-en": "'Doko kara te o tsukeru?' is used when there are several tasks or problems to deal with and the speakers need to decide on the spot what to begin with. Here, 'te o tsukeru' does not literally mean to put one's hand on something; it is an idiomatic expression meaning to start working on a task, issue, or problem. 'Doko kara' likewise does not ask about a physical location. It asks which part of the shared set of tasks should be chosen as the first point of action. Because the relevant work or problem is already understood from the preceding conversation or immediate situation, the speaker does not need to restate it. In the example, after confirming that there are many things to revise, B asks 'Doko kara te o tsukeru?' in order to decide what to tackle first."
+  },
+  {
     "date": "2026.08.25",
     "day": "Tue",
     "number": 867,
