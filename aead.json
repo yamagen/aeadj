@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.27",
+    "day": "Thu",
+    "number": 869,
+    "index": "asousou",
+    "title": "Oh, right!",
+    "expression-ja": "あ、そうそう",
+    "roman-ja": "A, sou sou.",
+    "expression-en": "Oh, right!",
+    "variants-ja": ["あ、そうそう", "そうそう", "ああ、そうそう", "そうだ、そうだ"],
+    "variants-en": ["Oh, right!", "Right, right.", "Oh yeah, that's right.", "Oh, that's right."],
+    "intent-ja": ["相手の発言や目の前の出来事をきっかけに関連することを思い出した瞬間に発する表現", "思い出した内容をその場で会話に戻す表現", "直前の話題を受けながら関連する話題へ移る表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately used when something the listener says or something in the situation triggers a related memory",
+      "expression bringing something just remembered back into the conversation on the spot",
+      "expression taking up the preceding topic while shifting to something related",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "想起", "記憶喚起", "話題回収", "話題転換", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "recollection", "memory retrieval", "topic retrieval", "topic shift", "immediate reaction"],
+    "adjusted-expression-ja": "ああ、そうでした。それについて(思:おも)い(出:だ)しました。",
+    "adjusted-expression-en": "Oh, that's right. I just remembered something about that.",
+    "img-sub": "asousou01.png",
+    "example-ja": "A「(明日:あした)の(会議:かいぎ)、(資料:しりょう)も(持:も)ってきてね」 B「あ、そうそう。それ、(聞:き)こうと(思:おも)ってた」",
+    "example-en": "A: Bring the materials to tomorrow's meeting too. B: Oh, right! I was going to ask you about that.",
+    "notes-ja": "「あ、そうそう」は、相手の発言や目の前の出来事をきっかけに、関連することを思い出した瞬間に発する表現です。「あ」は、記憶が戻った瞬間の気づきを示します。「そうそう」は、直前の話題を受けながら、「それに関連して思い出したことがある」という形で会話を続けます。単なる同意の「そうそう」と異なり、「あ、そうそう」では、忘れていたことやまだ言っていなかったことがその場で想起され、次の発話につながることがよくあります。そのため、会話の途中で関連する話題を回収したり、別の用件を思い出して切り出したりするときに使われます。例文では、明日の会議について話している途中で、Bがその話題に関連して以前から聞こうと思っていたことを思い出し、「あ、そうそう」と言ってから質問につなげています。",
+    "notes-en": "'A, sou sou.' is an immediate expression used when something the listener says or something in the situation suddenly triggers a related memory. 'A' marks the moment of recollection, while 'sou sou' takes up the preceding topic and signals that the speaker has just remembered something connected with it. Unlike 'sou sou' used simply to show agreement, 'A, sou sou' often introduces something the speaker had forgotten to mention or had been meaning to bring up. It therefore works as a conversational device for retrieving a related topic and moving directly into the next utterance. In the example, while talking about the next day's meeting, B suddenly remembers something they had intended to ask and says 'A, sou sou' before bringing it up."
+  },
+  {
     "date": "2026.08.26",
     "day": "Wed",
     "number": 868,
