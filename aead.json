@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.30",
+    "day": "Sun",
+    "number": 872,
+    "index": "maasounaruyone",
+    "title": "Yeah, that makes sense.",
+    "expression-ja": "まあ、そうなるよね",
+    "roman-ja": "Maa, sou naru yo ne.",
+    "expression-en": "Yeah, that makes sense.",
+    "variants-ja": ["まあ、そうなるよね", "そうなるよね", "やっぱり、そうなるよね", "そりゃ、そうなるよね"],
+    "variants-en": ["Yeah, that makes sense.", "That makes sense.", "Yeah, that's what you'd expect.", "Well, of course that's what happens."],
+    "intent-ja": ["知らされた結果を受けて、それが予想できる成り行きだったとその場で評価する表現", "結果に驚くのではなく、そうなることの自然さや当然さを受け入れる表現", "「そう」で直前に示された結果や状況を受け、その帰結を共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately evaluating a reported result as a predictable outcome",
+      "expression accepting the result as a natural or understandable consequence rather than reacting with surprise",
+      "expression using 'sou' to refer to the immediately preceding result or situation and treating it as an expected consequence",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "結果評価", "予想", "受容", "当然視", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "evaluation of outcome", "expectation", "acceptance", "predictability", "immediate reaction"],
+    "adjusted-expression-ja": "そのような(結果:けっか)になるのは(自然:しぜん)だと(思:おも)います。",
+    "adjusted-expression-en": "I think that is a natural outcome.",
+    "img-sub": "maasounaruyone01.png",
+    "example-ja": "A「やっぱり、(今日:きょう)は(中止:ちゅうし)だって」 B「まあ、そうなるよね」",
+    "example-en": "A: They said it's canceled today after all. B: Yeah, that makes sense.",
+    "notes-ja": "「まあ、そうなるよね」は、知らされた結果を受けて、それが予想できる自然な成り行きだったとその場で評価するときの表現です。「まあ」は、結果を大きく驚かずに受け入れる態度を示し、「そう」は直前に示された状況や結果を受けます。「なる」は、その結果に至る成り行きを表し、「よね」は、その見方を相手とも共有できるものとして示します。そのため、単に結果を確認するのではなく、「事情を考えれば、そういう結果になるのは分かる」という評価が含まれます。「やっぱり、そうなるよね」と言えば予想との一致がより強くなり、「そりゃ、そうなるよね」と言えば当然だという評価がより前面に出ます。例文では、中止になったと知らされた結果を受けて、状況から考えれば予想できることだったとして「まあ、そうなるよね」と反応しています。",
+    "notes-en": "'Maa, sou naru yo ne' is an immediate expression used when speakers receive a result and evaluate it as a natural or predictable outcome. 'Maa' signals a relatively calm acceptance rather than strong surprise, while 'sou' refers to the situation or result just mentioned. 'Naru' presents that result as something reached through the course of events, and 'yo ne' presents the evaluation as something the listener can also recognize or share. The expression therefore does more than acknowledge what happened; it conveys the sense that, given the circumstances, this is the kind of result one would expect. The variant 'yappari, sou naru yo ne' emphasizes that the outcome matches an earlier expectation, while 'sorya, sou naru yo ne' places more emphasis on the outcome being unsurprising or inevitable. In the example, the speaker hears that an event has been canceled and immediately accepts that result as understandable under the circumstances."
+  },
+  {
     "date": "2026.08.29",
     "day": "Sat",
     "number": 871,
