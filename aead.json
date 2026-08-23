@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.29",
+    "day": "Sat",
+    "number": 871,
+    "index": "ukaukashiterarenai",
+    "title": "We can't afford to sit around.",
+    "expression-ja": "うかうかしてられない",
+    "roman-ja": "Ukauka shiterarenai.",
+    "expression-en": "We can't afford to sit around.",
+    "variants-ja": ["うかうかしてられない", "うかうかしていられない", "のんびりしてられない", "(急:いそ)がないと"],
+    "variants-en": ["We can't afford to sit around.", "We can't waste any time.", "We can't just take it easy.", "We'd better hurry."],
+    "intent-ja": ["状況が切迫していると分かった瞬間に、のんびりしている余裕がないことを表す表現", "新しく分かった期限や状況を受けて行動を急ぐ必要があると判断する表現", "何を急ぐ必要があるのかを詳しく言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately indicating that there is no longer time to remain idle or relaxed when the situation becomes urgent",
+      "expression responding to a newly recognized deadline or situation by judging that action must be taken quickly",
+      "expression leaving what needs to be done unstated because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "切迫", "行動開始", "時間制約", "状況判断", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "urgency", "taking action", "time constraint", "situational judgment", "immediate reaction"],
+    "adjusted-expression-ja": "のんびりしている(時間:じかん)はありません。",
+    "adjusted-expression-en": "There is no time to remain idle.",
+    "img-sub": "ukaukashiterarenai01.png",
+    "example-ja": "A「(締切:しめきり)、(今週:こんしゅう)の(金曜:きんよう)だって」 B「え、もうそんなに(近:ちか)いの？ うかうかしてられないね」",
+    "example-en": "A: The deadline is this Friday. B: What, it's that soon? We can't afford to sit around.",
+    "notes-ja": "「うかうかしてられない」は、期限が迫っていることや状況が切迫していることに気づき、のんびりしたままではいられないとその場で判断するときの表現です。「うかうかする」は、ぼんやりしたり、油断したり、何もしないまま時間を過ごしたりすることを表します。「してられない」は「していられない」の口語形で、その状態を続ける余裕がないことを示します。そのため、「うかうかしてられない」は単に注意が必要だという意味ではなく、「もう行動を始めなければならない」という切迫した状況判断を表します。何を急いでしなければならないのかは直前の会話や共有された状況から分かるため、具体的な行動を言わなくてもこの表現だけで反応が成立します。例文では、締切が予想より近いと知った瞬間に、Bが「うかうかしてられないね」と反応し、行動を急ぐ必要があると判断しています。",
+    "notes-en": "'Ukauka shiterarenai.' is an immediate expression used when speakers realize that a deadline is approaching or that a situation has become urgent and conclude that they can no longer remain relaxed or inactive. 'Ukauka suru' describes spending time inattentively, carelessly, or without taking necessary action. 'Shiterarenai' is the colloquial form of 'shite irarenai' and indicates that the speaker can no longer afford to remain in that state. The expression therefore does more than warn against carelessness; it marks a shift from recognizing the situation to deciding that action must begin. What needs to be done does not have to be stated because it is already understood from the preceding conversation or shared situation. In the example, B learns that the deadline is much closer than expected and immediately responds, 'Ukauka shiterarenai ne,' indicating that there is no longer time to sit around."
+  },
+  {
     "date": "2026.08.28",
     "day": "Fri",
     "number": 870,
