@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.28",
+    "day": "Fri",
+    "number": 870,
+    "index": "sonouchiwakaru",
+    "title": "You'll understand in time.",
+    "expression-ja": "そのうち、わかる",
+    "roman-ja": "Sono uchi, wakaru.",
+    "expression-en": "You'll understand in time.",
+    "variants-ja": ["そのうち、わかる", "そのうち、わかるよ", "(今:いま)はわからなくても、そのうち、わかる", "まあ、そのうち、わかる"],
+    "variants-en": ["You'll understand in time.", "You'll get it eventually.", "Even if you don't understand now, you will in time.", "Well, you'll understand eventually."],
+    "intent-ja": ["相手が今は理解できていないことについて、時間がたてば理解できるようになると伝える表現", "今この場で詳しく説明せず、理解を将来に預ける表現", "相手の疑問や焦りをやわらげながら、説明をいったん保留する表現", "口語的な表現"],
+    "intent-en": [
+      "expression telling the listener that something not understood now will become understandable with time",
+      "expression postponing full explanation and leaving understanding to a future point",
+      "expression softening the listener's uncertainty or impatience while temporarily withholding further explanation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "説明保留", "将来理解", "予告", "慰め", "時間", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "withholding explanation", "future understanding", "prediction", "reassurance", "time", "immediate reaction"],
+    "adjusted-expression-ja": "(今:いま)は(理解:りかい)できなくても、(時間:じかん)がたてば(理解:りかい)できるようになります。",
+    "adjusted-expression-en": "Even if you do not understand it now, you will understand it with time.",
+    "img-sub": "sonouchiwakaru01.png",
+    "example-ja": "A「どうして？」 B「まあ、(急:いそ)ぐな。そのうち、わかる」",
+    "example-en": "A: Why? B: Don't rush. You'll understand in time.",
+    "notes-ja": "「そのうち、わかる」は、相手が今は理解できていないことについて、時間がたてば自然に理解できるようになると伝える表現です。「そのうち」は、具体的な時点を示さず、近い将来か遠い将来かも明確にしないまま、時間の経過によって状況が変わることを示します。「わかる」は、話し手が今ここで説明して理解させるというより、相手自身が後になって理解に至ることを表します。そのため、この表現は相手の疑問に対する答えになっている一方で、詳しい説明をその場では行わず、理解を将来に預ける働きもあります。声の調子によって、やさしい慰めにも、少し含みを持たせた予告にもなります。例文では、「どうして？」と理由を求める相手に対して、今すぐ詳しく説明せず、「そのうち、わかる」と将来の理解を予告しています。",
+    "notes-en": "'Sono uchi, wakaru' is used when speakers tell someone that something they do not understand now will become clear with time. 'Sono uchi' does not specify an exact future point; instead, it leaves the timing open and suggests that the situation or the listener's understanding will change as time passes. 'Wakaru' indicates that the listener will eventually come to understand, rather than that the speaker will necessarily explain everything immediately. For this reason, the expression can both respond to a question and temporarily withhold further explanation, leaving understanding to the future. Depending on tone, it can sound reassuring, patient, or slightly suggestive of something that will become clear later. In the example, when asked 'Why?', the speaker does not give a full explanation but says, 'You'll understand in time.'"
+  },
+  {
     "date": "2026.08.27",
     "day": "Thu",
     "number": 869,
