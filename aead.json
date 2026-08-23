@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.08.31",
+    "day": "Mon",
+    "number": 873,
+    "index": "chottoshitakotodakedo",
+    "title": "It's just a small thing, but...",
+    "expression-ja": "ちょっとしたことだけど",
+    "roman-ja": "Chotto shita koto da kedo.",
+    "expression-en": "It's just a small thing, but...",
+    "variants-ja": ["ちょっとしたことだけど", "ちょっとしたことなんだけど", "(大:たい)したことじゃないんだけど", "(細:こま)かいことだけど"],
+    "variants-en": ["It's just a small thing, but...", "It's just a minor thing, but...", "It's nothing major, but...", "It's a small detail, but..."],
+    "intent-ja": ["これから述べる内容を大きな問題としてではなく、小さなこととして提示する表現", "相手に指摘や意見を述べる前に、その内容の重さをやわらげる表現", "後続する発話への受け取り方をあらかじめ調整する表現", "口語的な表現"],
+    "intent-en": [
+      "expression presenting what follows as a relatively minor matter rather than a major problem",
+      "expression softening a comment or criticism before stating it",
+      "expression adjusting how the listener is expected to receive the following utterance",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "前置き", "緩和", "評価調整", "指摘", "発話予告"],
+    "tags-en": ["immediate grammar", "spoken", "preface", "softening", "evaluation adjustment", "comment", "preface to utterance"],
+    "adjusted-expression-ja": "(大:おお)きな(問題:もんだい)ではありませんが、(少:すこ)し(気:き)になることがあります。",
+    "adjusted-expression-en": "It is not a major issue, but there is something small that concerns me.",
+    "img-sub": "chottoshitakotodakedo01.png",
+    "example-ja": "A「どうしたの？」 B「ちょっとしたことだけど、ここが(少:すこ)し(気:き)になって」",
+    "example-en": "A: What's wrong? B: It's just a small thing, but this part bothered me a little.",
+    "notes-ja": "「ちょっとしたことだけど」は、これから述べる内容を大きな問題としてではなく、小さなこととして提示するときの表現です。「ちょっとした」は、単に程度が少ないという意味ではなく、「大したことではない」「ささいな」という評価を表します。「だけど」で終えることで、発話は完結せず、その後に具体的な指摘や意見が続くことを予告します。この表現を先に置くことで、話し手は後続する内容の重要度をあらかじめ低く設定し、相手が過度に深刻に受け取らないように調整できます。特に、細かな指摘や軽い不満を伝えるときに使われやすく、直接的な批判をやわらげる働きがあります。例文では、気になる点を述べる前に「ちょっとしたことだけど」と置くことで、その指摘が重大な問題ではないことを示しています。",
+    "notes-en": "'Chotto shita koto da kedo' is used when speakers present what they are about to say as a relatively minor matter rather than a serious problem. 'Chotto shita' does not simply indicate a small degree; it evaluates something as minor, trivial, or not especially serious. Ending with 'da kedo' leaves the utterance open and signals that a specific comment or observation will follow. By using this expression first, speakers lower the perceived weight of what comes next and help prevent the listener from taking the comment too seriously. It is especially useful before making a small criticism, observation, or complaint, where it serves to soften the force of the following utterance. In the example, the speaker says 'It's just a small thing, but...' before mentioning a detail that bothered them, signaling that the issue is not a major one."
+  },
+  {
     "date": "2026.08.30",
     "day": "Sun",
     "number": 872,
