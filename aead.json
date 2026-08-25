@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026.09.03",
+    "day": "Thu",
+    "number": 876,
+    "index": "imanouchini",
+    "title": "While we still can.",
+    "expression-ja": "(今:いま)のうちに",
+    "roman-ja": "Ima no uchi ni.",
+    "expression-en": "While we still can.",
+    "variants-ja": ["(今:いま)のうちに", "(今:いま)のうちにやっておこう", "まだ(大丈夫:だいじょうぶ)なうちに", "できるうちに"],
+    "variants-en": ["While we still can.", "Let's do it while we still can.", "While we still have the chance.", "While it's still possible."],
+    "intent-ja": ["現在の好条件が失われる前に行動することをその場で判断する表現", "今ならまだ可能だが後では難しくなるという状況を踏まえて行動を促す表現", "将来の状況変化を明示せず現在の機会を利用することを示す表現", "口語的な表現"],
+    "intent-en": [
+      "expression indicating an immediate decision to act before favorable current conditions disappear",
+      "expression prompting action on the understanding that something is possible now but may become difficult later",
+      "expression making use of the present opportunity without explicitly stating the expected future change",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "機会", "時間制約", "状況判断", "行動開始", "先取り"],
+    "tags-en": ["immediate grammar", "spoken", "opportunity", "time constraint", "situational judgment", "taking action", "acting in advance"],
+    "adjusted-expression-ja": "(状況:じょうきょう)が(変:か)わる(前:まえ)に、(今:いま)できることをしておきましょう。",
+    "adjusted-expression-en": "Let's do what we can now before the situation changes.",
+    "img-sub": "imanouchini01.png",
+    "example-ja": "A「(夕方:ゆうがた)から(雨:あめ)だって」 B「じゃ、(今:いま)のうちに(買:か)い(物:もの)(行:い)ってこよう」",
+    "example-en": "A: They say it's going to rain this evening. B: Then I'll go shopping now, while I still can.",
+    "notes-ja": "「(今:いま)のうちに」は、現在はまだ可能であったり都合がよかったりすることが、まもなく難しくなると予想されるときに、その変化が起こる前に行動しようとする表現です。ここでの「今」は単なる現在時刻を表すだけではなく、現在成立している機会や好条件を指します。「うちに」は、その状態が続いている時間の範囲内で行動することを示します。そのため、「今のうちに」には、「今ならできるが、あとではできないかもしれない」という将来の変化が暗黙に含まれています。何が変化するのかを詳しく言わなくても、直前の会話や目の前の状況から分かるため、「今のうちに」だけで行動開始の判断を示すことができます。例文では、夕方から雨になると聞いたBが、まだ雨の降っていない現在の時間を機会として捉え、「今のうちに買い物行ってこよう」とその場で行動を決めています。",
+    "notes-en": "'Ima no uchi ni' is used when speakers recognize that something is still possible or convenient at the present moment but may soon become difficult, and decide to act before that change occurs. 'Ima' here does more than identify the present time; it points to a currently available opportunity or favorable condition. 'Uchi ni' indicates acting within the period during which that condition still holds. The expression therefore implicitly contains an expected future change: something can be done now, but it may no longer be possible later. The speaker does not need to state explicitly what will change because it is understood from the preceding conversation or immediate situation. In the example, B hears that it will rain in the evening, treats the current dry period as a temporary opportunity, and immediately decides to go shopping 'ima no uchi ni' before the weather changes."
+  },
+  {
+    "date": "2026.09.02",
+    "day": "Wed",
+    "number": 875,
+    "index": "sokomadeiunara",
+    "title": "If you insist.",
+    "expression-ja": "そこまで(言:い)うなら",
+    "roman-ja": "Soko made iu nara.",
+    "expression-en": "If you insist.",
+    "variants-ja": ["そこまで(言:い)うなら", "そこまで(言:い)うならね", "そこまで(言:い)うんだったら", "そこまで(言:い)うなら、やってみる"],
+    "variants-en": ["If you insist.", "Well, if you insist.", "If you feel that strongly about it.", "If you insist, I'll give it a try."],
+    "intent-ja": [
+      "相手が強く勧めたり主張したりするのを受けて、その強さを自分の判断変更の条件にする表現",
+      "それまで消極的だった態度を、相手の熱意を理由にその場で変える表現",
+      "相手の発言の強さを「そこまで」で受け、それを「なら」で条件化する表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression treating the strength of the listener's recommendation or insistence as a condition for changing the speaker's decision",
+      "expression immediately shifting from reluctance to acceptance because of the listener's strong encouragement",
+      "expression using 'soko made' to refer to the strength of the preceding insistence and 'nara' to turn it into a condition",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "条件", "譲歩", "受容", "判断変更", "相手の熱意", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "condition", "concession", "acceptance", "change of decision", "insistence", "immediate reaction"],
+    "adjusted-expression-ja": "そこまで(強:つよ)くおっしゃるのであれば、(考:かんが)えを(変:か)えます。",
+    "adjusted-expression-en": "If you feel that strongly about it, I will reconsider.",
+    "img-sub": "sokomadeiunara01.png",
+    "example-ja": "A「ほんとにいいから、(一度:いちど)だけ(見:み)てみてよ」 B「そこまで(言:い)うなら、(見:み)てみるよ」",
+    "example-en": "A: It's really good, so just give it a try. B: If you insist, I'll check it out.",
+    "notes-ja": "「そこまで言うなら」は、相手が強く勧めたり主張したりするのを受けて、その発言の強さを理由に自分の判断や行動を変えるときの表現です。「そこまで」は物理的な距離ではなく、相手がどの程度強く言っているか、その発言や熱意の程度を指します。「なら」は、その強さを条件として受け、「そこまで強く言うのであれば」という意味を作ります。そのため、この表現は相手の発言に抗議するのではなく、相手の熱意を認めて、それまでの消極的な態度から受容や行動へ移る働きを持ちます。No.236「そこまで言う？」が、相手の発言を言いすぎとして受け止め、軽い抗議や傷つきを表すのに対し、「そこまで言うなら」は、その発言の強さを自分の次の判断の条件として利用します。例文では、最初は乗り気ではなかった相手が強く勧められたことを受け、「そこまで言うなら」と態度を変えて見てみることにしています。",
+    "notes-en": "'Soko made iu nara' is used when speakers respond to strong encouragement or insistence by treating the strength of the listener's words as a reason to change their own decision or action. 'Soko made' does not refer to physical distance here; it refers to how strongly or persistently the listener has expressed a recommendation or opinion. 'Nara' turns that degree of insistence into a condition, roughly meaning 'if you feel that strongly about it.' The expression therefore does not protest against what the listener has said. Instead, it acknowledges the listener's insistence and marks a shift from reluctance toward acceptance or action. Unlike No.236, 'Soko made iu?', which reacts to someone's words as going too far and expresses mild protest or hurt, 'Soko made iu nara' uses the strength of those words as a condition for the speaker's next decision. In the example, the speaker changes from reluctance to willingness after being strongly encouraged and says, 'If you insist, I'll check it out.'"
+  },
+  {
     "date": "2026.09.01",
     "day": "Tue",
     "number": 874,
