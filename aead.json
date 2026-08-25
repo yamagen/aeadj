@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.09.01",
+    "day": "Tue",
+    "number": 874,
+    "index": "sorenarahanashihahayai",
+    "title": "That makes things easier.",
+    "expression-ja": "それなら、(話:はなし)は(早:はや)い",
+    "roman-ja": "Sore nara, hanashi wa hayai.",
+    "expression-en": "That makes things easier.",
+    "variants-ja": ["それなら、(話:はなし)は(早:はや)い", "じゃあ、(話:はなし)は(早:はや)い", "だったら、(話:はなし)は(早:はや)い", "それなら、(話:はなし)が(早:はや)い"],
+    "variants-en": ["That makes things easier.", "Well, that simplifies things.", "If that's the case, this will be easy.", "That makes this much simpler."],
+    "intent-ja": [
+      "直前に得た情報によって、これからの説明や相談を簡単に進められると分かった瞬間に使う表現",
+      "相手の発言を条件として受け、その条件が成立するなら話を早く進められると判断する表現",
+      "それまで必要だと思っていた説明や手続きの一部を省けることをその場で示す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when newly received information immediately makes the speaker realize that the following explanation or discussion can proceed more easily",
+      "expression taking the listener's preceding statement as a condition and judging that, if it holds, matters can move forward quickly",
+      "expression indicating on the spot that some explanation, discussion, or procedure previously thought necessary can now be shortened or skipped",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "条件", "状況判断", "説明省略", "進行", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "condition", "situational judgment", "shortening explanation", "progress", "immediate reaction"],
+    "adjusted-expression-ja": "それでしたら、(説明:せつめい)や(相談:そうだん)を(簡単:かんたん)に(進:すす)めることができます。",
+    "adjusted-expression-en": "If that is the case, we can proceed with the discussion more easily.",
+    "img-sub": "sorenarahanashihahayai01.png",
+    "example-ja": "A「(田中:たなか)さんも、このこと(知:し)ってるよ」 B「あ、それなら、(話:はなし)は(早:はや)い」",
+    "example-en": "A: Tanaka already knows about this too. B: Oh, that makes things easier.",
+    "notes-ja": "「それなら、話は早い」は、直前に得た情報によって、それまで必要だと思っていた説明や相談などを簡単に進められると分かった瞬間に使う表現です。「それなら」は、相手が直前に述べた内容を条件として受け、「その条件が成立するのであれば」という意味を表します。「話は早い」は、単に会話の速度が速いという意味ではなく、事情の説明、相談、交渉などを途中の段階を省いて進められることを表します。そのため、この表現には、直前の情報を受けて状況を判断し、その結果として今後のやり取りが簡単になると即座に見通す働きがあります。例文では、田中さんにも一から事情を説明する必要があると思っていたところ、すでに知っていると聞き、その情報を受けて「あ、それなら、話は早い」と判断しています。",
+    "notes-en": "'Sore nara, hanashi wa hayai' is used when newly received information makes speakers realize that an explanation, discussion, negotiation, or other interaction can now proceed more easily than expected. 'Sore nara' takes the listener's immediately preceding statement as a condition, with the sense of 'if that is the case.' 'Hanashi wa hayai' does not literally mean that the conversation itself is fast. Rather, it indicates that some intermediate explanation, discussion, or procedure can be shortened or skipped, allowing matters to move forward more directly. The expression therefore involves an immediate shift from receiving information to evaluating its practical consequence for what happens next. In the example, the speaker had assumed that Tanaka would need to be informed from the beginning, but on learning that Tanaka already knows about the matter, immediately responds, 'Oh, that makes things easier.'"
+  },
+  {
     "date": "2026.08.31",
     "day": "Mon",
     "number": 873,
