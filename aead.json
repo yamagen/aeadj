@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026.09.05",
+    "day": "Sat",
+    "number": 878,
+    "index": "soredokorojanai",
+    "title": "I don't have time for that now.",
+    "expression-ja": "それどころじゃない",
+    "roman-ja": "Sore dokoro ja nai.",
+    "expression-en": "I don't have time for that now.",
+    "variants-ja": ["それどころじゃない", "(今:いま)はそれどころじゃない", "それどころじゃなくなった", "そんな(場合:ばあい)じゃない"],
+    "variants-en": ["I don't have time for that now.", "That's the least of my concerns right now.", "I've got bigger things to worry about.", "This is no time for that."],
+    "intent-ja": [
+      "より差し迫った問題が生じたため、直前の話題に関わっている余裕がないことを表す表現",
+      "新しい事情によって行動や関心の優先順位がその場で変わったことを示す表現",
+      "何を優先すべきなのかを詳しく言わずに、直前の話題をいったん外す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression indicating that a more urgent problem leaves no room to deal with the matter just mentioned",
+      "expression showing an immediate shift in priorities because of newly recognized circumstances",
+      "expression setting aside the preceding topic without explicitly stating what now takes priority",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "優先順位", "切迫", "話題排除", "状況変化", "即時判断"],
+    "tags-en": ["immediate grammar", "spoken", "priority", "urgency", "setting aside a topic", "change of situation", "immediate judgment"],
+    "adjusted-expression-ja": "(今:いま)は、もっと(優先:ゆうせん)して(対応:たいおう)すべきことがあります。",
+    "adjusted-expression-en": "There is something more urgent that needs to be dealt with now.",
+    "img-sub": "soredokorojanai01.png",
+    "example-ja": "A「(今日:きょう)、(帰:かえ)りに(映画:えいが)(行:い)く？」 B「(レポート:れぽーと)、(明日:あした)までだった。それどころじゃない」",
+    "example-en": "A: Want to go see a movie on the way home today? B: My report's due tomorrow. I don't have time for that now.",
+    "notes-ja": "「それどころじゃない」は、直前に話題になったことよりも差し迫った問題や優先すべきことが生じ、その話題に関わっている余裕がないとその場で判断するときの表現です。「それ」は直前の発言や提案を受けます。「どころじゃない」は、そのことを考えたり行ったりできる状況ではないことを示します。そのため、単に「それはしない」と断るのではなく、別の事情によって優先順位が変わり、直前の話題が現在の行動対象から外れたことを表します。何を優先する必要があるのかは、直前の会話やその場の状況から分かるため、詳しく説明しなくても「それどころじゃない」だけで反応が成立します。例文では、映画に行くことを提案された直後に、レポートの締切が翌日だったことを思い出し、「それどころじゃない」と即座に優先順位を切り替えています。",
+    "notes-en": "'Sore dokoro ja nai' is used when speakers realize that a more urgent problem or priority leaves no room to deal with the matter that has just been mentioned. 'Sore' picks up the preceding suggestion or topic, while 'dokoro ja nai' indicates that the speaker is not in a situation where they can reasonably think about or engage in it. The expression therefore does more than simply reject a suggestion. It marks an immediate change in priorities caused by another circumstance, pushing the preceding topic out of the speaker's current range of action. What now takes priority does not always need to be stated explicitly because it is often clear from the preceding conversation or immediate situation. In the example, B is invited to go see a movie but suddenly remembers that a report is due the next day and immediately responds, 'Sore dokoro ja nai,' shifting attention to the more urgent task."
+  },
+  {
+    "date": "2026.09.04",
+    "day": "Fri",
+    "number": 877,
+    "index": "aasouiukotone",
+    "title": "Oh, I see. That makes sense.",
+    "expression-ja": "ああ、そういうことね",
+    "roman-ja": "Aa, sou iu koto ne.",
+    "expression-en": "Oh, I see. That makes sense.",
+    "variants-ja": ["ああ、そういうことね", "あ、そういうことね", "なるほど、そういうことね", "ああ、そういうことね、わかった"],
+    "variants-en": ["Oh, I see. That makes sense.", "Oh, I see.", "I see, that makes sense.", "Oh, I see. Got it."],
+    "intent-ja": [
+      "一見すると不可解だった出来事について説明を受け、その事情なら理解できるとその場で受け入れる表現",
+      "新しい説明によって、予想外だった出来事を自然なものとして再評価する表現",
+      "「そういうこと」で直前に示された事情全体をまとめ、「ね」でその理解や受容を相手と共有する表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when an initially puzzling event becomes understandable after an explanation is given",
+      "expression immediately reevaluating an unexpected event as reasonable or unsurprising in light of new information",
+      "expression using 'sou iu koto' to summarize the preceding explanation and 'ne' to share the resulting understanding and acceptance with the listener",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "理解", "受容", "再評価", "事情理解", "終助詞", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "understanding", "acceptance", "reevaluation", "understanding circumstances", "sentence-final particle", "immediate reaction"],
+    "adjusted-expression-ja": "そのような(事情:じじょう)だったのですね。それなら(理解:りかい)できます。",
+    "adjusted-expression-en": "So that was the situation. That makes sense.",
+    "img-sub": "aasouiukotone01.png",
+    "example-ja": "A「あの(人:ひと)、(昨日:きのう)(急:きゅう)に(帰:かえ)っちゃったんだよ」 B「え、なんで？」 A「(子:こ)どもが(熱:ねつ)(出:だ)したって(連絡:れんらく)があったんだって」 B「ああ、そういうことね」",
+    "example-en": "A: They suddenly went home yesterday. B: Why? A: Apparently they got a call saying their child had a fever. B: Oh, I see. That makes sense.",
+    "notes-ja": "「ああ、そういうことね」は、一見すると不可解だった出来事について事情を聞き、その説明を受けることで、「そういう事情なら理解できる」とその場で受け入れる表現です。「ああ」は、説明によって認識が切り替わった瞬間を示します。「そういうこと」は、直前に示された事情や説明全体をひとまとまりの内容として受けます。文末の「ね」は、その理解を単に自分の中で成立させるだけでなく、相手と共有しながら受け入れる働きを持ちます。そのため、No.108「ああ、そういうことか！」が、説明によって謎や疑問が解けたという発見や納得を強く表すのに対し、「ああ、そういうことね」は、説明を聞いた結果、予想外だった出来事を自然で理解可能なものとして再評価することに重点があります。「か」と「ね」は形の上では小さな違いですが、前者が発見・納得に、後者が理解の共有・受容に重心を置く点で、会話上の機能は大きく異なります。例文では、突然帰ったという一見不可解な行動が、子どもの発熱という事情を聞くことで理解可能になり、「ああ、そういうことね」と受け入れています。",
+    "notes-en": "'Aa, sou iu koto ne' is used when speakers hear an explanation for something that initially seemed puzzling and immediately accept the event as understandable in light of those circumstances. 'Aa' marks the moment when the speaker's understanding shifts as a result of the explanation. 'Sou iu koto' packages the preceding explanation or circumstances as a single understandable account, while the final particle 'ne' presents that understanding as something shared with the listener and accepted conversationally. This differs from No.108, 'Aa, sou iu koto ka!', which places stronger emphasis on discovery and realization when a puzzle or question is resolved. 'Aa, sou iu koto ne' instead emphasizes accepting and normalizing an unexpected event once its circumstances become clear. Although the difference between final 'ka' and 'ne' is formally small, their discourse functions are markedly different: 'ka' foregrounds realization, while 'ne' foregrounds shared understanding and acceptance. In the example, the person's sudden departure initially seems puzzling, but once the speaker hears that the person's child had a fever, the event becomes understandable and the speaker responds, 'Oh, I see. That makes sense.'"
+  },
+  {
     "date": "2026.09.03",
     "day": "Thu",
     "number": 876,
