@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026.09.07",
+    "day": "Mon",
+    "number": 880,
+    "index": "soumoitterarenai",
+    "title": "I can't really afford to say that.",
+    "expression-ja": "そうも(言:い)ってられない",
+    "roman-ja": "Sou mo itterarenai.",
+    "expression-en": "I can't really afford to say that.",
+    "variants-ja": ["そうも(言:い)ってられない", "そうも(言:い)っていられない", "そんなこと(言:い)ってられない", "そうしたいんだけどね"],
+    "variants-en": ["I can't really afford to say that.", "I can't keep saying that.", "I can't really take that position now.", "I'd like to, but I can't."],
+    "intent-ja": [
+      "本来はそうしたい、そう考えたいと思っていても、現実の事情からその立場を維持できないことを表す表現",
+      "直前の発言や考えを「そう」で受け、そのままではいられないとその場で判断する表現",
+      "新しい条件や切迫した事情によって方針を変更する必要があることを示す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression indicating that the speaker would prefer to maintain a certain view or course of action but circumstances no longer allow it",
+      "expression taking up a preceding statement or idea with 'sou' and immediately judging that it cannot be maintained",
+      "expression showing that newly recognized conditions or urgent circumstances require a change of course",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "方針変更", "状況判断", "切迫", "留保", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "change of course", "situational judgment", "urgency", "reservation", "immediate reaction"],
+    "adjusted-expression-ja": "そうしたいところですが、(状況:じょうきょう)を(考:かんが)えると、そのままではいられません。",
+    "adjusted-expression-en": "I would prefer to do that, but the circumstances do not allow me to maintain that position.",
+    "img-sub": "soumoitterarenai01.png",
+    "example-ja": "A「(今日:きょう)はもう(休:やす)んだら？」 B「そうしたいけど、(明日:あした)が(締切:しめきり)だから、そうも(言:い)ってられないんだよね」",
+    "example-en": "A: Why don't you call it a day? B: I'd like to, but the deadline is tomorrow, so I can't really afford to say that.",
+    "notes-ja": "「そうも言ってられない」は、本来は直前に述べられた考えや方針を受け入れたいと思っていても、現実の事情によってその立場を維持できないとその場で判断するときの表現です。「そう」は、直前の発言や考えをまとめて受けます。「言ってられない」は「言っていられない」の口語形ですが、ここでの「言う」は単に発話することだけを意味しません。その考えを口にしたまま、その立場を維持している余裕がないことを表します。そのため、「そうも言ってられない」は、「本当はそうしたい」という気持ちを残しながらも、状況に応じて別の行動や判断へ移る必要があることを示します。例文では、休むこと自体には賛成しながらも、締切が翌日であるため、その考えをそのまま採用できないと判断して「そうも言ってられないんだよね」と反応しています。",
+    "notes-en": "'Sou mo itterarenai' is used when speakers would prefer to accept or maintain a preceding idea or course of action but immediately judge that circumstances no longer allow them to do so. 'Sou' takes up the preceding statement or idea as a whole. 'Itterarenai' is the colloquial form of 'itte irarenai,' but 'iu' here does not simply refer to the physical act of speaking. It indicates that the speaker cannot afford to continue holding or expressing that position under the present circumstances. The expression therefore preserves the sense that the speaker would ideally like to follow the preceding suggestion while also marking a necessary shift toward a different action or judgment. In the example, B agrees in principle that resting would be preferable, but because the deadline is the next day, B concludes that this is no longer a position they can realistically maintain."
+  },
+  {
+    "date": "2026.09.06",
+    "day": "Sun",
+    "number": 879,
+    "index": "asorenarawakaru",
+    "title": "Oh, that makes sense.",
+    "expression-ja": "あ、それならわかる",
+    "roman-ja": "A, sore nara wakaru.",
+    "expression-en": "Oh, that makes sense.",
+    "variants-ja": ["あ、それならわかる", "ああ、それならわかる", "それならわかるよ", "それなら(納得:なっとく)"],
+    "variants-en": ["Oh, that makes sense.", "Ah, that makes sense.", "Then I can understand.", "That makes sense."],
+    "intent-ja": [
+      "一見すると理解しにくかった行動や出来事について、新しい事情を聞いて理解できるものとしてその場で評価し直す表現",
+      "直前に示された事情を条件として受け、その条件なら相手の行動や判断を理解できると表す表現",
+      "新しい情報によって、それまで理解できなかったことが理解可能になったことを示す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression immediately reevaluating a previously puzzling action or event as understandable after receiving new information",
+      "expression taking the circumstances just mentioned as a condition and indicating that the action or decision makes sense under that condition",
+      "expression showing that new information has made something previously difficult to understand understandable",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "理解", "条件", "再評価", "事情理解", "評価変更", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "understanding", "condition", "reevaluation", "understanding circumstances", "change of evaluation", "immediate reaction"],
+    "adjusted-expression-ja": "そのような(事情:じじょう)であれば、その(行動:こうどう)は(理解:りかい)できます。",
+    "adjusted-expression-en": "Under those circumstances, the action is understandable.",
+    "img-sub": "asorenarawakaru01.png",
+    "example-ja": "A「(田中:たなか)さん、(今日:きょう)の(会議:かいぎ)、(来:こ)ないんだって」 B「え、なんで？」 A「(昨日:きのう)から(熱:ねつ)があるらしいよ」 B「あ、それならわかる」",
+    "example-en": "A: Apparently Tanaka isn't coming to today's meeting. B: Why not? A: I heard he's had a fever since yesterday. B: Oh, that makes sense.",
+    "notes-ja": "「あ、それならわかる」は、一見すると理解しにくかった行動や出来事について新しい事情を聞き、その事情であれば理解できるとその場で評価し直す表現です。「あ」は、新しい情報によって認識が切り替わった瞬間を示します。「それなら」は、直前に示された事情を受けて、「そのような事情であれば」という条件を作ります。ここでの「わかる」は、相手の説明の言葉や意味を単に理解したということではなく、その条件のもとであれば、問題となっていた行動や判断が理解可能であることを表します。そのため、この表現には、理解しにくいという最初の評価が、新しい情報を受けて理解できるという評価へ変化する過程が含まれています。No.877「ああ、そういうことね」が、説明によって事情全体を理解し、出来事を自然なものとして受け入れることに重点を置くのに対し、「あ、それならわかる」は、新しく得た事情を「それなら」で条件化し、その条件のもとで行動や判断を理解可能なものとして評価し直すことに重点があります。例文では、田中さんが会議に来ないことを最初は不思議に思っていますが、熱があるという事情を聞いたことで、「その事情なら欠席するのも理解できる」と判断を変えています。",
+    "notes-en": "'A, sore nara wakaru' is used when speakers receive new information about an action or event that initially seemed difficult to understand and immediately reevaluate it as understandable under the newly stated circumstances. 'A' marks the moment when the speaker's understanding shifts in response to the new information. 'Sore nara' takes the circumstances just mentioned and turns them into a condition, roughly meaning 'if that is the case' or 'under those circumstances.' 'Wakaru' here does not simply mean that the speaker understands the words or explanation. Rather, it indicates that the action or decision in question now makes sense given the stated condition. The expression therefore captures a change from an initial evaluation of something as puzzling to a new evaluation of it as understandable. Unlike No.877, 'Aa, sou iu koto ne,' which focuses on understanding the circumstances as a whole and accepting an initially puzzling event as natural, 'A, sore nara wakaru' explicitly turns the newly received information into a condition with 'sore nara' and reevaluates the action or decision as understandable under that condition. In the example, Tanaka's absence initially seems puzzling, but after hearing that he has had a fever, the speaker changes their evaluation and responds, 'Oh, that makes sense.'"
+  },
+  {
     "date": "2026.09.05",
     "day": "Sat",
     "number": 878,
