@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.09.08",
+    "day": "Tue",
+    "number": 881,
+    "index": "asorenaraiindakedo",
+    "title": "Oh, then that's fine.",
+    "expression-ja": "あ、それならいいんだけど",
+    "roman-ja": "A, sore nara ii n da kedo.",
+    "expression-en": "Oh, then that's fine.",
+    "variants-ja": ["あ、それならいいんだけど", "それならいいんだけど", "ああ、それならいいんだけど", "まあ、それならいいんだけど"],
+    "variants-en": ["Oh, then that's fine.", "Then that's fine.", "Ah, okay, then that's fine.", "Well, if that's the case, that's fine."],
+    "intent-ja": ["心配していたことについて説明を受け、その事情なら問題ないとその場で評価し直す表現", "直前に示された事情を条件として受け、懸念をひとまず解消する表現", "問題ないと受け入れながらも、「けど」で少し含みや留保を残す表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately reevaluating a previously concerning situation as acceptable after hearing an explanation",
+      "expression taking the circumstances just mentioned as a condition and temporarily resolving the speaker's concern",
+      "expression accepting the situation as fine while leaving a slight nuance of reservation or unfinished concern with 'kedo'",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "安心", "受容", "条件", "再評価", "留保", "未完結発話", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "relief", "acceptance", "condition", "reevaluation", "reservation", "unfinished utterance", "immediate reaction"],
+    "adjusted-expression-ja": "そのような(事情:じじょう)であれば、(問題:もんだい)ありません。",
+    "adjusted-expression-en": "If that is the case, there is no problem.",
+    "img-sub": "asorenaraiindakedo01.png",
+    "example-ja": "A「(明日:あした)の(資料:しりょう)、まだ(送:おく)ってないの？」 B「うん。でも、(明日:あした)の(朝:あさ)でいいって(言:い)われてるから」 A「あ、それならいいんだけど」",
+    "example-en": "A: You haven't sent tomorrow's materials yet? B: No, but they told me tomorrow morning is fine. A: Oh, then that's fine.",
+    "notes-ja": "「あ、それならいいんだけど」は、心配していたことについて相手から説明を受け、その事情であれば問題ないとその場で評価し直す表現です。「あ」は、新しい情報によって認識が切り替わった瞬間を示します。「それなら」は、直前に示された事情を受けて、「そのような事情であれば」という条件を作ります。「いい」は、その条件のもとでは問題がないと評価することを表します。一方、文末の「んだけど」は、本来なら後に逆接的な内容が続く形ですが、この表現では後続内容を明示せずに発話を終えることができます。そのため、単純に「それならいい」と言い切るよりも、安心しながらも少し含みや留保を残す響きになります。「そうできればいいんだけど」が、望ましい状態の実現可能性に留保を置く表現であるのに対し、「あ、それならいいんだけど」は、すでに得た説明を受けて現在の懸念をひとまず解消する表現です。例文では、資料がまだ送られていないことを心配していた話し手が、翌朝でよいと聞き、その事情なら問題ないとして「あ、それならいいんだけど」と受け入れています。",
+    "notes-en": "'A, sore nara ii n da kedo' is an immediate expression used when speakers receive an explanation about something they had been concerned about and reevaluate the situation as acceptable under the newly stated circumstances. 'A' marks the moment when the speaker's understanding shifts in response to the new information. 'Sore nara' takes the circumstances just mentioned and turns them into a condition, roughly meaning 'if that is the case.' 'Ii' evaluates the situation as acceptable under that condition. The final 'n da kedo' is especially important. Although 'kedo' normally introduces a contrasting continuation, the speaker can end the utterance without stating what would follow. This makes the expression less categorical than simply saying 'sore nara ii' and leaves a slight sense of reservation or lingering concern. Unlike 'sou dekireba ii n da kedo,' which expresses a wish while leaving uncertainty about whether it can be realized, 'A, sore nara ii n da kedo' responds to information already received and temporarily resolves a present concern. In the example, the speaker is worried that the materials have not yet been sent, but after hearing that sending them the next morning is acceptable, responds, 'Oh, then that's fine.'"
+  },
+  {
     "date": "2026.09.07",
     "day": "Mon",
     "number": 880,
