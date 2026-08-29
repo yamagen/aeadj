@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026.09.10",
+    "day": "Thu",
+    "number": 883,
+    "index": "kigatsukeba",
+    "title": "Before I knew it...",
+    "expression-ja": "(気:き)がつけば",
+    "roman-ja": "Ki ga tsukeba.",
+    "expression-en": "Before I knew it...",
+    "variants-ja": ["(気:き)がつけば", "(気:き)づけば", "ふと(気:き)がつけば", "(気:き)がついたら"],
+    "variants-en": ["Before I knew it...", "Before I realized it...", "When I suddenly realized it...", "Then I realized..."],
+    "intent-ja": [
+      "意識していない間に時間が経過したり状況が変化したりしていたことを、後から認識したときに使う表現",
+      "継続していた行動や状態から一時的に意識を離し、現在の状況をあらためて認識する表現",
+      "それまで意識されていなかった時間の経過や変化を発見として提示する表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when the speaker realizes afterward that time has passed or a situation has changed without being consciously noticed",
+      "expression marking a moment when the speaker steps out of an ongoing activity or state and becomes aware of the current situation",
+      "expression presenting previously unnoticed passage of time or change as a discovery",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "気づき", "時間経過", "状況変化", "発見", "回顧"],
+    "tags-en": ["immediate grammar", "spoken", "realization", "passage of time", "situational change", "discovery", "retrospection"],
+    "adjusted-expression-ja": "(意識:いしき)しないまま(時間:じかん)が(経過:けいか)し、(後:あと)になってそのことに(気:き)づきました。",
+    "adjusted-expression-en": "Time passed without my noticing it, and I only became aware of it afterward.",
+    "img-sub": "kigatsukeba01.png",
+    "example-ja": "A「もうこんな(時間:じかん)？」 B「うん。(気:き)がつけば(三時間:さんじかん)ずっとやってた」",
+    "example-en": "A: Is it this late already? B: Yeah. Before I knew it, I'd been at it for three hours.",
+    "notes-ja": "「(気:き)がつけば」は、話者が意識していなかった間に時間が経過したり状況が変化したりしていて、そのことを後から認識したときに使う表現です。「気がつく」は認識の成立を表し、「ば」は形の上では条件形ですが、「気がつけば」では単純な仮定条件を表すとは限りません。「気がついた時には、すでにある状態になっていた」という時間的な関係を作ります。そのため、「気がつけば三時間たっていた」のような発話では、三時間という時間を順に意識していたのではなく、何かに集中している間に時間が経過し、その結果を現在の時点から発見しています。「いつの間にか」と意味が近い場合もありますが、「気がつけば」は特に話者の認識が成立した時点を前面に出すことができます。例文では、作業を続けていたBが現在の時刻をあらためて認識し、それまで意識されていなかった三時間の経過を「気がつけば」によって振り返っています。",
+    "notes-en": "'Ki ga tsukeba' is used when speakers become aware that time has passed or a situation has changed while they were not consciously noticing it. 'Ki ga tsuku' refers to becoming aware of something, and although '-ba' is formally a conditional form, 'ki ga tsukeba' does not necessarily express an ordinary hypothetical condition. Instead, it can establish a temporal relationship roughly meaning that by the time the speaker became aware of the situation, a certain state had already come about. Thus, in an utterance such as 'ki ga tsukeba sanjikan tatte ita,' the speaker was not consciously tracking those three hours as they passed. The passage of time is discovered retrospectively from the present moment. The expression can overlap with 'itsu no ma ni ka,' but 'ki ga tsukeba' more clearly foregrounds the speaker's moment of realization. In the example, B has remained absorbed in an activity and then becomes aware of the current time, retrospectively recognizing that three hours have passed."
+  },
+  {
+    "date": "2026.09.09",
+    "day": "Wed",
+    "number": 882,
+    "index": "asouiuimine",
+    "title": "Oh, that's what you mean.",
+    "expression-ja": "あ、そういう(意味:いみ)ね",
+    "roman-ja": "A, sou iu imi ne.",
+    "expression-en": "Oh, that's what you mean.",
+    "variants-ja": ["あ、そういう(意味:いみ)ね", "ああ、そういう(意味:いみ)ね", "そういう(意味:いみ)ね"],
+    "variants-en": ["Oh, that's what you mean.", "Ah, that's what you mean.", "That's what you mean."],
+    "intent-ja": ["相手の発言を最初は別の意味に解釈していたが、補足説明を受けてその場で解釈を修正する表現", "新しい情報によって相手の発話意図が理解できたことを示す表現", "誤解から理解への切り替わりを即時的に示す表現", "口語的な表現"],
+    "intent-en": [
+      "expression used when the speaker initially interpreted someone's utterance differently and immediately revises that interpretation after receiving clarification",
+      "expression showing that new information has made the speaker understand what the other person meant",
+      "expression marking an immediate shift from misunderstanding to understanding",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "意味理解", "解釈", "解釈修正", "誤解", "理解", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "meaning", "interpretation", "reinterpretation", "misunderstanding", "understanding", "immediate reaction"],
+    "adjusted-expression-ja": "ああ、そういう(意味:いみ)だったのですね。",
+    "adjusted-expression-en": "Oh, I see. That is what you meant.",
+    "img-sub": "asouiuimine01.png",
+    "example-ja": "A「(今日:きょう)は(早:はや)く(帰:かえ)ったほうがいいよ」 B「え、(仕事:しごと)まだあるけど」 A「いや、(電車:でんしゃ)、(止:と)まりそうだから」 B「あ、そういう(意味:いみ)ね」",
+    "example-en": "A: You should go home early today. B: But I still have work to do. A: No, I mean the trains might stop running. B: Oh, that's what you mean.",
+    "notes-ja": "「あ、そういう意味ね」は、相手の発言を最初は別の意味に解釈していた話し手が、補足説明を受けてその解釈をその場で修正したときに使う表現です。「あ」は、新しい情報を受けて解釈が切り替わった瞬間を示します。「そういう意味」は、相手が先ほどの発言で意図していた意味内容を指し、「ね」は、その理解を相手との共有事項として受け入れる働きをします。したがって、この表現では、発話を聞く、ある解釈をする、補足を受ける、解釈を修正する、という時間的な過程が表面に現れています。既存の「そういう意味ではないんですけどね」は、相手による自分の発言の解釈を否定して誤解を訂正する側の表現です。また、「そういう意味で、...」は、先行内容を一つの観点として受け、それを後続する評価や結論へ結びつける表現です。それらに対して、「あ、そういう意味ね」は、自分自身の解釈を新しい情報によって更新し、相手の意図を理解したことを示します。また、No.877「ああ、そういうことね」が出来事や事情全体の理解に重点を置くのに対し、「あ、そういう意味ね」は相手の発話そのものの意味解釈の修正に重点があります。",
+    "notes-en": "'A, sou iu imi ne' is used when speakers initially interpret another person's utterance in one way but revise that interpretation immediately after receiving clarification. 'A' marks the moment when the interpretation changes in response to new information. 'Sou iu imi' refers specifically to the meaning the other person intended in the preceding utterance, while 'ne' presents the newly reached understanding as something now shared between the speakers. The expression therefore makes visible a temporal sequence: hearing an utterance, forming an interpretation, receiving clarification, and revising that interpretation. The existing expression 'sou iu imi de wa nain desu kedo ne' is used from the opposite side of the interaction: the speaker rejects another person's interpretation of what they meant and corrects a misunderstanding. 'Sou iu imi de, ...' instead takes the preceding content as a perspective and connects it to a following evaluation or conclusion. By contrast, 'A, sou iu imi ne' marks the speaker's own immediate reinterpretation of another person's intended meaning. It also differs from No.877, 'Aa, sou iu koto ne,' which focuses more broadly on understanding circumstances or what has happened; 'A, sou iu imi ne' focuses specifically on revising the interpretation of another person's utterance."
+  },
+  {
     "date": "2026.09.08",
     "day": "Tue",
     "number": 881,
