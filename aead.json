@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026.09.12",
+    "day": "Sat",
+    "number": 885,
+    "index": "asocchine",
+    "title": "Oh, that one.",
+    "expression-ja": "あ、そっちね",
+    "roman-ja": "A, socchi ne.",
+    "expression-en": "Oh, that one.",
+    "variants-ja": ["あ、そっちね", "ああ、そっちね", "そっちね", "あ、そっちの(話:はなし)ね"],
+    "variants-en": ["Oh, that one.", "Oh, you mean that one.", "That one, right.", "Oh, that's what you're talking about."],
+    "intent-ja": [
+      "複数の候補のうち、自分が想定していたものとは別のものを相手が指していたとわかり、参照先をその場で切り替える表現",
+      "自分が予想していた反応や展開とは別の方向に実際の出来事が進んだとわかり、その予想外の方向を受け入れる表現",
+      "対象、話題、解釈、反応、展開などの方向を即時的に切り替える表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when the speaker realizes that the other person was referring to a different option from the one the speaker had assumed and immediately switches the referent",
+      "expression used when events take a different direction from the reaction or development the speaker had expected and the speaker recognizes and accepts that unexpected alternative",
+      "expression marking an immediate switch in the direction of reference, topic, interpretation, reaction, or development",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "指示", "参照", "参照先変更", "予想", "予想外", "展開", "解釈変更", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "demonstrative", "reference", "referent switching", "expectation", "unexpected development", "development", "reinterpretation", "immediate reaction"],
+    "adjusted-expression-ja": "ああ、そちらのことだったのですね。",
+    "adjusted-expression-en": "Oh, I see. You meant that one.",
+    "img-sub": "asocchine01.png",
+    "example-ja": "A「(結婚:けっこん)のお(許:ゆる)し、お(父:とう)さん、(怒:おこ)るだろうか？」 B「まあ、(普通:ふつう)はそうだろう」 A「あれ、お(父:とう)さん、(踊:おど)り(出:だ)しちゃった」 B「あ、そっちね」",
+    "example-en": "A: Do you think my father will get angry when you ask for permission to marry me? B: Well, normally he would. A: Huh? My father's started dancing. B: Oh, that kind of reaction.",
+    "notes-ja": "「あ、そっちね」は、複数の可能性のうち、自分が想定していたものとは別の対象、話題、解釈、反応、展開などが選ばれていたとわかった瞬間に使う表現です。「あ」は、認識が切り替わった瞬間を示します。「そっち」は本来、話し手から離れ、聞き手側にある方向や対象を指す指示表現ですが、会話では物理的な方向だけでなく、談話上の候補や解釈、さらには出来事が進む方向まで指すことができます。「ね」は、新しく特定された方向を相手と共有されたものとして受け入れる働きをします。たとえば、「昨日の件」と言われて会議のことだと思っていたところ、別の案件だと説明されて「あ、そっちね」と言えば、談話上の参照先を切り替えています。一方、例文では、父親は結婚の申し出に怒るだろうと予想していたところ、実際には踊り出します。ここでの「そっち」は特定の物や話題を指しているのではなく、「怒る」という予想とは別の「喜ぶ」という反応の方向を指しています。したがって、「あ、そっちね」は、予想Aから実際の展開Bへの切り替わりを即時的に受け止める表現としても使えます。この用法では、予想外の展開を少し面白がったり、軽く納得したりするニュアンスを伴うこともあります。",
+    "notes-en": "'A, socchi ne' is used at the moment when speakers realize that, among several possibilities, the relevant object, topic, interpretation, reaction, or development is different from the one they had initially assumed. 'A' marks the instant of recognition and switching. 'Socchi' is originally a demonstrative referring to a direction or object away from the speaker and toward the listener, but in conversation it can point not only to physical directions but also to discourse alternatives, interpretations, and even possible directions in which events may develop. 'Ne' accepts the newly identified alternative as something now shared between the speakers. For example, if the speaker assumes that 'what happened yesterday' refers to a meeting but is then told that it refers to another matter, 'A, socchi ne' switches the discourse referent. In the example here, however, the speakers expect the father to react angrily to a request for permission to marry, but he unexpectedly starts dancing. 'Socchi' does not refer to a physical object or topic; it points to an alternative direction of reaction: delight rather than anger. The expression can therefore mark an immediate switch from expected development A to actual development B. In this use, it can also carry a lightly humorous sense of recognizing and accepting an unexpected turn of events."
+  },
+  {
+    "date": "2026.09.11",
+    "day": "Fri",
+    "number": 884,
+    "index": "omottayori",
+    "title": "More than I expected",
+    "expression-ja": "(思:おも)ったより",
+    "roman-ja": "Omotta yori.",
+    "expression-en": "More than I expected.",
+    "variants-ja": ["(思:おも)ったより", "(思:おも)ってたより", "(思:おも)ったよりも", "(予想:よそう)してたより"],
+    "variants-en": ["More than I expected.", "More than I thought.", "More than I'd expected.", "More than I was expecting."],
+    "intent-ja": ["実際に経験した結果を、それ以前に持っていた予測と比較して評価する表現", "事前の予測と実際の結果との間に差があったことをその場で示す表現", "何をどの程度予測していたのかを明示せず、共有された状況から補って比較する表現", "口語的な表現"],
+    "intent-en": [
+      "expression evaluating an actual result by comparing it with an earlier expectation",
+      "expression indicating an immediately recognized difference between what was expected and what actually happened",
+      "expression allowing the content and degree of the earlier expectation to remain implicit and be recovered from context",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "予測", "比較", "評価", "結果", "認識"],
+    "tags-en": ["immediate grammar", "spoken", "expectation", "comparison", "evaluation", "result", "realization"],
+    "adjusted-expression-ja": "(実際:じっさい)の(結果:けっか)は、(事前:じぜん)に(予想:よそう)していたものとは(異:こと)なっていました。",
+    "adjusted-expression-en": "The actual result differed from what I had expected beforehand.",
+    "img-sub": "omottayori01.png",
+    "example-ja": "A「ここまで(来:く)るの、(時間:じかん)かかった？」 B「いや、(思:おも)ったより(早:はや)く(着:つ)いたよ」",
+    "example-en": "A: Did it take you long to get here? B: No, I arrived here earlier than I expected.",
+    "notes-ja": "「(思:おも)ったより」は、実際に経験した結果を、それ以前に話者が持っていた予測と比較して評価するときに使う表現です。「思った」の内容は通常明示されず、何をどの程度予測していたのかは、その場の状況や後続する表現から理解されます。たとえば「思ったより早く着いた」では、到着までにはもう少し時間がかかると事前に予測していたことが暗黙に含まれています。そして実際に到着した時点で、その予測と現実との差を認識し、「思ったより早く」と評価しています。このように、「思ったより」には、事前の予測、実際の経験、両者の差の認識、現在の評価という時間的な順序があります。「思ってたより」は「思っていたより」の口語形で、日常会話では非常によく使われます。英語では 'earlier than I expected,' 'more useful than I expected,' 'easier than I thought' のように、比較する性質に応じて比較級が変わりますが、日本語では「思ったより」を先に置き、その後に「早い」「便利」「簡単」などの評価を続けることができます。",
+    "notes-en": "'Omotta yori' is used when speakers evaluate an actual result by comparing it with an expectation they had beforehand. The content of 'omotta' is usually left unstated: what the speaker expected and to what degree are recovered from the situation and from the expression that follows. For example, 'omotta yori hayaku tsuita' implies that the speaker had expected the journey to take longer. Upon arriving, the speaker recognizes a difference between that prior expectation and the actual result and evaluates the arrival as earlier than expected. The expression therefore involves a temporal sequence: an earlier expectation, an actual experience, recognition of the difference between them, and a present evaluation. 'Omotteta yori' is the conversational form of 'omotte ita yori' and is especially common in everyday speech. In English, the comparative changes according to what is being evaluated, as in 'earlier than I expected,' 'more useful than I expected,' or 'easier than I thought,' whereas Japanese can place 'omotta yori' before a wide range of evaluations such as 'hayai,' 'benri,' or 'kantan.'"
+  },
+  {
     "date": "2026.09.10",
     "day": "Thu",
     "number": 883,
