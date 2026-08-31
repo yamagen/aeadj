@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.09.13",
+    "day": "Sun",
+    "number": 886,
+    "index": "nennotame",
+    "title": "Just in case",
+    "expression-ja": "(念:ねん)のため",
+    "roman-ja": "Nen no tame.",
+    "expression-en": "Just in case.",
+    "variants-ja": ["(念:ねん)のため", "(念:ねん)のために", "まあ、(念:ねん)のため", "(一応:いちおう)、(念:ねん)のため"],
+    "variants-en": ["Just in case.", "To be on the safe side.", "Well, just in case.", "Just to be safe."],
+    "intent-ja": ["現時点では問題ないと考えながらも、わずかな不確実性に備えて追加の行動を取る表現", "将来起こるかもしれない問題を明示せず、その可能性を見越して予防的に行動する表現", "必要性が確定していない行動を安全のために付け加える表現", "口語的な表現"],
+    "intent-en": [
+      "expression used when the speaker takes an additional action despite believing that things are probably fine",
+      "expression indicating preventive action in anticipation of a possible future problem without explicitly stating what that problem might be",
+      "expression adding an action for safety even though its necessity has not been established",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "予防", "不確実性", "追加行動", "安全確認", "先取り"],
+    "tags-en": ["immediate grammar", "spoken", "precaution", "uncertainty", "additional action", "safety check", "anticipation"],
+    "adjusted-expression-ja": "(問題:もんだい)はないと(思:おも)いますが、(万一:まんいち)に(備:そな)えて(準備:じゅんび)しておきます。",
+    "adjusted-expression-en": "I do not expect a problem, but I will prepare for the possibility just in case.",
+    "img-sub": "nennotame01.png",
+    "example-ja": "A「(資料:しりょう)、(メール:めーる)で(送:おく)ったよね？」 B「うん。でも、(念:ねん)のためUSBにも(入:い)れておく」",
+    "example-en": "A: You sent the materials by email, right? B: Yeah, but I'll put them on a USB drive too, just in case.",
+    "notes-ja": "「(念:ねん)のため」は、現時点では大きな問題はないと考えていても、何か予想外のことが起こる可能性を完全には捨てず、その可能性に備えて追加の行動を取るときに使う表現です。何に備えているのかを詳しく言わなくても、直前の会話や状況から理解できるため、「念のため」だけで予防的な判断を示すことができます。たとえば、資料をすでにメールで送っている場合でも、通信障害やファイルの不具合などが起こる可能性を考えてUSBにも保存しておく、といった行動です。このとき話者は問題が起こると予測しているわけではなく、「おそらく大丈夫だが、完全には確実ではない」という小さな不確実性に反応しています。そのため、「念のため」は、現在の判断にわずかな留保を残し、それを追加行動へ変換する表現だといえます。",
+    "notes-en": "'Nen no tame' is used when speakers believe that things are probably fine but do not completely exclude the possibility of an unexpected problem and therefore take an additional precaution. The possible problem does not need to be stated explicitly because it can usually be inferred from the preceding conversation or immediate situation. For example, even if materials have already been sent by email, a speaker may also save them on a USB drive in case of a communication problem or file issue. The speaker is not necessarily predicting that something will go wrong. Rather, the expression responds to a small remaining uncertainty: things will probably be fine, but they are not completely certain. 'Nen no tame' therefore turns a slight reservation about the current situation into an additional preventive action."
+  },
+  {
     "date": "2026.09.12",
     "day": "Sat",
     "number": 885,
