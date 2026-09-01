@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026.09.15",
+    "day": "Tue",
+    "number": 888,
+    "index": "sekkakudakara",
+    "title": "Since we're here...",
+    "expression-ja": "せっかくだから",
+    "roman-ja": "Sekkaku dakara.",
+    "expression-en": "Since we're here...",
+    "variants-ja": ["せっかくだから", "せっかくだし", "せっかくなので", "せっかく(来:き)たんだから"],
+    "variants-en": ["Since we're here...", "Since we have the chance...", "While we have the opportunity...", "Since we've come all this way..."],
+    "intent-ja": [
+      "すでに成立している状況や得られた機会を無駄にせず、そこから追加の行動を決める表現",
+      "現在の状況に価値を認め、その価値を次の行動の理由として提示する表現",
+      "偶然の機会や、それまでに費やした時間や労力を生かそうとする即時的な判断を示す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used to decide on an additional action rather than waste an opportunity or situation that has already arisen",
+      "expression treating the current situation as valuable and using that value as a reason for the next action",
+      "expression marking an immediate decision to make use of an opportunity or of time and effort already invested",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "機会", "状況判断", "追加行動", "理由", "機会利用"],
+    "tags-en": ["immediate grammar", "spoken", "opportunity", "situational judgment", "additional action", "reason", "making use of an opportunity"],
+    "adjusted-expression-ja": "この(機会:きかい)を(生:い)かして、もう(一:ひと)つ(行動:こうどう)することにしましょう。",
+    "adjusted-expression-en": "Since we have this opportunity, let's make use of it and do something more.",
+    "img-sub": "sekkakudakara01.png",
+    "example-ja": "A「この(近:ちか)くに(有名:ゆうめい)な(和菓子屋:わがしや)があるよ」 B「じゃあ、せっかくだから(寄:よ)っていこうか」",
+    "example-en": "A: There's a famous Japanese sweets shop near here. B: Since we're here, we might as well stop by.",
+    "notes-ja": "「せっかくだから」は、すでに成立している状況や得られた機会をそのまま終わらせるのは惜しいと考え、その機会を生かして次の行動を取ろうとするときに使う表現です。「せっかく」は、ある状況や機会に価値があることを示します。その価値は、特別な機会であることから生じる場合もあれば、そこに至るまでに時間や労力を使ったことから生じる場合もあります。「だから」によって、その価値のある状況が次の行動の理由になります。そのため、「せっかくだから」は、現在の状況をあらためて評価し、「この機会を使わないのはもったいない」と判断して追加の行動を立ち上げる働きをします。例文では、すでにその場所まで来ているという状況に、近くに有名な和菓子屋があるという情報が加わり、Bは現在の機会を利用して店に寄ることをその場で決めています。英語では場面に応じて 'since we're here,' 'since we have the chance,' 'we might as well,' などと表現され、日本語の「せっかくだから」と一対一に対応する表現はありません。",
+    "notes-en": "'Sekkaku dakara' is used when speakers recognize that a situation or opportunity already available to them would be a waste not to make use of, and they decide on an additional action as a result. 'Sekkaku' assigns value to the current opportunity or circumstances. That value may come from the rarity of the opportunity or from the time and effort already spent reaching the present situation. 'Dakara' then turns that valued situation into a reason for what the speaker proposes to do next. The expression therefore involves an immediate reevaluation of the current circumstances: since this opportunity is already available, it would be a shame not to make use of it. In the example, the speakers are already in the area when they learn that a famous Japanese sweets shop is nearby. B treats being there as an opportunity and immediately proposes stopping by. Depending on the situation, English may use expressions such as 'since we're here,' 'since we have the chance,' or 'we might as well,' rather than a single fixed equivalent for 'sekkaku dakara.'"
+  },
+  {
+    "date": "2026.09.14",
+    "day": "Mon",
+    "number": 887,
+    "index": "aimanonashi",
+    "title": "Oh, scratch that.",
+    "expression-ja": "あ、(今:いま)のなし",
+    "roman-ja": "A, ima no nashi.",
+    "expression-en": "Oh, scratch that.",
+    "variants-ja": ["あ、(今:いま)のなし", "(今:いま)のなし", "ごめん、(今:いま)のなし", "あ、(今:いま)のなしね"],
+    "variants-en": ["Oh, scratch that.", "Scratch that.", "Sorry, scratch that.", "Never mind what I just said."],
+    "intent-ja": [
+      "自分が直前に言ったことに問題があると気づき、その発話をその場で取り消す表現",
+      "発話した直後に自分の発話を対象として捉え、その有効性を即時的に撤回する表現",
+      "言い間違い、勘違い、不適切な発言などを検出した直後に、後続する修正へ移るための表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when speakers immediately realize that something they have just said is wrong or inappropriate and withdraw it",
+      "expression treating the immediately preceding utterance as an object and revoking it on the spot",
+      "expression used after detecting a mistake, misunderstanding, or inappropriate remark and before moving on to a correction",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "自己修正", "撤回", "発話取消", "言い直し", "メタ発話", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "self-correction", "retraction", "utterance cancellation", "repair", "metalinguistic utterance", "immediate reaction"],
+    "adjusted-expression-ja": "(今:いま)の(発言:はつげん)は(取:と)り(消:け)します。",
+    "adjusted-expression-en": "I withdraw what I just said.",
+    "img-sub": "aimanonashi01.png",
+    "example-ja": "A「じゃあ、(明日:あした)の3(時:じ)に...あ、(今:いま)のなし。4(時:じ)だった」",
+    "example-en": "A: Okay, then tomorrow at three—oh, scratch that. It was four.",
+    "notes-ja": "「あ、今のなし」は、自分が直前に発した内容に間違い、不適切さ、勘違いなどがあると気づき、その発話を即座に取り消すときに使う表現です。「あ」は、自分自身の発話を聞いた結果、問題に気づいた瞬間を示します。「今の」は、直前に生成された発話そのものを指します。「なし」は、その発話を以後の会話で有効なものとして扱わないことを示します。したがって、この表現では、発話してから問題を検出し、その発話を撤回して修正へ進むという時間的な順序が明確です。たとえば例文では、「3時」と発話した直後にそれが誤りだと気づき、「あ、今のなし」によって直前の発話を取り消してから「4時だった」と修正しています。「今の発言は取り消します」のように完全な文へ言い換えることはできますが、「あ、今のなし」自体は、その場で直前の発話を無効化する即時的な反応として成立しています。そのため、単に完全な文から要素が省略された形式として扱うよりも、直前の発話を指示し、その有効性をその場で撤回する独立した発話単位として捉えることができます。",
+    "notes-en": "'A, ima no nashi' is used when speakers realize immediately after speaking that what they have just said contains a mistake, misunderstanding, inappropriate remark, or other problem, and they withdraw that utterance on the spot. 'A' marks the moment when the speaker detects the problem, often as a result of hearing their own utterance. 'Ima no' points to the utterance that has just been produced, while 'nashi' indicates that it should no longer be treated as valid in the ongoing interaction. The expression therefore displays a clear temporal sequence: an utterance is produced, a problem is detected, the utterance is revoked, and a correction may follow. In the example, the speaker first says 'three,' immediately realizes that this is wrong, cancels it with 'A, ima no nashi,' and then replaces it with 'four.' The expression can be expanded into a complete sentence such as 'I withdraw what I just said,' but 'A, ima no nashi' functions independently as an immediate act of revoking the preceding utterance rather than merely as an incomplete version of a fuller sentence."
+  },
+  {
     "date": "2026.09.13",
     "day": "Sun",
     "number": 886,
