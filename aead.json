@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.09.16",
+    "day": "Wed",
+    "number": 889,
+    "index": "aimawakatta",
+    "title": "Oh, now I get it.",
+    "expression-ja": "あ、(今:いま)わかった",
+    "roman-ja": "A, ima wakatta.",
+    "expression-en": "Oh, now I get it.",
+    "variants-ja": ["あ、(今:いま)わかった", "ああ、(今:いま)わかった", "(今:いま)わかった", "あ、やっとわかった"],
+    "variants-en": ["Oh, now I get it.", "Ah, now I understand.", "Now I get it.", "Oh, I finally get it."],
+    "intent-ja": [
+      "それまで理解できていなかったことが、直前の説明や手掛かりによってその瞬間に理解できたときに使う表現",
+      "理解できない状態から理解できる状態への変化が生じた瞬間を示す表現",
+      "直前に得た情報によって、それまでつながっていなかった内容がその場で結びついたことを示す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when something that had not been understood becomes clear at that very moment because of the immediately preceding explanation or clue",
+      "expression marking the moment of transition from not understanding to understanding",
+      "expression indicating that newly received information has just caused previously disconnected pieces of information to fall into place",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "理解", "気づき", "状態変化", "認識", "時間", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "understanding", "realization", "state change", "recognition", "time", "immediate reaction"],
+    "adjusted-expression-ja": "ああ、(今:いま)ようやく(理解:りかい)できました。",
+    "adjusted-expression-en": "Oh, I understand it now.",
+    "img-sub": "aimawakatta01.png",
+    "example-ja": "A「だから、この(二:ふた)つは(別々:べつべつ)に(数:かぞ)えるんじゃなくて、(一組:ひとくみ)で(一:ひと)つなんだよ」 B「あ、(今:いま)わかった」",
+    "example-en": "A: So you don't count these two separately. Together, they make one unit. B: Oh, now I get it.",
+    "notes-ja": "「あ、今わかった」は、それまで理解できていなかったことが、直前に与えられた説明や手掛かりによって、その瞬間に理解できたときに使う表現です。「あ」は認識が変化した瞬間を示し、「今」は単に現在の時刻を表すのではなく、理解できなかった状態と理解できる状態との境界を指しています。「わかった」も、ここでは単に自分の理解状態を報告するだけではなく、理解が成立した瞬間そのものに対する反応として機能します。したがって、この表現には、未理解の状態、手掛かりの入力、理解の成立、即時反応という時間的な順序があります。例文では、二つのものを別々に数えるのではなく一組として扱うという説明を聞いたことで、それまで理解できなかった仕組みがその場でつながり、「あ、今わかった」と反応しています。「あ、わかった」だけでも理解成立を示せますが、「今」が入ることで、理解が成立した時間的な境界そのものが明示されます。また、「あ、やっとわかった」では、理解に至るまでに時間や困難があったという評価が加わるため、単純な「あ、今わかった」とは少し異なります。",
+    "notes-en": "'A, ima wakatta' is used when something that the speaker had not understood becomes clear at that very moment as a result of the immediately preceding explanation or clue. 'A' marks the instant of a change in recognition, while 'ima' does more than indicate the present time: it marks the boundary between a state of not understanding and a newly achieved state of understanding. 'Wakatta' here is therefore not merely a report of the speaker's cognitive state. It functions as an immediate reaction to the transition into understanding itself. The expression has a clear temporal structure: non-understanding, receipt of a clue, emergence of understanding, and immediate reaction. In the example, the explanation that the two items should be treated as one unit causes the previously unclear idea to fall into place, prompting the response 'Oh, now I get it.' The shorter 'A, wakatta' can also mark understanding, but adding 'ima' explicitly highlights the moment at which the change occurs. 'A, yatto wakatta,' by contrast, adds the implication that reaching understanding took some time or effort."
+  },
+  {
     "date": "2026.09.15",
     "day": "Tue",
     "number": 888,
@@ -19098,7 +19131,7 @@
     "date-history": [20240727, 20260416],
     "day": "Sat",
     "number": 108,
-    "index": "aasouiu",
+    "index": "aasouiukotoka",
     "title": "I see",
     "expression-ja": "ああ、そういうことか！",
     "roman-ja": "Aa, sou iu koto ka!",
