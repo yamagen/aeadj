@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.09.17",
+    "day": "Thu",
+    "number": 890,
+    "index": "sarasaranai",
+    "title": "What? I have absolutely no intention of doing that.",
+    "expression-ja": "え、そんなつもり、さらさらない",
+    "roman-ja": "E, sonna tsumori, sarasara nai.",
+    "expression-en": "What? I have absolutely no intention of doing that.",
+    "variants-ja": ["え、そんなつもり、さらさらない", "そんなつもり、さらさらない", "いや、そんなつもり、さらさらない", "そんなつもりはさらさらない"],
+    "variants-en": ["What? I have absolutely no intention of doing that.", "I have absolutely no intention of doing that.", "No, I have absolutely no intention of doing that.", "I have no intention whatsoever of doing that."],
+    "intent-ja": [
+      "相手から自分の意図や予定を推測されたときに、その推測をその場で強く否定する表現",
+      "自分にはそのような意図が最初から全くないことを強調する表現",
+      "「そんなつもり」で相手が想定した意図を指し、「さらさらない」で全面的に否定する表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression immediately and strongly rejecting another person's assumption about the speaker's intention or plan",
+      "expression emphasizing that the speaker has had no such intention at all",
+      "expression using 'sonna tsumori' to identify the intention assumed by the listener and 'sarasara nai' to reject it completely",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "強い否定", "意図否定", "推測否定", "人物評価", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "strong negation", "denial of intention", "rejection of assumption", "evaluation", "immediate reaction"],
+    "adjusted-expression-ja": "(私:わたし)には、そのような(意図:いと)はまったくありません。",
+    "adjusted-expression-en": "I have absolutely no such intention.",
+    "img-sub": "sarasaranai01.png",
+    "example-ja": "A「その(仕事:しごと)、(結局:けっきょく)(引:ひ)き(受:う)けるつもりなんでしょ？」 B「え、そんなつもり、さらさらない」",
+    "example-en": "A: You're going to take that job after all, aren't you? B: What? I have absolutely no intention of doing that.",
+    "notes-ja": "「え、そんなつもり、さらさらない」は、相手から自分の意図や予定を推測されたときに、その推測をその場で強く否定する表現です。「え」は、相手の推測が予想外だったことへの即時的な驚きを示します。「そんなつもり」は、相手が話し手にあると想定した意図や考えを指します。「さらさらない」は、「全くない」「少しもない」という強い否定を表し、単に現在そのつもりがないだけでなく、最初からそのような意図を持っていないという響きを伴うことがあります。このため、「そんなつもりはない」よりも否定が強く、相手の推測を明確に退ける表現になります。例文では、仕事を引き受けるつもりだと推測された話し手が、その推測自体に驚き、「え、そんなつもり、さらさらない」と即座に否定しています。",
+    "notes-en": "'E, sonna tsumori, sarasara nai' is an immediate expression used when speakers strongly reject another person's assumption about their intention or plan. 'E' marks immediate surprise at the assumption. 'Sonna tsumori' refers to the intention that the listener has attributed to the speaker. 'Sarasara nai' expresses a strong form of negation, roughly meaning 'not at all' or 'not in the slightest,' and can imply that the speaker never had such an intention in the first place. The expression is therefore stronger than simply saying 'sonna tsumori wa nai' and clearly rejects the listener's interpretation. In the example, the speaker is assumed to be planning to take on a particular job and immediately responds with surprise and emphatic denial."
+  },
+  {
     "date": "2026.09.16",
     "day": "Wed",
     "number": 889,
