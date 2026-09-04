@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.09.19",
+    "day": "Sat",
+    "number": 892,
+    "index": "kouicchanandakedo",
+    "title": "I hate to say this, but...",
+    "expression-ja": "こう(言:い)っちゃなんだけど",
+    "roman-ja": "Kou iccha nan da kedo.",
+    "expression-en": "I hate to say this, but...",
+    "variants-ja": ["こう(言:い)っちゃなんだけど", "こう(言:い)うのもなんだけど", "こんなこと(言:い)っちゃなんだけど", "こう(言:い)ってはなんだけど"],
+    "variants-en": ["I hate to say this, but...", "It's a little awkward to say this, but...", "I probably shouldn't say this, but...", "I don't mean to sound rude, but..."],
+    "intent-ja": ["これから言う内容が言いにくいと感じ、そのことを先に示してから発話する表現", "批評や自己評価など、そのままでは言いにくい内容をやわらかく導入する表現", "何が問題なのかを明示せず、ためらいだけを示して後続発話へ進む表現", "口語的な表現"],
+    "intent-en": [
+      "expression signaling in advance that what the speaker is about to say feels difficult or awkward to say",
+      "expression softly introducing criticism, self-evaluation, or another potentially uncomfortable statement",
+      "expression leaving the exact reason for the hesitation unstated while moving into the following utterance",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "前置き", "ためらい", "緩和", "言いにくさ", "自己注釈"],
+    "tags-en": ["immediate grammar", "spoken", "preface", "hesitation", "mitigation", "difficulty saying something", "self-commentary"],
+    "adjusted-expression-ja": "このようなことを(自分:じぶん)で(言:い)うのは(少:すこ)し(気:き)が(引:ひ)けますが、",
+    "adjusted-expression-en": "I feel a little hesitant to say this myself, but...",
+    "img-sub": "kouicchanandakedo01.png",
+    "example-ja": "A「どう？」 B「こう(言:い)っちゃなんだけど、(私:わたし)が(作:つく)るといいね」",
+    "example-en": "A: What do you think? B: I hate to say this, but it turns out pretty well when I make it.",
+    "notes-ja": "「こう言っちゃなんだけど」は、これから言おうとしている内容について、話し手自身が「そのまま言うのは少し言いにくい」と感じ、そのためらいを先に示してから本題に入る表現です。「こう言っちゃ」は「こう言っては」の口語形で、これから自分が実際に言おうとしている内容を先取りします。「なんだけど」の「なん」は、失礼、自慢、言い過ぎ、気まずさなど、何が問題なのかを具体的には示しません。何か言いにくさがあることだけをぼかして示し、そのまま後続発話へ進みます。この曖昧さによって、話し手は詳しく謝罪したり理由を説明したりせずに、言いにくい内容への入口を作ることができます。No.690「急にこんなこと聞くのも、あれ、なんだけど、...」が唐突な質問に入る前の気まずさを緩和する表現であるのに対し、「こう言っちゃなんだけど」は、これから自分が述べる内容そのものへのためらいを示します。例文では、Bが自分で作ったものを高く評価することに少し気が引けるため、「こう言っちゃなんだけど」と前置きしてから「私が作るといいね」と述べています。",
+    "notes-en": "'Kou iccha nan da kedo' is used when speakers feel some hesitation about what they are about to say and signal that hesitation before stating the content itself. 'Kou iccha' is the colloquial form of 'kou itte wa' and anticipates the speaker's own upcoming utterance. The 'nan' in 'nan da kedo' does not specify exactly what is problematic. It may involve possible rudeness, self-praise, overstatement, awkwardness, or some other reason for hesitation. Instead of naming that reason, the expression leaves it vague and moves directly into the following statement. This vagueness allows the speaker to create a soft entry into something difficult to say without giving a full apology or explanation. Unlike No.690, 'Kyuu ni konna koto kiku no mo, are, nan da kedo, ...', which softens the awkwardness of introducing a sudden question, 'Kou iccha nan da kedo' marks hesitation about the content of the speaker's own upcoming statement. In the example, B feels slightly awkward about praising something they made themselves, so they preface the self-evaluation with 'Kou iccha nan da kedo' before saying that it turns out well when they make it."
+  },
+  {
     "date": "2026.09.18",
     "day": "Fri",
     "number": 891,
