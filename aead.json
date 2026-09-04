@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.09.18",
+    "day": "Fri",
+    "number": 891,
+    "index": "chottomattaa",
+    "title": "Not so fast!",
+    "expression-ja": "ちょっと(待:ま)ったぁ！",
+    "roman-ja": "Chotto mattaa!",
+    "expression-en": "Not so fast!",
+    "variants-ja": ["ちょっと(待:ま)ったぁ！", "ちょっと(待:ま)った！", "(待:ま)った(待:ま)った！", "おい、ちょっと(待:ま)った！"],
+    "variants-en": ["Not so fast!", "Wait a second!", "Hold it!", "Hey, wait a minute!"],
+    "intent-ja": ["相手の発言や行動がそのまま進もうとした瞬間に強く割り込んで止める表現", "決定や進行をいったん中断し、確認や異議を差し込む表現", "単なる待機依頼ではなく、そのまま先へ進ませないことを示す表現", "口語的な表現"],
+    "intent-en": [
+      "expression forcefully interrupting the listener at the moment their speech or action is about to proceed",
+      "expression temporarily stopping a decision or ongoing process in order to insert a check or objection",
+      "expression indicating that the listener should not simply continue, rather than merely asking them to wait",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "制止", "割り込み", "異議", "進行中断", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "stopping", "interruption", "objection", "halting progress", "immediate reaction"],
+    "adjusted-expression-ja": "少し(待:ま)ってください。そのまま(進:すす)めないでください。",
+    "adjusted-expression-en": "Please wait a moment. Do not proceed yet.",
+    "img-sub": "chottomattaa01.png",
+    "example-ja": "A「じゃあ、この(案:あん)で(決定:けってい)ということで」 B「ちょっと(待:ま)ったぁ！ その(数字:すうじ)、まだ(確認:かくにん)してないよ」",
+    "example-en": "A: Okay, then let's go with this proposal. B: Not so fast! We haven't checked those numbers yet.",
+    "notes-ja": "「ちょっと待ったぁ！」は、相手の発言や行動、判断がそのまま先へ進もうとした瞬間に、強く割り込んでいったん止める表現です。No.315「ちょっと待って」が、相手に少し待ってもらうための待機依頼として使われるのに対し、「ちょっと待ったぁ！」は、進行中の事態をその場で止めて、確認、異議、修正などを差し込む働きが強くなります。「待った」は形の上では「待つ」の過去形ですが、ここでは過去の出来事を述べているのではなく、即時的な制止として使われています。語尾を伸ばした「待ったぁ！」では、相手の進行を止めようとする勢いがさらに強く感じられます。例文では、案がそのまま決定されそうになった瞬間に、Bが未確認の数字があることを思い出し、「ちょっと待ったぁ！」と割り込んで決定を止めています。",
+    "notes-en": "'Chotto mattaa!' is an immediate expression used to forcefully interrupt and stop the listener just as their speech, action, or decision is about to move forward. Unlike No.315, 'Chotto matte,' which primarily functions as a request for someone to wait briefly, 'Chotto mattaa!' more strongly halts an ongoing process so that the speaker can insert a check, objection, or correction. Although 'matta' has the form of the past tense of 'matsu' (to wait), it does not describe a past event here. Instead, it functions as an immediate intervention. Lengthening the final vowel in 'mattaa!' adds force and makes the interruption sound more emphatic. In the example, just as a proposal is about to be accepted, B remembers that some figures have not yet been checked and interrupts with 'Chotto mattaa!' to stop the decision from going through."
+  },
+  {
     "date": "2026.09.17",
     "day": "Thu",
     "number": 890,
