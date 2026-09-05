@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.09.20",
+    "day": "Sun",
+    "number": 893,
+    "index": "asorenarahhanashihabetsu",
+    "title": "Oh, that changes things.",
+    "expression-ja": "あ、それなら(話:はなし)は(別:べつ)",
+    "roman-ja": "A, sore nara hanashi wa betsu.",
+    "expression-en": "Oh, that changes things.",
+    "variants-ja": ["それなら(話:はなし)は(別:べつ)", "あ、それなら(別:べつ)", "それなら(話:はなし)が(違:ちが)う", "あ、それなら(話:はなし)が(変:か)わってくる"],
+    "variants-en": ["That changes things.", "Oh, that's different, then.", "Well, that's a different story.", "Oh, in that case, things are different."],
+    "intent-ja": ["新しく示された条件や情報を受けて、それまでの判断をその場で切り替える", "直前の発話を新しい前提として取り込み、状況の見方や対応を更新する", "予想していなかった好条件や重要な事情を知り、態度が変わったことを軽く示す"],
+    "intent-en": [
+      "to immediately revise one's judgment after receiving new information or a new condition",
+      "to take the preceding remark as a new premise and update one's view of the situation",
+      "to lightly signal a change of attitude after learning an unexpected favorable or important detail"
+    ],
+    "tags-ja": ["即時文法", "口語", "反応", "条件", "判断更新"],
+    "tags-en": ["immediate grammar", "spoken", "reaction", "condition", "judgment update"],
+    "adjusted-expression-ja": "あ、それでしたら(話:はなし)は(別:べつ)です",
+    "adjusted-expression-en": "Oh, in that case, that changes things.",
+    "img-sub": "asorenarahhanashihabetsu01.png",
+    "example-ja": "A「(日曜日:にちようび)、ちょっと(手伝:てつだ)ってくれない？」 B「(日曜:にちよう)はちょっと...」 A「お(昼:ひる)はうなぎ、ごちそうするよ」 B「あ、それなら(話:はなし)は(別:べつ)」",
+    "example-en": "A: Could you give me a hand on Sunday? B: Sunday's a little difficult... A: I'll treat you to eel for lunch. B: **Oh, that changes things.**",
+    "notes-ja": "「あ、それなら話は別」は、それまでの判断を変えるような新しい条件や情報が示されたとき、その情報を「それなら」で即座に条件として取り込み、判断を更新する表現です。「話」は具体的な会話そのものではなく、いま問題になっている案件や判断の枠組み全体を指します。「別」は「別の話題」というより、「その条件なら先ほどまでとは判断が違う」という意味です。好条件を聞いて冗談めかして態度を変える場面でもよく使われます。",
+    "notes-en": "\"A, sore nara hanashi wa betsu\" is used when newly supplied information changes the speaker's judgment on the spot. \"Sore nara\" immediately takes the preceding information as a new condition, while \"hanashi wa betsu\" signals that the situation must now be evaluated differently. Here, \"hanashi\" does not literally mean a story or conversation; it refers more broadly to the matter under consideration. The expression is often used lightly or humorously when an unexpected favorable condition changes the speaker's attitude."
+  },
+  {
     "date": "2026.09.19",
     "day": "Sat",
     "number": 892,
