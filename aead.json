@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.09.21",
+    "day": "Mon",
+    "number": 894,
+    "index": "ayappayameta",
+    "title": "Actually, never mind.",
+    "expression-ja": "あ、やっぱやめた",
+    "roman-ja": "A, yappa yameta.",
+    "expression-en": "Actually, never mind.",
+    "variants-ja": ["あ、やっぱやめた", "いや、やっぱやめた", "やっぱ、やめとく", "あ、やめた"],
+    "variants-en": ["Actually, never mind.", "No, never mind.", "I think I'll skip it after all.", "Never mind."],
+    "intent-ja": ["いったん選んだり、しようとしたりしたことを、その場で思い直して撤回する表現", "成立しかけていた選択や行動を、実行する直前に取り消す表現", "直前までの自分の判断を即座に変更し、新しい行動へ切り替える表現", "口語的な表現"],
+    "intent-en": [
+      "expression used when the speaker reconsiders and immediately withdraws something they had just chosen or intended to do",
+      "expression canceling a choice or action just before it is carried out",
+      "expression marking an immediate change from the speaker's preceding decision to a new course of action",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "撤回", "選択変更", "思い直し", "行動変更", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "withdrawal", "change of choice", "reconsideration", "change of action", "immediate reaction"],
+    "adjusted-expression-ja": "(考:かんが)え(直:なお)して、やめることにしました。",
+    "adjusted-expression-en": "I reconsidered and decided not to do it.",
+    "img-sub": "ayappayameta01.png",
+    "example-ja": "A「(カレー:かれー)にする？」 B「うん。あ、やっぱやめた。(そば:そば)にする」",
+    "example-en": "A: Are you going to have the curry? B: Yeah. Actually, never mind. I'll have the soba.",
+    "notes-ja": "「あ、やっぱやめた」は、いったん何かを選んだり、しようと決めたりしたあとで、実行する直前に思い直し、その選択や行動をその場で撤回するときに使う表現です。「あ」は、話し手の中で判断の変更が生じた瞬間を示します。「やっぱ」は「やっぱり」の口語的な形で、直前までの判断や、それ以前からあった別の考えを背景にしながら、現在の判断へ切り替える働きをします。「やめた」は形の上では過去形ですが、ここでは過去にやめた出来事を報告しているのではなく、「今、この時点でやめることにした」という決定をその場で成立させています。そのため、この表現には、選択、実行直前の再考、撤回、新しい行動への切り替えという短い時間的な流れがあります。例文では、Bはいったんカレーを選びますが、注文する前に考えを変え、「あ、やっぱやめた」とその選択を撤回して、そばに切り替えています。",
+    "notes-en": "'A, yappa yameta' is used when speakers have just chosen something or decided to do something but reconsider immediately before carrying it out and withdraw that choice or action on the spot. 'A' marks the moment when the change of mind occurs. 'Yappa,' the conversational form of 'yappari,' connects the new decision with the speaker's immediately preceding judgment or with an alternative that had already been present in the background. Although 'yameta' has past-tense form, it does not primarily report an earlier event here. Instead, it performs a decision at the present moment: the speaker has now decided not to proceed. The expression therefore contains a short temporal sequence: a choice is made, reconsideration occurs just before execution, the choice is withdrawn, and the speaker shifts to another course of action. In the example, B initially chooses curry but changes their mind before ordering, says 'A, yappa yameta,' and switches to soba."
+  },
+  {
     "date": "2026.09.20",
     "day": "Sun",
     "number": 893,
