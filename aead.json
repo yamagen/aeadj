@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026.09.22",
+    "day": "Tue",
+    "number": 895,
+    "index": "aikesou",
+    "title": "Oh, this might work.",
+    "expression-ja": "あ、いけそう",
+    "roman-ja": "A, ikesou.",
+    "expression-en": "Oh, this might work.",
+    "variants-ja": ["あ、いけそう", "お、いけそう", "これ、いけそう", "あ、これならいけそう"],
+    "variants-en": ["Oh, this might work.", "Hey, this might work.", "This might work.", "Oh, this looks like it might work."],
+    "intent-ja": ["試している途中で、成功する可能性があると分かった瞬間に発する表現", "まだ成功していない段階で、状況の変化や手応えから成功可能性をその場で判断する表現", "何が成功しそうなのかを詳しく言わずに共有する表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately used when the speaker realizes during an attempt that success now seems possible",
+      "expression judging on the spot, before success is achieved, that the current situation or feedback indicates a good chance of success",
+      "expression leaving what seems likely to succeed unstated because it is shared in the situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "可能性", "予測", "試行", "成功予測", "即時判断"],
+    "tags-en": ["immediate grammar", "spoken", "possibility", "prediction", "attempt", "prediction of success", "immediate judgment"],
+    "adjusted-expression-ja": "この(方法:ほうほう)なら、うまくいきそうです。",
+    "adjusted-expression-en": "It looks as though this method may work.",
+    "img-sub": "aikesou01.png",
+    "example-ja": "A「それ、(入:はい)る？」 B「うーん...あ、いけそう」",
+    "example-en": "A: Will that fit? B: Hmm... oh, this might work.",
+    "notes-ja": "「あ、いけそう」は、何かを試している途中で、まだ成功してはいないものの、状況の変化や手応えから「このままならうまくいくかもしれない」と判断した瞬間に発する表現です。「あ」は、成功の可能性に気づいた瞬間を示します。ここでの「いける」は、どこかへ行くことができるという意味ではなく、「その方法でうまくいく」「実現できる」という意味です。「そう」は、まだ結果が確定していない段階で、目の前の状況や得られた手応えを根拠に可能性を判断する働きをします。そのため、「あ、いけそう」は成功そのものを報告する表現ではなく、試行の途中で成功の兆候を見つけたときの即時的な予測です。No.853「あ、いけた」が、試していたことが実際に成功したと分かった瞬間の結果確認であるのに対し、「あ、いけそう」は、その直前の段階で成功可能性を判断する表現です。例文では、入らないかもしれないと思っていたものを動かしてみて、少し調整すれば入りそうだと分かった瞬間に「あ、いけそう」と反応しています。",
+    "notes-en": "'A, ikesou' is an immediate expression used during an attempt when speakers realize that success has not yet been achieved but now appears possible from the current situation or feedback. 'A' marks the moment when the speaker notices the possibility of success. Here, 'ikeru' does not mean being able to go somewhere; it means that a method may work or that something may be feasible. 'Sou' indicates a judgment based on what the speaker can currently observe, before the result has been confirmed. For this reason, 'A, ikesou' does not report success itself. It expresses an immediate prediction made when signs of possible success appear during an ongoing attempt. Unlike No.853, 'A, iketa,' which confirms that an attempt has actually succeeded, 'A, ikesou' belongs to the immediately preceding stage, when the speaker judges that success now looks likely. In the example, the speaker is trying to fit something into a space and, after making an adjustment, realizes that it may now fit and responds, 'A, ikesou.'"
+  },
+  {
     "date": "2026.09.21",
     "day": "Mon",
     "number": 894,
