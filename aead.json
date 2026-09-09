@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026.09.24",
+    "day": "Thu",
+    "number": 897,
+    "index": "ususukizuiteta",
+    "title": "Yeah, I kind of figured.",
+    "expression-ja": "うすうす、(気:き)づいてた",
+    "roman-ja": "Ususu, kizuiteta.",
+    "expression-en": "Yeah, I kind of figured.",
+    "variants-ja": ["うすうす(気:き)づいてた", "まあ、うすうす(気:き)づいてた", "なんとなく(気:き)づいてた", "(実:じつ)は、うすうす(気:き)づいてた"],
+    "variants-en": ["I kind of figured.", "Yeah, I sort of knew.", "I had a feeling.", "Actually, I'd kind of figured."],
+    "intent-ja": [
+      "相手から事実をはっきり知らされたとき、それ以前から弱く察していたことをその場で示す表現",
+      "確定していなかった推測や認識が、新しい情報によって裏づけられたことを示す表現",
+      "以前から存在していた弱い認識と、今得た確定情報とを即時的に結びつける表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when a fact is explicitly revealed and the speaker says they had already weakly suspected it",
+      "expression indicating that an earlier uncertain impression or suspicion has just been confirmed by new information",
+      "expression immediately linking a prior weak awareness with newly confirmed information",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "気づき", "推測", "事前認識", "確定", "情報更新", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "awareness", "inference", "prior awareness", "confirmation", "information update", "immediate reaction"],
+    "adjusted-expression-ja": "(以前:いぜん)から、なんとなくそうではないかと(気:き)づいていました。",
+    "adjusted-expression-en": "I had already had a vague sense that this might be the case.",
+    "img-sub": "ususukizuiteta01.png",
+    "example-ja": "A「わたしたち、(付:つ)き(合:あ)ってるんです」 B「うん、うすうす、(気:き)づいてた」",
+    "example-en": "A: We're seeing each other. B: Yeah, I kind of figured.",
+    "notes-ja": "「うすうす、気づいてた」は、相手から事実をはっきり知らされたとき、それ以前からその事実を弱く察していたことを示す表現です。「うすうす」は、単に程度が弱いというだけではなく、いくつかの兆候や手がかりから何となく認識していたものの、まだ確証までは持っていなかった状態を表します。相手が事実を明言することで、それまで未確定だった認識が確定し、その瞬間に「実は前から少し気づいていた」と過去の認識を振り返って述べます。例文では、二人の様子から交際している可能性を以前から感じていたものの、本人たちから明言されるまでは確定していません。「うん」は、新しい情報を驚いて受け取るというより、すでにある程度予想していた内容を受け入れる反応です。「なんとなく気づいてた」も近い表現ですが、「うすうす」には、複数の兆候が少しずつ認識を形成していたという含みがより強くあります。",
+    "notes-en": "\"Ususu, kizuiteta\" is used when a fact is explicitly revealed and the speaker indicates that they had already weakly suspected or sensed it beforehand. \"Ususu\" does not simply mean \"a little\"; it suggests that the speaker had picked up on various signs or clues but had not yet reached full certainty. Once the other person states the fact clearly, the speaker's previously uncertain awareness becomes confirmed, and the speaker can retrospectively say that they had already noticed something was going on. In the example, the speaker had sensed from the couple's behavior that they might be together, but the matter remained unconfirmed until they said so directly. The initial \"un\" signals calm acceptance rather than surprise, fitting a situation in which the information was already partly expected. \"Nantonaku kizuiteta\" is similar, but \"ususu\" more strongly suggests that weak awareness had gradually formed from accumulating signs."
+  },
+  {
+    "date": "2026.09.23",
+    "day": "Wed",
+    "number": 896,
+    "index": "ahontoda",
+    "title": "Oh, you're right.",
+    "expression-ja": "あ、ほんとだ",
+    "roman-ja": "A, honto da.",
+    "expression-en": "Oh, you're right.",
+    "variants-ja": ["あ、ほんとだ", "ほんとだ", "あ、ほんとだね", "あ、(本当:ほんとう)ですね"],
+    "variants-en": ["Oh, you're right.", "You're right.", "Oh, that's true.", "Oh, you're right about that."],
+    "intent-ja": ["相手の指摘を受けて自分でも確認し、それが事実だと分かった瞬間に発する表現", "単なる同意ではなく、目の前の事実との一致をその場で確認する表現", "相手の発言内容を自分の新しい認識として受け入れる表現", "口語的な表現"],
+    "intent-en": [
+      "expression immediately used when the speaker checks the listener's observation and realizes that it is in fact true",
+      "expression confirming on the spot that the listener's statement matches the observable facts rather than merely agreeing with it",
+      "expression incorporating the listener's statement into the speaker's own newly established understanding",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "確認", "発見", "事実確認", "認識更新", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "confirmation", "discovery", "fact checking", "revision of understanding", "immediate reaction"],
+    "adjusted-expression-ja": "(確認:かくにん)したところ、(確:たし)かにそのとおりでした。",
+    "adjusted-expression-en": "I checked, and it was indeed as you said.",
+    "img-sub": "ahontoda01.png",
+    "example-ja": "A「それなら、(先週:せんしゅう)、(勉強:べんきょう)したよ」 B「あ、ほんとだ」",
+    "example-en": "A: In that case, we studied it last week. B: Oh, you're right.",
+    "notes-ja": "「あ、ほんとだ」は、相手から何かを指摘されたあと、自分でもその内容を確認し、それが実際に事実だと分かった瞬間に発する表現です。「あ」は、確認によって新しい認識が成立した瞬間を示します。「ほんとだ」は、相手の発言を単に受け入れるのではなく、目の前の情報や確認結果と照らし合わせて、それが事実であると自分でも認識したことを表します。そのため、「そうですね」のような一般的な同意とは異なり、「今、自分でも確認して分かった」という即時的な発見の性質があります。何が本当だったのかは直前の発言から明らかなため、詳しく繰り返す必要はありません。例文では、すでに登録済みの表現を再び候補として扱いかけたところ、No.854にあると指摘され、実際に確認して「あ、ほんとだ」と反応しています。この項目自体が、AEADの作業中に自然に生じた即時的な発話です。",
+    "notes-en": "'A, honto da' is an immediate expression used after the listener points something out and the speaker checks it for themselves and realizes that it is indeed true. 'A' marks the moment when the speaker's new understanding is established through confirmation. 'Honto da' does not simply accept the listener's statement as an opinion; it indicates that the speaker has compared the statement with the available facts or evidence and has independently recognized it as true. For this reason, the expression differs from a general agreement such as 'Sou desu ne.' It specifically conveys the sense of 'I just checked, and now I see that it really is true.' What has been confirmed does not need to be repeated because it is clear from the immediately preceding utterance. In the example, a previously registered expression is almost treated as a new candidate, but after being told that it already exists as No.854, the speaker checks and immediately responds, 'A, honto da.' The expression itself arose naturally during the AEAD work."
+  },
+  {
     "date": "2026.09.22",
     "day": "Tue",
     "number": 895,
