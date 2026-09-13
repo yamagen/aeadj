@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026.09.26",
+    "day": "Sat",
+    "number": 899,
+    "index": "asokoaita",
+    "title": "Oh, that table just opened up.",
+    "expression-ja": "あ、そこ(空:あ)いた",
+    "roman-ja": "A, soko aita.",
+    "expression-en": "Oh, that table just opened up.",
+    "variants-ja": ["あ、そこ(空:あ)いた", "あ、(空:あ)いた", "そこ(空:あ)いたよ", "あ、あそこ(空:あ)いた"],
+    "variants-en": ["Oh, that table just opened up.", "Oh, a spot opened up.", "That spot's free now.", "Oh, there's a table free over there."],
+    "intent-ja": [
+      "利用できなかった場所が利用可能になったことをその場で発見して知らせる表現",
+      "周囲を探している途中で状態の変化を検出し、その変化を即時的に共有する表現",
+      "何が空いたのかを詳しく言わず、その場の共有状況によって対象を特定する表現",
+      "発話と同時に、その場所へ向かうなどの次の行動を促す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression immediately announcing that a previously unavailable place has become available",
+      "expression used when the speaker detects a change in the environment while actively looking for an available place",
+      "expression leaving the exact type of place unstated because it is identifiable from the shared situation",
+      "expression that can immediately trigger a next action such as moving toward the newly available place",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "発見", "状態変化", "利用可能", "指示", "共同注意", "次行動", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "discovery", "change of state", "availability", "demonstrative", "joint attention", "next action", "immediate reaction"],
+    "adjusted-expression-ja": "あそこに(空:あ)いている(席:せき)ができました。",
+    "adjusted-expression-en": "A table has just become available over there.",
+    "img-sub": "asokoaita01.png",
+    "example-ja": "A「ぜんぜん(空:あ)いてないね」 B「あ、そこ(空:あ)いた」",
+    "example-en": "A: There aren't any tables free. B: Oh, that table just opened up.",
+    "notes-ja": "「あ、そこ空いた」は、使える場所を探している最中に、それまで利用できなかった場所が利用可能になったことを発見し、その変化をその場で相手に知らせる表現です。「あ」は、環境の変化を発見した瞬間を示します。「そこ」は、話し手と聞き手が同時に見ている場所を指し、「空いた」は、それまで人が使っていた場所が新たに利用可能になったことを表します。ここでは「席」や「テーブル」を明示する必要はありません。たとえばフードコートで席を探している場合、その場の共有状況によって「そこ」が何を指すのかはすぐに分かります。また、この発話は単なる状態報告ではありません。「あ、そこ空いた」と言った瞬間に、「では、そこへ行こう」という次の行動がほぼ自動的に立ち上がります。このように、環境探索、状態変化の検出、指示、共同注意、次行動が短い発話の中で連続して成立します。「空いた」は過去形ですが、過去の出来事を回想しているのではなく、たった今成立した新しい状態を即時的に報告しています。",
+    "notes-en": "'A, soko aita' is an immediate expression used when the speaker is looking for an available place and suddenly notices that a previously occupied or unavailable spot has become free. 'A' marks the instant of discovery. 'Soko' points to a location that both participants can identify within the shared visual situation, while 'aita' indicates that the place has just become available. The speaker does not need to say 'seat' or 'table' explicitly because the shared situation supplies that information. In a crowded food court, for example, both speakers can immediately understand what 'soko' refers to. The utterance is also more than a simple report of a state. Once the speaker says 'A, soko aita,' a next action such as moving toward the table can follow almost automatically. The expression therefore links environmental scanning, detection of a change of state, reference, joint attention, and immediate action. Although 'aita' is morphologically past tense, it does not function here as a retrospective report. It marks a newly established state that the speaker has just detected."
+  },
+  {
+    "date": "2026.09.25",
+    "day": "Fri",
+    "number": 898,
+    "index": "igaitohenki",
+    "title": "Actually, it's not that bad.",
+    "expression-ja": "(意外:いがい)と、(平気:へいき)",
+    "roman-ja": "Igai to, heiki.",
+    "expression-en": "Actually, it's not that bad.",
+    "variants-ja": ["(意外:いがい)と(平気:へいき)", "あ、(意外:いがい)と(平気:へいき)", "(意外:いがい)と(大丈夫:だいじょうぶ)", "(思:おも)ったより(平気:へいき)"],
+    "variants-en": ["Actually, it's not that bad.", "Oh, it's not as bad as I thought.", "Surprisingly, I'm fine.", "I'm actually okay."],
+    "intent-ja": ["実際に経験してみた結果、それまでの予想ほど問題がないとその場で判断する表現", "事前の予測と現在の感覚との差を示しながら評価を更新する表現", "心配していたほどつらくない、難しくない、問題ではないことを即時的に示す表現", "口語的な表現"],
+    "intent-en": [
+      "expression used when direct experience shows that something is less problematic than expected",
+      "expression used to update an evaluation by contrasting a prior expectation with the speaker's present experience",
+      "expression indicating on the spot that something is less difficult, unpleasant, or troublesome than anticipated",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "副詞", "予測", "予想外", "評価更新", "直接経験", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "adverb", "expectation", "unexpected result", "evaluation update", "direct experience", "immediate reaction"],
+    "adjusted-expression-ja": "(実際:じっさい)に(試:ため)してみると、(思:おも)っていたほど(問題:もんだい)ありません。",
+    "adjusted-expression-en": "Now that I've tried it, it isn't as bad as I expected.",
+    "img-sub": "igaitohenki01.png",
+    "example-ja": "A「(辛:から)くない？」 B「うん、(意外:いがい)と、(平気:へいき)」",
+    "example-en": "A: Isn't it spicy? B: Actually, it's not that bad.",
+    "notes-ja": "「意外と、平気」は、実際に何かを経験した結果、それまで予想していたほど問題がないとその場で判断するときに使う表現です。「意外と」は単に「予想外に」という出来事の性質を述べるだけでなく、話し手がそれまで持っていた予測と、いま得た経験や感覚との間に差があることを示します。例文では、料理がかなり辛いかもしれないという予想があり、実際に食べてみたところ、予想したほど辛くないことがわかります。その直接経験を受けて、それまでの評価を「意外と、平気」と即座に更新しています。「平気」は、辛さだけでなく、痛み、寒さ、緊張、難しさなど、話し手にとって負担になると予想されていたさまざまな状況について使えます。「思ったより平気」も近い表現ですが、「意外と」は事前の予測そのものを明示せず、予測と現在の経験との差を短く提示できるところに特徴があります。",
+    "notes-en": "\"Igai to, heiki\" is used when direct experience shows that something is less difficult, unpleasant, or troublesome than the speaker had expected. Here, \"igai to\" does more than describe an outcome as unexpected: it marks a discrepancy between a prior expectation and the speaker's present experience. In the example, the speaker expects the food to be quite spicy, tries it, and discovers that it is not as bad as anticipated. The expression immediately updates that earlier evaluation. \"Heiki\" can be used not only for spiciness but also for pain, cold, nervousness, difficulty, and other situations that were expected to cause discomfort or trouble. \"Omotta yori heiki\" is similar, but \"igai to\" allows the speaker to signal the mismatch between expectation and experience without explicitly stating what the earlier expectation was."
+  },
+  {
     "date": "2026.09.24",
     "day": "Thu",
     "number": 897,
