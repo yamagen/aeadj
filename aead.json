@@ -1,6 +1,101 @@
 [
   {
-    "date": "2026.09.26",
+    "date": "2026.09.28",
+    "day": "Mon",
+    "number": 901,
+    "index": "akokodeii",
+    "title": "Oh, here's fine.",
+    "expression-ja": "あ、ここでいい",
+    "roman-ja": "A, koko de ii.",
+    "expression-en": "Oh, here's fine.",
+    "variants-ja": ["あ、ここでいい", "ここでいいです", "あ、ここで(大丈夫:だいじょうぶ)です", "もうここでいいです"],
+    "variants-en": ["Oh, here's fine.", "Here's fine.", "You can let me out here.", "This is fine here."],
+    "intent-ja": [
+      "移動や探索の途中で、その場所で目的を満たせると判断した瞬間に使う表現",
+      "さらに先へ進む必要がないと判断し、進行中の移動や探索をその場で終了させる表現",
+      "場所そのものを高く評価するのではなく、その場所で十分であることを示す表現",
+      "現在の状況を見て、その場で新たに決定したことを表す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used at the moment when the speaker decides that the current location is sufficient for the immediate purpose",
+      "expression stopping an ongoing movement or search because there is no need to continue farther",
+      "expression indicating sufficiency rather than positively evaluating the place itself",
+      "expression marking a decision newly made in response to the current situation",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "場所", "判断", "十分性", "探索終了", "移動終了", "即時決定", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "location", "judgment", "sufficiency", "ending a search", "ending movement", "immediate decision", "immediate reaction"],
+    "adjusted-expression-ja": "この(場所:ばしょ)で(十分:じゅうぶん)です。",
+    "adjusted-expression-en": "This location is sufficient.",
+    "img-sub": "akokodeii01.png",
+    "example-ja": "A「もう(少:すこ)し(先:さき)まで(行:い)きますか？」 B「あ、ここでいいです」",
+    "example-en": "A: Shall I go a little farther? B: Oh, here's fine.",
+    "notes-ja": "「あ、ここでいい」は、移動や場所探しを続けている途中で、現在いる場所を見て「ここで目的を満たせる」と判断した瞬間に使う表現です。「あ」は、それまで確定していなかった判断がその場で成立したことを示します。「ここ」は現在の位置を指し、「で」は目的となる行為や状態が成立する場所を示します。「いい」はここでは場所の質を肯定的に評価する意味ではなく、「これ以上進まなくても、この場所で十分である」という十分性の判断を表します。そのため、英語では場面によって 'Here's fine.' や 'You can let me out here.' のように表すのが自然です。たとえばタクシーで降車場所を探しているとき、運転手からさらに先へ進むか尋ねられ、周囲を見て「あ、ここでいいです」と答えることができます。この発話によって、場所の探索や移動はその場で終了します。「ここでいい」は以前から決めていた地点を単に告げる場合にも使えますが、「あ」が付くことで、進行中の状況を見て今この瞬間に決定したという即時性が強く表れます。",
+    "notes-en": "'A, koko de ii' is used when, during an ongoing movement or search for a suitable place, the speaker looks at the current location and decides that it is sufficient for the immediate purpose. 'A' marks the moment when a previously unsettled decision becomes established. 'Koko' refers to the current location, while 'de' marks the place where the intended activity or state can be realized. 'Ii' does not primarily mean that the place is positively evaluated as good; rather, it indicates sufficiency: there is no need to continue any farther because the present location will do. Depending on the situation, natural English reactions include 'Here's fine' and 'You can let me out here.' For example, while riding in a taxi and looking for a place to get out, the passenger may be asked whether to continue farther and then reply, 'A, koko de ii desu.' The utterance immediately ends the ongoing search or movement. Although 'Koko de ii' can also state a location that had already been selected, the addition of 'a' strongly suggests that the decision has just been made in response to the developing situation."
+  }
+  ,
+  {
+    "date": "2026.09.27",
+    "day": "Sun",
+    "number": 900,
+    "index": "sasuganisorawaanai",
+    "title": "That's a bit much.",
+    "expression-ja": "さすがに、それはない",
+    "roman-ja": "Sasuga ni, sore wa nai.",
+    "expression-en": "That's a bit much.",
+    "variants-ja": [
+      "さすがに、それはない",
+      "いや、さすがにそれはない",
+      "それはさすがにない",
+      "さすがにそこまでは"
+    ],
+    "variants-en": [
+      "That's a bit much.",
+      "Come on, that's too much.",
+      "That's really pushing it.",
+      "I wouldn't go that far."
+    ],
+    "intent-ja": [
+      "相手の提案や行動が許容できる範囲を越えているとその場で判断する表現",
+      "ある程度までは受け入れられるが、今回の条件では限界を越えていることを示す表現",
+      "直前に提示された内容に対して即時的に強い否定評価を返す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used to judge on the spot that a proposal or action goes beyond an acceptable limit",
+      "expression indicating that something may be acceptable up to a point but has now crossed the line",
+      "expression used to give an immediate strongly negative evaluation of what was just proposed",
+      "colloquial expression"
+    ],
+    "tags-ja": [
+      "即時文法",
+      "口語",
+      "副詞",
+      "限界",
+      "許容範囲",
+      "否定評価",
+      "即時反応"
+    ],
+    "tags-en": [
+      "immediate grammar",
+      "spoken",
+      "adverb",
+      "limit",
+      "acceptable range",
+      "negative evaluation",
+      "immediate reaction"
+    ],
+    "adjusted-expression-ja": "それは、さすがに(許容:きょよう)できる(範囲:はんい)を(越:こ)えています。",
+    "adjusted-expression-en": "That goes beyond what I can reasonably accept.",
+    "img-sub": "sasuganisorawaanai01.png",
+    "example-ja": "A「あれ、支払い済み？田中さん、みんなの分も払ってくれたかな？」 B「いやいや、さすがに、それはない」",
+    "example-en": "A: Wait, has everything been paid? Did Tanaka pay for everyone too? B: Come on, that's a bit much.",
+    "notes-ja": "「さすがに、それはない」は、直前に提示された提案や行動が、話し手にとって許容できる範囲を越えているとその場で判断するときに使う表現です。ここでの「さすがに」は、「評判どおりに」「やはり優れている」という「さすが」の用法とは異なり、「ある程度までは認めるとしても、ここまで来ると無理だ」という限界判断を示します。「それはない」は、単に存在しないという意味ではなく、「その案は受け入れられない」「それは行き過ぎだ」という評価を表します。例文では、集合すること自体には同意できても、朝5時という条件が許容範囲を越えたため、「さすがに、それはない」と即時に評価を切り替えています。「さすがにそこまでは」のように述語を省略しても、限界を越えているという判断を示すことができます。",
+    "notes-en": "\"Sasuga ni, sore wa nai\" is used when the speaker immediately judges that a newly proposed action or condition goes beyond an acceptable limit. In this use, \"sasuga ni\" does not mean that something lives up to its reputation. Instead, it marks a boundary: something might be acceptable up to a certain point, but this particular case crosses that line. \"Sore wa nai\" does not literally mean that something does not exist; it evaluates the proposal as unreasonable, unacceptable, or too much. In the example, meeting itself may be acceptable, but five in the morning exceeds the speaker's limit, triggering an immediate negative judgment. A form such as \"sasuga ni soko made wa\" can express the same boundary even without stating the final predicate."
+  },
+{
+  "date": "2026.09.26",
     "day": "Sat",
     "number": 899,
     "index": "asokoaita",
