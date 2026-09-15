@@ -72,7 +72,7 @@ A Structured Collection of Immediate Expressions in Japanese
 
 <div class="meta">
   <p><strong>Author:</strong> Hilofumi Yamamoto, Institute of Science Tokyo</p>
-  <p><strong>Version:</strong> v1.0.0</p>
+  <p><strong>Version:</strong> v1.1.0</p>
   <p><strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.20782438">10.5281/zenodo.20782438</a></p>
   <p><strong>License:</strong> Creative Commons Attribution 4.0 International (CC BY 4.0)</p>
 </div>
@@ -132,7 +132,7 @@ cat >> "$out" <<'HTML'
     Recommended citation:
     Yamamoto, H. (2026).
     <em>An Expression A Day (AEAD): A Structured Collection of Immediate Expressions in Japanese</em>
-    (v1.0.0). Zenodo.
+    (v1.1.0). Zenodo.
     <a href="https://doi.org/10.5281/zenodo.20782438">https://doi.org/10.5281/zenodo.20782438</a>
   </p>
 
