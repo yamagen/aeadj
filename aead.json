@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.09.29",
+    "day": "Tue",
+    "number": 902,
+    "index": "tasukatta",
+    "title": "That really helps.",
+    "expression-ja": "(助:たす)かった",
+    "roman-ja": "Tasukatta.",
+    "expression-en": "That really helps.",
+    "variants-ja": ["(助:たす)かった", "あ、(助:たす)かった", "いや、(助:たす)かった", "ほんと、(助:たす)かった", "(助:たす)かったよ"],
+    "variants-en": ["That really helps.", "Oh, that's a big help.", "You saved me.", "That was a lifesaver.", "What a relief."],
+    "intent-ja": [
+      "困っていた状況や負担のある状況で、相手の行為や新しい出来事によってその困難が解消されたとその場で示す表現",
+      "必要としていた助けが得られたことを認識し、自分の状況が改善したことを即時的に示す表現",
+      "相手への感謝を直接述べるのではなく、その行為によって自分が助かったという結果を述べることで感謝も伝える表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when someone's action or a new development immediately resolves a difficulty or reduces a burden",
+      "expression indicating on the spot that needed help has been obtained and the speaker's situation has improved",
+      "expression that can convey gratitude indirectly by stating the beneficial result for the speaker rather than explicitly saying thanks",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "困難解消", "負担軽減", "結果認識", "感謝", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "difficulty resolved", "burden reduction", "result recognition", "gratitude", "immediate reaction"],
+    "adjusted-expression-ja": "それは(助:たす)かります。ありがとうございます。",
+    "adjusted-expression-en": "That is very helpful. Thank you.",
+    "img-sub": "tasukatta01.png",
+    "example-ja": "A「その(資料:しりょう)、(私:わたし)が(印刷:いんさつ)しておいたよ」 B「(助:たす)かった」",
+    "example-en": "A: I printed those materials for you. B: That really helps.",
+    "notes-ja": "「助かった」は、困っていた状況や負担のある状況で、相手の行為や新しい出来事によってその困難が解消されたと認識したときに使う表現です。形の上では動詞「助かる」の過去形ですが、単に過去の出来事を報告しているとは限りません。必要としていた助けが得られたことがわかった瞬間に、「これで自分の負担が減った」「これで困らなくてすむ」という現在の状況変化を即時的に示すことができます。例文では、資料を印刷する必要があったところ、相手がすでに印刷してくれていたことを知り、その作業を自分でする必要がなくなったことを「助かった」と表しています。また、「ありがとう」のように相手への感謝を直接述べるのではなく、自分に生じた好ましい結果を述べることで、結果的に感謝も伝えています。そのため英語では、状況に応じて \"That really helps,\" \"You saved me,\" \"That was a lifesaver,\" \"What a relief\" など異なる表現に対応します。",
+    "notes-en": "\"Tasukatta\" is used when the speaker recognizes that someone's action or a new development has resolved a difficulty or reduced a burden. Although it is morphologically the past form of \"tasukaru,\" it does not necessarily function simply as a report about a past event. It can be produced at the very moment the speaker realizes that needed help has become available and that the present situation has consequently improved. In the example, the speaker had a task that needed to be done but learns that the other person has already printed the materials, removing that burden. By saying \"tasukatta,\" the speaker focuses on the beneficial result for themselves. The expression can also convey gratitude without explicitly saying \"thank you\": instead of directly thanking the other person, the speaker states that the person's action has helped them out. Depending on the situation, natural English reactions include \"That really helps,\" \"You saved me,\" \"That was a lifesaver,\" and \"What a relief.\""
+  },
+  {
     "date": "2026.09.28",
     "day": "Mon",
     "number": 901,
