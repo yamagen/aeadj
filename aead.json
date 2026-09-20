@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.09.30",
+    "day": "Wed",
+    "number": 903,
+    "index": "amachigaeta",
+    "title": "Oops, I got it wrong.",
+    "expression-ja": "あ、(間違:まちが)えた",
+    "roman-ja": "A, machigaeta.",
+    "expression-en": "Oops, I got it wrong.",
+    "variants-ja": ["あ、(間違:まちが)えた", "(間違:まちが)えた", "あ、(間違:まちが)えちゃった", "あ、(間違:まちが)った"],
+    "variants-en": ["Oops, I got it wrong.", "Oops, wrong one.", "Oh, I made a mistake.", "Oops, I messed up."],
+    "intent-ja": [
+      "自分が直前に行った発話、選択、操作などに誤りがあったことに気づき、その場で示す表現",
+      "自分の行為の結果を見たり聞いたりして、意図していたものと違うことを即時的に認識する表現",
+      "誤りの認識を示すとともに、その直後の訂正ややり直しに入ることを示す表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when the speaker notices on the spot that something they have just said, selected, or done was incorrect",
+      "expression indicating an immediate recognition that the result of one's own action differs from what was intended",
+      "expression marking the detection of an error and the beginning of an immediate correction or retry",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "自己訂正", "誤り", "誤り検出", "自己修復", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "self-correction", "error", "error detection", "self-repair", "immediate reaction"],
+    "adjusted-expression-ja": "あ、(間違:まちが)えてしまいました。",
+    "adjusted-expression-en": "Oh, I made a mistake.",
+    "img-sub": "amachigaeta01.png",
+    "example-ja": "A「(次:つぎ)は3(番:ばん)を(押:お)して」 B「うん……あ、(間違:まちが)えた」",
+    "example-en": "A: Press number three next. B: Okay... Oops, wrong one.",
+    "notes-ja": "「あ、間違えた」は、自分が直前に行った発話、選択、入力、操作などに誤りがあったことを、その結果を見たり聞いたりして気づいた瞬間に使う表現です。「あ」は、誤りを認識した瞬間を示し、続く「間違えた」は、その誤りをその場で明示します。形の上では「間違える」の過去形ですが、過去の失敗について後から説明しているのではなく、直前の行為について「いま、間違っていたことがわかった」という即時的な認識を表すことができます。また、この発話は誤りを認識したことを示すだけでなく、その直後に訂正したり、正しいものを選び直したり、操作をやり直したりする自己修復の開始点にもなります。例文では、3番を押すように言われたにもかかわらず別のものを押し、その結果を見た瞬間に「あ、間違えた」と発話しています。「あ、違った」も認識の訂正に使われますが、「あ、間違えた」は自分自身の直前の行為に誤りがあったことを明示する点に特徴があります。",
+    "notes-en": "\"A, machigaeta\" is used at the moment speakers notice that something they have just said, selected, entered, or done was incorrect. The initial \"a\" marks the moment of recognition, while \"machigaeta\" identifies the immediately preceding action as a mistake. Although \"machigaeta\" is morphologically a past form, the expression need not be a later report about a past error. It can mark the immediate realization that an action just performed did not produce the intended result. The expression also commonly serves as the beginning of self-repair: after recognizing the error, the speaker may correct what was said, choose the correct item, or redo the action. In the example, the speaker is told to press number three, presses the wrong one, and says \"A, machigaeta\" as soon as the error becomes apparent. \"A, chigatta\" can also mark a correction of one's understanding, but \"A, machigaeta\" more explicitly identifies the speaker's own immediately preceding action as erroneous."
+  },
+  {
     "date": "2026.09.29",
     "day": "Tue",
     "number": 902,
