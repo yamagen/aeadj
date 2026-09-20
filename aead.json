@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.10.01",
+    "day": "Thu",
+    "number": 904,
+    "index": "neetakushiinoro",
+    "title": "Hey, wanna take a taxi?",
+    "expression-ja": "ねぇ、タクシー、(乗:の)ろ？",
+    "roman-ja": "Nee, takushii, noro?",
+    "expression-en": "Hey, wanna take a taxi?",
+    "variants-ja": ["ねぇ、タクシー、(乗:の)ろ？", "ねぇ、タクシー(乗:の)ろ？", "もう、タクシー(乗:の)ろ？", "タクシー、(乗:の)ろ？"],
+    "variants-en": ["Hey, wanna take a taxi?", "Wanna take a taxi?", "Why don't we just take a taxi?", "Let's take a taxi, okay?"],
+    "intent-ja": [
+      "その場の状況を受けて、相手に一緒にタクシーに乗ることを提案する表現",
+      "自分がある行動を取る方向に傾いていることを示しながら、相手にもその共同行動への同意を求める表現",
+      "「ねぇ」で相手の注意を引き、「乗ろ？」で一緒に行動することを軽く持ちかける表現",
+      "親しい相手とのくだけた会話で使われる表現"
+    ],
+    "intent-en": [
+      "expression used to suggest taking a taxi together in response to the immediate situation",
+      "expression indicating that the speaker is inclined toward a course of action while inviting the listener to agree to the joint action",
+      "expression using \"nee\" to get the listener's attention and \"noro?\" to make a light proposal for joint action",
+      "casual expression used with someone with whom the speaker has a familiar relationship"
+    ],
+    "tags-ja": ["即時文法", "口語", "提案", "共同行動", "同意", "働きかけ", "意向形", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "suggestion", "joint action", "agreement", "appeal", "volitional form", "immediate reaction"],
+    "adjusted-expression-ja": "ねぇ、タクシーに(乗:の)ろうか？",
+    "adjusted-expression-en": "Hey, shall we take a taxi?",
+    "img-sub": "neetakushiinoro01.png",
+    "example-ja": "A「まだ(駅:えき)まで20(分:ぷん)くらいかかるよ」 B「ねぇ、タクシー、(乗:の)ろ？」",
+    "example-en": "A: It's still about a twenty-minute walk to the station. B: Hey, wanna take a taxi?",
+    "notes-ja": "「ねぇ、タクシー、乗ろ？」は、その場の状況を受けて、相手に一緒にタクシーに乗ることを持ちかける表現です。「ねぇ」は相手の注意を引き、続く「タクシー」でこれから選択する移動手段を提示します。「乗ろ？」は意向形「乗ろう」のくだけた形ですが、単に自分の意志を述べるのではなく、上昇調などを伴って相手に同意を求めることで、共同行動への軽い誘いとして働きます。話し手はすでにタクシーに乗る方向に傾いていますが、一方的に決定するのではなく、相手にもその選択を受け入れるかどうかを尋ねています。例文では、駅までまだかなり歩かなければならないことがわかったところで、それまでの徒歩を続けるという前提を変更し、「ねぇ、タクシー、乗ろ？」と新しい共同行動を提案しています。「タクシーに乗ろう」と比べると、助詞「に」を省略し、「乗ろ？」と短く言うことで、親しい相手との会話に特徴的な軽い働きかけになっています。",
+    "notes-en": "\"Nee, takushii, noro?\" is a casual expression used to suggest taking a taxi together in response to the immediate situation. \"Nee\" gets the listener's attention, and \"takushii\" presents the transportation option that the speaker now wants the two of them to consider. \"Noro?\" is a casual form related to the volitional \"norou,\" but here it does more than state the speaker's own intention. With questioning intonation, it invites the listener to agree to a joint course of action. The speaker is already inclined toward taking a taxi but does not simply impose that decision on the other person. In the example, the speakers learn that they still have a considerable walk to the station, and this new situational information prompts a possible change from walking to taking a taxi. Compared with the fuller \"takushii ni norou,\" the omission of the particle \"ni\" and the short \"noro?\" make the expression a light, immediate proposal characteristic of casual conversation between people with a familiar relationship."
+  },
+  {
     "date": "2026.09.30",
     "day": "Wed",
     "number": 903,
