@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.10.02",
+    "day": "Fri",
+    "number": 905,
+    "index": "uwayacchatta",
+    "title": "Oh no, I messed up.",
+    "expression-ja": "うわ、やっちゃった",
+    "roman-ja": "Uwa, yacchatta.",
+    "expression-en": "Oh no, I messed up.",
+    "variants-ja": ["うわ、やっちゃった", "あ、やっちゃった", "やっちゃった", "うわー、やっちゃった"],
+    "variants-en": ["Oh no, I messed up.", "Oops, I messed up.", "I screwed up.", "Oh no, what have I done?"],
+    "intent-ja": [
+      "自分の行為によって望ましくない結果が生じてしまったことに気づき、その場で反応する表現",
+      "すでに行ってしまったことを簡単には取り消せないと認識し、失敗の成立を即時的に示す表現",
+      "「うわ」で望ましくない結果への反応を示し、「やっちゃった」でその結果を自分の行為として受け止める表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when the speaker realizes that their own action has produced an unwanted result",
+      "expression immediately recognizing that a mistake has already been made and may not be easily undone",
+      "expression using \"uwa\" to react to an undesirable outcome and \"yacchatta\" to acknowledge it as the result of the speaker's own action",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "失敗", "結果認識", "完了", "後悔", "自己認識", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "mistake", "result recognition", "completion", "regret", "self-recognition", "immediate reaction"],
+    "adjusted-expression-ja": "あ、(失敗:しっぱい)してしまいました。",
+    "adjusted-expression-en": "Oh, I made a mistake.",
+    "img-sub": "uwayacchatta01.png",
+    "example-ja": "A「(添付:てんぷ)、(入:はい)ってないよ」 B「うわ、やっちゃった」",
+    "example-en": "A: There's no attachment. B: Oh no, I messed up.",
+    "notes-ja": "「うわ、やっちゃった」は、自分がすでに行ったことによって望ましくない結果が生じてしまったと気づいた瞬間に使う表現です。「うわ」は、目の前の結果や新しく得た情報に対する即時的な反応を示します。「やっちゃった」は「やってしまった」のくだけた形で、単に何かを行ったことではなく、しない方がよかったことをすでにしてしまった、あるいは面倒な結果が成立してしまったという認識を表します。例文では、メールを送信したあとで添付ファイルが入っていなかったことを指摘され、その時点ではすでに送信という行為が完了しているため、「うわ、やっちゃった」と反応しています。No.903「あ、間違えた」が、自分の直前の行為に誤りがあったことを検出し、訂正ややり直しに入る自己修復を中心とするのに対し、「うわ、やっちゃった」は、望ましくない結果がすでに成立してしまったことの認識に重心があります。そのため、必ずしも何を間違えたかを明示できる場面だけでなく、物を壊した、忘れた、余計なことを言ったなど、自分の行為の結果を見て失敗に気づくさまざまな場面で使われます。",
+    "notes-en": "\"Uwa, yacchatta\" is used at the moment speakers realize that something they have already done has produced an undesirable result. \"Uwa\" marks an immediate reaction to the outcome or to newly received information, while \"yacchatta,\" a casual contraction of \"yatte shimatta,\" indicates that the action has already been completed and has resulted in something the speaker wishes had not happened. In the example, the speaker has already sent an email when the missing attachment is pointed out. Since the action has already been completed, the speaker reacts with \"Uwa, yacchatta.\" This differs from No.903, \"A, machigaeta,\" which focuses on detecting an error in one's immediately preceding action and often initiates correction or self-repair. \"Uwa, yacchatta\" instead foregrounds the realization that an unwanted result has already come about. It can therefore be used in many situations involving the consequences of one's own actions, such as breaking something, forgetting something, or saying something one should not have said."
+  },
+  {
     "date": "2026.10.01",
     "day": "Thu",
     "number": 904,
