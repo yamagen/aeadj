@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026.10.03",
+    "day": "Sat",
+    "number": 906,
+    "index": "aremada",
+    "title": "Oh, not yet?",
+    "expression-ja": "あれ、まだ？",
+    "roman-ja": "Are, mada?",
+    "expression-en": "Oh, not yet?",
+    "variants-ja": ["あれ、まだ？", "え、まだ？", "あれ、まだなの？", "まだ？"],
+    "variants-en": ["Oh, not yet?", "Huh, not yet?", "Oh, still not ready?", "Not yet?"],
+    "intent-ja": [
+      "すでに終わっている、または起きていると思っていたことが、まだその状態に達していないと知ってその場で反応する表現",
+      "話し手が予想していた完了時点と現在の状態とのずれを即時的に示す表現",
+      "「あれ」で予想との不一致に気づいたことを示し、「まだ？」で予想していた変化が未成立であることを確認する表現",
+      "口語的な表現"
+    ],
+    "intent-en": [
+      "expression used when the speaker discovers that something expected to be finished or to have happened has not happened yet",
+      "expression immediately marking a mismatch between the speaker's expected completion point and the current state",
+      "expression using \"are\" to mark the discovery of an unexpected discrepancy and \"mada?\" to confirm that the expected change has not yet occurred",
+      "colloquial expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "時間", "予測", "未完了", "予想外", "状態確認", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "time", "expectation", "incompletion", "unexpected state", "state confirmation", "immediate reaction"],
+    "adjusted-expression-ja": "あれ、まだ(終:お)わっていないのですか？",
+    "adjusted-expression-en": "Oh, hasn't it finished yet?",
+    "img-sub": "aremada01.png",
+    "example-ja": "A「もうできた？」 B「あと5(分:ふん)くらい」 A「あれ、まだ？」",
+    "example-en": "A: Is it ready? B: About five more minutes. A: Oh, not yet?",
+    "notes-ja": "「あれ、まだ？」は、話し手がすでに終わっている、または起きていると予想していたことが、実際にはまだその状態に達していないと知った瞬間に使う表現です。「あれ」は、話し手が持っていた予想と目の前の状況や新しく得た情報との間にずれがあることに気づいた反応を示します。「まだ？」は、予想していた変化や完了が現時点でも成立していないことを確認します。そのため、単なる進捗確認としての「まだ？」とは異なり、「あれ、まだ？」には、話し手がそれ以前にはすでに完了していると思っていたという時間的な予測が含まれます。例文では、話し手は料理がもうできている可能性を想定して「もうできた？」と尋ねていますが、「あと5分くらい」という返答によって、その予想より完了が遅いことを知り、「あれ、まだ？」と反応しています。「え、まだ？」では驚きがより前面に出ることがありますが、「あれ、まだ？」では、予想と現状の食い違いに気づいたという反応が明確に現れます。",
+    "notes-en": "\"Are, mada?\" is used when speakers discover that something they expected to be finished or to have happened has not yet reached that state. \"Are\" marks the moment when the speaker notices a discrepancy between a prior expectation and the situation or information now available. \"Mada?\" then confirms that the expected change or completion is still pending. This distinguishes the expression from a simple progress check using \"mada?\" alone: \"are, mada?\" normally implies that the speaker had expected the event to be complete by now. In the example, the speaker asks whether the food is ready, apparently expecting that it may already be finished. The answer \"about five more minutes\" reveals that completion is later than expected, prompting the immediate reaction \"Are, mada?\" The variant \"E, mada?\" may foreground surprise more strongly, whereas \"Are, mada?\" particularly highlights the speaker's recognition of a mismatch between expectation and the current state."
+  },
+  {
     "date": "2026.10.02",
     "day": "Fri",
     "number": 905,
