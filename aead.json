@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.04",
+    "day": "Sun",
+    "number": 907,
+    "index": "atowaneekkamadematsudake",
+    "title": "Now we just wait for the results.",
+    "expression-ja": "あとはね、(結果:けっか)が(出:で)るまで、(待:ま)つだけ",
+    "roman-ja": "Ato wa ne, kekka ga deru made, matsu dake.",
+    "expression-en": "Now we just wait for the results.",
+    "variants-ja": ["あとは、(待:ま)つだけ", "もう、あとは(待:ま)つだけ", "あとはね、(色:いろ)がつくまで、(待:ま)つだけ"],
+    "variants-en": ["Now all we have to do is wait.", "Now we just wait.", "Now we just wait until it changes color."],
+    "intent-ja": ["必要な作業が終わり、あとは結果や変化を待つだけだと示す表現", "能動的な作業から待機へ移ったことをその場で確認する表現", "口語的な表現"],
+    "intent-en": ["expression used when the necessary work is done and all that remains is to wait for a result or change", "expression marking the transition from active work to waiting", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "作業完了", "待機", "状態遷移"],
+    "tags-en": ["immediate grammar", "spoken", "completion", "waiting", "state transition"],
+    "adjusted-expression-ja": "(必要:ひつよう)な(作業:さぎょう)は(終:お)わったので、あとは(結果:けっか)を(待:ま)つだけです。",
+    "adjusted-expression-en": "The necessary work is done, so all that remains is to wait for the results.",
+    "img-sub": "atowanee01.png",
+    "example-ja": "A「もう(全部:ぜんぶ)(送:おく)った？」 B「うん。あとはね、(結果:けっか)が(出:で)るまで、(待:ま)つだけ」",
+    "example-en": "A: Have you sent everything in? B: Yeah. Now we just wait for the results.",
+    "notes-ja": "「あとはね、〜まで、待つだけ」は、必要な作業が終わり、次の変化や結果を待つ段階に入ったときに使う表現です。「あとは」は残された工程を示し、「待つだけ」は、話し手側ですることがもうないことを表します。",
+    "notes-en": "\"Ato wa ne, ... made, matsu dake\" is used when the necessary work is complete and the speakers have reached the stage of waiting for a change or result. \"Ato wa\" points to what remains, while \"matsu dake\" indicates that there is nothing more for the speaker to do."
+  },
+  {
     "date": "2026.10.03",
     "day": "Sat",
     "number": 906,
