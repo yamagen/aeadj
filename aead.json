@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.10.05",
+    "day": "Mon",
+    "number": 908,
+    "index": "oshietekurenainndamon",
+    "title": "Because you won't tell me.",
+    "expression-ja": "(教:おし)えてくれないんだもん",
+    "roman-ja": "Oshiete kurenain da mon.",
+    "expression-en": "Because you won't tell me.",
+    "variants-ja": ["(教:おし)えてくれないんだもん", "だって、(教:おし)えてくれないんだもん", "(教:おし)えてくれないんだもの"],
+    "variants-en": ["Because you won't tell me.", "Well, you won't tell me.", "But you won't tell me."],
+    "intent-ja": ["相手が情報を教えてくれないことを、自分の行動や状況の理由として示す表現", "相手への軽い不満を示しながら、自分の側の事情を弁解する表現", "くだけた会話で使われる表現"],
+    "intent-en": [
+      "expression presenting the other person's failure to provide information as a reason for the speaker's action or situation",
+      "expression combining a mild complaint with justification of the speaker's own position",
+      "casual spoken expression"
+    ],
+    "tags-ja": ["即時文法", "口語", "理由", "弁解", "不満", "んだもん"],
+    "tags-en": ["immediate grammar", "spoken", "reason", "justification", "complaint", "n da mon"],
+    "adjusted-expression-ja": "(教:おし)えてくれないからです。",
+    "adjusted-expression-en": "Because you won't tell me.",
+    "img-sub": "oshietekurenainndamon01.png",
+    "example-ja": "A「なんで(先:さき)に(聞:き)かなかったの？」 B「だって、(教:おし)えてくれないんだもん」",
+    "example-en": "A: Why didn't you ask earlier? B: Because you won't tell me.",
+    "notes-ja": "「教えてくれないんだもん」は、相手が教えてくれないことを理由として、自分の行動や状況を弁解するときに使う表現です。「んだもん」には、理由を示すとともに、相手への軽い不満や「仕方がない」という気持ちが含まれます。",
+    "notes-en": "\"Oshiete kurenain da mon\" presents the other person's failure to provide information as a reason for the speaker's action or situation. \"N da mon\" gives a reason while often adding a mild sense of complaint or justification."
+  },
+  {
     "date": "2026.10.04",
     "day": "Sun",
     "number": 907,
