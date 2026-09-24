@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.07",
+    "day": "Wed",
+    "number": 910,
+    "index": "amoukita",
+    "title": "Oh, it's here already.",
+    "expression-ja": "あ、もう(来:き)た",
+    "roman-ja": "A, mou kita.",
+    "expression-en": "Oh, it's here already.",
+    "variants-ja": ["あ、もう(来:き)た", "もう(来:き)た", "あ、もう(来:き)てる", "え、もう(来:き)たの？"],
+    "variants-en": ["Oh, it's here already.", "It's here already.", "Oh, it's already here.", "What, it's here already?"],
+    "intent-ja": ["まだ少し先だと思っていたものが、すでに到着したことにその場で気づく表現", "予想していた時点より早く出来事が起きたことを示す表現", "口語的な表現"],
+    "intent-en": ["expression used when the speaker notices that something expected later has already arrived", "expression marking that an event has occurred earlier than expected", "casual spoken expression"],
+    "tags-ja": ["即時文法", "口語", "到着", "時間", "予測", "予想外", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "arrival", "time", "expectation", "unexpected timing", "immediate reaction"],
+    "adjusted-expression-ja": "あ、もう(来:き)ました。",
+    "adjusted-expression-en": "Oh, it's already here.",
+    "img-sub": "amoukita01.png",
+    "example-ja": "A「(電車:でんしゃ)、あと(何分:なんぷん)？」 B「あ、もう(来:き)た」",
+    "example-en": "A: How many minutes until the train comes? B: Oh, it's here already.",
+    "notes-ja": "「あ、もう来た」は、まだ少し先だと思っていたものが、すでに到着したことに気づいたときに使う表現です。「あ」は到着への気づきを示し、「もう」は実際の到着が予想していた時点より早かったことを示します。",
+    "notes-en": "\"A, mou kita\" is used when the speaker notices that something expected a little later has already arrived. \"A\" marks the immediate recognition, while \"mou\" indicates that the arrival occurred earlier than expected."
+  },
+  {
     "date": "2026.10.06",
     "day": "Tue",
     "number": 909,
