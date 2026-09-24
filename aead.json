@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.06",
+    "day": "Tue",
+    "number": 909,
+    "index": "amouiiya",
+    "title": "Ah, never mind.",
+    "expression-ja": "あ、もういいや",
+    "roman-ja": "A, mou ii ya.",
+    "expression-en": "Ah, never mind.",
+    "variants-ja": ["あ、もういいや", "もういいや", "あー、もういいや", "もう、いいや"],
+    "variants-en": ["Ah, never mind.", "Never mind.", "Forget it.", "I'll leave it."],
+    "intent-ja": ["それまで続けようとしていた行動や意図を、その場で打ち切る表現", "これ以上続ける必要がない、または続けたくないと判断したことを示す表現", "くだけた会話で使われる表現"],
+    "intent-en": ["expression used to abandon an action or intention that the speaker had been pursuing", "expression indicating an immediate decision not to continue", "casual spoken expression"],
+    "tags-ja": ["即時文法", "口語", "中止", "断念", "意図変更", "即時判断"],
+    "tags-en": ["immediate grammar", "spoken", "stopping", "giving up", "change of intention", "immediate decision"],
+    "adjusted-expression-ja": "もう(続:つづ)けなくてもいいです。",
+    "adjusted-expression-en": "There's no need to continue.",
+    "img-sub": "amouiiya01.png",
+    "example-ja": "A「もう(少:すこ)し(探:さが)す？」 B「ううん、あ、もういいや」",
+    "example-en": "A: Want to keep looking a little longer? B: No, ah, never mind.",
+    "notes-ja": "「あ、もういいや」は、それまで続けようとしていた行動や意図を、その場で打ち切るときに使う表現です。「もういい」は十分だという判断を示し、「や」によって、これ以上続けないというくだけた決定を表します。",
+    "notes-en": "\"A, mou ii ya\" is used when the speaker decides on the spot to stop pursuing an action or intention. Rather than simply meaning that something is good, \"mou ii ya\" marks a casual decision that there is no need to continue."
+  },
+  {
     "date": "2026.10.05",
     "day": "Mon",
     "number": 908,
