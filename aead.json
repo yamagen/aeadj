@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.08",
+    "day": "Thu",
+    "number": 911,
+    "index": "nakanakaakiramegatsukanai",
+    "title": "It's hard to let it go.",
+    "expression-ja": "なかなか、あきらめがつかないねぇ",
+    "roman-ja": "Nakanaka, akirame ga tsukanai nee.",
+    "expression-en": "It's hard to let it go.",
+    "variants-ja": ["なかなか、あきらめがつかない", "まだ、あきらめがつかない", "どうも、あきらめがつかない"],
+    "variants-en": ["It's hard to let it go.", "I still can't let it go.", "I just can't quite give up on it."],
+    "intent-ja": ["終わった、または実現が難しいとわかっていても、まだ気持ちを切り替えられないことを示す表現", "時間がたっても対象への期待や思いが残っていることを示す表現", "口語的な表現"],
+    "intent-en": ["expression indicating difficulty letting go even though something is over or unlikely to happen", "expression indicating that hope or attachment remains despite the passage of time", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "なかなか", "あきらめ", "未完了", "心理状態"],
+    "tags-en": ["immediate grammar", "spoken", "nakanaka", "giving up", "incompletion", "mental state"],
+    "adjusted-expression-ja": "なかなか、あきらめることができません。",
+    "adjusted-expression-en": "I still find it difficult to let it go.",
+    "img-sub": "nakanakaakiramegatsukanai01.png",
+    "example-ja": "A「もう(売:う)り(切:き)れだって」 B「そうかぁ。なかなか、あきらめがつかないねぇ」",
+    "example-en": "A: They say it's already sold out. B: I see. It's hard to let it go.",
+    "notes-ja": "「なかなか、あきらめがつかないねぇ」は、もう難しいとわかっていても、まだ気持ちを切り替えられないときに使う表現です。「なかなか」は、時間がたっても期待した状態に至らないことを示します。",
+    "notes-en": "\"Nakanaka, akirame ga tsukanai nee\" is used when the speaker knows that something is difficult or no longer possible but still cannot let it go. \"Nakanaka\" indicates that the expected change in feeling has not occurred despite the passage of time."
+  },
+  {
     "date": "2026.10.07",
     "day": "Wed",
     "number": 910,
