@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.09",
+    "day": "Fri",
+    "number": 912,
+    "index": "tadatadasurudake",
+    "title": "Just keep doing it.",
+    "expression-ja": "ただただ、〜するだけ",
+    "roman-ja": "Tada tada, ... suru dake.",
+    "expression-en": "Just keep doing it.",
+    "variants-ja": ["ただただ、(寝:ね)るだけ", "ただただ、(手:て)を(動:うご)かすだけ", "ただただ、(食:た)べるだけ", "ただただ、(待:ま)つだけ"],
+    "variants-en": ["Just keep sleeping.", "Just keep working.", "Just keep eating.", "Just keep waiting."],
+    "intent-ja": ["同じ行為を、ほかの展開を挟まず延々と続けることを示す表現", "一つの行為だけが繰り返し、または持続していく状態を示す表現", "口語的な表現"],
+    "intent-en": ["expression indicating that the same action simply continues without any other development", "expression describing a state in which one action is repeated or sustained over time", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "ただただ", "継続", "反復", "持続"],
+    "tags-en": ["immediate grammar", "spoken", "tada tada", "continuation", "repetition", "duration"],
+    "adjusted-expression-ja": "ひたすら、(同:おな)じことを(続:つづ)けます。",
+    "adjusted-expression-en": "I simply keep doing the same thing.",
+    "img-sub": "tadatadasurudake01.png",
+    "example-ja": "A「(仕事:しごと)、(楽:たの)しい？」 B「いや、ただただ(検査:けんさ)するだけ」",
+    "example-en": "A: Do you enjoy your job? B: No, I just keep inspecting things, over and over.",
+    "notes-ja": "「ただただ、〜するだけ」は、一つの行為がほかの展開を挟まず、延々と続くことを示す表現です。「ただただ」は、同じ行為が持続する様子を強調します。",
+    "notes-en": "\"Tada tada, ... suru dake\" describes one action continuing on and on without any other development. \"Tada tada\" emphasizes the sustained or repeated nature of the action."
+  },
+  {
     "date": "2026.10.08",
     "day": "Thu",
     "number": 911,
