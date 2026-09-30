@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.12",
+    "day": "Mon",
+    "number": 915,
+    "index": "aredokoitta",
+    "title": "Huh, where did it go?",
+    "expression-ja": "あれ、どこいった？",
+    "roman-ja": "Are, doko itta?",
+    "expression-en": "Huh, where did it go?",
+    "variants-ja": ["あれ、どこいった？", "どこいった？", "あれ、どこいったっけ？"],
+    "variants-en": ["Huh, where did it go?", "Where'd it go?", "Huh, where did it go again?"],
+    "intent-ja": ["そこにあると思っていたものが見当たらないことに気づいた瞬間に発する表現", "見失った対象をその場で探し始めるときの表現", "口語的な表現"],
+    "intent-en": ["expression used upon noticing that something expected to be there is missing", "expression used as the speaker begins looking for something they have lost sight of", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "探索", "見失い", "気づき", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "searching", "losing sight", "realization", "immediate reaction"],
+    "adjusted-expression-ja": "あれ、どこにいったのでしょうか？",
+    "adjusted-expression-en": "Huh, where did it go?",
+    "img-sub": "aredokoitta01.png",
+    "example-ja": "A「さっきの(紙:かみ)、そこにあったよね？」 B「あれ、どこいった？」",
+    "example-en": "A: That paper was right there, wasn't it? B: Huh, where did it go?",
+    "notes-ja": "「あれ、どこいった？」は、そこにあると思っていたものが見当たらないことに気づき、その場で探し始めるときに使う表現です。「あれ」が気づきを示し、「どこいった？」によって見失った対象の探索が始まります。",
+    "notes-en": "\"Are, doko itta?\" is used when the speaker notices that something expected to be there is missing and immediately starts looking for it. \"Are\" marks the realization, while \"doko itta?\" initiates the search for the missing object."
+  },
+  {
     "date": "2026.10.11",
     "day": "Sun",
     "number": 914,
