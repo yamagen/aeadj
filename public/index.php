@@ -74,12 +74,14 @@ if ($query !== '') {
 ?>
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AEAD Search</title>
   <link rel="stylesheet" href="style.css?v=<?= $css_mtime ?>">
 </head>
+
 <body>
 
   <?php if (isset($selectedEntry)): ?>
@@ -108,7 +110,7 @@ if ($query !== '') {
 
   <?php else: ?>
   <div class="header">
-    <a href="https://cuckoo.js.ila.titech.ac.jp/~yamagen/picture/">
+    <a href="https://plover.js.ila.titech.ac.jp/~yamagen/picture/">
       <img class="logo" src="images/colloqjseal01.png" alt="Logo">
     </a>
     <div class="title-form">
@@ -121,8 +123,11 @@ if ($query !== '') {
         Reference for colloquial Japanese expressions in AEAD
         <br>
       </span>
+      <a href="https://zenodo.org/records/22760403" class="themecolor">
+        Zenodo: Workbook
+      </a>
       <a href="https://github.com/yamagen/aeadj" class="themecolor">
-        Github: An Expression A Day
+        Github: Repository
       </a>
     </div>
   </div>
