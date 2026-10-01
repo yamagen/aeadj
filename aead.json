@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.13",
+    "day": "Tue",
+    "number": 916,
+    "index": "kokodeii",
+    "title": "Is here okay?",
+    "expression-ja": "ここでいい？",
+    "roman-ja": "Koko de ii?",
+    "expression-en": "Is here okay?",
+    "variants-ja": ["ここでいい？", "ここでいいの？", "ここで(大丈夫:だいじょうぶ)？", "この(辺:へん)でいい？"],
+    "variants-en": ["Is here okay?", "Is this the right place?", "Is it okay here?", "Is around here okay?"],
+    "intent-ja": ["現在の場所でよいかを相手にその場で確認する表現", "場所を候補として示し、相手の承認を求める表現", "口語的な表現"],
+    "intent-en": ["expression used to ask whether the current location is acceptable", "expression presenting a place as a candidate and seeking the listener's approval", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "場所", "確認", "承認", "選択"],
+    "tags-en": ["immediate grammar", "spoken", "location", "confirmation", "approval", "choice"],
+    "adjusted-expression-ja": "ここでよろしいですか？",
+    "adjusted-expression-en": "Is this location okay?",
+    "img-sub": "kokodeii01.png",
+    "example-ja": "A「(荷物:にもつ)、どこに(置:お)く？」 B「ここでいい？」",
+    "example-en": "A: Where should I put the bag? B: Is here okay?",
+    "notes-ja": "「ここでいい？」は、現在の場所を候補として示し、そこでよいかを相手に確認する表現です。No.901「あ、ここでいい」が話し手自身の決定を示すのに対し、「ここでいい？」は相手の承認を求めます。",
+    "notes-en": "\"Koko de ii?\" presents the current location as a candidate and asks the listener to approve it. Unlike No.901, \"A, koko de ii,\" which marks the speaker's own decision, this expression seeks confirmation from the listener."
+  },
+  {
     "date": "2026.10.12",
     "day": "Mon",
     "number": 915,
