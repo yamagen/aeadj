@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.15",
+    "day": "Thu",
+    "number": 918,
+    "index": "abbuna",
+    "title": "Whoa, that was close!",
+    "expression-ja": "あっぶな！",
+    "roman-ja": "Abbuna!",
+    "expression-en": "Whoa, that was close!",
+    "variants-ja": ["あっぶな！", "(危:あぶ)な！", "あっぶなー！"],
+    "variants-en": ["Whoa, that was close!", "That was close!", "Whoa!"],
+    "intent-ja": ["危険に気づいた瞬間に飛び出す即時的な反応", "危険をぎりぎりで回避した瞬間に発する表現", "判断して説明するより先に出る口語的な表現"],
+    "intent-en": ["immediate reaction that bursts out at the moment the speaker notices danger", "expression used at the moment a danger is narrowly avoided", "colloquial reaction produced before the situation is deliberately described or evaluated"],
+    "tags-ja": ["即時文法", "口語", "危険", "回避", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "danger", "avoidance", "immediate reaction"],
+    "adjusted-expression-ja": "(危:あぶ)ないところでした。",
+    "adjusted-expression-en": "That was close.",
+    "img-sub": "abbuna01.png",
+    "example-ja": "A「あっぶな！ (落:お)ちるところだった」 B「ぎりぎりだったね」",
+    "example-en": "A: Whoa, that was close! I almost dropped it. B: Yeah, just barely.",
+    "notes-ja": "「あっぶな！」は、危険に気づいた瞬間や、ぎりぎりで危険を回避した瞬間に飛び出す表現です。「危ない」を単に短くした表現というより、状況を説明したり判断したりするより先に出る即時的な反応です。",
+    "notes-en": "\"Abbuna!\" is an immediate reaction that bursts out when the speaker notices danger or narrowly avoids it. Rather than simply being a shortened form of \"abunai,\" it functions as a spontaneous reaction that can occur before the speaker deliberately describes or evaluates the situation."
+  },
+  {
     "date": "2026.10.14",
     "day": "Wed",
     "number": 917,
