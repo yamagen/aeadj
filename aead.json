@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.14",
+    "day": "Wed",
+    "number": 917,
+    "index": "chottotsumete",
+    "title": "Could you move over a little?",
+    "expression-ja": "ちょっと(詰:つ)めていただけませんか？",
+    "roman-ja": "Chotto tsumete itadakemasen ka?",
+    "expression-en": "Could you move over a little?",
+    "variants-ja": ["ちょっと(詰:つ)めていただけませんか？", "ちょっと(詰:つ)められる？"],
+    "variants-en": ["Could you move over a little?", "Can you move over a little?"],
+    "intent-ja": ["座る場所などを作るため、相手に少し詰めてもらう表現", "相手の身体を動かしてもらう際に、直接的な要求を避けて依頼する表現", "口語的な表現"],
+    "intent-en": ["expression asking someone to move over slightly to make room", "expression making the request without directly telling the listener to move", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "依頼", "空間", "身体移動", "状況可能", "配慮"],
+    "tags-en": ["immediate grammar", "spoken", "request", "space", "physical movement", "situational possibility", "consideration"],
+    "adjusted-expression-ja": "少し(場所:ばしょ)を(空:あ)けていただけませんか？",
+    "adjusted-expression-en": "Could you make a little room?",
+    "img-sub": "chottotsumeteitadakemasenka01.png",
+    "example-ja": "A「もう(一人:ひとり)(座:すわ)りたいんだけど、ちょっと(詰:つ)められる？」 B「うん、(大丈夫:だいじょうぶ)」",
+    "example-en": "A: One more person needs to sit down. Can you move over a little? B: Yeah, sure.",
+    "notes-ja": "「ちょっと詰めていただけませんか？」は、相手に少し身体を動かして空間を作ってもらう表現です。カジュアルな場面でも使えます。「ちょっと詰められる？」の可能形は、相手の能力ではなく、その場にもう少し詰める余地があるかという状況の可能性を尋ねています。",
+    "notes-en": "\"Chotto tsumete itadakemasen ka?\" asks someone to move slightly to make room and can also be used in casual situations. In \"Chotto tsumerareru?\", the potential form does not primarily ask about the listener's ability; it asks whether the situation allows for a little more room to be made."
+  },
+  {
     "date": "2026.10.13",
     "day": "Tue",
     "number": 916,
