@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.16",
+    "day": "Fri",
+    "number": 919,
+    "index": "mudanishichatta",
+    "title": "I wasted food.",
+    "expression-ja": "(食:た)べ(物:もの)、(無駄:むだ)にしちゃった。",
+    "roman-ja": "Tabemono, muda ni shichatta.",
+    "expression-en": "I wasted food.",
+    "variants-ja": ["(食:た)べ(物:もの)、(無駄:むだ)にしちゃった。", "ご(飯:はん)、(無駄:むだ)にしちゃった。", "これ、(無駄:むだ)にしちゃった。"],
+    "variants-en": ["I wasted food.", "I wasted the food.", "I ended up wasting this."],
+    "intent-ja": ["食べ物を食べきれなかったり使えなくしたりして、無駄にしてしまったことを認める表現", "望ましくない結果がすでに生じたことへの後悔を示す表現", "口語的な表現"],
+    "intent-en": ["expression acknowledging that food was wasted or could no longer be used", "expression showing regret about an undesirable result that has already occurred", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "食べ物", "無駄", "後悔", "結果"],
+    "tags-en": ["immediate grammar", "spoken", "food", "waste", "regret", "result"],
+    "adjusted-expression-ja": "(食:た)べ(物:もの)を(無駄:むだ)にしてしまいました。",
+    "adjusted-expression-en": "I ended up wasting the food.",
+    "img-sub": "mudanishichatta01.png",
+    "example-ja": "A「これ、もう(食:た)べられないね」 B「うん。(食:た)べ(物:もの)、(無駄:むだ)にしちゃった」",
+    "example-en": "A: We can't eat this anymore. B: Yeah. I wasted food.",
+    "notes-ja": "「食べ物、無駄にしちゃった」は、食べ物を食べきれなかったり使えなくしたりして、無駄にしてしまったことを認める表現です。「しちゃった」によって、望ましくない結果がすでに生じたことへの後悔が表れます。",
+    "notes-en": "\"Tabemono, muda ni shichatta\" acknowledges that food has been wasted. \"Shichatta\" conveys regret that an undesirable result has already occurred."
+  },
+  {
     "date": "2026.10.15",
     "day": "Thu",
     "number": 918,
