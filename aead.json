@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.17",
+    "day": "Sat",
+    "number": 920,
+    "index": "madaikeru",
+    "title": "It's still good.",
+    "expression-ja": "まだいける",
+    "roman-ja": "Mada ikeru.",
+    "expression-en": "It's still good.",
+    "variants-ja": ["まだいける", "これ、まだいける", "あ、まだいける"],
+    "variants-en": ["It's still good.", "This is still okay.", "Oh, it's still good."],
+    "intent-ja": ["対象を見たり確かめたりして、まだ使用・飲食などが可能だと判断する表現", "限界に達したと思われたものが、まだ許容範囲にあるとその場で判断する表現", "口語的な表現"],
+    "intent-en": ["expression used after checking something and judging that it can still be used, eaten, or otherwise accepted", "expression indicating an immediate judgment that something has not yet reached its limit", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "まだ", "いける", "状況可能", "許容範囲", "即時判断"],
+    "tags-en": ["immediate grammar", "spoken", "mada", "ikeru", "situational possibility", "acceptable range", "immediate judgment"],
+    "adjusted-expression-ja": "これはまだ(大丈夫:だいじょうぶ)です。",
+    "adjusted-expression-en": "This is still okay.",
+    "img-sub": "madaikeru01.png",
+    "example-ja": "A「これ、もう(捨:す)てる？」 B「いや、まだいける」",
+    "example-en": "A: Should we throw this away? B: No, it's still good.",
+    "notes-ja": "「まだいける」は、対象を見たり確かめたりして、まだ許容範囲にあると判断するときの表現です。「いける」は人の能力ではなく、その対象について使用・飲食などがまだ可能であるという状況を表します。",
+    "notes-en": "\"Mada ikeru\" is used when the speaker checks something and judges that it is still within an acceptable range. Here, \"ikeru\" does not describe a person's ability but the situational possibility that the item can still be used, eaten, or otherwise accepted."
+  },
+  {
     "date": "2026.10.16",
     "day": "Fri",
     "number": 919,
