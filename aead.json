@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.18",
+    "day": "Sun",
+    "number": 921,
+    "index": "ikiikishiteru",
+    "title": "You seem really lively lately.",
+    "expression-ja": "(最近:さいきん)、(生:い)き(生:い)きしてる",
+    "roman-ja": "Saikin, ikiiki shiteru.",
+    "expression-en": "You seem really lively lately.",
+    "variants-ja": ["(最近:さいきん)、(生:い)き(生:い)きしてる", "(最近:さいきん)、なんか(生:い)き(生:い)きしてる", "(最近:さいきん)、(生:い)き(生:い)きしてるね"],
+    "variants-en": ["You seem really lively lately.", "You seem kind of lively lately.", "You've seemed really lively lately."],
+    "intent-ja": ["相手の最近の様子から、以前より活力が感じられることを伝える表現", "一定期間の観察から相手の状態の変化を指摘する表現", "口語的な表現"],
+    "intent-en": ["expression indicating that the listener has seemed more lively recently", "expression pointing out a change noticed through observation over a period of time", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "生き生き", "最近", "状態変化", "観察", "対人評価"],
+    "tags-en": ["immediate grammar", "spoken", "lively", "recently", "change of state", "observation", "interpersonal evaluation"],
+    "adjusted-expression-ja": "(最近:さいきん)、とても(生:い)き(生:い)きしていますね。",
+    "adjusted-expression-en": "You seem very lively lately.",
+    "img-sub": "ikiikishiteru01.png",
+    "example-ja": "A「(何:なに)かあった？ (最近:さいきん)、(生:い)き(生:い)きしてる」 B「(別:べつ)に」",
+    "example-en": "A: Something happen? You seem really lively lately. B: Not really.",
+    "notes-ja": "「最近、生き生きしてる」は、相手の表情や話し方、行動などから、以前より活力が感じられることを指摘する表現です。「最近」によって、今だけの状態ではなく、一定期間に見られる変化として捉えています。",
+    "notes-en": "\"Saikin, ikiiki shiteru\" points out that the listener has recently seemed more lively in their expression, speech, or behavior. \"Saikin\" frames this not as a momentary state but as a change observed over a period of time."
+  },
+  {
     "date": "2026.10.17",
     "day": "Sat",
     "number": 920,
