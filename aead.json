@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.19",
+    "day": "Mon",
+    "number": 922,
+    "index": "minakattakotonishiyou",
+    "title": "Let's pretend I didn't see that.",
+    "expression-ja": "(見:み)なかったことにしよう",
+    "roman-ja": "Minakatta koto ni shiyou.",
+    "expression-en": "Let's pretend I didn't see that.",
+    "variants-ja": ["(見:み)なかったことにしよう", "(今:いま)の、(見:み)なかったことにして", "(何:なに)も(見:み)なかったことにしよう", "(見:み)なかったことにするね"],
+    "variants-en": ["Let's pretend I didn't see that.", "Pretend I didn't see that.", "Let's pretend I didn't see anything.", "I'll pretend I didn't see that."],
+    "intent-ja": ["実際には見たことを、以後のやり取りでは見なかったものとして扱う表現", "その場で知ったことを問題にしないことを相手に伝える表現", "口語的な表現"],
+    "intent-en": ["expression treating something actually seen as if it had not been seen in the subsequent interaction", "expression indicating that the speaker will not make an issue of what was just observed", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "見なかったことにする", "共有状況", "相互行為", "不問", "即時判断"],
+    "tags-en": ["immediate grammar", "spoken", "pretending not to have seen", "shared situation", "interaction", "letting something pass", "immediate decision"],
+    "adjusted-expression-ja": "(今:いま)のことは(見:み)なかったことにします。",
+    "adjusted-expression-en": "I'll pretend I didn't see what just happened.",
+    "img-sub": "minakattakotonishiyou01.png",
+    "example-ja": "A「あ...」 B「あ...」 A「(見:み)なかったことにしよう」",
+    "example-en": "A: Oh... B: Oh... A: Let's pretend I didn't see that.",
+    "notes-ja": "「見なかったことにしよう」は、実際には見たことを、以後のやり取りでは見なかったものとして扱う表現です。何を見たのかを言わなくても、その場の状況が共有されていれば成立します。",
+    "notes-en": "\"Minakatta koto ni shiyou\" treats something the speaker actually saw as if it had not been seen for the purposes of the interaction. What was seen does not need to be stated when it is already clear from the shared situation."
+  },
+  {
     "date": "2026.10.18",
     "day": "Sun",
     "number": 921,
