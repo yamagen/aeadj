@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.21",
+    "day": "Wed",
+    "number": 924,
+    "index": "sonohende",
+    "title": "That's good, thanks!",
+    "expression-ja": "あ、そのへんで",
+    "roman-ja": "A, sono hen de.",
+    "expression-en": "That's good, thanks!",
+    "variants-ja": ["あ、そのへんで", "そのへんで(大丈夫:だいじょうぶ)です", "あ、そのくらいで", "はい、そこまでで"],
+    "variants-en": ["That's good, thanks!", "That's enough, thank you.", "Oh, that's about right.", "Right there, thanks."],
+    "intent-ja": ["相手が何かをしている最中に、ちょうどよい程度に達したことを伝える表現", "相手の動作をその場で止めてもらう表現", "口語的な表現"],
+    "intent-en": ["expression indicating that an ongoing action has reached a sufficient degree", "expression prompting someone to stop what they are doing at that moment", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "程度", "動作の停止", "共有状況", "即時判断"],
+    "tags-en": ["immediate grammar", "spoken", "degree", "stopping an action", "shared situation", "immediate judgment"],
+    "adjusted-expression-ja": "そのくらいで(結構:けっこう)です。",
+    "adjusted-expression-en": "That's enough, thank you.",
+    "img-sub": "sonohende01.png",
+    "example-ja": "A「これくらい？」 B「あ、そのへんで。ありがとう」",
+    "example-en": "A: About this much? B: That's good, thanks!",
+    "notes-ja": "「あ、そのへんで」は、相手の動作がちょうどよい程度に達したときに使う表現です。「そのへん」は物理的な場所ではなく、その場で観察している量や程度を指します。動作を止めるよう明示しなくても、相手はその意図を理解できます。",
+    "notes-en": "\"A, sono hen de\" is used when someone's ongoing action reaches a sufficient degree. Here, \"sono hen\" refers not to a physical location but to the amount or degree being observed. The listener understands that the action should stop, even though stopping is not explicitly requested."
+  },
+  {
     "date": "2026.10.20",
     "day": "Tue",
     "number": 923,
