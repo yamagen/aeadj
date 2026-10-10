@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.22",
+    "day": "Thu",
+    "number": 925,
+    "index": "imanonashi",
+    "title": "Wait, scratch that!",
+    "expression-ja": "あ、(今:いま)のなし！",
+    "roman-ja": "A, ima no nashi!",
+    "expression-en": "Wait, scratch that!",
+    "variants-ja": ["あ、(今:いま)のなし！", "(今:いま)の(取:と)り(消:け)し！", "さっきのなしで", "あ、なしなし！"],
+    "variants-en": ["Wait, scratch that!", "I take that back!", "Forget what I said earlier.", "No, scratch that!"],
+    "intent-ja": ["直前に自分が言ったことを、その場で取り消す表現", "いったん提示した内容を、以後のやり取りでは有効なものとして扱わないことを示す表現", "口語的な表現"],
+    "intent-en": ["expression immediately retracting something the speaker has just said", "expression indicating that a previously stated proposal or statement should no longer be treated as valid", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "取り消し", "発話", "共有状況", "即時修正"],
+    "tags-en": ["immediate grammar", "spoken", "retraction", "utterance", "shared situation", "immediate correction"],
+    "adjusted-expression-ja": "(今:いま)の(発言:はつげん)は(取:と)り(消:け)します。",
+    "adjusted-expression-en": "I withdraw what I just said.",
+    "img-sub": "imanonashi01.png",
+    "example-ja": "A「じゃ、(明日:あした)の10(時:じ)に。あ、(今:いま)のなし！ (明日:あした)、(休:やす)みだった」",
+    "example-en": "A: Okay, tomorrow at ten. Wait, scratch that! Tomorrow's a holiday.",
+    "notes-ja": "「あ、今のなし！」は、直前の自分の発話をその場で取り消す表現です。「今の」は直前の発話を指し、「なし」によって、その内容を以後のやり取りで有効なものとして扱わないことを示します。",
+    "notes-en": "\"A, ima no nashi!\" is used to retract something the speaker has just said. \"Ima no\" refers to the immediately preceding utterance, while \"nashi\" indicates that it should no longer be treated as valid in the ongoing interaction."
+  },
+  {
     "date": "2026.10.21",
     "day": "Wed",
     "number": 924,
