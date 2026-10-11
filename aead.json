@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.23",
+    "day": "Fri",
+    "number": 926,
+    "index": "emou",
+    "title": "Already?",
+    "expression-ja": "え、もう？",
+    "roman-ja": "E, mou?",
+    "expression-en": "Already?",
+    "variants-ja": ["え、もう？", "えっ、もう？", "もう？ (早:はや)いね", "え、もう(終:お)わったの？"],
+    "variants-en": ["Already?", "What, already?", "Already? That was quick!", "What, you're done already?"],
+    "intent-ja": ["予想より早く出来事が成立したことへの驚きを表す表現", "相手の発話や目の前の状況から、予想していた時間との差に気づいた瞬間の反応", "口語的な表現"],
+    "intent-en": ["expression reacting with surprise when something happens sooner than expected", "expression marking the moment when the speaker recognizes a difference between the expected timing and the actual situation", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "驚き", "時間", "予想", "共有状況", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "surprise", "time", "expectation", "shared situation", "immediate reaction"],
+    "adjusted-expression-ja": "もう(終:お)わったのですか？",
+    "adjusted-expression-en": "Have you finished already?",
+    "img-sub": "emou01.png",
+    "example-ja": "A「はい、できたよ」 B「え、もう？」 A「うん、(簡単:かんたん)だったから」",
+    "example-en": "A: All done! B: Already? A: Yeah, it was easy.",
+    "notes-ja": "「え、もう？」は、予想より早く出来事が成立したことに気づいた瞬間の反応です。「え」は驚きを表し、「もう」は予想していた時点より早いことを示します。何が成立したのかを明示しなくても、直前の発話や共有状況によって理解されます。",
+    "notes-en": "\"E, mou?\" is an immediate reaction to something happening sooner than expected. \"E\" expresses surprise, while \"mou\" indicates that the event has occurred earlier than anticipated. The event itself need not be stated because it is understood from the preceding utterance or shared situation."
+  },
+  {
     "date": "2026.10.22",
     "day": "Thu",
     "number": 925,
