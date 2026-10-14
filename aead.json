@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.10.26",
+    "day": "Mon",
+    "number": 929,
+    "index": "sokokara",
+    "title": "You're starting that far back?",
+    "expression-ja": "え、そこから？",
+    "roman-ja": "E, soko kara?",
+    "expression-en": "You're starting that far back?",
+    "variants-ja": ["え、そこから？", "そこから？", "え、そこから(話:はな)すの？", "え、(最初:さいしょ)から？"],
+    "variants-en": ["You're starting that far back?", "From there?", "You're going to start the story there?", "Wait, from the very beginning?"],
+    "intent-ja": ["相手が選んだ説明の出発点が予想よりも前であることに驚く表現", "説明が始まった瞬間に、その開始位置に対する意外さや軽い抗議を示す表現", "何を始めるのかを明示せず、共有状況から理解させる口語的な表現"],
+    "intent-en": [
+      "expression reacting with surprise when someone begins an explanation further back than expected",
+      "expression conveying surprise or mild protest at the starting point of an explanation",
+      "colloquial expression leaving the activity unstated because it is understood from the shared situation"
+    ],
+    "tags-ja": ["即時文法", "口語", "驚き", "説明", "開始位置", "共有状況", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "surprise", "explanation", "starting point", "shared situation", "immediate reaction"],
+    "adjusted-expression-ja": "そのようなところから(説明:せつめい)を(始:はじ)めるのですか？",
+    "adjusted-expression-en": "Are you going to begin your explanation that far back?",
+    "img-sub": "sokokara01.png",
+    "example-ja": "A「(昨日:きのう)、どうなったの？」 B「それがね、そもそも(先週:せんしゅう)の(月曜日:げつようび)に...」 A「え、そこから？」",
+    "example-en": "A: So, what happened yesterday? B: Well, it all started last Monday... A: You're starting that far back?",
+    "notes-ja": "「え、そこから？」は、相手が説明を始めた位置が予想よりも前であることに気づいた瞬間の反応です。「そこ」は物理的な場所ではなく、説明の出発点を指します。何を始めるのかは明示されていませんが、直前の発話から理解されます。驚きだけでなく、軽い抗議やユーモアを伴うこともあります。",
+    "notes-en": "\"E, soko kara?\" is an immediate reaction to someone beginning an explanation further back than expected. \"Soko\" refers not to a physical location but to the starting point of the explanation. The activity itself remains unstated because it is understood from the preceding utterance. The expression may convey surprise, mild protest, or humor."
+  },
+  {
     "date": "2026.10.25",
     "day": "Sun",
     "number": 928,
