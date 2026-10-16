@@ -1,5 +1,61 @@
-[
-  {
+[{
+  "date": "2026.10.27",
+  "day": "Tue",
+  "number": 930,
+  "index": "miotoshiteta",
+  "title": "Oh, I missed that.",
+  "expression-ja": "あ、(見落:みお)としてた。",
+  "roman-ja": "A, miotoshiteta.",
+  "expression-en": "Oh, I missed that.",
+  "variants-ja": [
+    "あ、(見落:みお)としてた。",
+    "そこ、(見:み)てなかった。",
+    "あ、(見逃:みのが)してた。",
+    "あ、(気:き)づかなかった。"
+  ],
+  "variants-en": [
+    "Oh, I missed that.",
+    "I didn't see that part.",
+    "Oh, I overlooked that.",
+    "Oh, I didn't notice that."
+  ],
+  "intent-ja": [
+    "確認すべきものを見落としていたことにその場で気づく表現",
+    "相手の指摘や目の前の状況をきっかけに、それまでの自分の認識不足を認める表現",
+    "見落とした対象を明示せず、共有状況から理解させる口語的な表現"
+  ],
+  "intent-en": [
+    "expression used upon realizing that something that should have been noticed was overlooked",
+    "expression acknowledging a gap in one's previous awareness after a prompt from another person or the immediate situation",
+    "colloquial expression leaving the overlooked item unstated because it is understood from the shared situation"
+  ],
+  "tags-ja": [
+    "即時文法",
+    "口語",
+    "見落とし",
+    "気づき",
+    "認識修正",
+    "共有状況",
+    "即時反応"
+  ],
+  "tags-en": [
+    "immediate grammar",
+    "spoken",
+    "oversight",
+    "realization",
+    "recognition update",
+    "shared situation",
+    "immediate reaction"
+  ],
+  "adjusted-expression-ja": "(確認:かくにん)が(漏:も)れていました。",
+  "adjusted-expression-en": "I had overlooked that.",
+  "img-sub": "miotoshiteta01.png",
+  "example-ja": "A「この(欄:らん)、まだ(空白:くうはく)だよ。」 B「あ、(見落:みお)としてた。」",
+  "example-en": "A: This field is still blank. B: Oh, I missed that.",
+  "notes-ja": "「あ、見落としてた」は、確認すべきものをそれまで認識していなかったことに気づいた瞬間の反応です。「あ」は気づきが生じた瞬間を示し、「見落としてた」は、それ以前に対象を認識できていなかったことを振り返ります。何を見落としていたのかは、直前の発話や目の前の状況から理解されるため、明示する必要がありません。",
+  "notes-en": "\"A, miotoshiteta\" is an immediate reaction upon realizing that something that should have been noticed was previously overlooked. \"A\" marks the moment of realization, while \"miotoshiteta\" looks back on the speaker's earlier failure to notice it. What was overlooked need not be stated because it is understood from the preceding utterance or the immediate situation."
+}
+,  {
     "date": "2026.10.26",
     "day": "Mon",
     "number": 929,
