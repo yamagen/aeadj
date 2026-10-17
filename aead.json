@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.10.29",
+    "day": "Thu",
+    "number": 932,
+    "index": "soresakiniitteyo",
+    "title": "You should've told me sooner!",
+    "expression-ja": "それ、(先:さき)に(言:い)ってよ。",
+    "roman-ja": "Sore, saki ni itte yo.",
+    "expression-en": "You should've told me sooner!",
+    "variants-ja": ["それ、(早:はや)く(言:い)ってよ。", "なんで(先:さき)に(言:い)わないの？", "(先:さき)に(言:い)ってくれればよかったのに。", "え、それ(今:いま)(言:い)う？"],
+    "variants-en": ["You should've told me earlier.", "Why didn't you tell me sooner?", "I wish you'd told me sooner.", "Wait, you're telling me that now?"],
+    "intent-ja": ["重要な情報を後になって知らされ、もっと早く知りたかったとその場で反応する表現", "その情報を早く知っていれば対応が違ったことを含意する表現", "直前に提示された情報を「それ」で受け、情報そのものを繰り返さずに反応する口語的な表現"],
+    "intent-en": [
+      "expression used as an immediate reaction when important information is revealed later than expected",
+      "expression implying that earlier knowledge of the information could have changed the speaker's response or actions",
+      "colloquial expression using \"sore\" to refer to information just given without repeating its content"
+    ],
+    "tags-ja": ["即時文法", "口語", "情報", "後出し", "不満", "共有状況", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "information", "late disclosure", "complaint", "shared situation", "immediate reaction"],
+    "adjusted-expression-ja": "それは(先:さき)に(言:い)ってほしかったです。",
+    "adjusted-expression-en": "I wish you had told me that sooner.",
+    "img-sub": "soresakiniitteyo01.png",
+    "example-ja": "A「(今日:きょう)の(会議:かいぎ)、(中止:ちゅうし)になったんだって」 B「えっ、それ、(先:さき)に(言:い)ってよ」",
+    "example-en": "A: I heard today's meeting was canceled. B: What? You should've told me sooner!",
+    "notes-ja": "「それ、先に言ってよ」は、重要な情報を後になって知らされ、もっと早く知りたかったとその場で反応する表現です。「それ」は直前に提示された情報を指すため、その内容を繰り返す必要がありません。「先に」は何より先なのかを明示しなくても、現在の状況から適切な情報伝達の時点が理解されます。また、「言ってよ」は形式上は相手に発話を求めていますが、すでに情報が伝えられた後で使われるため、実際には過去の情報伝達の遅さに対する不満を表します。",
+    "notes-en": "\"Sore, saki ni itte yo\" is an immediate reaction when the speaker receives important information later than they would have wanted. \"Sore\" refers to the information just presented, so its content does not need to be repeated. \"Saki ni\" leaves unstated exactly what the information should have preceded because the relevant timing is understood from the immediate situation. Although \"itte yo\" formally asks the other person to tell the speaker, it is used here after the information has already been given and therefore functions as a complaint about its late disclosure."
+  },
+  {
     "date": "2026.10.28",
     "day": "Wed",
     "number": 931,
@@ -21,7 +48,7 @@
     "adjusted-expression-ja": "いずれは(終:お)わります。",
     "adjusted-expression-en": "It will eventually come to an end.",
     "img-sub": "itsukawaowaru01.png",
-    "example-ja": "A「まだまだ(終:お)わりそうにないね。」 B「まあ、いつかは(終:お)わるよ。」",
+    "example-ja": "A「まだまだ(終:お)わりそうにないね」 B「まあ、いつかは(終:お)わるよ」",
     "example-en": "A: It doesn't look like we'll finish anytime soon. B: Well, it'll end eventually.",
     "notes-ja": "「いつかは終わる」は、終わる時期を特定できない状況で、それでも現在の状態はいずれ終わると捉える表現です。「いつか」は時期を特定せず、「は」によってその不特定の時点を取り立てています。長く続く仕事や困難な状況の中で、自分自身や相手に言い聞かせるように使われ、文脈や言い方によって励ましにも諦観にもなります。",
     "notes-en": "\"Itsuka wa owaru\" expresses the expectation that a continuing situation will eventually end, even though the time of its ending is unknown. \"Itsuka\" leaves the time unspecified, while \"wa\" highlights that indefinite future point. The expression can be used to reassure oneself or another person during a prolonged task or difficult situation, and depending on the immediate context and tone, it may convey either encouragement or resignation."
@@ -48,7 +75,7 @@
     "adjusted-expression-ja": "(確認:かくにん)が(漏:も)れていました。",
     "adjusted-expression-en": "I had overlooked that.",
     "img-sub": "miotoshiteta01.png",
-    "example-ja": "A「この(欄:らん)、まだ(空白:くうはく)だよ。」 B「あ、(見落:みお)としてた。」",
+    "example-ja": "A「この(欄:らん)、まだ(空白:くうはく)だよ」 B「あ、(見落:みお)としてた」",
     "example-en": "A: This field is still blank. B: Oh, I missed that.",
     "notes-ja": "「あ、見落としてた」は、確認すべきものをそれまで認識していなかったことに気づいた瞬間の反応です。「あ」は気づきが生じた瞬間を示し、「見落としてた」は、それ以前に対象を認識できていなかったことを振り返ります。何を見落としていたのかは、直前の発話や目の前の状況から理解されるため、明示する必要がありません。",
     "notes-en": "\"A, miotoshiteta\" is an immediate reaction upon realizing that something that should have been noticed was previously overlooked. \"A\" marks the moment of realization, while \"miotoshiteta\" looks back on the speaker's earlier failure to notice it. What was overlooked need not be stated because it is understood from the preceding utterance or the immediate situation."
@@ -129,7 +156,7 @@
     "adjusted-expression-ja": "(問題:もんだい)は(解決:かいけつ)しました。",
     "adjusted-expression-en": "The problem has been resolved.",
     "img-sub": "ikkenrakuchaku01.png",
-    "example-ja": "A「あった！ (鞄:かばん)の(底:そこ)に(入:はい)ってた」 B「ああ、(一件落着:いっけんらくちゃく)。」",
+    "example-ja": "A「あった！ (鞄:かばん)の(底:そこ)に(入:はい)ってた」 B「ああ、(一件落着:いっけんらくちゃく)」",
     "example-en": "A: Found it! It was at the bottom of my bag. B: Ah, case closed.",
     "notes-ja": "「一件落着」は、問題が解決したことを確認し、その件についてのやり取りを終える表現です。「一件」が何を指すのかは、その場の共有状況から理解されます。やや改まった響きがあり、日常の小さな問題に使うと軽いユーモアが生まれることもあります。",
     "notes-en": "\"Ikken rakuchaku\" acknowledges that a problem has been resolved and brings the interaction concerning it to a close. What the case refers to is understood from the shared situation. The expression has a somewhat formal tone, which can create a lightly humorous effect when used for a minor everyday problem."
@@ -221,7 +248,7 @@
     "adjusted-expression-ja": "こんなところでお(会:あ)いするとは(思:おも)いませんでした。",
     "adjusted-expression-en": "I didn't expect to see you here.",
     "img-sub": "konnatokorode01.png",
-    "example-ja": "A「あれ、こんなところで！」 B「えっ、こんなところで……」",
+    "example-ja": "A「あれ、こんなところで！」 B「えっ、こんなところで...」",
     "example-en": "A: Oh, fancy seeing you here! B: Oh... fancy seeing you here.",
     "notes-ja": "「えっ、こんなところで」は、予想外の場所で知人に出会った瞬間の反応です。「こんなところで」の後を言わなくても、その場の相手と場所によって発話が成立します。この例では、休日に学生と出会った先生の戸惑いや気まずさが表れています。",
     "notes-en": "\"E, konna tokoro de\" is an immediate reaction to unexpectedly encountering someone familiar. The speaker does not need to complete the utterance because the person and place are already present in the shared situation. In this example, a professor's unexpected encounter with a student on a day off creates a moment of awkwardness."
@@ -3729,7 +3756,7 @@
     "date": "2026.06.09",
     "day": "Tue",
     "number": 790,
-    "index": "asakinierande",
+    "index": "sakinierande",
     "title": "Ah, you choose first.",
     "expression-ja": "あ、(先:さき)に(選:えら)んで？",
     "roman-ja": "a, saki ni erande?",
@@ -3742,7 +3769,7 @@
     "tags-en": ["immediate grammar", "spoken", "choice-yielding expression", "consideration expression", "colloquial expression"],
     "adjusted-expression-ja": "(あなた:あなた)が(先:さき)に(選:えら)んでください。",
     "adjusted-expression-en": "Please choose first.",
-    "img-sub": "asakinierande01.png",
+    "img-sub": "sakinierande01.png",
     "example-ja": "A「この(ケーキ:けーき)、どれにする？」 B「うーん、あ、(先:さき)に(選:えら)んで？」 A「じゃあ、お(先:さき)に」",
     "example-en": "A: Which cake do you want? B: Hmm... oh, you choose first. A: Okay, I'll go first.",
     "notes-ja": "「あ、先に選んで？」は、自分が選ぶ前に、相手に先に選んでもらう表現です。「あ、」によって、その場で相手に譲る判断が立ち上がり、「選んで？」で軽く相手に選択を渡しています。",
