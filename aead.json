@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.10.31",
+    "day": "Sat",
+    "number": 934,
+    "index": "imakara",
+    "title": "Wait, right now?",
+    "expression-ja": "え、(今:いま)から？",
+    "roman-ja": "E, ima kara?",
+    "expression-en": "Wait, right now?",
+    "variants-ja": ["(今:いま)から？", "え、もう(始:はじ)めるの？", "(今:いま)すぐ？", "ちょっと、(今:いま)から？"],
+    "variants-en": ["Right now?", "Wait, we're starting already?", "Right now?", "Wait, right now?"],
+    "intent-ja": ["何かが予想より早く始まると知り、その場で反応する表現", "何を始めるのかを言わず、開始時点だけを問題にする表現", "口語的な表現"],
+    "intent-en": ["expression used when something is about to begin sooner than expected", "expression focusing on the starting time while leaving the action unstated", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "驚き", "時間", "開始", "予想外", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "surprise", "time", "beginning", "unexpectedness", "immediate reaction"],
+    "adjusted-expression-ja": "(今:いま)から(始:はじ)めるのですか？",
+    "adjusted-expression-en": "Are we starting now?",
+    "img-sub": "imakara01.png",
+    "example-ja": "A「じゃあ、これから(会議:かいぎ)(始:はじ)めよう」 B「え、(今:いま)から？」",
+    "example-en": "A: Okay, let's start the meeting. B: Wait, right now?",
+    "notes-ja": "「え、今から？」は、何かが予想より早く始まると知った瞬間の反応です。「今から」だけで、何を始めるのかを言わずに開始時点への驚きやためらいを示します。",
+    "notes-en": "\"E, ima kara?\" is an immediate reaction to learning that something is about to begin sooner than expected. The action itself is left unstated, while \"ima kara\" expresses surprise or hesitation about its starting time."
+  },
+  {
     "date": "2026.10.30",
     "day": "Fri",
     "number": 933,
