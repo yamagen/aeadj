@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.01",
+    "day": "Sun",
+    "number": 935,
+    "index": "sokomadede",
+    "title": "That's enough, thanks.",
+    "expression-ja": "あ、そこまでで",
+    "roman-ja": "A, soko made de.",
+    "expression-en": "That's enough, thanks.",
+    "variants-ja": ["あ、そこまでで", "あ、そのくらいで", "はい、そこまで", "あ、もう(大丈夫:だいじょうぶ)です"],
+    "variants-en": ["That's enough, thanks.", "That's about enough.", "Okay, that's enough.", "That's fine, thanks."],
+    "intent-ja": ["進行中の動作が十分なところまで来たと判断し、その場で止めてもらう表現", "何を止めるのかを言わず、その場の状況から理解させる表現", "口語的な表現"],
+    "intent-en": ["expression used to stop an ongoing action when it has reached a sufficient point", "expression leaving the action unstated because it is understood from the immediate situation", "colloquial expression"],
+    "tags-ja": ["即時文法", "口語", "動作", "停止", "到達点", "共有状況", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "action", "stopping", "endpoint", "shared situation", "immediate reaction"],
+    "adjusted-expression-ja": "そのくらいで(結構:けっこう)です。",
+    "adjusted-expression-en": "That will be enough, thank you.",
+    "img-sub": "sokomadede01.png",
+    "example-ja": "A「もう(少:すこ)し(入:い)れますか？」 B「あ、そこまでで」",
+    "example-en": "A: Would you like a little more? B: That's enough, thanks.",
+    "notes-ja": "「あ、そこまでで」は、進行中の動作が十分なところまで来たと判断し、その場で止めてもらう表現です。「そこまで」で動作の到達点を示し、何を止めるのかは目の前の状況から理解されます。",
+    "notes-en": "\"A, soko made de\" is used to stop an ongoing action when it has reached a sufficient point. \"Soko made\" marks the endpoint, while the action itself is understood from the immediate situation."
+  },
+  {
     "date": "2026.10.31",
     "day": "Sat",
     "number": 934,
