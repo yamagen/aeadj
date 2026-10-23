@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.11.04",
+    "day": "Wed",
+    "number": 938,
+    "index": "souhaittehamitamonono",
+    "title": "Having said that...",
+    "expression-ja": "そうは(言:い)ってはみたものの",
+    "roman-ja": "Sō wa itte wa mita mono no.",
+    "expression-en": "Having said that...",
+    "variants-ja": ["そうは(言:い)ったものの", "(言:い)ってはみたものの", "そう(言:い)ったはいいけど"],
+    "variants-en": ["Having said that...", "I said that, but...", "I said that, but now..."],
+    "intent-ja": ["自分で何かを言ったあと、その発言どおりには簡単にいかないと考え直す表現", "直前までの自分の発言を受け、その実行や妥当性に留保を加える表現", "後続する内容を言わなくても、ためらいや問題の存在を示す表現"],
+    "intent-en": [
+      "expression used after saying something and then realizing that acting on it may not be so easy",
+      "expression adding a reservation to the speaker's own preceding statement",
+      "expression indicating hesitation or a problem even when what follows is left unstated"
+    ],
+    "tags-ja": ["即時文法", "口語", "発話", "留保", "再考", "自己修正", "未完結"],
+    "tags-en": ["immediate grammar", "spoken", "utterance", "reservation", "reconsideration", "self-revision", "unfinished utterance"],
+    "adjusted-expression-ja": "そう(言:い)ったものの、(実際:じっさい)には(簡単:かんたん)ではありません。",
+    "adjusted-expression-en": "Having said that, it is not actually so easy.",
+    "img-sub": "souhaittehamitamonono01.png",
+    "example-ja": "A「(全部:ぜんぶ)(自分:じぶん)でやるって(言:い)ってたよね」 B「そうは(言:い)ってはみたものの……」",
+    "example-en": "A: You said you'd do it all yourself, right? B: Having said that...",
+    "notes-ja": "「そうは言ってはみたものの」は、自分の発言を振り返り、そのまま実行することへの留保を示す表現です。「言ってはみた」によって、実際にそう言った後で問題が見えてきたことを表します。後を言わなくても、再考やためらいが伝わります。",
+    "notes-en": "\"Sō wa itte wa mita mono no\" looks back on the speaker's own statement and adds a reservation to it. \"Itte wa mita\" suggests that the speaker did actually say it, but subsequently recognized a problem. The expression can convey reconsideration or hesitation even when nothing follows."
+  },
+  {
     "date": "2026.11.03",
     "day": "Tue",
     "number": 937,
