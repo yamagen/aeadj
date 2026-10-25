@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.11.08",
+    "day": "Sun",
+    "number": 942,
+    "index": "souarumonjanai",
+    "title": "It doesn't come along very often.",
+    "expression-ja": "そうあるもんじゃない",
+    "roman-ja": "Sou aru mon janai.",
+    "expression-en": "It doesn't come along very often.",
+    "variants-ja": ["そうそうあるもんじゃない", "そんなにあるもんじゃない", "めったにあるもんじゃない", "そうあるものではない"],
+    "variants-en": ["You don't come across that very often.", "That's not something you see every day.", "It's pretty rare.", "Such things don't occur very often."],
+    "intent-ja": ["そのような人・物・機会などはめったに存在しないことを伝える表現", "直前に示された性質や状況を「そう」で受け、それが珍しいことを評価する表現", "珍しさを示すことで、その人・物・機会などの価値を暗に強調する表現"],
+    "intent-en": [
+      "expression used to say that a person, thing, opportunity, or situation like that is rarely encountered",
+      "expression in which \"sou\" refers back to a previously mentioned quality or situation and evaluates it as unusual",
+      "expression that can implicitly emphasize the value of something by pointing out its rarity"
+    ],
+    "tags-ja": ["即時文法", "口語", "希少性", "評価", "指示", "共有状況"],
+    "tags-en": ["immediate grammar", "spoken", "rarity", "evaluation", "reference", "shared situation"],
+    "adjusted-expression-ja": "そうあるものではありません。",
+    "adjusted-expression-en": "Such opportunities do not come along very often.",
+    "img-sub": "20261108-souarumonjanai.png",
+    "example-ja": "A「うわ、こんなのまた(見:み)られるかな」 B「そうあるもんじゃないよ」",
+    "example-en": "A: Wow, I wonder if I'll get to see something like this again. B: You don't get to see something like this very often.",
+    "notes-ja": "「そうあるもんじゃない」は、そのような人・物・機会などがめったに存在しないことを表します。「そう」は直前に示された性質や状況を受けます。単に「いつもそうではない」という意味ではなく、珍しさを表し、文脈によっては「だから大切にしたほうがいい」という含意も生じます。",
+    "notes-en": "\"Sou aru mon janai\" means that a person, thing, opportunity, or situation like that is rarely encountered. \"Sou\" refers back to a quality or situation already established in the conversation. Rather than simply meaning \"it's not always like that,\" the expression emphasizes rarity and may imply that the opportunity should not be taken for granted."
+  },
+  {
     "date": "2026.11.07",
     "day": "Sat",
     "number": 941,
