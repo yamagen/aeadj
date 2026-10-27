@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.11.09",
+    "day": "Mon",
+    "number": 943,
+    "index": "mouaruyo",
+    "title": "We already have some.",
+    "expression-ja": "もうあるよ",
+    "roman-ja": "Mou aru yo.",
+    "expression-en": "We already have some.",
+    "variants-ja": ["もうあるから", "まだあるよ", "もう(十分:じゅうぶん)あるよ", "あるから(大丈夫:だいじょうぶ)"],
+    "variants-en": ["We already have some.", "We still have some.", "We already have enough.", "We have some, so we're fine."],
+    "intent-ja": ["相手が用意しようとしているものがすでにあることを伝える表現", "直前に話題になったものを繰り返さず、その存在を伝える表現", "すでにあることを伝えることで、相手がこれからしようとしている行動が不要であることを示す表現"],
+    "intent-en": [
+      "expression used to tell someone that something they are about to obtain or prepare is already available",
+      "expression that refers to something just mentioned without repeating it",
+      "expression that can indicate that a planned action is unnecessary because the relevant thing is already available"
+    ],
+    "tags-ja": ["即時文法", "口語", "省略", "共有状況", "行動調整", "既存"],
+    "tags-en": ["immediate grammar", "spoken", "ellipsis", "shared situation", "action regulation", "already available"],
+    "adjusted-expression-ja": "もうありますよ。",
+    "adjusted-expression-en": "We already have some.",
+    "img-sub": "20261109-mouaruyo.png",
+    "example-ja": "A「(牛乳:ぎゅうにゅう)、(買:か)ってこようか？」 B「もうあるよ」",
+    "example-en": "A: Shall I go get some milk? B: We already have some.",
+    "notes-ja": "「もうあるよ」は、直前に話題になったものを繰り返さず、それがすでにあることを伝える表現です。この例では、単に牛乳の存在を知らせるだけでなく、「だから買ってこなくていい」という相手の次の行動への調整も含まれます。",
+    "notes-en": "\"Mou aru yo\" tells someone that the thing just mentioned is already available without repeating its name. In this example, it does more than state that there is milk: it also indicates that the proposed action of going to buy some is unnecessary."
+  },
+  {
     "date": "2026.11.08",
     "day": "Sun",
     "number": 942,
