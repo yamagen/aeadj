@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.11.10",
+    "day": "Tue",
+    "number": 944,
+    "index": "sunnarihikissagarune",
+    "title": "You backed down pretty easily.",
+    "expression-ja": "すんなり(引:ひ)き(下:さ)がるね",
+    "roman-ja": "Sunnari hikisagaru ne.",
+    "expression-en": "You backed down pretty easily.",
+    "variants-ja": ["ずいぶんすんなり(引:ひ)き(下:さ)がるね", "あっさり(引:ひ)き(下:さ)がるね", "すんなり(諦:あきら)めるんだね", "もっと(粘:ねば)るかと(思:おも)った"],
+    "variants-en": ["You backed down pretty easily.", "You gave in pretty easily.", "So you're giving up that easily.", "I thought you'd put up more of a fight."],
+    "intent-ja": ["相手が予想していたよりも抵抗せずに引き下がったことに対して使う表現", "相手が反論や要求を続けると予想していたのに、容易に受け入れたことへの意外さを示す表現", "目の前で起きた相手の態度の変化を評価する表現"],
+    "intent-en": [
+      "expression used when someone backs down with less resistance than expected",
+      "expression showing surprise that someone accepted the situation easily when further resistance or argument was expected",
+      "expression evaluating an immediate change in another person's stance"
+    ],
+    "tags-ja": ["即時文法", "口語", "予測", "予測との差", "評価", "態度変化", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "prediction", "expectation mismatch", "evaluation", "change of stance", "immediate reaction"],
+    "adjusted-expression-ja": "(意外:いがい)とすんなり(引:ひ)き(下:さ)がりましたね。",
+    "adjusted-expression-en": "You backed down more easily than I expected.",
+    "img-sub": "20261110-sunnarihikisagarune.png",
+    "example-ja": "A「いや、(今回:こんかい)は、(負:ま)けを(認:みと)めるよ」 B「すんなり(引:ひ)き(下:さ)がるね」",
+    "example-en": "A: No, this time I'll admit defeat. B: You backed down pretty easily.",
+    "notes-ja": "「すんなり引き下がるね」は、相手が反論したり粘ったりすると予想していたのに、あまり抵抗せずに引き下がったときの表現です。「すんなり」は単に行動が容易であることだけでなく、この文脈では話し手が予想していた抵抗がなかったことを示します。",
+    "notes-en": "\"Sunnari hikisagaru ne\" is used when someone backs down without as much resistance as the speaker expected. In this context, \"sunnari\" does more than describe the action as easy or smooth: it indicates a mismatch between the resistance the speaker anticipated and what actually happened."
+  },
+  {
     "date": "2026.11.09",
     "day": "Mon",
     "number": 943,
