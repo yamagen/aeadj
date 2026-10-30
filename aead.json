@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.12",
+    "day": "Thu",
+    "number": 946,
+    "index": "annojou",
+    "title": "I knew it. So that's what you're after.",
+    "expression-ja": "(案:あん)の(定:じょう)、そうきたか",
+    "roman-ja": "An no jo, so kita ka.",
+    "expression-en": "I knew it. So that's what you're after.",
+    "variants-ja": ["(案:あん)の(定:じょう)、そうきたか", "やっぱり、そうきたか", "そうきたか", "(案:あん)の(定:じょう)だな"],
+    "variants-en": ["I knew it. So that's what you're after.", "I knew it. That's where you were going with this.", "So that's your angle.", "Just as I thought."],
+    "intent-ja": ["予想していた相手の出方への即時反応", "直前に示された要求や意図への照応", "予測していた展開が現実になったことの認識"],
+    "intent-en": ["immediate reaction to an anticipated move by the other person", "reference to a request or intention just revealed", "recognition that an anticipated development has just materialized"],
+    "tags-ja": ["即時文法", "口語", "予測", "相手の出方", "要求", "照応", "展開", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "anticipation", "the other person's move", "request", "reference", "development", "immediate reaction"],
+    "adjusted-expression-ja": "(予想:よそう)していたとおり、そのような(話:はなし)でしたか",
+    "adjusted-expression-en": "As I expected, that was what you had in mind.",
+    "img-sub": "annojousoukitaka01.png",
+    "example-ja": "A「これっていいアイデアでしょ。でね、お(金:かね)がいるの」 B「(案:あん)の(定:じょう)、そうきたか」",
+    "example-en": "A: This is a good idea, right? And, well, I need some money. B: I knew it. So that's what you're after.",
+    "notes-ja": "「案の定、そうきたか」は、相手の発話によって、それまでのやりとりの狙いが見えた瞬間に出る表現です。「これっていいアイデアでしょ」だけでは相手の意図はまだ確定しませんが、「お金がいるの」が続くと、それまでの発話も金銭を求めるための前置きだったと理解できます。「そうきたか」は、いま出てきた一言を受けるだけでなく、それによって直前までのやりとりを遡って捉え直しています。「案の定」は、その捉え直しが話者の予測とも一致したことを示します。",
+    "notes-en": "\"An no jo, so kita ka\" occurs at the moment when a new utterance reveals what the preceding interaction was leading up to. \"This is a good idea, right?\" does not by itself establish the speaker's intention, but the following \"I need some money\" makes the earlier talk retrospectively interpretable as a lead-in to a request for money. \"So kita ka\" therefore responds not only to what has just been said but also reinterprets what came before in light of it. \"An no jo\" adds that this retrospective interpretation matches what the listener had already suspected."
+  },
+  {
     "date": "2026.11.11",
     "day": "Wed",
     "number": 945,
@@ -1068,20 +1091,8 @@
     "expression-en": "Oh, that table just opened up.",
     "variants-ja": ["あ、そこ(空:あ)いた", "あ、(空:あ)いた", "そこ(空:あ)いたよ", "あ、あそこ(空:あ)いた"],
     "variants-en": ["Oh, that table just opened up.", "Oh, a spot opened up.", "That spot's free now.", "Oh, there's a table free over there."],
-    "intent-ja": [
-      "利用できなかった場所が利用可能になったことをその場で発見して知らせる表現",
-      "周囲を探している途中で状態の変化を検出し、その変化を即時的に共有する表現",
-      "何が空いたのかを詳しく言わず、その場の共有状況によって対象を特定する表現",
-      "発話と同時に、その場所へ向かうなどの次の行動を促す表現",
-      "口語的な表現"
-    ],
-    "intent-en": [
-      "expression immediately announcing that a previously unavailable place has become available",
-      "expression used when the speaker detects a change in the environment while actively looking for an available place",
-      "expression leaving the exact type of place unstated because it is identifiable from the shared situation",
-      "expression that can immediately trigger a next action such as moving toward the newly available place",
-      "colloquial expression"
-    ],
+    "intent-ja": ["空いた場所の発見", "空いた場所への注意喚起", "利用可能性の共有"],
+    "intent-en": ["discovery of an available spot", "drawing attention to an available spot", "sharing immediate availability"],
     "tags-ja": ["即時文法", "口語", "発見", "状態変化", "利用可能", "指示", "共同注意", "次行動", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "discovery", "change of state", "availability", "demonstrative", "joint attention", "next action", "immediate reaction"],
     "adjusted-expression-ja": "あそこに(空:あ)いている(席:せき)ができました。",
@@ -1089,8 +1100,8 @@
     "img-sub": "asokoaita01.png",
     "example-ja": "A「ぜんぜん(空:あ)いてないね」 B「あ、そこ(空:あ)いた」",
     "example-en": "A: There aren't any tables free. B: Oh, that table just opened up.",
-    "notes-ja": "「あ、そこ空いた」は、使える場所を探している最中に、それまで利用できなかった場所が利用可能になったことを発見し、その変化をその場で相手に知らせる表現です。「あ」は、環境の変化を発見した瞬間を示します。「そこ」は、話し手と聞き手が同時に見ている場所を指し、「空いた」は、それまで人が使っていた場所が新たに利用可能になったことを表します。ここでは「席」や「テーブル」を明示する必要はありません。たとえばフードコートで席を探している場合、その場の共有状況によって「そこ」が何を指すのかはすぐに分かります。また、この発話は単なる状態報告ではありません。「あ、そこ空いた」と言った瞬間に、「では、そこへ行こう」という次の行動がほぼ自動的に立ち上がります。このように、環境探索、状態変化の検出、指示、共同注意、次行動が短い発話の中で連続して成立します。「空いた」は過去形ですが、過去の出来事を回想しているのではなく、たった今成立した新しい状態を即時的に報告しています。",
-    "notes-en": "'A, soko aita' is an immediate expression used when the speaker is looking for an available place and suddenly notices that a previously occupied or unavailable spot has become free. 'A' marks the instant of discovery. 'Soko' points to a location that both participants can identify within the shared visual situation, while 'aita' indicates that the place has just become available. The speaker does not need to say 'seat' or 'table' explicitly because the shared situation supplies that information. In a crowded food court, for example, both speakers can immediately understand what 'soko' refers to. The utterance is also more than a simple report of a state. Once the speaker says 'A, soko aita,' a next action such as moving toward the table can follow almost automatically. The expression therefore links environmental scanning, detection of a change of state, reference, joint attention, and immediate action. Although 'aita' is morphologically past tense, it does not function here as a retrospective report. It marks a newly established state that the speaker has just detected."
+    "notes-ja": "「そこ」は場所を指しますが、実際に空いたのはその場所にある席やテーブルです。それでも、何を探しているかが共有されていれば、「席」や「テーブル」と言う必要はありません。また、「空いた」は過去の出来事を語っているのではなく、目の前でたった今起きた変化を捉えています。「あ、そこ空いた」は、その変化に気づいた瞬間に、その場所を指して相手と共有する表現です。",
+    "notes-en": "Although \"soko\" refers to a place, what has actually become available is the seat or table at that place. When both speakers know what they are looking for, however, there is no need to say \"seat\" or \"table.\" Also, \"aita\" does not recount a past event here; it captures a change that has just occurred in front of the speakers. \"A, soko aita\" points out and shares that newly available spot at the moment it is noticed."
   },
   {
     "date": "2026.09.25",
@@ -1103,13 +1114,8 @@
     "expression-en": "Actually, it's not that bad.",
     "variants-ja": ["(意外:いがい)と(平気:へいき)", "あ、(意外:いがい)と(平気:へいき)", "(意外:いがい)と(大丈夫:だいじょうぶ)", "(思:おも)ったより(平気:へいき)"],
     "variants-en": ["Actually, it's not that bad.", "Oh, it's not as bad as I thought.", "Surprisingly, I'm fine.", "I'm actually okay."],
-    "intent-ja": ["実際に経験してみた結果、それまでの予想ほど問題がないとその場で判断する表現", "事前の予測と現在の感覚との差を示しながら評価を更新する表現", "心配していたほどつらくない、難しくない、問題ではないことを即時的に示す表現", "口語的な表現"],
-    "intent-en": [
-      "expression used when direct experience shows that something is less problematic than expected",
-      "expression used to update an evaluation by contrasting a prior expectation with the speaker's present experience",
-      "expression indicating on the spot that something is less difficult, unpleasant, or troublesome than anticipated",
-      "colloquial expression"
-    ],
+    "intent-ja": ["予想外の平気さ", "不安の解消", "評価の更新"],
+    "intent-en": ["unexpected ease", "relief from concern", "revision of an expectation"],
     "tags-ja": ["即時文法", "口語", "副詞", "予測", "予想外", "評価更新", "直接経験", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "adverb", "expectation", "unexpected result", "evaluation update", "direct experience", "immediate reaction"],
     "adjusted-expression-ja": "(実際:じっさい)に(試:ため)してみると、(思:おも)っていたほど(問題:もんだい)ありません。",
@@ -1130,19 +1136,8 @@
     "roman-ja": "Ususu, kizuiteta.",
     "expression-en": "Yeah, I kind of figured.",
     "variants-ja": ["うすうす(気:き)づいてた", "まあ、うすうす(気:き)づいてた", "なんとなく(気:き)づいてた", "(実:じつ)は、うすうす(気:き)づいてた"],
-    "variants-en": ["I kind of figured.", "Yeah, I sort of knew.", "I had a feeling.", "Actually, I'd kind of figured."],
-    "intent-ja": [
-      "相手から事実をはっきり知らされたとき、それ以前から弱く察していたことをその場で示す表現",
-      "確定していなかった推測や認識が、新しい情報によって裏づけられたことを示す表現",
-      "以前から存在していた弱い認識と、今得た確定情報とを即時的に結びつける表現",
-      "口語的な表現"
-    ],
-    "intent-en": [
-      "expression used when a fact is explicitly revealed and the speaker says they had already weakly suspected it",
-      "expression indicating that an earlier uncertain impression or suspicion has just been confirmed by new information",
-      "expression immediately linking a prior weak awareness with newly confirmed information",
-      "colloquial expression"
-    ],
+    "intent-ja": ["以前からの気づき", "疑念の確認", "認識の共有"],
+    "intent-en": ["prior suspicion", "confirmation of a suspicion", "sharing prior awareness"],
     "tags-ja": ["即時文法", "口語", "気づき", "推測", "事前認識", "確定", "情報更新", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "awareness", "inference", "prior awareness", "confirmation", "information update", "immediate reaction"],
     "adjusted-expression-ja": "(以前:いぜん)から、なんとなくそうではないかと(気:き)づいていました。",
@@ -1164,13 +1159,8 @@
     "expression-en": "Oh, you're right.",
     "variants-ja": ["あ、ほんとだ", "ほんとだ", "あ、ほんとだね", "あ、(本当:ほんとう)ですね"],
     "variants-en": ["Oh, you're right.", "You're right.", "Oh, that's true.", "Oh, you're right about that."],
-    "intent-ja": ["相手の指摘を受けて自分でも確認し、それが事実だと分かった瞬間に発する表現", "単なる同意ではなく、目の前の事実との一致をその場で確認する表現", "相手の発言内容を自分の新しい認識として受け入れる表現", "口語的な表現"],
-    "intent-en": [
-      "expression immediately used when the speaker checks the listener's observation and realizes that it is in fact true",
-      "expression confirming on the spot that the listener's statement matches the observable facts rather than merely agreeing with it",
-      "expression incorporating the listener's statement into the speaker's own newly established understanding",
-      "colloquial expression"
-    ],
+    "intent-ja": ["指摘の確認", "事実の発見", "認識の更新"],
+    "intent-en": ["confirmation of an observation", "discovery of a fact", "revision of understanding"],
     "tags-ja": ["即時文法", "口語", "確認", "発見", "事実確認", "認識更新", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "confirmation", "discovery", "fact checking", "revision of understanding", "immediate reaction"],
     "adjusted-expression-ja": "(確認:かくにん)したところ、(確:たし)かにそのとおりでした。",
@@ -1178,8 +1168,8 @@
     "img-sub": "hontoda01.png",
     "example-ja": "A「それなら、(先週:せんしゅう)、(勉強:べんきょう)したよ」 B「あ、ほんとだ」",
     "example-en": "A: In that case, we studied it last week. B: Oh, you're right.",
-    "notes-ja": "「あ、ほんとだ」は、相手から何かを指摘されたあと、自分でもその内容を確認し、それが実際に事実だと分かった瞬間に発する表現です。「あ」は、確認によって新しい認識が成立した瞬間を示します。「ほんとだ」は、相手の発言を単に受け入れるのではなく、目の前の情報や確認結果と照らし合わせて、それが事実であると自分でも認識したことを表します。そのため、「そうですね」のような一般的な同意とは異なり、「今、自分でも確認して分かった」という即時的な発見の性質があります。何が本当だったのかは直前の発言から明らかなため、詳しく繰り返す必要はありません。例文では、すでに登録済みの表現を再び候補として扱いかけたところ、No.854にあると指摘され、実際に確認して「あ、ほんとだ」と反応しています。この項目自体が、AEADの作業中に自然に生じた即時的な発話です。",
-    "notes-en": "'A, honto da' is an immediate expression used after the listener points something out and the speaker checks it for themselves and realizes that it is indeed true. 'A' marks the moment when the speaker's new understanding is established through confirmation. 'Honto da' does not simply accept the listener's statement as an opinion; it indicates that the speaker has compared the statement with the available facts or evidence and has independently recognized it as true. For this reason, the expression differs from a general agreement such as 'Sou desu ne.' It specifically conveys the sense of 'I just checked, and now I see that it really is true.' What has been confirmed does not need to be repeated because it is clear from the immediately preceding utterance. In the example, a previously registered expression is almost treated as a new candidate, but after being told that it already exists as No.854, the speaker checks and immediately responds, 'A, honto da.' The expression itself arose naturally during the AEAD work."
+    "notes-ja": "「あ、ほんとだ」は、相手から与えられた情報が、自分で確かめた事実に変わる瞬間に出ます。相手に「あるよ」と言われただけなら、それはまだ相手から得た情報です。実際に見て確認すると、同じ内容が自分自身の認識になります。「あ、ほんとだ」は、その二つの認識が一致した瞬間を表します。このため、相手に同意しているように見えても、単なる同意ではありません。相手の発話を受け、自分で確認し、その結果をその場で返すという短い認識の過程が含まれています。",
+    "notes-en": "\"A, honto da\" occurs at the moment when information received from someone else becomes something the speaker has verified firsthand. When someone says that something is there, it initially belongs to the other person's knowledge. Once the speaker looks and confirms it, the same information becomes part of the speaker's own knowledge. \"A, honto da\" marks the moment when these two sources of knowledge converge. It may sound like agreement, but it is not simply agreement: it contains a short sequence in which the speaker receives a claim, checks it, and immediately returns the result of that verification."
   },
   {
     "date": "2026.09.22",
@@ -1192,13 +1182,8 @@
     "expression-en": "Oh, this might work.",
     "variants-ja": ["あ、いけそう", "お、いけそう", "これ、いけそう", "あ、これならいけそう"],
     "variants-en": ["Oh, this might work.", "Hey, this might work.", "This might work.", "Oh, this looks like it might work."],
-    "intent-ja": ["試している途中で、成功する可能性があると分かった瞬間に発する表現", "まだ成功していない段階で、状況の変化や手応えから成功可能性をその場で判断する表現", "何が成功しそうなのかを詳しく言わずに共有する表現", "口語的な表現"],
-    "intent-en": [
-      "expression immediately used when the speaker realizes during an attempt that success now seems possible",
-      "expression judging on the spot, before success is achieved, that the current situation or feedback indicates a good chance of success",
-      "expression leaving what seems likely to succeed unstated because it is shared in the situation",
-      "colloquial expression"
-    ],
+    "intent-ja": ["成功可能性の発見", "手応えの認識", "見込みの共有"],
+    "intent-en": ["discovery of a possibility of success", "recognition of promising signs", "sharing a positive prospect"],
     "tags-ja": ["即時文法", "口語", "可能性", "予測", "試行", "成功予測", "即時判断"],
     "tags-en": ["immediate grammar", "spoken", "possibility", "prediction", "attempt", "prediction of success", "immediate judgment"],
     "adjusted-expression-ja": "この(方法:ほうほう)なら、うまくいきそうです。",
@@ -1206,8 +1191,8 @@
     "img-sub": "aikesou01.png",
     "example-ja": "A「それ、(入:はい)る？」 B「うーん...あ、いけそう」",
     "example-en": "A: Will that fit? B: Hmm... oh, this might work.",
-    "notes-ja": "「あ、いけそう」は、何かを試している途中で、まだ成功してはいないものの、状況の変化や手応えから「このままならうまくいくかもしれない」と判断した瞬間に発する表現です。「あ」は、成功の可能性に気づいた瞬間を示します。ここでの「いける」は、どこかへ行くことができるという意味ではなく、「その方法でうまくいく」「実現できる」という意味です。「そう」は、まだ結果が確定していない段階で、目の前の状況や得られた手応えを根拠に可能性を判断する働きをします。そのため、「あ、いけそう」は成功そのものを報告する表現ではなく、試行の途中で成功の兆候を見つけたときの即時的な予測です。No.853「あ、いけた」が、試していたことが実際に成功したと分かった瞬間の結果確認であるのに対し、「あ、いけそう」は、その直前の段階で成功可能性を判断する表現です。例文では、入らないかもしれないと思っていたものを動かしてみて、少し調整すれば入りそうだと分かった瞬間に「あ、いけそう」と反応しています。",
-    "notes-en": "'A, ikesou' is an immediate expression used during an attempt when speakers realize that success has not yet been achieved but now appears possible from the current situation or feedback. 'A' marks the moment when the speaker notices the possibility of success. Here, 'ikeru' does not mean being able to go somewhere; it means that a method may work or that something may be feasible. 'Sou' indicates a judgment based on what the speaker can currently observe, before the result has been confirmed. For this reason, 'A, ikesou' does not report success itself. It expresses an immediate prediction made when signs of possible success appear during an ongoing attempt. Unlike No.853, 'A, iketa,' which confirms that an attempt has actually succeeded, 'A, ikesou' belongs to the immediately preceding stage, when the speaker judges that success now looks likely. In the example, the speaker is trying to fit something into a space and, after making an adjustment, realizes that it may now fit and responds, 'A, ikesou.'"
+    "notes-ja": "「あ、いけそう」は、まだ起きていない成功を、いま目の前で起きている変化から先取りする表現です。試す前の「たぶんいける」とは異なり、実際に試している途中で手応えが生まれた瞬間に出ます。No.853「あ、いけた」が成功を確認する表現なら、「あ、いけそう」はその一歩手前、結果が見え始めた瞬間を捉えています。",
+    "notes-en": "\"A, ikesou\" anticipates a success that has not yet happened from a change unfolding in the present. Unlike \"tabun ikeru,\" which can be said before an attempt begins, it arises when the speaker starts to see signs of success during the attempt. While No.853, \"A, iketa,\" confirms success, \"A, ikesou\" captures the moment just before it, when the outcome first comes into view."
   },
   {
     "date": "2026.09.21",
@@ -1220,13 +1205,8 @@
     "expression-en": "Actually, never mind.",
     "variants-ja": ["あ、やっぱやめた", "いや、やっぱやめた", "やっぱ、やめとく", "あ、やめた"],
     "variants-en": ["Actually, never mind.", "No, never mind.", "I think I'll skip it after all.", "Never mind."],
-    "intent-ja": ["いったん選んだり、しようとしたりしたことを、その場で思い直して撤回する表現", "成立しかけていた選択や行動を、実行する直前に取り消す表現", "直前までの自分の判断を即座に変更し、新しい行動へ切り替える表現", "口語的な表現"],
-    "intent-en": [
-      "expression used when the speaker reconsiders and immediately withdraws something they had just chosen or intended to do",
-      "expression canceling a choice or action just before it is carried out",
-      "expression marking an immediate change from the speaker's preceding decision to a new course of action",
-      "colloquial expression"
-    ],
+    "intent-ja": ["直前の決定の撤回", "行動の中止", "判断の切り替え"],
+    "intent-en": ["reversal of a recent decision", "abandonment of an intended action", "change of mind"],
     "tags-ja": ["即時文法", "口語", "撤回", "選択変更", "思い直し", "行動変更", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "withdrawal", "change of choice", "reconsideration", "change of action", "immediate reaction"],
     "adjusted-expression-ja": "(考:かんが)え(直:なお)して、やめることにしました。",
@@ -1234,8 +1214,8 @@
     "img-sub": "ayappayameta01.png",
     "example-ja": "A「(カレー:かれー)にする？」 B「うん。あ、やっぱやめた。(そば:そば)にする」",
     "example-en": "A: Are you going to have the curry? B: Yeah. Actually, never mind. I'll have the soba.",
-    "notes-ja": "「あ、やっぱやめた」は、いったん何かを選んだり、しようと決めたりしたあとで、実行する直前に思い直し、その選択や行動をその場で撤回するときに使う表現です。「あ」は、話し手の中で判断の変更が生じた瞬間を示します。「やっぱ」は「やっぱり」の口語的な形で、直前までの判断や、それ以前からあった別の考えを背景にしながら、現在の判断へ切り替える働きをします。「やめた」は形の上では過去形ですが、ここでは過去にやめた出来事を報告しているのではなく、「今、この時点でやめることにした」という決定をその場で成立させています。そのため、この表現には、選択、実行直前の再考、撤回、新しい行動への切り替えという短い時間的な流れがあります。例文では、Bはいったんカレーを選びますが、注文する前に考えを変え、「あ、やっぱやめた」とその選択を撤回して、そばに切り替えています。",
-    "notes-en": "'A, yappa yameta' is used when speakers have just chosen something or decided to do something but reconsider immediately before carrying it out and withdraw that choice or action on the spot. 'A' marks the moment when the change of mind occurs. 'Yappa,' the conversational form of 'yappari,' connects the new decision with the speaker's immediately preceding judgment or with an alternative that had already been present in the background. Although 'yameta' has past-tense form, it does not primarily report an earlier event here. Instead, it performs a decision at the present moment: the speaker has now decided not to proceed. The expression therefore contains a short temporal sequence: a choice is made, reconsideration occurs just before execution, the choice is withdrawn, and the speaker shifts to another course of action. In the example, B initially chooses curry but changes their mind before ordering, says 'A, yappa yameta,' and switches to soba."
+    "notes-ja": "「あ、やっぱやめた」の「やめた」は、すでに起きたことの報告ではなく、この発話によって直前までの選択を取り消しています。つまり、「やめた」と言った時点で「やめる」という決定が成立します。「やっぱ」があることで、単なる中止ではなく、いったん傾いた判断をもう一度戻したことも分かります。短い発話の中で、直前まで有効だった選択がその場で無効になります。",
+    "notes-en": "In \"A, yappa yameta,\" \"yameta\" does not simply report something that already happened. By saying it, the speaker cancels the choice that was still in effect immediately before the utterance. The decision to stop is therefore established by the utterance itself. \"Yappa\" also shows that this is not simply stopping, but returning from a decision the speaker had temporarily made. In this short expression, a choice that was valid a moment ago becomes invalid on the spot."
   },
   {
     "date": "2026.09.20",
@@ -1248,12 +1228,8 @@
     "expression-en": "Oh, that changes things.",
     "variants-ja": ["それなら(話:はなし)は(別:べつ)", "あ、それなら(別:べつ)", "それなら(話:はなし)が(違:ちが)う", "あ、それなら(話:はなし)が(変:か)わってくる"],
     "variants-en": ["That changes things.", "Oh, that's different, then.", "Well, that's a different story.", "Oh, in that case, things are different."],
-    "intent-ja": ["新しく示された条件や情報を受けて、それまでの判断をその場で切り替える", "直前の発話を新しい前提として取り込み、状況の見方や対応を更新する", "予想していなかった好条件や重要な事情を知り、態度が変わったことを軽く示す"],
-    "intent-en": [
-      "to immediately revise one's judgment after receiving new information or a new condition",
-      "to take the preceding remark as a new premise and update one's view of the situation",
-      "to lightly signal a change of attitude after learning an unexpected favorable or important detail"
-    ],
+    "intent-ja": ["前提の変更", "判断の転換", "態度の変更"],
+    "intent-en": ["change of premise", "revision of judgment", "change of attitude"],
     "tags-ja": ["即時文法", "口語", "反応", "条件", "判断更新"],
     "tags-en": ["immediate grammar", "spoken", "reaction", "condition", "judgment update"],
     "adjusted-expression-ja": "あ、それでしたら(話:はなし)は(別:べつ)です",
@@ -1261,6 +1237,7 @@
     "img-sub": "asorenarahhanashihabetsu01.png",
     "example-ja": "A「(日曜日:にちようび)、ちょっと(手伝:てつだ)ってくれない？」 B「(日曜:にちよう)はちょっと...」 A「お(昼:ひる)はうなぎ、ごちそうするよ」 B「あ、それなら(話:はなし)は(別:べつ)」",
     "example-en": "A: Could you give me a hand on Sunday? B: Sunday's a little difficult... A: I'll treat you to eel for lunch. B: **Oh, that changes things.**",
+
     "notes-ja": "「あ、それなら話は別」は、それまでの判断を変えるような新しい条件や情報が示されたとき、その情報を「それなら」で即座に条件として取り込み、判断を更新する表現です。「話」は具体的な会話そのものではなく、いま問題になっている案件や判断の枠組み全体を指します。「別」は「別の話題」というより、「その条件なら先ほどまでとは判断が違う」という意味です。好条件を聞いて冗談めかして態度を変える場面でもよく使われます。",
     "notes-en": "\"A, sore nara hanashi wa betsu\" is used when newly supplied information changes the speaker's judgment on the spot. \"Sore nara\" immediately takes the preceding information as a new condition, while \"hanashi wa betsu\" signals that the situation must now be evaluated differently. Here, \"hanashi\" does not literally mean a story or conversation; it refers more broadly to the matter under consideration. The expression is often used lightly or humorously when an unexpected favorable condition changes the speaker's attitude."
   },
@@ -1275,13 +1252,8 @@
     "expression-en": "I hate to say this, but...",
     "variants-ja": ["こう(言:い)っちゃなんだけど", "こう(言:い)うのもなんだけど", "こんなこと(言:い)っちゃなんだけど", "こう(言:い)ってはなんだけど"],
     "variants-en": ["I hate to say this, but...", "It's a little awkward to say this, but...", "I probably shouldn't say this, but...", "I don't mean to sound rude, but..."],
-    "intent-ja": ["これから言う内容が言いにくいと感じ、そのことを先に示してから発話する表現", "批評や自己評価など、そのままでは言いにくい内容をやわらかく導入する表現", "何が問題なのかを明示せず、ためらいだけを示して後続発話へ進む表現", "口語的な表現"],
-    "intent-en": [
-      "expression signaling in advance that what the speaker is about to say feels difficult or awkward to say",
-      "expression softly introducing criticism, self-evaluation, or another potentially uncomfortable statement",
-      "expression leaving the exact reason for the hesitation unstated while moving into the following utterance",
-      "colloquial expression"
-    ],
+    "intent-ja": ["言いにくさの予告", "後続発話の緩和"],
+    "intent-en": ["advance signaling of awkwardness", "mitigation of the following remark"],
     "tags-ja": ["即時文法", "口語", "前置き", "ためらい", "緩和", "言いにくさ", "自己注釈"],
     "tags-en": ["immediate grammar", "spoken", "preface", "hesitation", "mitigation", "difficulty saying something", "self-commentary"],
     "adjusted-expression-ja": "このようなことを(自分:じぶん)で(言:い)うのは(少:すこ)し(気:き)が(引:ひ)けますが、",
@@ -1289,8 +1261,8 @@
     "img-sub": "kouicchanandakedo01.png",
     "example-ja": "A「どう？」 B「こう(言:い)っちゃなんだけど、(私:わたし)が(作:つく)るといいね」",
     "example-en": "A: What do you think? B: I hate to say this, but it turns out pretty well when I make it.",
-    "notes-ja": "「こう言っちゃなんだけど」は、これから言おうとしている内容について、話し手自身が「そのまま言うのは少し言いにくい」と感じ、そのためらいを先に示してから本題に入る表現です。「こう言っちゃ」は「こう言っては」の口語形で、これから自分が実際に言おうとしている内容を先取りします。「なんだけど」の「なん」は、失礼、自慢、言い過ぎ、気まずさなど、何が問題なのかを具体的には示しません。何か言いにくさがあることだけをぼかして示し、そのまま後続発話へ進みます。この曖昧さによって、話し手は詳しく謝罪したり理由を説明したりせずに、言いにくい内容への入口を作ることができます。No.690「急にこんなこと聞くのも、あれ、なんだけど、...」が唐突な質問に入る前の気まずさを緩和する表現であるのに対し、「こう言っちゃなんだけど」は、これから自分が述べる内容そのものへのためらいを示します。例文では、Bが自分で作ったものを高く評価することに少し気が引けるため、「こう言っちゃなんだけど」と前置きしてから「私が作るといいね」と述べています。",
-    "notes-en": "'Kou iccha nan da kedo' is used when speakers feel some hesitation about what they are about to say and signal that hesitation before stating the content itself. 'Kou iccha' is the colloquial form of 'kou itte wa' and anticipates the speaker's own upcoming utterance. The 'nan' in 'nan da kedo' does not specify exactly what is problematic. It may involve possible rudeness, self-praise, overstatement, awkwardness, or some other reason for hesitation. Instead of naming that reason, the expression leaves it vague and moves directly into the following statement. This vagueness allows the speaker to create a soft entry into something difficult to say without giving a full apology or explanation. Unlike No.690, 'Kyuu ni konna koto kiku no mo, are, nan da kedo, ...', which softens the awkwardness of introducing a sudden question, 'Kou iccha nan da kedo' marks hesitation about the content of the speaker's own upcoming statement. In the example, B feels slightly awkward about praising something they made themselves, so they preface the self-evaluation with 'Kou iccha nan da kedo' before saying that it turns out well when they make it."
+    "notes-ja": "「こう言っちゃなんだけど」は、これから言うことに問題があるかもしれないと先に認めながら、それでも発話を続けるための表現です。ためらいを示していますが、発話を止めるのではなく、むしろ言いにくいことを言える状態を作ります。何が問題なのかを明示しないため、失礼なこと、自慢、批判など、さまざまな発話の前に置くことができます。No.690「急にこんなこと聞くのも、あれ、なんだけど、...」が質問する行為へのためらいを示すのに対し、こちらはこれから述べる内容そのものを問題にします。",
+    "notes-en": "\"Kou iccha nan da kedo\" acknowledges in advance that there may be something problematic about what the speaker is about to say, but then allows the speaker to say it anyway. Although it expresses hesitation, its effect is not to stop the utterance but to make a difficult utterance possible. Because the source of the difficulty is left unspecified, it can precede self-praise, criticism, a potentially rude remark, and other kinds of delicate content. Unlike No.690, which marks hesitation about asking a question, this expression places the hesitation on the content of what is about to be said."
   },
   {
     "date": "2026.09.18",
@@ -1303,13 +1275,8 @@
     "expression-en": "Not so fast!",
     "variants-ja": ["ちょっと(待:ま)ったぁ！", "ちょっと(待:ま)った！", "(待:ま)った(待:ま)った！", "おい、ちょっと(待:ま)った！"],
     "variants-en": ["Not so fast!", "Wait a second!", "Hold it!", "Hey, wait a minute!"],
-    "intent-ja": ["相手の発言や行動がそのまま進もうとした瞬間に強く割り込んで止める表現", "決定や進行をいったん中断し、確認や異議を差し込む表現", "単なる待機依頼ではなく、そのまま先へ進ませないことを示す表現", "口語的な表現"],
-    "intent-en": [
-      "expression forcefully interrupting the listener at the moment their speech or action is about to proceed",
-      "expression temporarily stopping a decision or ongoing process in order to insert a check or objection",
-      "expression indicating that the listener should not simply continue, rather than merely asking them to wait",
-      "colloquial expression"
-    ],
+    "intent-ja": ["進行の制止", "強い割り込み", "異議の提示"],
+    "intent-en": ["halting an ongoing action", "forceful interruption", "raising an objection"],
     "tags-ja": ["即時文法", "口語", "制止", "割り込み", "異議", "進行中断", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "stopping", "interruption", "objection", "halting progress", "immediate reaction"],
     "adjusted-expression-ja": "少し(待:ま)ってください。そのまま(進:すす)めないでください。",
@@ -1317,8 +1284,8 @@
     "img-sub": "chottomattaa01.png",
     "example-ja": "A「じゃあ、この(案:あん)で(決定:けってい)ということで」 B「ちょっと(待:ま)ったぁ！ その(数字:すうじ)、まだ(確認:かくにん)してないよ」",
     "example-en": "A: Okay, then let's go with this proposal. B: Not so fast! We haven't checked those numbers yet.",
-    "notes-ja": "「ちょっと待ったぁ！」は、相手の発言や行動、判断がそのまま先へ進もうとした瞬間に、強く割り込んでいったん止める表現です。No.315「ちょっと待って」が、相手に少し待ってもらうための待機依頼として使われるのに対し、「ちょっと待ったぁ！」は、進行中の事態をその場で止めて、確認、異議、修正などを差し込む働きが強くなります。「待った」は形の上では「待つ」の過去形ですが、ここでは過去の出来事を述べているのではなく、即時的な制止として使われています。語尾を伸ばした「待ったぁ！」では、相手の進行を止めようとする勢いがさらに強く感じられます。例文では、案がそのまま決定されそうになった瞬間に、Bが未確認の数字があることを思い出し、「ちょっと待ったぁ！」と割り込んで決定を止めています。",
-    "notes-en": "'Chotto mattaa!' is an immediate expression used to forcefully interrupt and stop the listener just as their speech, action, or decision is about to move forward. Unlike No.315, 'Chotto matte,' which primarily functions as a request for someone to wait briefly, 'Chotto mattaa!' more strongly halts an ongoing process so that the speaker can insert a check, objection, or correction. Although 'matta' has the form of the past tense of 'matsu' (to wait), it does not describe a past event here. Instead, it functions as an immediate intervention. Lengthening the final vowel in 'mattaa!' adds force and makes the interruption sound more emphatic. In the example, just as a proposal is about to be accepted, B remembers that some figures have not yet been checked and interrupts with 'Chotto mattaa!' to stop the decision from going through."
+    "notes-ja": "「ちょっと待ったぁ！」は、相手に待ってもらうというより、進みかけた事態に話し手自身が割り込む表現です。No.315「ちょっと待って」では相手に「待つ」という行動を求めますが、「ちょっと待ったぁ！」では、発話そのものが進行を遮る働きをします。そのため、何を確認するのか、何に反対するのかをまだ言っていなくても、まず事態を止めることができます。「待ったぁ！」と声が入った時点で、それまでの進行はいったん保留になります。",
+    "notes-en": "\"Chotto mattaa!\" is less a request for the listener to wait than an intervention by the speaker in something already moving forward. With No.315, \"Chotto matte,\" the listener is asked to perform the act of waiting; with \"Chotto mattaa!\", the utterance itself interrupts the ongoing process. The speaker can therefore stop things before explaining what needs to be checked or what the objection is. Once \"Mattaa!\" enters the interaction, what was about to proceed is temporarily put on hold."
   },
   {
     "date": "2026.09.17",
@@ -1331,18 +1298,8 @@
     "expression-en": "What? I have absolutely no intention of doing that.",
     "variants-ja": ["え、そんなつもり、さらさらない", "そんなつもり、さらさらない", "いや、そんなつもり、さらさらない", "そんなつもりはさらさらない"],
     "variants-en": ["What? I have absolutely no intention of doing that.", "I have absolutely no intention of doing that.", "No, I have absolutely no intention of doing that.", "I have no intention whatsoever of doing that."],
-    "intent-ja": [
-      "相手から自分の意図や予定を推測されたときに、その推測をその場で強く否定する表現",
-      "自分にはそのような意図が最初から全くないことを強調する表現",
-      "「そんなつもり」で相手が想定した意図を指し、「さらさらない」で全面的に否定する表現",
-      "口語的な表現"
-    ],
-    "intent-en": [
-      "expression immediately and strongly rejecting another person's assumption about the speaker's intention or plan",
-      "expression emphasizing that the speaker has had no such intention at all",
-      "expression using 'sonna tsumori' to identify the intention assumed by the listener and 'sarasara nai' to reject it completely",
-      "colloquial expression"
-    ],
+    "intent-ja": ["意図の全面否定", "相手の推測の訂正"],
+    "intent-en": ["categorical denial of intention", "correction of another's assumption"],
     "tags-ja": ["即時文法", "口語", "強い否定", "意図否定", "推測否定", "人物評価", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "strong negation", "denial of intention", "rejection of assumption", "evaluation", "immediate reaction"],
     "adjusted-expression-ja": "(私:わたし)には、そのような(意図:いと)はまったくありません。",
@@ -1350,8 +1307,8 @@
     "img-sub": "sarasaranai01.png",
     "example-ja": "A「その(仕事:しごと)、(結局:けっきょく)(引:ひ)き(受:う)けるつもりなんでしょ？」 B「え、そんなつもり、さらさらない」",
     "example-en": "A: You're going to take that job after all, aren't you? B: What? I have absolutely no intention of doing that.",
-    "notes-ja": "「え、そんなつもり、さらさらない」は、相手から自分の意図や予定を推測されたときに、その推測をその場で強く否定する表現です。「え」は、相手の推測が予想外だったことへの即時的な驚きを示します。「そんなつもり」は、相手が話し手にあると想定した意図や考えを指します。「さらさらない」は、「全くない」「少しもない」という強い否定を表し、単に現在そのつもりがないだけでなく、最初からそのような意図を持っていないという響きを伴うことがあります。このため、「そんなつもりはない」よりも否定が強く、相手の推測を明確に退ける表現になります。例文では、仕事を引き受けるつもりだと推測された話し手が、その推測自体に驚き、「え、そんなつもり、さらさらない」と即座に否定しています。",
-    "notes-en": "'E, sonna tsumori, sarasara nai' is an immediate expression used when speakers strongly reject another person's assumption about their intention or plan. 'E' marks immediate surprise at the assumption. 'Sonna tsumori' refers to the intention that the listener has attributed to the speaker. 'Sarasara nai' expresses a strong form of negation, roughly meaning 'not at all' or 'not in the slightest,' and can imply that the speaker never had such an intention in the first place. The expression is therefore stronger than simply saying 'sonna tsumori wa nai' and clearly rejects the listener's interpretation. In the example, the speaker is assumed to be planning to take on a particular job and immediately responds with surprise and emphatic denial."
+    "notes-ja": "「え、そんなつもり、さらさらない」は、相手が話し手にあると想定した意図を、その存在ごと否定する表現です。「やめた」「そのつもりはなくなった」なら以前にはその意図があったことになりますが、「さらさらない」では、そのような意図はそもそも自分の側にはなかったという立場を取ります。そのため、否定されるのは予定そのものだけでなく、「あなたはそう考えている」という相手の理解でもあります。",
+    "notes-en": "\"E, sonna tsumori, sarasara nai\" rejects the very existence of an intention that someone else has attributed to the speaker. Saying that the speaker changed their mind would acknowledge that the intention once existed, but \"sarasara nai\" presents it as something that was never there in the first place. What is rejected, therefore, is not only the supposed plan but also the other person's understanding of the speaker."
   },
   {
     "date": "2026.09.16",
@@ -1364,18 +1321,8 @@
     "expression-en": "Oh, now I get it.",
     "variants-ja": ["あ、(今:いま)わかった", "ああ、(今:いま)わかった", "(今:いま)わかった", "あ、やっとわかった"],
     "variants-en": ["Oh, now I get it.", "Ah, now I understand.", "Now I get it.", "Oh, I finally get it."],
-    "intent-ja": [
-      "それまで理解できていなかったことが、直前の説明や手掛かりによってその瞬間に理解できたときに使う表現",
-      "理解できない状態から理解できる状態への変化が生じた瞬間を示す表現",
-      "直前に得た情報によって、それまでつながっていなかった内容がその場で結びついたことを示す表現",
-      "口語的な表現"
-    ],
-    "intent-en": [
-      "expression used when something that had not been understood becomes clear at that very moment because of the immediately preceding explanation or clue",
-      "expression marking the moment of transition from not understanding to understanding",
-      "expression indicating that newly received information has just caused previously disconnected pieces of information to fall into place",
-      "colloquial expression"
-    ],
+    "intent-ja": ["理解の成立", "新たな気づきの共有"],
+    "intent-en": ["achievement of understanding", "sharing a new realization"],
     "tags-ja": ["即時文法", "口語", "理解", "気づき", "状態変化", "認識", "時間", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "understanding", "realization", "state change", "recognition", "time", "immediate reaction"],
     "adjusted-expression-ja": "ああ、(今:いま)ようやく(理解:りかい)できました。",
@@ -1383,8 +1330,8 @@
     "img-sub": "imawakatta01.png",
     "example-ja": "A「だから、この(二:ふた)つは(別々:べつべつ)に(数:かぞ)えるんじゃなくて、(一組:ひとくみ)で(一:ひと)つなんだよ」 B「あ、(今:いま)わかった」",
     "example-en": "A: So you don't count these two separately. Together, they make one unit. B: Oh, now I get it.",
-    "notes-ja": "「あ、今わかった」は、それまで理解できていなかったことが、直前に与えられた説明や手掛かりによって、その瞬間に理解できたときに使う表現です。「あ」は認識が変化した瞬間を示し、「今」は単に現在の時刻を表すのではなく、理解できなかった状態と理解できる状態との境界を指しています。「わかった」も、ここでは単に自分の理解状態を報告するだけではなく、理解が成立した瞬間そのものに対する反応として機能します。したがって、この表現には、未理解の状態、手掛かりの入力、理解の成立、即時反応という時間的な順序があります。例文では、二つのものを別々に数えるのではなく一組として扱うという説明を聞いたことで、それまで理解できなかった仕組みがその場でつながり、「あ、今わかった」と反応しています。「あ、わかった」だけでも理解成立を示せますが、「今」が入ることで、理解が成立した時間的な境界そのものが明示されます。また、「あ、やっとわかった」では、理解に至るまでに時間や困難があったという評価が加わるため、単純な「あ、今わかった」とは少し異なります。",
-    "notes-en": "'A, ima wakatta' is used when something that the speaker had not understood becomes clear at that very moment as a result of the immediately preceding explanation or clue. 'A' marks the instant of a change in recognition, while 'ima' does more than indicate the present time: it marks the boundary between a state of not understanding and a newly achieved state of understanding. 'Wakatta' here is therefore not merely a report of the speaker's cognitive state. It functions as an immediate reaction to the transition into understanding itself. The expression has a clear temporal structure: non-understanding, receipt of a clue, emergence of understanding, and immediate reaction. In the example, the explanation that the two items should be treated as one unit causes the previously unclear idea to fall into place, prompting the response 'Oh, now I get it.' The shorter 'A, wakatta' can also mark understanding, but adding 'ima' explicitly highlights the moment at which the change occurs. 'A, yatto wakatta,' by contrast, adds the implication that reaching understanding took some time or effort."
+    "notes-ja": "「あ、今わかった」の「今」は、単に現在の時刻を示すのではなく、「わからない」状態から「わかる」状態へ移った境界を指しています。そのため、「今」はある時間の幅ではなく、理解が成立した一点を捉えています。「わかった」も過去の理解を報告しているのではなく、その瞬間に成立した新しい認識を表します。「あ、今わかった」は、認識が切り替わる境界そのものを発話として捉えた表現です。",
+    "notes-en": "In \"A, ima wakatta,\" \"ima\" does more than locate the event in the present: it points to the boundary between not understanding and understanding. It therefore identifies not a span of present time but the point at which understanding comes into existence. \"Wakatta\" likewise does not report an earlier act of understanding; it expresses the new state of understanding established at that moment. The expression captures the boundary at which the speaker's understanding changes."
   },
   {
     "date": "2026.09.15",
@@ -1397,18 +1344,8 @@
     "expression-en": "Since we're here...",
     "variants-ja": ["せっかくだから", "せっかくだし", "せっかくなので", "せっかく(来:き)たんだから"],
     "variants-en": ["Since we're here...", "Since we have the chance...", "While we have the opportunity...", "Since we've come all this way..."],
-    "intent-ja": [
-      "すでに成立している状況や得られた機会を無駄にせず、そこから追加の行動を決める表現",
-      "現在の状況に価値を認め、その価値を次の行動の理由として提示する表現",
-      "偶然の機会や、それまでに費やした時間や労力を生かそうとする即時的な判断を示す表現",
-      "口語的な表現"
-    ],
-    "intent-en": [
-      "expression used to decide on an additional action rather than waste an opportunity or situation that has already arisen",
-      "expression treating the current situation as valuable and using that value as a reason for the next action",
-      "expression marking an immediate decision to make use of an opportunity or of time and effort already invested",
-      "colloquial expression"
-    ],
+    "intent-ja": ["機会の活用", "追加行動の動機づけ"],
+    "intent-en": ["making use of an opportunity", "motivation for an additional action"],
     "tags-ja": ["即時文法", "口語", "機会", "状況判断", "追加行動", "理由", "機会利用"],
     "tags-en": ["immediate grammar", "spoken", "opportunity", "situational judgment", "additional action", "reason", "making use of an opportunity"],
     "adjusted-expression-ja": "この(機会:きかい)を(生:い)かして、もう(一:ひと)つ(行動:こうどう)することにしましょう。",
@@ -1416,8 +1353,8 @@
     "img-sub": "sekkakudakara01.png",
     "example-ja": "A「この(近:ちか)くに(有名:ゆうめい)な(和菓子屋:わがしや)があるよ」 B「じゃあ、せっかくだから(寄:よ)っていこうか」",
     "example-en": "A: There's a famous Japanese sweets shop near here. B: Since we're here, we might as well stop by.",
-    "notes-ja": "「せっかくだから」は、すでに成立している状況や得られた機会をそのまま終わらせるのは惜しいと考え、その機会を生かして次の行動を取ろうとするときに使う表現です。「せっかく」は、ある状況や機会に価値があることを示します。その価値は、特別な機会であることから生じる場合もあれば、そこに至るまでに時間や労力を使ったことから生じる場合もあります。「だから」によって、その価値のある状況が次の行動の理由になります。そのため、「せっかくだから」は、現在の状況をあらためて評価し、「この機会を使わないのはもったいない」と判断して追加の行動を立ち上げる働きをします。例文では、すでにその場所まで来ているという状況に、近くに有名な和菓子屋があるという情報が加わり、Bは現在の機会を利用して店に寄ることをその場で決めています。英語では場面に応じて 'since we're here,' 'since we have the chance,' 'we might as well,' などと表現され、日本語の「せっかくだから」と一対一に対応する表現はありません。",
-    "notes-en": "'Sekkaku dakara' is used when speakers recognize that a situation or opportunity already available to them would be a waste not to make use of, and they decide on an additional action as a result. 'Sekkaku' assigns value to the current opportunity or circumstances. That value may come from the rarity of the opportunity or from the time and effort already spent reaching the present situation. 'Dakara' then turns that valued situation into a reason for what the speaker proposes to do next. The expression therefore involves an immediate reevaluation of the current circumstances: since this opportunity is already available, it would be a shame not to make use of it. In the example, the speakers are already in the area when they learn that a famous Japanese sweets shop is nearby. B treats being there as an opportunity and immediately proposes stopping by. Depending on the situation, English may use expressions such as 'since we're here,' 'since we have the chance,' or 'we might as well,' rather than a single fixed equivalent for 'sekkaku dakara.'"
+    "notes-ja": "「せっかくだから」は、すでに成立している状況を、これからする行動の理由に変える表現です。「ここまで来た」「時間がある」「用意した」といった事実は、それだけでは次の行動を要求しません。しかし、「せっかくだから」と捉えることで、その状況を使わずに終えることに損失が生まれ、追加の行動が自然な選択になります。新しい理由を外から加えるのではなく、すでにある状況を理由として読み替えるところに特徴があります。",
+    "notes-en": "\"Sekkaku dakara\" turns an already existing situation into a reason for a further action. Facts such as having come this far, having some time, or having prepared something do not by themselves require any additional action. Once framed with \"sekkaku dakara,\" however, letting the situation pass unused becomes a kind of loss, making an additional action a natural choice. Rather than adding a new reason from outside, the expression reinterprets what is already true as a reason for what to do next."
   },
   {
     "date": "2026.09.14",
@@ -1430,18 +1367,8 @@
     "expression-en": "Oh, scratch that.",
     "variants-ja": ["あ、(今:いま)のなし", "(今:いま)のなし", "ごめん、(今:いま)のなし", "あ、(今:いま)のなしね"],
     "variants-en": ["Oh, scratch that.", "Scratch that.", "Sorry, scratch that.", "Never mind what I just said."],
-    "intent-ja": [
-      "自分が直前に言ったことに問題があると気づき、その発話をその場で取り消す表現",
-      "発話した直後に自分の発話を対象として捉え、その有効性を即時的に撤回する表現",
-      "言い間違い、勘違い、不適切な発言などを検出した直後に、後続する修正へ移るための表現",
-      "口語的な表現"
-    ],
-    "intent-en": [
-      "expression used when speakers immediately realize that something they have just said is wrong or inappropriate and withdraw it",
-      "expression treating the immediately preceding utterance as an object and revoking it on the spot",
-      "expression used after detecting a mistake, misunderstanding, or inappropriate remark and before moving on to a correction",
-      "colloquial expression"
-    ],
+    "intent-ja": ["直前の発話の撤回", "発話内容の無効化"],
+    "intent-en": ["withdrawal of the immediately preceding utterance", "cancellation of what was just said"],
     "tags-ja": ["即時文法", "口語", "自己修正", "撤回", "発話取消", "言い直し", "メタ発話", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "self-correction", "retraction", "utterance cancellation", "repair", "metalinguistic utterance", "immediate reaction"],
     "adjusted-expression-ja": "(今:いま)の(発言:はつげん)は(取:と)り(消:け)します。",
@@ -1449,8 +1376,8 @@
     "img-sub": "imanonashi01.png",
     "example-ja": "A「じゃあ、(明日:あした)の3(時:じ)に...あ、(今:いま)のなし。4(時:じ)だった」",
     "example-en": "A: Okay, then tomorrow at three..., oh, scratch that. It was four.",
-    "notes-ja": "「あ、今のなし」は、自分が直前に発した内容に間違い、不適切さ、勘違いなどがあると気づき、その発話を即座に取り消すときに使う表現です。「あ」は、自分自身の発話を聞いた結果、問題に気づいた瞬間を示します。「今の」は、直前に生成された発話そのものを指します。「なし」は、その発話を以後の会話で有効なものとして扱わないことを示します。したがって、この表現では、発話してから問題を検出し、その発話を撤回して修正へ進むという時間的な順序が明確です。たとえば例文では、「3時」と発話した直後にそれが誤りだと気づき、「あ、今のなし」によって直前の発話を取り消してから「4時だった」と修正しています。「今の発言は取り消します」のように完全な文へ言い換えることはできますが、「あ、今のなし」自体は、その場で直前の発話を無効化する即時的な反応として成立しています。そのため、単に完全な文から要素が省略された形式として扱うよりも、直前の発話を指示し、その有効性をその場で撤回する独立した発話単位として捉えることができます。",
-    "notes-en": "'A, ima no nashi' is used when speakers realize immediately after speaking that what they have just said contains a mistake, misunderstanding, inappropriate remark, or other problem, and they withdraw that utterance on the spot. 'A' marks the moment when the speaker detects the problem, often as a result of hearing their own utterance. 'Ima no' points to the utterance that has just been produced, while 'nashi' indicates that it should no longer be treated as valid in the ongoing interaction. The expression therefore displays a clear temporal sequence: an utterance is produced, a problem is detected, the utterance is revoked, and a correction may follow. In the example, the speaker first says 'three,' immediately realizes that this is wrong, cancels it with 'A, ima no nashi,' and then replaces it with 'four.' The expression can be expanded into a complete sentence such as 'I withdraw what I just said,' but 'A, ima no nashi' functions independently as an immediate act of revoking the preceding utterance rather than merely as an incomplete version of a fuller sentence."
+    "notes-ja": "「あ、今のなし」では、ほんの一瞬前まで進行していた自分の発話が、「今の」によって直後には指示できる対象になります。そして「なし」は、その内容が誤りだと述べるのではなく、その発話を以後の会話で有効なものとして扱わないことを求めます。そのため、これは単なる訂正ではなく、発話をいったん対象化してから無効化する表現です。「発話する→その発話を指す→取り消す」という処理が、ごく短い時間の中で連続して起こります。",
+    "notes-en": "In \"A, ima no nashi,\" an utterance that was still unfolding a moment earlier immediately becomes something that can be pointed to with \"ima no.\" \"Nashi\" does not simply say that its content was wrong; it asks that the utterance no longer be treated as valid in the continuing interaction. This is therefore more than a correction: the speaker first turns the preceding utterance into an object and then cancels it. Producing an utterance, referring back to it, and withdrawing it occur in rapid succession."
   },
   {
     "date": "2026.09.13",
@@ -1463,13 +1390,8 @@
     "expression-en": "Just in case.",
     "variants-ja": ["(念:ねん)のため", "(念:ねん)のために", "まあ、(念:ねん)のため", "(一応:いちおう)、(念:ねん)のため"],
     "variants-en": ["Just in case.", "To be on the safe side.", "Well, just in case.", "Just to be safe."],
-    "intent-ja": ["現時点では問題ないと考えながらも、わずかな不確実性に備えて追加の行動を取る表現", "将来起こるかもしれない問題を明示せず、その可能性を見越して予防的に行動する表現", "必要性が確定していない行動を安全のために付け加える表現", "口語的な表現"],
-    "intent-en": [
-      "expression used when the speaker takes an additional action despite believing that things are probably fine",
-      "expression indicating preventive action in anticipation of a possible future problem without explicitly stating what that problem might be",
-      "expression adding an action for safety even though its necessity has not been established",
-      "colloquial expression"
-    ],
+    "intent-ja": ["不確実性への備え", "追加確認の動機づけ"],
+    "intent-en": ["precaution against uncertainty", "motivation for an additional check"],
     "tags-ja": ["即時文法", "口語", "予防", "不確実性", "追加行動", "安全確認", "先取り"],
     "tags-en": ["immediate grammar", "spoken", "precaution", "uncertainty", "additional action", "safety check", "anticipation"],
     "adjusted-expression-ja": "(問題:もんだい)はないと(思:おも)いますが、(万一:まんいち)に(備:そな)えて(準備:じゅんび)しておきます。",
@@ -1477,8 +1399,8 @@
     "img-sub": "nennotame01.png",
     "example-ja": "A「(資料:しりょう)、(メール:めーる)で(送:おく)ったよね？」 B「うん。でも、(念:ねん)のためUSBにも(入:い)れておく」",
     "example-en": "A: You sent the materials by email, right? B: Yeah, but I'll put them on a USB drive too, just in case.",
-    "notes-ja": "「(念:ねん)のため」は、現時点では大きな問題はないと考えていても、何か予想外のことが起こる可能性を完全には捨てず、その可能性に備えて追加の行動を取るときに使う表現です。何に備えているのかを詳しく言わなくても、直前の会話や状況から理解できるため、「念のため」だけで予防的な判断を示すことができます。たとえば、資料をすでにメールで送っている場合でも、通信障害やファイルの不具合などが起こる可能性を考えてUSBにも保存しておく、といった行動です。このとき話者は問題が起こると予測しているわけではなく、「おそらく大丈夫だが、完全には確実ではない」という小さな不確実性に反応しています。そのため、「念のため」は、現在の判断にわずかな留保を残し、それを追加行動へ変換する表現だといえます。",
-    "notes-en": "'Nen no tame' is used when speakers believe that things are probably fine but do not completely exclude the possibility of an unexpected problem and therefore take an additional precaution. The possible problem does not need to be stated explicitly because it can usually be inferred from the preceding conversation or immediate situation. For example, even if materials have already been sent by email, a speaker may also save them on a USB drive in case of a communication problem or file issue. The speaker is not necessarily predicting that something will go wrong. Rather, the expression responds to a small remaining uncertainty: things will probably be fine, but they are not completely certain. 'Nen no tame' therefore turns a slight reservation about the current situation into an additional preventive action."
+    "notes-ja": "「念のため」は、問題が起こるという判断に変えることなく、問題が起こる可能性だけを残して追加の行動を取る表現です。「たぶん大丈夫」という判断と、「それでも確認しておく」という行動が同時に成立します。つまり、不確実性を解消してから行動するのではなく、小さな不確実性を残したまま、それを予防的な行動へ変換しています。",
+    "notes-en": "\"Nen no tame\" allows the speaker to take an additional action without changing the judgment that things are probably fine. \"It will probably be all right\" and \"I will check anyway\" can therefore remain valid at the same time. Rather than resolving the uncertainty before acting, the expression preserves a small uncertainty and converts it into a precautionary action."
   },
   {
     "date": "2026.09.12",
@@ -1491,18 +1413,8 @@
     "expression-en": "Oh, that one.",
     "variants-ja": ["あ、そっちね", "ああ、そっちね", "そっちね", "あ、そっちの(話:はなし)ね"],
     "variants-en": ["Oh, that one.", "Oh, you mean that one.", "That one, right.", "Oh, that's what you're talking about."],
-    "intent-ja": [
-      "複数の候補のうち、自分が想定していたものとは別のものを相手が指していたとわかり、参照先をその場で切り替える表現",
-      "自分が予想していた反応や展開とは別の方向に実際の出来事が進んだとわかり、その予想外の方向を受け入れる表現",
-      "対象、話題、解釈、反応、展開などの方向を即時的に切り替える表現",
-      "口語的な表現"
-    ],
-    "intent-en": [
-      "expression used when the speaker realizes that the other person was referring to a different option from the one the speaker had assumed and immediately switches the referent",
-      "expression used when events take a different direction from the reaction or development the speaker had expected and the speaker recognizes and accepts that unexpected alternative",
-      "expression marking an immediate switch in the direction of reference, topic, interpretation, reaction, or development",
-      "colloquial expression"
-    ],
+    "intent-ja": ["参照先の切り替え", "想定外の方向の認識"],
+    "intent-en": ["shift of reference", "recognition of an unexpected direction"],
     "tags-ja": ["即時文法", "口語", "指示", "参照", "参照先変更", "予想", "予想外", "展開", "解釈変更", "即時反応"],
     "tags-en": ["immediate grammar", "spoken", "demonstrative", "reference", "referent switching", "expectation", "unexpected development", "development", "reinterpretation", "immediate reaction"],
     "adjusted-expression-ja": "ああ、そちらのことだったのですね。",
@@ -1524,13 +1436,8 @@
     "expression-en": "More than I expected.",
     "variants-ja": ["(思:おも)ったより", "(思:おも)ってたより", "(思:おも)ったよりも", "(予想:よそう)してたより"],
     "variants-en": ["More than I expected.", "More than I thought.", "More than I'd expected.", "More than I was expecting."],
-    "intent-ja": ["実際に経験した結果を、それ以前に持っていた予測と比較して評価する表現", "事前の予測と実際の結果との間に差があったことをその場で示す表現", "何をどの程度予測していたのかを明示せず、共有された状況から補って比較する表現", "口語的な表現"],
-    "intent-en": [
-      "expression evaluating an actual result by comparing it with an earlier expectation",
-      "expression indicating an immediately recognized difference between what was expected and what actually happened",
-      "expression allowing the content and degree of the earlier expectation to remain implicit and be recovered from context",
-      "colloquial expression"
-    ],
+    "intent-ja": ["予測と結果の比較", "予想との差の認識"],
+    "intent-en": ["comparison of expectation and outcome", "recognition of a difference from expectation"],
     "tags-ja": ["即時文法", "口語", "予測", "比較", "評価", "結果", "認識"],
     "tags-en": ["immediate grammar", "spoken", "expectation", "comparison", "evaluation", "result", "realization"],
     "adjusted-expression-ja": "(実際:じっさい)の(結果:けっか)は、(事前:じぜん)に(予想:よそう)していたものとは(異:こと)なっていました。",
@@ -1538,8 +1445,8 @@
     "img-sub": "omottayori01.png",
     "example-ja": "A「ここまで(来:く)るの、(時間:じかん)かかった？」 B「いや、(思:おも)ったより(早:はや)く(着:つ)いたよ」",
     "example-en": "A: Did it take you long to get here? B: No, I arrived here earlier than I expected.",
-    "notes-ja": "「(思:おも)ったより」は、実際に経験した結果を、それ以前に話者が持っていた予測と比較して評価するときに使う表現です。「思った」の内容は通常明示されず、何をどの程度予測していたのかは、その場の状況や後続する表現から理解されます。たとえば「思ったより早く着いた」では、到着までにはもう少し時間がかかると事前に予測していたことが暗黙に含まれています。そして実際に到着した時点で、その予測と現実との差を認識し、「思ったより早く」と評価しています。このように、「思ったより」には、事前の予測、実際の経験、両者の差の認識、現在の評価という時間的な順序があります。「思ってたより」は「思っていたより」の口語形で、日常会話では非常によく使われます。英語では 'earlier than I expected,' 'more useful than I expected,' 'easier than I thought' のように、比較する性質に応じて比較級が変わりますが、日本語では「思ったより」を先に置き、その後に「早い」「便利」「簡単」などの評価を続けることができます。",
-    "notes-en": "'Omotta yori' is used when speakers evaluate an actual result by comparing it with an expectation they had beforehand. The content of 'omotta' is usually left unstated: what the speaker expected and to what degree are recovered from the situation and from the expression that follows. For example, 'omotta yori hayaku tsuita' implies that the speaker had expected the journey to take longer. Upon arriving, the speaker recognizes a difference between that prior expectation and the actual result and evaluates the arrival as earlier than expected. The expression therefore involves a temporal sequence: an earlier expectation, an actual experience, recognition of the difference between them, and a present evaluation. 'Omotteta yori' is the conversational form of 'omotte ita yori' and is especially common in everyday speech. In English, the comparative changes according to what is being evaluated, as in 'earlier than I expected,' 'more useful than I expected,' or 'easier than I thought,' whereas Japanese can place 'omotta yori' before a wide range of evaluations such as 'hayai,' 'benri,' or 'kantan.'"
+    "notes-ja": "「思ったより」では、過去に自分が持っていた予測が、現在の結果を評価するための比較基準になります。例文では、実際の所要時間と予測していた所要時間を比べていますが、その予測値はどこにも明示されていません。それでも「早く着いた」と言えるのは、現在の結果から過去の予測を比較基準として呼び戻しているからです。「思ったより」は、過去の認識を現在の経験を測る基準として再利用する表現です。",
+    "notes-en": "In \"omotta yori,\" the speaker's own earlier expectation becomes the standard for evaluating the present result. In the example, the actual travel time is compared with the expected travel time, although the expected value is never stated. The speaker can nevertheless say \"hayaku tsuita\" because the earlier expectation is brought back as the comparison point for the current result. \"Omotta yori\" thus reuses a past expectation as a standard for measuring present experience."
   },
   {
     "date": "2026.09.10",
@@ -1552,18 +1459,8 @@
     "expression-en": "Before I knew it...",
     "variants-ja": ["(気:き)がつけば", "(気:き)づけば", "ふと(気:き)がつけば", "(気:き)がついたら"],
     "variants-en": ["Before I knew it...", "Before I realized it...", "When I suddenly realized it...", "Then I realized..."],
-    "intent-ja": [
-      "意識していない間に時間が経過したり状況が変化したりしていたことを、後から認識したときに使う表現",
-      "継続していた行動や状態から一時的に意識を離し、現在の状況をあらためて認識する表現",
-      "それまで意識されていなかった時間の経過や変化を発見として提示する表現",
-      "口語的な表現"
-    ],
-    "intent-en": [
-      "expression used when the speaker realizes afterward that time has passed or a situation has changed without being consciously noticed",
-      "expression marking a moment when the speaker steps out of an ongoing activity or state and becomes aware of the current situation",
-      "expression presenting previously unnoticed passage of time or change as a discovery",
-      "colloquial expression"
-    ],
+    "intent-ja": ["無意識の変化への気づき", "現在状態の再認識"],
+    "intent-en": ["realization of an unnoticed change", "renewed awareness of the current state"],
     "tags-ja": ["即時文法", "口語", "気づき", "時間経過", "状況変化", "発見", "回顧"],
     "tags-en": ["immediate grammar", "spoken", "realization", "passage of time", "situational change", "discovery", "retrospection"],
     "adjusted-expression-ja": "(意識:いしき)しないまま(時間:じかん)が(経過:けいか)し、(後:あと)になってそのことに(気:き)づきました。",
@@ -1571,12 +1468,13 @@
     "img-sub": "kigatsukeba01.png",
     "example-ja": "A「もうこんな(時間:じかん)？」 B「うん。(気:き)がつけば(三時間:さんじかん)ずっとやってた」",
     "example-en": "A: Is it this late already? B: Yeah. Before I knew it, I'd been at it for three hours.",
-    "notes-ja": "「(気:き)がつけば」は、話者が意識していなかった間に時間が経過したり状況が変化したりしていて、そのことを後から認識したときに使う表現です。「気がつく」は認識の成立を表し、「ば」は形の上では条件形ですが、「気がつけば」では単純な仮定条件を表すとは限りません。「気がついた時には、すでにある状態になっていた」という時間的な関係を作ります。そのため、「気がつけば三時間たっていた」のような発話では、三時間という時間を順に意識していたのではなく、何かに集中している間に時間が経過し、その結果を現在の時点から発見しています。「いつの間にか」と意味が近い場合もありますが、「気がつけば」は特に話者の認識が成立した時点を前面に出すことができます。例文では、作業を続けていたBが現在の時刻をあらためて認識し、それまで意識されていなかった三時間の経過を「気がつけば」によって振り返っています。",
-    "notes-en": "'Ki ga tsukeba' is used when speakers become aware that time has passed or a situation has changed while they were not consciously noticing it. 'Ki ga tsuku' refers to becoming aware of something, and although '-ba' is formally a conditional form, 'ki ga tsukeba' does not necessarily express an ordinary hypothetical condition. Instead, it can establish a temporal relationship roughly meaning that by the time the speaker became aware of the situation, a certain state had already come about. Thus, in an utterance such as 'ki ga tsukeba sanjikan tatte ita,' the speaker was not consciously tracking those three hours as they passed. The passage of time is discovered retrospectively from the present moment. The expression can overlap with 'itsu no ma ni ka,' but 'ki ga tsukeba' more clearly foregrounds the speaker's moment of realization. In the example, B has remained absorbed in an activity and then becomes aware of the current time, retrospectively recognizing that three hours have passed."
+    "notes-ja": "「気がつけば」は、何かに夢中になっているうちに、時間がたっていたり、状況が変わっていたりしたことに後から気づいたときに使います。ずっと見ていた変化ではなく、ふと顔を上げたら「もうこんな時間？」となるような気づきです。例文では、作業に集中していたため、三時間たったことに後から気づいています。",
+    "notes-en": "\"Ki ga tsukeba\" is used when you suddenly notice that time has passed or things have changed while your attention was somewhere else. It is the kind of realization you have when you look up from what you were doing and think, \"Is it this late already?\" In the example, the speaker was so absorbed in the activity that they only later noticed that three hours had passed."
   },
   {
     "date": "2026.09.09",
     "day": "Wed",
+    "fromhere": "dangerouszone",
     "number": 882,
     "index": "asouiuimine",
     "title": "Oh, that's what you mean.",
@@ -2164,7 +2062,6 @@
     "notes-ja": "「あ、それでか」は、直前に得た情報によって、それまで不思議に思っていたことや理由が分からなかったことの原因が分かった瞬間に発する表現です。「あ」は、新しい理解が成立した瞬間を示します。「それで」は、相手が直前に述べた内容を原因や理由として受け、「か」は、その因果関係に気づいて納得したことを表します。何について理由が分かったのかは、それまでの会話や共有された状況から分かるため、詳しく言う必要はありません。「ああ、そういうことか」のように説明内容全体を理解する表現に対し、「あ、それでか」は特に、直前の情報とそれまで疑問だった事柄との因果関係がつながったことに焦点を置きます。例文では、店や街の様子が普段と違う理由が分からなかったところに「今日は祝日だからね」と言われ、その理由が分かった瞬間に「あ、それでか」と反応しています。",
     "notes-en": "'A, sore de ka' is an immediate expression used when newly received information suddenly explains something that had previously seemed puzzling or unexplained. 'A' marks the moment when the speaker reaches a new understanding. 'Sore de' takes the listener's immediately preceding statement as the cause or reason, while 'ka' marks the speaker's realization and acceptance of that causal connection. What has now been explained does not need to be stated because it is understood from the preceding conversation or shared situation. Unlike an expression such as 'Aa, sou iu koto ka,' which indicates understanding of an explanation more generally, 'A, sore de ka' specifically focuses on recognizing the causal connection between the newly given information and something that had previously been puzzling. In the example, the speaker learns that it is a holiday and immediately realizes that this explains why the situation is different from usual."
   },
-
   {
     "date": "2026.08.20",
     "day": "Thu",
@@ -3037,7 +2934,7 @@
     "notes-en": "\"Sarada no mise\" is a casual expression that briefly indicates the type or character of a restaurant. Here, \"no\" links the two nouns, \"salad\" and \"restaurant,\" without specifying their exact relationship. Depending on the situation, the phrase may refer to a restaurant that serves salads, is known for salads, mainly offers salads, or specializes in salads. It might even be a restaurant that serves only salads. Thus, even in the simple noun-no-noun pattern, the relationship created by \"no\" can be remarkably flexible."
   },
   {
-    "dangerous zone": "here",
+    "dangerouszone": "here",
     "date": "2026.07.18",
     "day": "Sat",
     "number": 829,
@@ -3953,7 +3850,6 @@
     "example-en": "A: Do you need this done right away? B: No, it does not have to be right away.",
     "notes-ja": "「後でいいから」は、相手が今すぐ対応しなくてもよいことを伝え、負担を軽くする表現です。「から」があることで、相手を急がせない理由づけのように働き、「今じゃなくていいよ」という配慮が出ています。",
     "notes-en": "'Ato de ii kara' tells the listener that they do not need to deal with something right away and helps ease their burden. The final 'kara' works like a soft reason or reassurance, giving the sense of 'It does not have to be now.'",
-
     "notes-for-research-ja": "「後でいいから」がやさしく聞こえるのは、語そのものの印象によるのではなく、その表現が連鎖の中で相手への配慮を発動するためである。言語内在層としては、「後で」が時間を後方へずらし、「いい」が許容を示し、「から」が理由づけ・緩和として働く。場面発動層では、この連鎖が、依頼内容そのものを変えるのではなく、行為にかかる時間的圧力をゆるめることで、相手の心理的負担を下げる。さらに行動慣習層では、「相手を急がせないことは配慮である」「相手の時間を拘束しすぎないことは望ましい」といった慣習が、この発動をやさしさとして受け取らせる。ここでことばは、単に情報を伝える vehicle ではなく、相手への配慮を運ぶ vehicle として働いている。したがって、ことばの印象は、語に固定的に内在する性質ではなく、言語形式が場面の中で立ち上げる対人関係上の働きと、それを評価する行動慣習によって生じる。この三層を区別することで、言語に内在する形式的意味、言語を契機に発動する対人機能、その機能が配慮として受け取られる行動慣習を分けて記述できる。",
     "notes-for-research-en": "'Ato de ii kara' sounds gentle not because the words themselves are inherently gentle, but because the expression activates consideration for the listener within the chain. At the language-internal level, 'ato de' shifts the timing to later, 'ii' indicates acceptability, and 'kara' works as a soft reason or mitigation. At the situated-activation level, this chain does not change the content of the request itself; instead, it loosens the temporal pressure attached to the action and reduces the listener's psychological burden. At the behavioral-convention level, conventions such as 'not rushing the other person counts as consideration' and 'not over-constraining the other person's time is desirable' allow this activation to be received as gentleness. Here, language works not merely as a vehicle for information, but as a vehicle for consideration toward the listener. Thus, the impression created by the expression is not a fixed property contained in the words themselves, but arises from the interpersonal function activated by the linguistic form in the situation and from the behavioral conventions through which that function is evaluated. By distinguishing these three layers, we can describe the formal meaning internal to language, the interpersonal function activated through language, and the behavioral conventions that allow that function to be received as consideration."
   },
@@ -4099,7 +3995,6 @@
     "img-sub": "hontounitsukuritai01.png",
     "example-ja": "(本当:ほんとう)に(作:つく)りたい(物:もの)じゃないと(ダメ:だめ)？",
     "example-en": "Does it have to be something I really want to make?",
-
     "notes-ja": "「本当に作りたい物じゃないとダメ？」は、相手が示した条件や基準に対して、「そこまで必要なの？」と確認する表現です。「じゃないとダメ？」によって、条件を受け入れる前の戸惑いや軽い抵抗が出ています。",
     "notes-en": "'Hontou ni tsukuritai mono ja nai to dame?' is used when the speaker questions a condition or standard set by someone else: 'Does it really have to be that?' The form 'ja nai to dame?' expresses hesitation or slight resistance before accepting the condition.",
     "notes-for-research-ja": "従来の日本語教育では、条件表現・義務表現・確認表現のような文法項目は整理されているが、未決定、戸惑い、自己の希望のあやふやさ、相手の基準への抵抗といった心理状態ごとの即時表現は十分にリスト化されていない。「本当に作りたい物じゃないとダメ？」は、単なる条件確認ではなく、相手が示した基準に対して、自分の希望がまだそこまで明確でないことを表す表現である。ここでは、条件を理解したうえで、それをそのまま受け入れる前の戸惑いが発動している。",
@@ -5717,7 +5612,6 @@
     "example-en": "A: Dad, did you eat the ice cream in the fridge? B: Yeah, I did... A: I knew it...",
     "notes-ja": "「やっぱりぃ...」は、疑っていたことや予想していたことが実際にそうだったと分かった瞬間の反応です。「やっぱり」は、今分かったことを、以前からの予想や感覚と結びつけます。語尾を伸ばした「ぃ」は、声の伸びや感情の揺れを書き表したもので、軽いあきれ、残念さ、納得の感じを出します。この言い方は子供の反応として自然ですが、大人も親しい場面で使います。その場合、少し子供っぽい言い方をあえて使うことで、責めを強くしすぎず、あきれやからかいを軽く表す働きがあります。",
     "notes-en": "\"I knew it...\" is used at the moment when something the speaker suspected or expected turns out to be true. \"Yappari\" connects the newly confirmed fact with the speaker's prior expectation or feeling. The elongated final \"i\" represents a stretched voice and emotional coloring, giving a sense of mild exasperation, disappointment, or recognition. This way of saying it sounds natural as a child's reaction, but adults also use it in familiar situations. When adults use it, the slightly childlike tone can soften the blame and express mild exasperation or teasing in a light way.",
-
     "notes-for-teachers-ja": "この表現を教えるときは、「やっぱり = as expected」と訳すだけで終わらせないことが重要である。「やっぱりぃ...」は、予想が当たったことを示すだけでなく、軽いあきれ、残念さ、からかい、親しい関係での反応を含む。子供が言うような言い方に見えるが、大人も親しい場面では使う。その場合、強く責めるのではなく、少し子供っぽい反応型を借りて、場面を深刻にしすぎずに感情を出している。英語の I knew it! も、子供の発話では「私はそれを知っていた」という知識の報告ではなく、「やっぱり！」「思った通り！」という即時反応として働く。Full House の Michelle のような子供の発話を思い浮かべると、「やっぱりぃ...」が持つ予想的中・軽いあきれ・感情のその場での立ち上がりが説明しやすい。学習者には、語義だけでなく、声の伸び、相手との関係、子供っぽい反応型を大人が借りることによる軽さを示すとよい。",
     "notes-for-teachers-en": "When teaching this expression, it is important not to stop at translating \"yappari\" as \"as expected.\" \"Yapparii...\" does not only show that the speaker's expectation was confirmed. It can also express mild exasperation, disappointment, teasing, and a familiar response within a close relationship. Although it may sound like something a child would say, adults also use it in familiar situations. In that case, the speaker is not strongly blaming the listener, but borrowing a slightly childlike response pattern to express emotion without making the situation too serious. The English expression \"I knew it!\" can work in a similar way in a child's speech. It is not merely a report of prior knowledge, but an immediate response meaning something like \"I thought so!\" or \"Just as I expected!\" Thinking of a childlike line such as Michelle's in Full House can help learners understand how \"yapparii...\" activates confirmed expectation, mild exasperation, and emotion at the moment of discovery. Learners should be shown that the function changes with the stretched voice, the relationship between the speakers, and the lightness created when adults borrow a childlike response pattern.",
     "external-evidence-en": [
@@ -7323,7 +7217,6 @@
     "img-sub": "sugokuzatsuniiukedo01.png",
     "example-ja": "A「この(計画:けいかく)、(詳:くわ)しく(説明:せつめい)して」 B「まずね、すごく(雑:ざつ)に(言:い)うけど、(要:よう)は(利益:りえき)を(最大化:さいだいか)することが(目的:もくてき)だよ」",
     "example-en": "A: Please explain this plan in detail. B: First, to put it very roughly, the main point is to maximize profits.",
-
     "notes-ja": "「すごく、雑に言うけど、...」は、話し手の中でまだ十分に整理されていない理解や判断を、会話の流れの中でいったん大まかな形にして出す表現である。「雑に」は、説明が粗いことを先に認めるだけでなく、細部を整える前の暫定的な見取り図であることを聞き手に知らせる働きを持つ。即時的な会話では、内容を完全に整理してから話し始めるとは限らない。そのため、この表現は『正確にはまだ調整が必要だが、だいたいこういう方向だと思う』という発話の入口になる。",
     "notes-en": "'Sugoku, zatsu ni iu kedo, ...' is used when the speaker puts forward an understanding or judgment that has not yet been fully organized. 'Zatsu ni' does not only admit that the explanation is rough. It also tells the listener that what follows is a provisional outline before the details have been adjusted. In immediate conversation, speakers do not always begin after fully organizing what they want to say. This expression opens a space for saying: this may need later correction, but roughly, this is the direction of my thought.",
     "notes-for-research-ja": [
@@ -22287,7 +22180,6 @@
     "img-sub": "ocha01.png",
     "example-ja": "(少:すこ)し(休:やす)みたいですね。お(茶:ちゃ)しませんか。",
     "example-en": "It looks like we could use a little break. Shall we have some tea?",
-
     "notes-ja": "「お茶」は典型例であって、必ずしも日本茶だけを指すわけではありません。休憩しながら何かを飲む、少し話す、という場面を表します。「しませんか」は形の上では丁寧な否定疑問ですが、ここでは否定ではなく誘いとして働きます。「か」は疑問を示す助詞ですが、親しい会話では「お茶しない？」のように、なくても誘いになります。「お茶」だからといって、コーヒーを飲んではいけないわけではありません。",
     "notes-en": "\"Ocha\" literally means \"tea,\" but here it works as a typical example of something to drink during a break. It can imply taking a short break, having something to drink, or starting a conversation. \"Shimasen ka\" is formally a polite negative question, but in this expression it functions as an invitation rather than a negative statement. The particle \"ka\" marks a question, but in casual speech it can be omitted, as in \"ocha shinai?\" Just because the word is \"ocha,\" it does not mean that you cannot drink coffee.",
     "notes-for-teachers-ja": "「お茶しませんか」は、飲み物そのものをすすめるだけでなく、休憩や会話への誘いとして使われます。「お茶」は日本茶に限らず、コーヒーや他の飲み物でもかまいません。また、「しませんか」は形の上では否定疑問ですが、実際には丁寧な誘いです。学習者には、「〜しませんか」が否定ではなく誘いになることを、場面と一緒に教えるとよいです。",
@@ -22922,7 +22814,6 @@
     "expression-ja": "するな！",
     "roman-ja": "Suru na!",
     "expression-en": "Don't do that!",
-
     "variants-ja": ["やるな！", "するなよ！", "やるなってば！"],
     "variants-en": ["Don't do it!", "Don't do that, okay?", "I said, don't do that!"],
     "intent-ja": ["禁止の説明", "禁止の警告", "禁止の強調"],
