@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.15",
+    "day": "Sun",
+    "number": 949,
+    "index": "kiiteminaito",
+    "title": "You'd have to ask your doctor about that.",
+    "expression-ja": "それは、(先生:せんせい)に(聞:き)いてみないとね",
+    "roman-ja": "Sore wa, sensei ni kiite minai to ne.",
+    "expression-en": "You'd have to ask your doctor about that.",
+    "variants-ja": ["それは、(先生:せんせい)に(聞:き)いてみないとね", "(先生:せんせい)に(聞:き)いてみないとね", "それは、(確認:かくにん)してみないとね"],
+    "variants-en": ["You'd have to ask your doctor about that.", "You'd have to ask about that.", "We'd have to check that."],
+    "intent-ja": ["判断先の提示", "自分での判断の保留", "確認の必要性"],
+    "intent-en": ["indication of who should make the judgment", "deferral of one's own judgment", "need for confirmation"],
+    "tags-ja": ["即時文法", "口語", "言いさし", "条件", "判断", "保留", "確認"],
+    "tags-en": ["immediate grammar", "spoken", "unfinished utterance", "condition", "judgment", "deferral", "confirmation"],
+    "adjusted-expression-ja": "それについては、(先生:せんせい)に(確認:かくにん)する(必要:ひつよう)があります",
+    "adjusted-expression-en": "You need to check with your doctor about that.",
+    "img-sub": "kiiteminaito01.png",
+    "example-ja": "A「もう、(薬:くすり)をやめてもいいかな？」 B「それは、(先生:せんせい)に(聞:き)いてみないとね」",
+    "example-en": "A: Do you think I can stop taking the medicine now? B: You'd have to ask your doctor about that.",
+    "notes-ja": "「〜てみないとね」は、まず確認する必要があることを示して、その先の結論を言わずに終える表現です。「先生に聞いてみないとね」では、「私には判断できない」「先生に確認しなければ決められない」などを最後まで言わなくても伝わります。「〜ないと」で終わっていますが、会話ではその言いさしによって、判断をいったん保留できます。",
+    "notes-en": "\"...te minai to ne\" indicates that something first needs to be checked and leaves the resulting conclusion unstated. In \"Sensei ni kiite minai to ne,\" the speaker does not need to finish with something like \"I can't decide\" or \"we won't know until we ask the doctor.\" Although the utterance ends with \"...nai to,\" this unfinished form is enough in conversation to defer the judgment until the necessary confirmation is made."
+  },
+  {
     "date": "2026.11.14",
     "day": "Sat",
     "number": 948,
