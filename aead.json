@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.14",
+    "day": "Sat",
+    "number": 948,
+    "index": "ganee",
+    "title": "I'd like to, but the timing...",
+    "expression-ja": "〜んですが、〜がねぇ",
+    "roman-ja": "...n desu ga, ...ga ne.",
+    "expression-en": "I'd like to, but the timing...",
+    "variants-ja": ["〜んですが、〜がねぇ", "〜たいんですが、〜がねぇ", "〜んだけど、〜がね"],
+    "variants-en": ["I'd like to, but...", "I'd like to, but the problem is...", "I'd like to, but there's the issue of..."],
+    "intent-ja": ["問題点の提示", "結論の言い控え", "婉曲的な難色"],
+    "intent-en": ["presentation of a problem", "leaving the conclusion unstated", "indirect expression of reluctance"],
+    "tags-ja": ["即時文法", "口語", "言いさし", "婉曲", "問題", "難色", "省略"],
+    "tags-en": ["immediate grammar", "spoken", "unfinished utterance", "indirectness", "problem", "reluctance", "ellipsis"],
+    "adjusted-expression-ja": "そうしたいのですが、〜に(問題:もんだい)があります",
+    "adjusted-expression-en": "I would like to do so, but there is a problem with...",
+    "img-sub": "ndesugaganee01.png",
+    "example-ja": "A「(土曜日:どようび)、いっしょに(行:い)きませんか？」 B「(行:い)きたいんですが、(時間:じかん)がねぇ」",
+    "example-en": "A: Would you like to go together on Saturday? B: I'd like to, but the timing...",
+    "notes-ja": "「〜んですが、〜がねぇ」は、問題になる点だけを示して、その先の結論を言わずに相手に理解してもらう表現です。「行きたいんですが、時間がねぇ」なら、「時間の都合が悪くて難しい」などとはっきり言わなくても、行くのが難しいことが伝わります。後半の「〜がねぇ」は文として完結していませんが、会話ではその言いさし自体が相手に結論を委ねる働きをします。",
+    "notes-en": "\"...n desu ga, ...ga ne\" presents the point that causes a problem and leaves the conclusion for the listener to infer. In \"Ikitai n desu ga, jikan ga ne,\" the speaker does not explicitly say that the timing makes it difficult to go, but that conclusion is readily understood. The final \"...ga ne\" is grammatically unfinished, but in conversation this unfinished form itself allows the speaker to leave the conclusion to the listener."
+  },
+  {
     "date": "2026.11.13",
     "day": "Fri",
     "number": 947,
