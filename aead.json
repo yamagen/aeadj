@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.16",
+    "day": "Mon",
+    "number": 950,
+    "index": "kopipedekinainokane",
+    "title": "Can't you just copy and paste?",
+    "expression-ja": "(コピペ:こぴぺ)、できないのかねぇ",
+    "roman-ja": "Kopipe, dekinai no ka ne.",
+    "expression-en": "Can't you just copy and paste?",
+    "variants-ja": ["(コピペ:こぴぺ)、できないのかねぇ", "これ、(コピペ:こぴぺ)できないの？", "(コピペ:こぴぺ)すればいいのにね"],
+    "variants-en": ["Can't you just copy and paste?", "Can't you copy and paste this?", "Why don't you just copy and paste it?"],
+    "intent-ja": ["簡単な方法を使わないことへの疑問", "相手のやり方への呆れ", "より簡単な方法の示唆"],
+    "intent-en": ["questioning why an easier method is not being used", "exasperation at someone's way of doing something", "suggestion of an easier method"],
+    "tags-ja": ["即時文法", "口語", "疑問", "呆れ", "方法", "示唆"],
+    "tags-en": ["immediate grammar", "spoken", "question", "exasperation", "method", "suggestion"],
+    "adjusted-expression-ja": "コピペを(使:つか)ったほうが(簡単:かんたん)ではありませんか",
+    "adjusted-expression-en": "Wouldn't it be easier to copy and paste?",
+    "img-sub": "kopipedekinainokane01.png",
+    "example-ja": "A「また(全部:ぜんぶ)、(手:て)で(入力:にゅうりょく)してるの？」 B「うん」 A「(コピペ:こぴぺ)、できないのかねぇ」",
+    "example-en": "A: Are you typing everything in by hand again? B: Yeah. A: Can't you just copy and paste?",
+    "notes-ja": "「〜できないのかねぇ」は、単にできるかどうかを質問するだけでなく、目の前のやり方を見て「もっと簡単にできないの？」という疑問や呆れを表すことがあります。「コピペ、できないのかねぇ」では、コピペする能力が本当にないのかを尋ねているとは限りません。簡単な方法があるのに、なぜそれを使わないのだろうという気持ちが表れています。",
+    "notes-en": "\"...dekinai no ka ne\" does not always simply ask whether someone is capable of doing something. It can express puzzlement or exasperation when the speaker sees someone using an unnecessarily difficult method. In \"Kopipe, dekinai no ka ne,\" the speaker is not necessarily asking about the person's actual ability to copy and paste, but wondering why such an easy option is not being used."
+  },
+  {
     "date": "2026.11.15",
     "day": "Sun",
     "number": 949,
