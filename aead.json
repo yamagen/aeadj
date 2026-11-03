@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.18",
+    "day": "Wed",
+    "number": 952,
+    "index": "nanto",
+    "title": "What!",
+    "expression-ja": "なんと！",
+    "roman-ja": "Nanto!",
+    "expression-en": "What!",
+    "variants-ja": ["なんと！", "なんとまあ！", "なんと、そんなことが！"],
+    "variants-en": ["What!", "Well, I'll be!", "What! Really?"],
+    "intent-ja": ["思いがけない事実を知った瞬間の驚き", "予想を大きく超えた結果への感嘆", "信じがたい内容を受けた即時反応"],
+    "intent-en": ["surprise at an unexpected fact", "amazement at a result far beyond expectations", "immediate reaction to something hard to believe"],
+    "tags-ja": ["即時文法", "口語", "驚き", "感嘆", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "surprise", "amazement", "immediate reaction"],
+    "adjusted-expression-ja": "それは驚きました",
+    "adjusted-expression-en": "That is surprising.",
+    "img-sub": "nanto01.png",
+    "example-ja": "A「この(店:みせ)、もう100(年:ねん)も(続:つづ)いているんだって」 B「なんと！」",
+    "example-en": "A: I heard this shop has been here for a hundred years. B: What!",
+    "notes-ja": "「なんと！」は、予想していなかった事実を知った瞬間に、驚きがそのまま声になって出る表現です。百年続いている店がある、思いがけない人が優勝した、ずっと探していたものがすぐ近くにあった。そんなとき、詳しく感想を述べるより先に「なんと！」が出ます。驚くだけでなく、感心したり、あきれたりする気持ちが重なることもあります。短いからこそ、その場で生まれた驚きがよく見える表現です。",
+    "notes-en": "\"Nanto!\" can come out the instant you learn something you did not expect: a shop has been in business for a hundred years, an unlikely person has won, or something you searched for was nearby all along. It may come before you have time to say anything more elaborate. Depending on the situation, the surprise can be mixed with admiration or disbelief. Its brevity makes it especially suited to an immediate reaction."
+  },
+  {
     "date": "2026.11.17",
     "day": "Tue",
     "number": 951,
@@ -19,8 +42,8 @@
     "img-sub": "yokumomaa01.png",
     "example-ja": "A「よくもまあ、(毎日:まいにち)、(同:おな)じものを(食:た)べられるねぇ」 B「だって、おいしいんだもん」",
     "example-en": "A: How can you eat the same thing every day? B: Well, it's delicious!",
-    "notes-ja": "「よくもまあ」は、普通ならためらったり、飽きたり、諦めたりしそうなことを、相手が平然と続けたりやってのけたりしたときに使われます。徹夜で仕事を終えた人、何時間も並んだ人、同じ趣味を何十年も続けている人など、話し手の「自分ならそこまでしない」という感覚が背景にあります。そのため、同じ表現が、呆れにも感心にも、親しい相手への軽いからかいにもなります。",
-    "notes-en": "\"Yoku mo maa\" is used when someone does or keeps doing something that most people might hesitate over, grow tired of, or give up on. It could be said to someone who worked all night to finish a task, waited in line for hours, or pursued the same hobby for decades. Behind it is often the speaker's sense of \"I wouldn't go that far myself.\" This allows the same expression to convey disbelief, admiration, or playful teasing."
+    "notes-ja": "「よくもまあ」は、普通ならためらったり、飽きたり、諦めたりしそうなことを、相手が平然と続けたりやってのけたりしたときに使われます。私は母からよく言われることがありました。何かを長く続けていると、「よくもまあ、そんなことをいつまでもやってるねぇ」。褒めているのか呆れているのか、たぶん両方です。徹夜で仕事を終えた人、何時間も並んだ人、同じ趣味を何十年も続けている人にも使えます。「自分ならそこまでしない」という気持ちがどこかにある表現です。",
+    "notes-en": "\"Yoku mo maa\" is used when someone does or keeps doing something that most people might hesitate over, grow tired of, or give up on. My mother used to say it to me quite often. If I kept doing something for a long time, she might say, \"Yoku mo maa, sonna koto o itsu made mo yatteru nee\" (\"How can you keep doing that for so long?\"). Was she impressed or exasperated? Probably both. The expression can likewise be used for someone who works all night, waits in line for hours, or pursues the same hobby for decades. Somewhere behind it is the thought, \"I wouldn't go that far myself.\""
   },
   {
     "date": "2026.11.16",
