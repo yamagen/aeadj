@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.17",
+    "day": "Tue",
+    "number": 951,
+    "index": "yokumomaa",
+    "title": "How can you possibly...?",
+    "expression-ja": "よくもまあ、(毎日:まいにち)、(同:おな)じものを(食:た)べられるねぇ",
+    "roman-ja": "Yoku mo maa, mainichi, onaji mono o taberareru nee.",
+    "expression-en": "How can you eat the same thing every day?",
+    "variants-ja": ["よくもまあ、(毎日:まいにち)、(同:おな)じものを(食:た)べられるねぇ", "よくまあ、(飽:あ)きないねぇ", "よくもまあ、そんなことができるね", "よくもまあ！"],
+    "variants-en": ["How can you eat the same thing every day?", "I'm amazed you never get tired of it.", "How can you possibly do something like that?", "Unbelievable!"],
+    "intent-ja": ["相手の行動への強い驚き", "理解しがたい行動への呆れ", "予想を超える行動への感心"],
+    "intent-en": ["strong surprise at someone's behavior", "disbelief at behavior that is hard to understand", "admiration for behavior beyond expectations"],
+    "tags-ja": ["即時文法", "口語", "驚き", "呆れ", "感心", "評価", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "surprise", "disbelief", "admiration", "evaluation", "immediate reaction"],
+    "adjusted-expression-ja": "(毎日:まいにち)、(同:おな)じものを(食:た)べても(飽:あ)きないのですか？",
+    "adjusted-expression-en": "Don't you get tired of eating the same thing every day?",
+    "img-sub": "yokumomaa01.png",
+    "example-ja": "A「よくもまあ、(毎日:まいにち)、(同:おな)じものを(食:た)べられるねぇ」 B「だって、おいしいんだもん」",
+    "example-en": "A: How can you eat the same thing every day? B: Well, it's delicious!",
+    "notes-ja": "「よくもまあ」は、相手の行動が自分の予想や理解を超えていることに気づいた瞬間に、驚き、呆れ、感心などを表す表現です。「よく」は頻度ではなく、相手がその行動を実行できることへの評価を表します。「もまあ」は驚きや評価を強めます。必ずしも理由を尋ねる質問ではありませんが、相手は「だって」を使って理由を説明することがあります。声の調子や場面によって、感心にも軽い非難にもなります。",
+    "notes-en": "\"Yoku mo maa\" is an immediate reaction when someone's behavior goes beyond what the speaker expected or can readily understand. It may convey not only surprise but also disbelief or admiration. It does not necessarily ask for a reason, although the listener may respond with \"datte\" to give one, as in this example. Depending on intonation and context, it can sound admiring or mildly critical."
+  },
+  {
     "date": "2026.11.16",
     "day": "Mon",
     "number": 950,
