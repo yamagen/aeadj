@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.21",
+    "day": "Sat",
+    "number": 955,
+    "index": "sorehamoutendatta",
+    "title": "I hadn't thought of that",
+    "expression-ja": "あ、それは(盲点:もうてん)だった",
+    "roman-ja": "A, sore wa mouten datta.",
+    "expression-en": "Oh, I hadn't thought of that.",
+    "variants-ja": ["あ、それは(盲点:もうてん)だった", "それは(盲点:もうてん)だった", "あー、それ(考:かんが)えてなかった", "そこは(考:かんが)えてなかった"],
+    "variants-en": ["Oh, I hadn't thought of that.", "I hadn't thought of that.", "Oh, I didn't think of that.", "I hadn't considered that."],
+    "intent-ja": ["見落としていた点への気づき", "相手の指摘による認識の修正", "考慮していなかったことへの即時反応"],
+    "intent-en": ["realizing something that had been overlooked", "revising one's view after someone points something out", "reacting immediately to something one had not considered"],
+    "tags-ja": ["即時文法", "口語", "気づき", "見落とし", "認識", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "realization", "oversight", "recognition", "immediate reaction"],
+    "adjusted-expression-ja": "それは(考慮:こうりょ)していませんでした",
+    "adjusted-expression-en": "I hadn't considered that.",
+    "img-sub": "sorehamoutendatta01.png",
+    "example-ja": "A「でも、これ、スマホから(見:み)る(人:ひと)もいるよね」 B「あ、それは(盲点:もうてん)だった」",
+    "example-en": "A: But some people will be looking at this on their phones, right? B: Oh, I hadn't thought of that.",
+    "notes-ja": "何かについて考えたり準備したりしているときに、相手から自分が考慮していなかった点を指摘され、その場で気づいたときに使います。「知らなかった」というより、自分では十分に考えていたつもりなのに、そこだけ考えから抜け落ちていたという感覚です。「盲点」はもともと見えない部分を表しますが、会話では「考えていなかった点」「見落としていた点」という意味でよく使われます。相手の一言によって、それまでの自分の見方に穴があったことに気づく、その瞬間の反応です。",
+    "notes-en": "\"Sore wa mouten datta\" is used when someone points out something that the speaker had failed to consider and the speaker realizes the oversight on the spot. It is not simply a matter of not knowing something. The speaker may have thought the issue through carefully, but one particular point had remained outside their view. \"Mouten\" literally refers to a blind spot and is commonly used in conversation for a point that has been overlooked. The expression captures the immediate moment when another person's remark reveals a gap in the speaker's thinking."
+  },
+  {
     "date": "2026.11.20",
     "day": "Fri",
     "number": 954,
