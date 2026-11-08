@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.22",
+    "day": "Sun",
+    "number": 956,
+    "index": "keikennoumutowazu",
+    "title": "Regardless of experience",
+    "expression-ja": "(経験:けいけん)の(有無:うむ)を(問:と)わず",
+    "roman-ja": "Keiken no umu o towazu.",
+    "expression-en": "Regardless of experience.",
+    "variants-ja": ["(経験:けいけん)の(有無:うむ)を(問:と)わず", "(資格:しかく)の(有無:うむ)を(問:と)わず", "(男女:だんじょ)を(問:と)わず", "(年齢:ねんれい)を(問:と)わず"],
+    "variants-en": ["Regardless of experience.", "Regardless of qualifications.", "Regardless of gender.", "Regardless of age."],
+    "intent-ja": ["ある条件の違いを問題にしないことの明示", "条件にかかわらず対象に含まれることの提示", "参加や応募などの条件を広く示す"],
+    "intent-en": ["stating that a particular condition does not matter", "indicating inclusion regardless of a condition", "showing broad eligibility for participation or application"],
+    "tags-ja": ["条件", "不問", "有無", "応募", "説明"],
+    "tags-en": ["condition", "regardless", "presence or absence", "application", "explanation"],
+    "adjusted-expression-ja": "(経験:けいけん)の(有無:うむ)にかかわらず、どなたでも(応募:おうぼ)できます",
+    "adjusted-expression-en": "Anyone can apply, regardless of experience.",
+    "img-sub": "keikennoumutowazu01.png",
+    "example-ja": "A「(経験:けいけん)がなくても(応募:おうぼ)できますか？」 B「はい、(経験:けいけん)の(有無:うむ)を(問:と)わず、(応募:おうぼ)できます」",
+    "example-en": "A: Can I apply even if I don't have any experience? B: Yes. You can apply regardless of experience.",
+    "notes-ja": "「経験の有無を問わず」は、経験があるかないかを条件にしないことを示します。「問う」はここでは質問するという意味ではなく、ある条件を問題にする、条件として求めるという意味です。「有無を問わず」という形は、「資格の有無を問わず」「参加経験の有無を問わず」のように、あるものがあるかないかの両方を含めるときに使えます。一方、「男女を問わず」「年齢を問わず」のように、名詞を直接「問わず」の前に置く表現もあります。どの名詞でも自由に入れられるわけではなく、実際に使われる組み合わせとして覚える必要があります。",
+    "notes-en": "\"Keiken no umu o towazu\" means that having or not having experience is not treated as a condition. Here, \"tou\" does not mean simply \"to ask a question\"; it means to make something an issue or requirement. The pattern \"X no umu o towazu\" can be used when both the presence and absence of something are included, as in \"shikaku no umu o towazu\" (regardless of qualifications). There are also expressions such as \"danjo o towazu\" (regardless of gender) and \"nenrei o towazu\" (regardless of age), where the noun occurs directly before \"o towazu.\" Not every noun fits these patterns equally naturally, so the combinations need to be learned from actual usage."
+  },
+  {
     "date": "2026.11.21",
     "day": "Sat",
     "number": 955,
