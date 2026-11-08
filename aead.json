@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.23",
+    "day": "Mon",
+    "number": 957,
+    "index": "souiutegaatta",
+    "title": "I hadn't thought of that",
+    "expression-ja": "あ、そういう(手:て)があったか",
+    "roman-ja": "A, sou iu te ga atta ka.",
+    "expression-en": "Oh, I hadn't thought of that.",
+    "variants-ja": ["あ、そういう(手:て)があったか", "その(手:て)があったか", "あ、その(手:て)があったか", "なるほど、そういう(手:て)があったか"],
+    "variants-en": ["Oh, I hadn't thought of that.", "I hadn't thought of that option.", "Oh, that's an idea.", "I see, that's another way to do it."],
+    "intent-ja": ["思いつかなかった方法への気づき", "相手の提案による新しい選択肢の発見", "問題を解決する手段への納得"],
+    "intent-en": ["realizing a solution one had not thought of", "discovering a new option through someone's suggestion", "recognizing a useful way to solve a problem"],
+    "tags-ja": ["即時文法", "口語", "気づき", "発見", "方法", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "realization", "discovery", "solution", "immediate reaction"],
+    "adjusted-expression-ja": "そのような(方法:ほうほう)もありましたね",
+    "adjusted-expression-en": "That's another possible way to do it.",
+    "img-sub": "souiutegaatta01.png",
+    "example-ja": "A「これ、どうやって(運:はこ)ぶ？」 B「(台車:だいしゃ)を(借:か)りれば？」 A「あ、そういう(手:て)があったか」",
+    "example-en": "A: How are we going to move this? B: Why don't we borrow a cart? A: Oh, I hadn't thought of that.",
+    "notes-ja": "「そういう手があったか」は、問題について考えているときに、相手の提案によって、それまで思いつかなかった方法に気づいた瞬間に使います。ここでの「手」は身体の一部ではなく、何かをするための方法や手段を表します。「あったか」も単に過去の存在を述べているのではなく、「そんな方法があったのか」と今この瞬間に発見したことを表しています。相手の提案を聞く前には自分の選択肢に入っていなかったものが、一言によって新しい解決策として見えてくる。その気づきをそのまま表す即時的な表現です。",
+    "notes-en": "\"Sou iu te ga atta ka\" is used when someone else's suggestion makes the speaker realize a possible solution that had not occurred to them. Here, \"te\" does not mean a physical hand but a way, means, or strategy for doing something. \"Atta ka\" does not merely refer to something that existed in the past. It expresses the present discovery that such an option was available. The expression captures the moment when another person's suggestion suddenly adds a new solution to the speaker's set of possibilities."
+  },
+  {
     "date": "2026.11.22",
     "day": "Sun",
     "number": 956,
