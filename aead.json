@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.24",
+    "day": "Tue",
+    "number": 958,
+    "index": "sorenishiteha",
+    "title": "It doesn't look like it",
+    "expression-ja": "それにしては..",
+    "roman-ja": "Sore ni shite wa..",
+    "expression-en": "It doesn't look like it...",
+    "variants-ja": ["それにしては..", "それにしてはねぇ", "それにしては、ちょっと..", "それにしては(変:へん)だね"],
+    "variants-en": ["It doesn't look like it...", "You wouldn't think so...", "If that's the case, then...", "That's strange, considering that."],
+    "intent-ja": ["相手の発言と実際の状態との不一致の指摘", "予想と現実のずれへの反応", "評価を最後まで言わずに相手に推測させる"],
+    "intent-en": ["pointing out a mismatch between what was said and what is observed", "reacting to a gap between expectation and reality", "leaving an evaluation unstated for the other person to infer"],
+    "tags-ja": ["即時文法", "口語", "不一致", "評価", "省略", "含意", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "mismatch", "evaluation", "ellipsis", "implication", "immediate reaction"],
+    "adjusted-expression-ja": "それにしては、あまり(掃除:そうじ)したようには(見:み)えません",
+    "adjusted-expression-en": "Even so, it doesn't really look as though it has been cleaned.",
+    "img-sub": "sorenishiteha01.png",
+    "example-ja": "A「(掃除:そうじ)、やったよ」 B「それにしては..」",
+    "example-en": "A: I cleaned it. B: It doesn't look like it...",
+    "notes-ja": "「それにしては」は、相手が言ったことから予想される状態と、実際に目の前にある状態が合わないと感じたときに使います。「掃除、やったよ」に対して「それにしては..」と言えば、「掃除したというわりには、きれいになっていない」という評価を最後まで言わなくても伝えることができます。重要なのは、「それにしては」の後を言わずに止められることです。話し手は不一致だけを示し、具体的に何がおかしいのかは、その場の状況から相手に推測させます。そのため、軽い疑い、皮肉、呆れなども、後に何を続けるかではなく、場面や言い方によって生まれます。",
+    "notes-en": "\"Sore ni shite wa\" is used when what the speaker observes does not match what would normally be expected from what someone has just said. After \"I cleaned it,\" replying simply with \"sore ni shite wa...\" can imply that the room does not look very clean without saying so directly. An important feature of the expression is that the speaker can stop there. The mismatch is indicated, while the specific negative evaluation is left for the other person to infer from the immediate situation. Depending on the context and tone, this can convey mild doubt, irony, or exasperation."
+  },
+  {
     "date": "2026.11.23",
     "day": "Mon",
     "number": 957,
