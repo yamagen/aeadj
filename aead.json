@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.25",
+    "day": "Wed",
+    "number": 959,
+    "index": "sukkariurashimatarou",
+    "title": "I'm completely out of touch",
+    "expression-ja": "すっかり(浦島太郎:うらしまたろう)",
+    "roman-ja": "Sukkari Urashima Taro.",
+    "expression-en": "I'm completely out of touch.",
+    "variants-ja": ["すっかり(浦島太郎:うらしまたろう)", "もう、すっかり(浦島太郎:うらしまたろう)", "(久:ひさ)しぶりに(来:き)たら、すっかり(浦島太郎:うらしまたろう)", "もう(浦島太郎:うらしまたろう)だね"],
+    "variants-en": ["I'm completely out of touch.", "I feel totally out of touch now.", "I've been away so long that I'm completely lost.", "I feel like I've been away forever."],
+    "intent-ja": ["長く離れていた間の変化への戸惑い", "現在の事情についていけないことの表現", "以前との大きな違いへの気づき"],
+    "intent-en": ["feeling lost after changes that occurred during a long absence", "expressing that one is out of touch with the current situation", "realizing how much things have changed"],
+    "tags-ja": ["即時文法", "口語", "変化", "久しぶり", "浦島太郎", "比喩", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "change", "long absence", "Urashima Taro", "metaphor", "immediate reaction"],
+    "adjusted-expression-ja": "(長:なが)く(離:はな)れていたので、(最近:さいきん)の(事情:じじょう)がよく(分:わ)かりません",
+    "adjusted-expression-en": "I've been away for so long that I'm not familiar with the current situation.",
+    "img-sub": "sukkariurashimatarou01.png",
+    "example-ja": "A「この(辺:へん)、ずいぶん(変:か)わったでしょう？」 B「(久:ひさ)しぶりに(来:き)たら、すっかり(浦島太郎:うらしまたろう)」",
+    "example-en": "A: This area has changed a lot, hasn't it? B: Yeah. It's been so long since I was here that I'm completely out of touch.",
+    "notes-ja": "「浦島太郎」は、竜宮城から戻ると長い年月が過ぎ、自分の知っていた世界がすっかり変わっていたという昔話の主人公です。そのため「すっかり浦島太郎」は、しばらく離れていた間に周囲が変わり、今の事情が分からなくなった状態を表します。ここで重要なのが「すっかり」です。「すっかり」は単に程度が大きいという意味ではなく、以前の状態から別の状態への変化を含みます。そのため、「すっかり分からない」「すっかり知らない」とは普通言いません。「すっかり分からなくなった」「すっかり忘れた」なら、以前は分かっていた、覚えていた状態からの変化があるので自然です。「すっかり浦島太郎」も、以前は事情が分かっていた人が、時間が経って周囲の変化についていけなくなった、という変化を表しています。",
+    "notes-en": "\"Urashima Taro\" is the hero of a traditional Japanese tale who returns from a visit to the undersea Dragon Palace to discover that many years have passed and the world he knew has changed. \"Sukkari Urashima Taro\" therefore describes someone who returns after being away and finds themselves out of touch with the current situation. An important point is the use of \"sukkari.\" It does not simply mean a high degree, like \"completely\"; it typically presents the result of a change from an earlier state. This is why \"sukkari wakaranai\" (completely don't understand) and \"sukkari shiranai\" (completely don't know) are normally unnatural, while \"sukkari wakaranaku natta\" (have completely stopped understanding) and \"sukkari wasureta\" (have completely forgotten) are natural. In \"sukkari Urashima Taro,\" the speaker has likewise changed from someone who knew the situation into someone who can no longer keep up with it."
+  },
+  {
     "date": "2026.11.24",
     "day": "Tue",
     "number": 958,
