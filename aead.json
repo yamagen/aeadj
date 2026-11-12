@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.28",
+    "day": "Sat",
+    "number": 962,
+    "index": "hachiwari",
+    "title": "About 80% of them fail",
+    "expression-ja": "(新規事業:しんきじぎょう)って、8(割:わり)がた、ぽしゃる？ (失敗:しっぱい)するんですよ",
+    "roman-ja": "Shinki jigyou tte, hachiwari gata, posharu? Shippai surun desu yo.",
+    "expression-en": "About 80% of new businesses fail.",
+    "variants-ja": ["(新規事業:しんきじぎょう)って、8(割:わり)がた(失敗:しっぱい)するんですよ", "この(仕事:しごと)って、7(割:わり)がた(自動化:じどうか)できるよ", "(応募者:おうぼしゃ)って、(半分:はんぶん)がた(留学生:りゅうがくせい)なんですよ"],
+    "variants-en": ["About 80% of new businesses fail.", "About 70% of this work can be automated.", "About half of the applicants are international students."],
+    "intent-ja": ["話題について概数で傾向を示す", "おおよその割合による説明", "その場で表現を言い換えながら説明する"],
+    "intent-en": ["describing a tendency using an approximate proportion", "explaining something with a rough percentage", "rephrasing an expression while speaking"],
+    "tags-ja": ["即時文法", "口語", "概数", "割合", "がた", "って", "言い換え"],
+    "tags-en": ["immediate grammar", "spoken", "approximation", "proportion", "gata", "tte", "rephrasing"],
+    "adjusted-expression-ja": "(新規事業:しんきじぎょう)は、およそ8(割:わり)が(失敗:しっぱい)します",
+    "adjusted-expression-en": "Approximately 80% of new businesses fail.",
+    "img-sub": "hachiwari01.png",
+    "example-ja": "A「(新規事業:しんきじぎょう)って、8(割:わり)がた、ぽしゃる？ (失敗:しっぱい)するんですよ」",
+    "example-en": "A: About 80% of new businesses go under-well, fail.",
+    "notes-ja": "「8割がた」の「がた」は、割合を厳密な数値ではなく、おおよその値として示します。「8割がた失敗する」なら、正確に80パーセントという意味ではなく、「だいたい8割」という見積もりです。この例では、「新規事業って」で話題を置き、「8割がた」でおおよその割合を示し、「失敗する」でその傾向を述べています。「がた」は単に「約」という意味でどんな数にも自由につけられるわけではなく、「8割がた」「7割がた」「半分がた」など、実際に使われる形として捉える必要があります。また、「ぽしゃる？」と言った直後に「失敗するんですよ」と言い換えているところも話し言葉の特徴です。話し手は最初から完成した文を読み上げているのではなく、相手に伝わる表現をその場で選び直しながら発話を作っています。",
+    "notes-en": "In \"hachiwari gata,\" \"gata\" presents the proportion as an approximation rather than an exact figure. Thus, \"hachiwari gata shippai suru\" means roughly 80% fail, not precisely 80%. In this example, \"shinki jigyou tte\" introduces the topic, \"hachiwari gata\" gives an approximate proportion, and \"shippai suru\" states the general tendency. \"Gata\" cannot simply be attached freely to any number as an equivalent of \"approximately\"; expressions such as \"hachiwari gata,\" \"nanawari gata,\" and \"hanbun gata\" are better learned from actual usage. The speaker also says \"posharu?\" and immediately replaces it with \"shippai surun desu yo.\" This self-repair is characteristic of spontaneous speech: rather than producing a fully prepared sentence, the speaker selects and adjusts the wording while speaking."
+  },
+  {
     "date": "2026.11.27",
     "day": "Fri",
     "number": 961,
