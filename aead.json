@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.30",
+    "day": "Mon",
+    "number": 964,
+    "index": "souiukotonara",
+    "title": "If that's the situation",
+    "expression-ja": "そういうことなら",
+    "roman-ja": "Sou iu koto nara.",
+    "expression-en": "If that's the situation.",
+    "variants-ja": ["そういうことなら(仕方:しかた)ないね", "ああ、そういうことなら(分:わ)かる", "そういうことなら(話:はなし)は(別:べつ)だ", "そういうことなら(来週:らいしゅう)にしよう"],
+    "variants-en": ["If that's the situation, it can't be helped.", "Oh, if that's the situation, I understand.", "If that's the case, that's a different matter.", "In that case, let's make it next week."],
+    "intent-ja": ["新しく分かった事情を受けた判断変更", "相手の説明を条件とした対応", "事情の理解による態度の変更"],
+    "intent-en": ["changing a judgment after learning new circumstances", "responding on the basis of someone's explanation", "changing one's position after understanding the situation"],
+    "tags-ja": ["即時文法", "口語", "事情", "条件", "判断", "理解", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "circumstances", "condition", "judgment", "understanding", "immediate reaction"],
+    "adjusted-expression-ja": "そのような(事情:じじょう)であれば、(来週:らいしゅう)にしましょう",
+    "adjusted-expression-en": "Given those circumstances, let's make it next week.",
+    "img-sub": "souiukotonara01.png",
+    "example-ja": "A「(明日:あした)、(急:きゅう)に(出張:しゅっちょう)が(入:はい)っちゃって」 B「そういうことなら、(来週:らいしゅう)にしようか」",
+    "example-en": "A: I suddenly have to go on a business trip tomorrow. B: Oh, in that case, shall we make it next week?",
+    "notes-ja": "「そういうことなら」は、相手の説明を聞いて新しい事情が分かり、それをもとに、それまでの判断や予定を変えるときに使います。ここでの「そういうこと」は直前の一文をそのまま指すだけではなく、相手の話から理解した事情全体を受けています。「なら」は、その理解した事情を新しい判断の条件にします。この例では、単に「出張」という語に反応しているのではなく、「明日は予定どおり会えない事情がある」と理解したため、「来週にする」という新しい判断が生まれています。そのため、「そういうことなら」の前と後には、事情の理解と、それによる判断や態度の変化があります。",
+    "notes-en": "\"Sou iu koto nara\" is used when the speaker learns new circumstances from another person's explanation and changes a previous judgment, plan, or response accordingly. Here, \"sou iu koto\" does not merely point back to the preceding sentence. It refers to the situation as the speaker has understood it from what was said. \"Nara\" then turns that understanding into a new condition for making a decision. In this example, the speaker is not simply reacting to the words \"business trip.\" They understand that there is now a reason why the meeting cannot take place as planned, and this leads to the new suggestion of meeting the following week. The expression therefore connects an understanding of the circumstances with an immediate change in judgment or response."
+  },
+  {
     "date": "2026.11.29",
     "day": "Sun",
     "number": 963,
