@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.11.29",
+    "day": "Sun",
+    "number": 963,
+    "index": "sorenarasorede",
+    "title": "If that's the case, then...",
+    "expression-ja": "それならそれで",
+    "roman-ja": "Sore nara sore de.",
+    "expression-en": "If that's the case, then...",
+    "variants-ja": ["それならそれでいいよ", "それならそれで(考:かんが)えよう", "それならそれで(困:こま)るけど", "まあ、それならそれで"],
+    "variants-en": ["If that's the case, that's fine too.", "If that's the case, we'll figure something out.", "If that's the case, that's a problem too.", "Well, if that's the case, so be it."],
+    "intent-ja": ["新しく示された条件を受けた再評価", "状況の変化に応じた対応", "別の可能性の受け入れ"],
+    "intent-en": ["reevaluating something under a newly presented condition", "adjusting one's response to a changed situation", "accepting an alternative possibility"],
+    "tags-ja": ["即時文法", "口語", "条件", "再評価", "対応", "受容", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "condition", "reevaluation", "response", "acceptance", "immediate reaction"],
+    "adjusted-expression-ja": "そういう(場合:ばあい)には、その(状況:じょうきょう)に(合:あ)わせて(考:かんが)えましょう",
+    "adjusted-expression-en": "If that is the case, we can decide what to do accordingly.",
+    "img-sub": "sorenarasorede01.png",
+    "example-ja": "A「(明日:あした)、(雨:あめ)だったら(中止:ちゅうし)かな」 B「それならそれで、(家:いえ)でゆっくりできるね」",
+    "example-en": "A: If it rains tomorrow, I guess it'll be canceled. B: Well, if that's the case, we can just relax at home.",
+    "notes-ja": "「それならそれで」は、相手が示した新しい条件や可能性を受けて、「そうなるなら、その場合はその場合で」と改めて評価したり対応を考えたりするときに使います。「それなら」が直前に示された条件を受け、「それで」がその条件のもとで考えることを示します。この例では、中止になることを単に残念がるのではなく、「中止なら、その場合は家でゆっくりできる」と別の可能性を見つけています。ただし、必ず肯定的になるわけではなく、「それならそれで困る」のようにも使えます。「それはそれで」が、ある事柄をそれ自体として別に評価するのに対し、「それならそれで」は、新しく示された条件を受け、その条件のもとで評価や対応を組み直すところに特徴があります。",
+    "notes-en": "\"Sore nara sore de\" is used when the speaker takes a newly presented condition or possibility and reevaluates the situation on that basis: roughly, \"if that's how things are, then we'll deal with it that way.\" \"Sore nara\" picks up the condition just introduced, while \"sore de\" frames what follows under that condition. In this example, instead of simply regretting the cancellation, the speaker finds another possibility: if it is canceled, they can relax at home. The expression is not necessarily positive; one can also say \"sore nara sore de komaru\" when the new situation creates a problem. Unlike \"sore wa sore de,\" which evaluates something separately on its own terms, \"sore nara sore de\" responds to a newly presented condition and reorganizes the speaker's evaluation or course of action accordingly."
+  },
+  {
     "date": "2026.11.28",
     "day": "Sat",
     "number": 962,
