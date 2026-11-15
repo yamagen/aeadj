@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.12.01",
+    "day": "Tue",
+    "number": 965,
+    "index": "korehamouaredesune",
+    "title": "I think we're at the point where...",
+    "expression-ja": "これはもうあれですね、...",
+    "roman-ja": "Kore wa mou are desu ne,...",
+    "expression-en": "I think we're at the point where...",
+    "variants-ja": ["これはもうあれですね、...", "もうあれですね、...", "これはあれですね、...", "あれですね、..."],
+    "variants-en": ["I think we're at the point where...", "At this point, I think...", "This is one of those situations where...", "I think this means..."],
+    "intent-ja": ["状況から見えてきた結論の提示", "まだ言語化していない判断の共有", "結論を探しながらの発話継続"],
+    "intent-en": ["introducing a conclusion emerging from the situation", "sharing a judgment before fully putting it into words", "continuing to speak while formulating a conclusion"],
+    "tags-ja": ["即時文法", "口語", "あれ", "指示表現", "発話生成", "共有認識", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "are", "demonstrative", "speech production", "shared understanding", "immediate reaction"],
+    "adjusted-expression-ja": "これはもう、(最初:さいしょ)から(作:つく)り(直:なお)したほうがよさそうですね",
+    "adjusted-expression-en": "At this point, it looks as though it would be better to start over.",
+    "img-sub": "korehamouaredesune01.png",
+    "example-ja": "A「(修正:しゅうせい)しても(修正:しゅうせい)しても、また(別:べつ)のところが(壊:こわ)れるね」 B「これはもうあれですね、(最初:さいしょ)から(作:つく)り(直:なお)したほうが...」",
+    "example-en": "A: Every time we fix one thing, something else breaks. B: I think we're at the point where... we might be better off starting over.",
+    "notes-ja": "「これはもうあれですね」は、目の前の状況から話し手の中ではある結論が見えてきたものの、その内容をまだ完全には言葉にしていないときに使われます。ここでの「あれ」は、特定の物や事柄を指しているとは限りません。話し手はまず「これはもうあれですね」と言うことで、「この状況なら、だいたい結論は見えてきましたね」という認識を相手と共有し、そのあとで具体的な内容を言葉にしていきます。そのため、これは単に言葉を思い出せないときの「あれ」とも少し違います。判断そのものは先にできていて、その判断をどう表現するかを探しながら発話を続けることができます。「これはもうあれですね、最初から作り直したほうが……」のように、後半まで完成させずに相手に結論を察してもらうこともあります。",
+    "notes-en": "\"Kore wa mou are desu ne\" is used when the speaker has already begun to reach a conclusion from the situation but has not yet fully put that conclusion into words. Here, \"are\" does not necessarily refer to a specific object or previously mentioned thing. By saying \"kore wa mou are desu ne,\" the speaker signals something like, \"At this point, I think we can see where this is going,\" and then continues to formulate the specific conclusion. This is therefore somewhat different from using \"are\" simply because a word cannot be recalled. The judgment may already be taking shape even though its verbal expression is still being worked out. The speaker may also leave the second part unfinished, as in \"kore wa mou are desu ne, saisho kara tsukurinaoshita hou ga...,\" allowing the listener to infer the conclusion."
+  },
+  {
     "date": "2026.11.30",
     "day": "Mon",
     "number": 964,
