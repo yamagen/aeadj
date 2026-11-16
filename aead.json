@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.12.02",
+    "day": "Wed",
+    "number": 966,
+    "index": "mattakukudaranai",
+    "title": "What nonsense",
+    "expression-ja": "まったく、くだらない",
+    "roman-ja": "Mattaku, kudaranai.",
+    "expression-en": "What nonsense.",
+    "variants-ja": ["まったく、くだらない", "まったく、(何:なに)やってんだか", "まったく、しょうがないね", "まったくもう"],
+    "variants-en": ["What nonsense.", "Honestly, what are they doing?", "Honestly, what can you do?", "Honestly!"],
+    "intent-ja": ["呆れを伴う否定的評価", "苛立ちの即時的な表出", "評価に先立つ話し手の態度表示"],
+    "intent-en": ["negative evaluation accompanied by exasperation", "immediate expression of irritation", "showing the speaker's attitude before giving an evaluation"],
+    "tags-ja": ["即時文法", "口語", "まったく", "呆れ", "苛立ち", "評価", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "mattaku", "exasperation", "irritation", "evaluation", "immediate reaction"],
+    "adjusted-expression-ja": "(本当:ほんとう)にくだらないことですね",
+    "adjusted-expression-en": "It really is a trivial matter.",
+    "img-sub": "mattakukudaranai01.png",
+    "example-ja": "A「また(同:おな)じことで(言:い)い(争:あらそ)ってるよ」 B「まったく、くだらない」",
+    "example-en": "A: They're arguing about the same thing again. B: What nonsense.",
+    "notes-ja": "この表現でポイントになるのは、文頭の「まったく、」です。「まったく違う」の「まったく」は程度を表し、「完全に違う」という意味になります。しかし、「まったく、くだらない」の「まったく、」は、単に「とてもくだらない」という程度を表しているのではありません。話し手はまず「まったく、」で呆れや苛立ちを表し、そのあとに「くだらない」と評価を述べています。そのため、「まったく！」だけでも、その場の状況に対する呆れを表す反応として使えます。「まったく、何やってんだか」「まったく、しょうがないね」のように、後ろに続く表現が変わっても、最初の「まったく、」が話し手の態度を先に示します。程度を表す副詞としての「まったく」と、その場で話し手の態度を表出する「まったく、」を区別することが重要です。",
+    "notes-en": "The key element in this expression is the initial \"mattaku.\" In \"mattaku chigau\" (completely different), \"mattaku\" functions as a degree adverb meaning \"completely.\" In \"mattaku, kudaranai,\" however, it does more than increase the degree of \"kudaranai.\" The speaker first uses \"mattaku\" to express exasperation or irritation and then gives the evaluation \"kudaranai.\" This is why \"mattaku!\" can stand alone as an immediate reaction to a situation. The same use appears in expressions such as \"mattaku, nani yattendaka\" and \"mattaku, shouganai ne.\" Whatever follows may change, but the initial \"mattaku\" presents the speaker's attitude before the specific evaluation is expressed. Learners therefore need to distinguish the degree-adverb use of \"mattaku\" from this interactional use expressing the speaker's immediate attitude."
+  },
+  {
     "date": "2026.12.01",
     "day": "Tue",
     "number": 965,
