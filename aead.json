@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.12.03",
+    "day": "Thu",
+    "number": 967,
+    "index": "sokowonantoka",
+    "title": "Is there any way?",
+    "expression-ja": "そこをなんとか",
+    "roman-ja": "Soko o nantoka.",
+    "expression-en": "Is there any way?",
+    "variants-ja": ["そこをなんとか", "そこをなんとかお(願:ねが)いします", "そこをなんとかできませんか", "そこをなんとか、ね"],
+    "variants-en": ["Is there any way?", "Please, is there any way you could make it work?", "Isn't there anything you can do?", "Come on, isn't there some way?"],
+    "intent-ja": ["断られた依頼の再交渉", "相手が示した制約への再検討の依頼", "例外的な対応を求める働きかけ"],
+    "intent-en": ["renegotiating a request after it has been declined", "asking someone to reconsider a stated constraint", "pressing for an exceptional accommodation"],
+    "tags-ja": ["即時文法", "口語", "依頼", "再交渉", "制約", "省略", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "request", "renegotiation", "constraint", "ellipsis", "immediate reaction"],
+    "adjusted-expression-ja": "なんとかご(対応:たいおう)いただくことはできないでしょうか",
+    "adjusted-expression-en": "Would there be any way you could accommodate this request?",
+    "img-sub": "sokowonantoka01.png",
+    "example-ja": "A「(申:もう)し(訳:わけ)ありませんが、(今日中:きょうじゅう)にはできません」 B「そこをなんとか。(明日:あした)の(朝:あさ)まででもいいので」",
+    "example-en": "A: I'm sorry, but we can't have it done today. B: Is there any way? Tomorrow morning would be fine.",
+    "notes-ja": "「そこをなんとか」は、相手から依頼を断られたり、できない理由や制約を示されたりしたあとで、それでも何とか対応してもらえないかと再び働きかけるときに使います。ここでの「そこ」は場所を指しているのではありません。直前に相手が示した「できない」という判断や、その理由となる制約を受けています。「なんとか」のあとには、「してもらえませんか」「対応できませんか」などが省略されていると考えられますが、実際の会話では「そこをなんとか」だけで再度の依頼として成立します。重要なのは、最初から強く頼んでいるのではなく、いったん示された相手の境界を理解したうえで、その境界をもう一度交渉の対象にしていることです。そのため、相手との関係や依頼の内容によっては強い圧力にもなり得ます。",
+    "notes-en": "\"Soko o nantoka\" is used after someone has declined a request or explained a constraint, when the speaker asks them to reconsider and somehow make an exception. Here, \"soko\" does not refer to a physical place. It picks up the refusal, judgment, or constraint that the other person has just presented. Something like \"couldn't you do something about that?\" can be understood after \"nantoka,\" but in actual conversation \"soko o nantoka\" can stand alone as a renewed request. The important point is that the speaker is not simply making a strong request from the outset. They first recognize the boundary set by the other person and then make that very boundary the object of further negotiation. Depending on the relationship and the request, the expression can therefore also place considerable pressure on the other person."
+  },
+  {
     "date": "2026.12.02",
     "day": "Wed",
     "number": 966,
