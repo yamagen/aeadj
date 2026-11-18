@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.12.04",
+    "day": "Fri",
+    "number": 968,
+    "index": "nankaattaradousuru",
+    "title": "What if something happens?",
+    "expression-ja": "なんかあったらどうする？",
+    "roman-ja": "Nanka attara dou suru?",
+    "expression-en": "What if something happens?",
+    "variants-ja": ["なんかあったらどうする？", "(何:なに)かあったらどうするの？", "もし(何:なに)かあったらどうする？", "(事故:じこ)でもあったらどうするの？"],
+    "variants-en": ["What if something happens?", "What are you going to do if something happens?", "What if something does happen?", "What if there's an accident?"],
+    "intent-ja": ["望ましくない可能性を示した警告", "現在の行動への再考の要求", "危険を理由とした制止"],
+    "intent-en": ["warning by raising an undesirable possibility", "prompting reconsideration of a current action", "discouraging an action by pointing to a risk"],
+    "tags-ja": ["即時文法", "口語", "警告", "制止", "危険", "疑問文", "即時反応"],
+    "tags-en": ["immediate grammar", "spoken", "warning", "discouragement", "risk", "question", "immediate reaction"],
+    "adjusted-expression-ja": "(何:なに)か(問題:もんだい)が(起:お)きるといけないので、やめたほうがいいと(思:おも)います",
+    "adjusted-expression-en": "I think you should avoid doing that in case something goes wrong.",
+    "img-sub": "nankaattaradousuru01.png",
+    "example-ja": "A「(鍵:かぎ)かけなくても(大丈夫:だいじょうぶ)だよ」 B「なんかあったらどうする？」",
+    "example-en": "A: It'll be fine without locking the door. B: What if something happens?",
+    "notes-ja": "「なんかあったらどうする？」は、何かが起きた場合の具体的な対処方法を尋ねる形をしていますが、実際には答えを求めていないことがよくあります。相手が危険だと思われることをしようとしているときに、望ましくない出来事の可能性を示して、「だからやめたほうがいい」「ちゃんと対策したほうがいい」と現在の行動を再考させる働きがあります。この例でBは、何か起きたときにAが何をするのかを知りたいのではなく、鍵をかけないこと自体を問題にしています。そのため、「そのときは警察に電話する」のように具体的な対処方法だけを答えると、Bの発話の意図に十分応じたことにならない場合があります。文法的には単純な条件文と疑問文ですが、その場では情報要求ではなく警告や制止として働くところが重要です。",
+    "notes-en": "\"Nanka attara dou suru?\" has the grammatical form of a question asking what someone will do if something happens, but it often does not actually request a plan of action. When the other person is doing or considering something that seems risky, the speaker raises the possibility of an undesirable event in order to make them reconsider what they are doing: in effect, \"You shouldn't do that\" or \"You should take precautions.\" In this example, B is not primarily interested in what A would do after something happens. The real issue is A's decision not to lock the door. A purely literal answer such as \"I'd call the police\" may therefore fail to respond to the interactional point of the question. The grammar is a simple conditional plus a question, but in the immediate situation it functions as a warning or an attempt to discourage the current action."
+  },
+  {
     "date": "2026.12.03",
     "day": "Thu",
     "number": 967,
