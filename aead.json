@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026.12.05",
+    "day": "Sat",
+    "number": 969,
+    "index": "hidennotare",
+    "title": "The secret sauce",
+    "expression-ja": "(秘伝:ひでん)のタレ",
+    "roman-ja": "Hiden no tare",
+    "expression-en": "The secret sauce",
+    "variants-ja": ["うちの(秘伝:ひでん)のタレです", "それが(秘伝:ひでん)のタレなんですよ", "(秘伝:ひでん)のタレがあるんです", "そこは(企業秘密:きぎょうひみつ)です"],
+    "variants-en": ["That's our secret sauce.", "That's the secret ingredient.", "We've got our own special trick.", "That's a trade secret."],
+    "intent-ja": ["独自性の提示", "秘密の示唆", "説明回避"],
+    "intent-en": ["highlighting uniqueness", "hinting at a secret", "avoiding explanation"],
+    "tags-ja": ["即時文法", "口語", "比喩", "応答"],
+    "tags-en": ["immediate grammar", "spoken", "metaphor", "response"],
+    "adjusted-expression-ja": "独自のノウハウがあります",
+    "adjusted-expression-en": "We have our own proprietary know-how.",
+    "img-sub": "hidennotare01.png",
+    "example-ja": "A「どうしてそんなに(仕事:しごと)が(早:はや)いんですか？」 B「それはね、(秘伝:ひでん)の(タレ:たれ)があるんですよ」",
+    "example-en": "A: How do you get things done so quickly? B: Well, we've got our secret sauce.",
+    "notes-ja": "「秘伝のタレ」は、もともと代々受け継がれてきた特別な調味液を指します。比喩的には、個人や組織が持つ独自の方法やノウハウを表します。成功の理由や仕事の進め方を尋ねられたとき、具体的な説明を避けながら、特別な工夫があることをほのめかす表現として使えます。冗談めかした自慢や親しみを込めた応答にもなります。ただし、必ずしも本当に秘密であるとは限りません。",
+    "notes-en": "\"Hiden no tare\" originally refers to a special sauce whose recipe has been passed down through generations. Figuratively, it refers to a distinctive method, technique, or body of know-how. In immediate interaction, it can be used in response to a question about how someone achieves a particular result, hinting at a special method without explaining it. The expression may sound playful or mildly boastful, and the method need not actually be secret."
+  },
+  {
     "date": "2026.12.04",
     "day": "Fri",
     "number": 968,
