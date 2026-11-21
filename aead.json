@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026.12.06",
+    "date-history": [20261206],
+    "day": "Sun",
+    "number": 970,
+    "index": "mottenohoka",
+    "title": "Out of the question",
+    "expression-ja": "もってのほか",
+    "roman-ja": "Motte no hoka",
+    "expression-en": "Out of the question.",
+    "variants-ja": ["そんなの、もってのほかです", "もってのほかだよ", "そんなことはもってのほか", "まったく、もってのほかだ"],
+    "variants-en": ["That's completely out of the question.", "That's unacceptable.", "Absolutely not.", "That's totally unacceptable."],
+    "intent-ja": ["強い拒絶", "不適切な行為への非難", "許容範囲の明示"],
+    "intent-en": ["strong rejection", "condemning inappropriate behavior", "asserting boundaries of acceptability"],
+    "tags-ja": ["即時文法", "口語", "応答表現", "拒絶", "非難"],
+    "tags-en": ["immediate grammar", "spoken", "response expression", "rejection", "disapproval"],
+    "adjusted-expression-ja": "それは(到底:とうてい)(認:みと)められません",
+    "adjusted-expression-en": "That is absolutely unacceptable.",
+    "img-sub": "mottenohoka01.png",
+    "example-ja": "A「(試験中:しけんちゅう)にスマホで(答:こた)えを(調:しら)べてもいいですか？」 B「もってのほか！」",
+    "example-en": "A: Can I look up the answers on my phone during the exam? B: Absolutely out of the question!",
+    "notes-ja": "「もってのほか」は、相手の提案や行為が常識や規則、道徳的な許容範囲を大きく超えていると判断したときに使う強い拒絶・非難の表現です。単なる「だめ」よりも強く、そもそも検討する余地がないという評価を示します。相手の発言を聞いた直後に「もってのほか！」と単独で発することもできます。ただし、日常の軽い依頼に使うと大げさで威圧的に聞こえる場合があります。冗談や誇張として使われることもあります。",
+    "notes-en": "\"Motte no hoka\" is a strong expression of rejection or disapproval used when a proposal or action is judged to be far beyond what is acceptable. It conveys that the matter should not even be considered, rather than merely saying no. It can be uttered immediately and independently in response to an unacceptable suggestion. Because it sounds emphatic and somewhat formal or old-fashioned, it may be excessive in casual situations, although it can also be used humorously or for deliberate exaggeration."
+  },
+  {
     "date": "2026.12.05",
     "day": "Sat",
     "number": 969,
@@ -1766,7 +1790,6 @@
     "img-sub": "asorenarahhanashihabetsu01.png",
     "example-ja": "A「(日曜日:にちようび)、ちょっと(手伝:てつだ)ってくれない？」 B「(日曜:にちよう)はちょっと...」 A「お(昼:ひる)はうなぎ、ごちそうするよ」 B「あ、それなら(話:はなし)は(別:べつ)」",
     "example-en": "A: Could you give me a hand on Sunday? B: Sunday's a little difficult... A: I'll treat you to eel for lunch. B: **Oh, that changes things.**",
-
     "notes-ja": "「あ、それなら話は別」は、それまでの判断を変えるような新しい条件や情報が示されたとき、その情報を「それなら」で即座に条件として取り込み、判断を更新する表現です。「話」は具体的な会話そのものではなく、いま問題になっている案件や判断の枠組み全体を指します。「別」は「別の話題」というより、「その条件なら先ほどまでとは判断が違う」という意味です。好条件を聞いて冗談めかして態度を変える場面でもよく使われます。",
     "notes-en": "\"A, sore nara hanashi wa betsu\" is used when newly supplied information changes the speaker's judgment on the spot. \"Sore nara\" immediately takes the preceding information as a new condition, while \"hanashi wa betsu\" signals that the situation must now be evaluated differently. Here, \"hanashi\" does not literally mean a story or conversation; it refers more broadly to the matter under consideration. The expression is often used lightly or humorously when an unexpected favorable condition changes the speaker's attitude."
   },
